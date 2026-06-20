@@ -1,0 +1,18 @@
+{
+  "week_index": 0,
+  "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas"],
+  "used_cases": [
+    {
+      "id": "mcnamara-vietnam-body-count",
+      "region": "Asia",
+      "scale": "international",
+      "recency": "historical"
+    },
+    {
+      "id": "challenger-oring-launch",
+      "region": "Americas",
+      "scale": "individual",
+      "recency": "historical"
+    }
+  ]
+}
