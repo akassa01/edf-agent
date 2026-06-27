@@ -6,13 +6,15 @@
       "id": "mcnamara-vietnam-body-count",
       "region": "Asia",
       "scale": "international",
-      "recency": "historical"
+      "recency": "historical",
+      "dimension": "history-motive"
     },
     {
       "id": "challenger-oring-launch",
       "region": "Americas",
       "scale": "individual",
-      "recency": "historical"
+      "recency": "historical",
+      "dimension": "institutions-power"
     }
   ]
 }
