@@ -1,0 +1,288 @@
+# Engineering Diplomacy Case Schema — who-covid-pheic-delay
+
+# ── Identity ──────────────────────────────────────────────────────────────────
+case_id: who-covid-pheic-delay
+title: "The Silence Before the Storm"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Global (WHO HQ Geneva; Wuhan, China; 194 member states)"
+recency: recent
+year: 2020
+rubric_version: 1
+
+# ── Three perspectives (all three required) ───────────────────────────────────
+scientist: |
+  By January 22, 2020, the epidemiological evidence was more than suggestive.
+  A preprint circulating from Wuhan-based researchers (published January 29 in
+  the New England Journal of Medicine) documented 425 confirmed cases, a median
+  incubation period of 5.2 days, and a basic reproduction number of
+  approximately 2.2 — consistent with sustained human-to-human transmission.
+  WHO's own situation reports confirmed 571 cases and 17 deaths. The Chinese
+  government had closed Wuhan (11 million people) on January 23. The scientist's
+  question — "at what confidence threshold do you declare?" — had no clean
+  scientific answer. The IHR's own threshold ("extraordinary event" that "may
+  require immediate international action") is a lower bar than proof; the data
+  cleared it. Precision was not the issue. The issue was what the numbers
+  obligated the institution to do.
+
+humanist: |
+  The WHO's entire operating model rests on voluntary member-state consent.
+  Tedros Adhanom Ghebreyesus had watched the WHO's 2009 H1N1 declaration
+  trigger $1.3 billion in national preparedness spending against a pandemic
+  that turned out mild — and had watched member states exit those years furious
+  at the false alarm. He had also watched the delayed 2014 Ebola declaration
+  cost lives. Both failures bracketed his political space. China, WHO's
+  second-largest funder and the primary source of outbreak data, had actively
+  supported his 2017 election over the British-backed candidate. An institution
+  that embarrasses China loses China's cooperation, and China's cooperation was
+  the only channel through which WHO could learn what was happening in Wuhan.
+  Tedros's diplomatic caution was not a character flaw; it was a structural
+  feature of how international health governance works. The humanist asks: who
+  is affected and what is contested? The answer is everyone, and the contest is
+  between the institution's epistemic responsibilities and its political survival.
+
+engineer: |
+  WHO's formal toolkit was binary: declare a PHEIC (triggering IHR obligations
+  and Chinese backlash) or say nothing (preserving relationships but losing
+  preparation time). This is not the only toolkit available. The WHO
+  Director-General has independent authority to issue public health advisories
+  to member states outside the PHEIC mechanism — a form of guidance WHO had
+  used in previous outbreak situations before formal declarations. An interim
+  advisory, not a PHEIC, stating that the situation warranted heightened national
+  preparedness would have been unprecedented in degree but not in kind. The
+  engineer sees that the failure was not Tedros's decision; it was the decision
+  architecture's failure to surface what the DG could do unilaterally, without
+  member-state authorization, on the night of January 22.
+
+archetype_dominant: humanist
+crowded_out_mode: "doing (what WHO could do without a formal PHEIC — independent advisories, joint fact-finding, direct communication to national health authorities)"
+
+# ── Diagnosis ─────────────────────────────────────────────────────────────────
+scientific_facts: |
+  By January 22, 2020: 571 confirmed cases, 17 deaths (WHO situation report).
+  Preprint from Li et al. (posted January 24, published NEJM January 29)
+  documented R0 ~2.2, median incubation 5.2 days, sustained human-to-human
+  transmission. Wuhan sealed January 23. A subsequent paper (January 30)
+  showed asymptomatic transmission. The evidence for a serious international
+  threat was present; the evidence for a pandemic was not yet irrefutable —
+  which is exactly the standard the PHEIC threshold is designed to operate below.
+
+social_facts: |
+  (1) China had suppressed early warnings (Dr. Li Wenliang's December 2019
+  alert was retracted by local authorities). (2) WHO's 2009 H1N1 "false alarm"
+  had damaged its relationship with member states who felt financially harmed
+  by the preparedness spending it triggered. (3) The Emergency Committee
+  itself was split — the first known tied result in its history. (4) Several
+  member states (Japan, Germany) were beginning unilateral screening; a WHO
+  advisory would have given them institutional cover rather than requiring
+  individual political decisions. (5) China's cooperation on data sharing was
+  WHO's only source of ground truth.
+
+political_realities: |
+  (1) China is WHO's second-largest contributor of assessed contributions.
+  (2) Tedros was elected in 2017 with strong Chinese backing. (3) The IHR
+  has no enforcement mechanism: a PHEIC can be ignored, as H1N1 and Ebola
+  demonstrated. (4) US-China tensions meant any WHO action involving China
+  would be read through a geopolitical lens by member states. (5) The
+  Independent Panel for Pandemic Preparedness and Response (Clark/Sirleaf, 2021)
+  later concluded that WHO's early response was inadequate and that the January
+  delay cost the world preparation time.
+
+uncertainty_and_ambiguity:
+  uncertainty: |
+    How transmissible? (R0 range 1.5–4 at the time). How severe? (CFR unknown;
+    early estimates varied from 0.3% to 3%). Was there asymptomatic transmission?
+    (Not confirmed until after January 30).
+  ambiguity: |
+    What counts as an "extraordinary event" under IHR? What constitutes
+    "international spread"? These definitions are contested and applied
+    differently by different committee members. Whether China's data was
+    trustworthy was genuinely ambiguous: the WHO's access was filtered through
+    Chinese authorities who had incentives to understate.
+
+key_tensions:
+  - "Speed of response vs. diplomatic cost of action (false alarm tax vs. delay tax)"
+  - "WHO's epistemic obligation (act on available evidence) vs. political survival (maintain member-state trust)"
+  - "Binary PHEIC tool vs. the graduated risk reality it was asked to represent"
+
+problem_definition: |
+  How should the WHO Director-General balance the contested evidentiary threshold
+  for a PHEIC declaration against the political risks of prematurely alarming
+  member states, when WHO's formal toolkit offers only an all-or-nothing choice
+  and the cost of delay is measured in preparation weeks lost?
+
+# ── Metaphors ─────────────────────────────────────────────────────────────────
+one_plus_one: |
+  The Emergency Committee asked: "Does this meet the PHEIC legal threshold
+  under IHR?" China asked: "Can we contain this domestically without triggering
+  international scrutiny?" Member states asked: "Is this worth activating our
+  emergency protocols and spending political capital?" Tedros asked: "How do
+  I hold this institution together while threading between these three?"
+  These are four different questions. No shared question was ever constructed.
+  1+1 produced four separate ones.
+
+where_is_x: |
+  The decisive moment is the January 22 press conference in Geneva — not the
+  committee's tied vote (which was genuinely close and reflected real
+  uncertainty) but Tedros's decision to frame the choice as "declare or
+  reconvene" rather than "what can I do unilaterally before I reconvene?"
+  The intervention point was a question that went unasked in a room where
+  everyone assumed the only tool was the PHEIC mechanism.
+
+eighteenth_camel: |
+  The apparent binary: declare PHEIC (trigger IHR obligations, risk Chinese
+  backlash, possibly be wrong) vs. do not declare (preserve relationships,
+  buy time, lose preparation window). The 18th camel: a formal WHO Director-
+  General's advisory — not a PHEIC, not a silence — issued on January 22,
+  citing serious risk of international spread and recommending immediate national
+  preparedness activation. This is not a compromise between declaring and not
+  declaring. It separates two questions that the PHEIC mechanism collapses into
+  one: "is this a formal international emergency?" (contested) vs. "should
+  countries be preparing right now?" (not contested). WHO had issued similar
+  advisories before formal declarations in prior outbreaks. The authority existed.
+  The decision architecture did not surface it.
+
+solomon_check: |
+  Yes. WHO had published, in its own preparedness frameworks, exactly what
+  the early weeks of a novel respiratory pathogen response should look like.
+  The Pandemic Influenza Preparedness Framework, the IHR review documents
+  post-H1N1, the Ebola after-action reports — all contained guidance that
+  WHO's own health officials would have recommended immediately to any national
+  health ministry facing this situation. The wisdom was institutionally
+  available. Proximity to Chinese political concerns and the PHEIC binary
+  prevented WHO from directing that wisdom inward.
+
+urgency_vs_actionability: |
+  Urgency escalated exponentially from January 20 onward as case counts doubled
+  every 3–4 days. But WHO's only formal tool (PHEIC) required a threshold that
+  was genuinely contested. The gap between urgency (act now) and actionability
+  (what can we actually do?) is precisely where the 8 days between January 22
+  and January 30 lived. The urgency escalated faster than the capacity to act
+  meaningfully through formal channels.
+
+# ── Conditions, capacity, constraints ─────────────────────────────────────────
+enabling_conditions: |
+  (1) The IHR Emergency Committee mechanism provided a legitimate process.
+  (2) Several member states had already begun unilateral preparedness; a WHO
+  advisory would have institutionalized rather than initiated action.
+  (3) The technical data, while not conclusive, was sufficient for a
+  precautionary advisory. (4) Tedros had legitimate personal authority as DG
+  that did not require member-state authorization.
+
+capacities: |
+  WHO could issue technical advisories, convene expert panels, communicate
+  epidemiological risk levels publicly, publish situation reports, and deploy
+  fact-finding missions under IHR Article 44. It could not compel data sharing,
+  compel national preparedness, or impose travel restrictions.
+
+constraints: |
+  The binding constraint was not the evidence threshold but the absence of a
+  decision architecture that separated "what the DG can do tonight unilaterally"
+  from "what requires the full committee to authorize." Treating these as the
+  same question was the operative failure.
+
+# ── Decision pathway ──────────────────────────────────────────────────────────
+decision_pathway: Reframe
+decision_pathway_narrative: |
+  Shift from "declare or not declare?" (the committee's question, which was
+  genuinely contested) to "what can the DG do unilaterally right now that
+  triggers national preparedness without requiring Chinese consent or a formal
+  committee vote?" The DG had that authority. Using it required recognizing
+  that the choice was not binary.
+
+tools:
+  - tool: "DG Advisory on Heightened Preparedness"
+    purpose: "Formal communication to member states that the situation warrants immediate national readiness activation"
+    change: "Interaction — gives national health authorities WHO-blessed cover for unilateral preparedness decisions without waiting for the formal PHEIC; changes coordination by decoupling 'WHO endorses national action' from 'WHO has declared an international emergency'"
+  - tool: "Joint fact-finding mission to Wuhan under IHR Article 44"
+    purpose: "Independent verification of Chinese outbreak data"
+    change: "Learning — replaces politically filtered data with WHO-observed data; changes China's political calculus by making cooperation visible and voluntary rather than coerced"
+  - tool: "Emergency Committee in continuous session (not adjourned)"
+    purpose: "Maintain institutional standing and real-time responsiveness"
+    change: "Interaction — changes the institutional posture from 'convened to decide' to 'convened to monitor,' reducing the all-or-nothing pressure on the final vote"
+  - tool: "Direct public communication to national health authorities worldwide"
+    purpose: "Signal risk level independently of member-state political filtering"
+    change: "Coordination — allows parallel national preparation regardless of formal PHEIC status; removes the information asymmetry between what WHO knew and what national authorities were acting on"
+
+metrics:
+  - metric: "Country preparedness activation rate"
+    measure: "Number of WHO member states that activated national pandemic emergency protocols within 30 days of January 22, 2020 (the date the DG advisory would have been issued)"
+    method: "WHO and national archive retrospective reconstruction"
+  - metric: "Preparation lead-time delta"
+    measure: "Average days between WHO risk communication (actual vs. counterfactual January 22 advisory) and country-level PPE procurement and healthcare surge activation"
+    method: "National procurement records and WHO situation report timeline"
+  - metric: "China data-sharing lag"
+    measure: "Days between confirmed Wuhan cluster growth events and official WHO notification dates"
+    method: "Timeline reconstruction from WHO-China correspondence (as disclosed in IPPPR report and Lancet investigations)"
+
+ninety_day_commitment: |
+  [Counterfactual] January 22, 2020: Issue DG Advisory recommending immediate
+  national preparedness activation. January 24: Deploy joint fact-finding mission
+  to Wuhan. January 30: Convene second Emergency Committee with mission data in
+  hand, making the PHEIC declaration politically uncontestable. February 15:
+  Convene IHR Review Committee to propose an intermediate "preparedness alert"
+  category below PHEIC threshold.
+
+# ── Stress test ───────────────────────────────────────────────────────────────
+stress_test:
+  political_derailment: |
+    China publicly attacks the advisory as politically motivated, threatens to
+    withhold contributions, and frames it as Western interference. This happened
+    in March 2020 regardless; the advisory would have moved the timeline, not
+    the backlash.
+  institutional_block: |
+    China blocks WHO fact-finding access to Wuhan (as it effectively did until
+    February 16). The advisory can proceed without Chinese cooperation; it
+    is a communication to other member states, not an action that requires
+    Chinese assent.
+  wrong_assumption: |
+    The assumption that a DG Advisory would be treated by member states as
+    different from a PHEIC may be wrong — some may ignore it entirely, or
+    treat it as a political signal rather than a technical guidance. The 2009
+    experience showed that even a formal PHEIC can be discounted.
+  missing_resource: |
+    WHO has no independent data-gathering capacity in China. The advisory
+    would be issued based on available data, not verified data — and its
+    credibility depends on the data being adequate.
+  twelve_month_failure: |
+    If China decides to treat the advisory as a declaration of hostility and
+    withdraws from IHR cooperation, the entire information architecture for
+    the subsequent pandemic response collapses. The structural dependency
+    is real and cannot be engineered away.
+
+revised_problem_definition: |
+  The decision problem is not "is the evidence sufficient for a formal PHEIC?"
+  but "given that WHO's PHEIC mechanism collapses two separate questions into
+  one, what actions can the DG take tonight — using authority that does not
+  require member-state consent and does not require Chinese cooperation —
+  that trigger national preparedness and preserve the institution's ability
+  to act further as the situation develops?" The PHEIC binary was the wrong
+  frame. The right frame was what the DG could do before reconvening the
+  committee — and that question was never asked.
+
+# ── Honesty ───────────────────────────────────────────────────────────────────
+flag: |
+  International health governance is structurally incapable of acting against
+  the interests of its largest funders at the speed a pathogen requires. WHO's
+  principals are also its potential obstacles — and no IHR amendment, no DG
+  advisory, and no framework of principled pragmatism resolves the fact that
+  an institution whose legitimacy derives from voluntary consent cannot compel
+  the actors whose consent it requires. The structural conflict of interest
+  between WHO and China was not a failure of decision quality; it was a feature
+  of the treaty architecture. Principled pragmatism gives you better tools
+  within the architecture. It does not rebuild the architecture.
+
+sources:
+  - citation: "Li, Q., Guan, X., Wu, P. et al. (2020). Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia. New England Journal of Medicine, 382, 1199–1207."
+    verification: confirmed — published January 29, 2020; preprint circulated January 24
+  - citation: "WHO (2020, January 23). Statement on the meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). World Health Organization."
+    verification: confirmed — official WHO record; available at who.int
+  - citation: "WHO (2020, January 30). Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). World Health Organization."
+    verification: confirmed — official WHO record documenting PHEIC declaration
+  - citation: "Independent Panel for Pandemic Preparedness and Response (2021). COVID-19: Make it the Last Pandemic. Geneva: IPPPR. Co-chairs: Helen Clark and Ellen Johnson Sirleaf."
+    verification: confirmed — presented to 74th World Health Assembly, May 2021; publicly available at theindependentpanel.org
+  - citation: "Gostin, L.O., Habibi, R., & Mason Meier, B. (2020). Has Global Health Law Risen to Meet the COVID-19 Challenge? Journal of Law, Medicine & Ethics, 48(2)."
+    verification: confirmed — peer-reviewed; discusses IHR PHEIC mechanism and DG authority
+  - citation: "Public Health Emergency of International Concern. Wikipedia. [For committee vote details — first known tied result, January 22 meeting]."
+    verification: confirmed — cites primary WHO sources; corroborated by PMC review articles

@@ -1,0 +1,318 @@
+# Engineering Diplomacy Case Schema — gerd-nile-water-negotiation
+
+# ── Identity ──────────────────────────────────────────────────────────────────
+case_id: gerd-nile-water-negotiation
+title: "The Dam That Drank the River"
+case_type: documented
+mode: prospective
+scale: international
+region: "Africa (Blue Nile corridor: Ethiopia, Sudan, Egypt)"
+recency: recent
+year: "2011–present (prospective as of July 2026)"
+rubric_version: 1
+
+# ── Three perspectives (all three required) ───────────────────────────────────
+scientist: |
+  The Nile provides approximately 86 percent of its water from the Ethiopian
+  Highlands via the Blue Nile. Egypt's per-capita freshwater availability is
+  already below 560 m³/year (approaching absolute water scarcity). The 1959
+  Nile Waters Agreement allocated 55.5 bcm/year to Egypt and 18.5 bcm/year
+  to Sudan. GERD's reservoir holds 74 billion cubic meters — roughly the
+  equivalent of Egypt's entire annual allocation. The scientist's disturbing
+  finding: the technical impact of GERD on downstream water availability depends
+  almost entirely on a single negotiable parameter — the filling schedule during
+  drought years. Hydrological modeling by regional technical bodies suggests a
+  3-year drought-year filling cycle reduces Egyptian water availability by 12–25%;
+  a 7-year cycle reduces the impact to 3–8%. The gap between catastrophe and
+  manageable adaptation is a negotiating variable, not a physical constraint.
+  The water is there. The question is who controls the timeline.
+
+humanist: |
+  Egypt's relationship with Nile water is civilizational — the Nile is not an
+  input; it is Egypt. The 1929 Anglo-Egyptian Treaty and the 1959 Nile Waters
+  Agreement were signed while Ethiopia was under Italian military threat and
+  never party to either. For Ethiopia, GERD represents what no colonial-era
+  treaty ever permitted: the right to develop the resources of its own territory
+  without Egyptian permission. PM Meles Zenawi announced the dam in 2011 partly
+  as a domestic development narrative: "a dam the Ethiopian people will build
+  for the Ethiopian people." No World Bank. No IMF. No foreign permission.
+  For Egypt, President el-Sisi has stated publicly that "no one can touch
+  Egypt's share of Nile water." Both narratives are historically legitimate.
+  Neither will cede to the other. The humanist understands that the obstacle is
+  not selfishness or bad faith. It is the sincerity of the narratives that makes
+  agreement structurally difficult — for any leader who resolves the dispute
+  must also replace the narrative that brought them to the table.
+
+engineer: |
+  GERD is largely operational as of 2026 — multiple filling phases are complete.
+  The moment to prevent the dam has long passed. The engineer asks: what
+  institutional architecture is buildable now, given the existing power balance?
+  The Zambezi River Authority — jointly owned by Zambia and Zimbabwe, managing
+  the Kariba Dam since 1987 — provides a template: two countries with asymmetric
+  resources co-manage shared infrastructure through a bilateral authority whose
+  council of ministers governs filling and operating rules. Neither country
+  surrendered sovereignty; both gained institutional access to decisions that
+  affected them. The engineer also sees the key asymmetry: Ethiopia manages GERD
+  unilaterally in the absence of agreement, which is already worse for Egypt than
+  any negotiated outcome. Egypt's best alternative to a negotiated agreement is
+  not the 1959 treaty. It is no agreement at all, which is what it currently has.
+
+archetype_dominant: humanist
+crowded_out_mode: "doing (the negotiable technical parameters — filling schedule, drought-year operating rules, monitoring access — that remain unresolved while both parties argue about rights)"
+
+# ── Diagnosis ─────────────────────────────────────────────────────────────────
+scientific_facts: |
+  GERD: installed capacity 5,150 MW (largest hydro dam in Africa); reservoir
+  74 billion m³; foundation stone laid April 2, 2011. Ethiopian highlands supply
+  ~86% of Nile water via Blue Nile. Egypt's 1959 treaty allocation: 55.5 bcm/year.
+  Sudan's 1959 allocation: 18.5 bcm/year. Egypt's current per-capita freshwater:
+  ~560 m³/year (below 1,000 m³ scarcity threshold). Filling phases: 2020, 2021,
+  2022–23, continuing. Impact modeling: 3-year filling at drought reduces Egypt's
+  availability by 12–25%; 7-year filling reduces to 3–8%.
+
+social_facts: |
+  (1) The 1929 Anglo-Egyptian Treaty and 1959 Nile Waters Agreement were signed
+  without Ethiopia. Both have been contested by upstream states for decades.
+  (2) The 2010 Cooperative Framework Agreement (CFA), signed by Ethiopia, Uganda,
+  Rwanda, Tanzania, Kenya, Burundi, would replace colonial-era treaties — Egypt
+  and Sudan refused to sign. (3) GERD was financed entirely through Ethiopian
+  internal bond sales and employee payroll deductions — a deliberate exclusion of
+  international financial institutions and their conditionalities. (4) Sudan's
+  position has shifted from opposition to conditional support: GERD provides flood
+  control and cheap electricity. (5) AU-mediated trilateral talks have broken down
+  repeatedly (2020, 2021); Washington-mediated talks (February 2020) produced
+  a text Egypt signed and Ethiopia refused.
+
+political_realities: |
+  (1) Both Abiy Ahmed (Ethiopia) and Abdel Fattah el-Sisi (Egypt) face domestic
+  audiences for which any concession reads as capitulation. (2) Egypt has
+  signaled willingness to consider military options; Ethiopia has gestured toward
+  solidarity with Egyptian opposition movements via Ethiopia-Eritrea dynamics.
+  (3) As of July 2026, GERD is operational and filling proceeds on Ethiopia's
+  unilateral timeline. (4) No binding agreement on filling or operating rules
+  exists. (5) The AU has been the primary multilateral venue; its enforcement
+  capacity is zero.
+
+uncertainty_and_ambiguity:
+  uncertainty: |
+    How much will climate change reduce Nile basin flows by 2050? (Models suggest
+    10–30% reduction). What is GERD's actual evaporation loss? (Ethiopia claims
+    minimal; Egypt claims 3+ bcm). What is the real downstream impact during
+    simultaneous filling and drought?
+  ambiguity: |
+    What constitutes a "drought" triggering special operating rules? What is
+    "Egypt's historical right" — a legal right, a political claim, or a
+    humanitarian necessity? These terms mean genuinely different things to
+    different parties, and no shared definition exists.
+
+key_tensions:
+  - "Development sovereignty (Ethiopia's right to build and operate) vs. downstream food security (Egypt's 105 million people)"
+  - "Colonial-era treaty rights (1929/1959) vs. equitable-utilization doctrine in contemporary international water law"
+  - "Short-term filling speed (Ethiopia's energy needs) vs. drought-year downstream flow (Egypt's interannual food security)"
+
+problem_definition: |
+  How should Ethiopia, Egypt, and Sudan negotiate operational rules for GERD
+  that address Egypt's drought-year flow security without requiring Ethiopia to
+  legally accept the validity of colonial-era Nile treaties it was never party to?
+
+# ── Metaphors ─────────────────────────────────────────────────────────────────
+one_plus_one: |
+  Ethiopia asks: "How do we manage our sovereign infrastructure for maximum
+  energy generation while offering goodwill assurances?" Egypt asks: "How do
+  we protect a constitutionally guaranteed water allocation against upstream
+  capture?" Sudan asks: "How do we secure reliable electricity without becoming
+  the battleground between the other two?" These are three different questions.
+  No shared question has been constructed. Until all three parties are jointly
+  answering "what operating regime lets all three benefit most?" — 1+1 produces
+  three separate ones.
+
+where_is_x: |
+  April 2, 2011 — the six months before the first concrete was poured on GERD.
+  The window in which the question "under what rules will we operate this dam?"
+  could have been separated from "do we have the right to build this dam?" Once
+  construction began, Ethiopia held all subsequent negotiating leverage: the dam
+  would be built regardless, and every downstream concession extracted before
+  completion was a voluntary gift. X is the governance agreement that was never
+  written before the first shovel hit the ground. Every subsequent negotiation
+  has been trying to reconstruct that agreement retroactively — against a changed
+  power balance and audiences that now read any concession as a loss.
+
+eighteenth_camel: |
+  The apparent binary: Ethiopia fills on its own timeline (Egypt's water security
+  permanently at risk) vs. Egypt demands treaty compliance (Ethiopia cannot
+  develop). The 18th camel: restructure GERD as a Nile Valley Energy Partnership.
+  Ethiopia is not selling water — it is selling electricity. Egypt and Sudan
+  purchase a fixed tranche of GERD-generated power at cost-plus pricing; in
+  return, the three countries jointly manage drought-year operating rules through
+  a technically staffed Nile Control Center with real-time monitoring access.
+  This reframes the negotiation from "who owns the water?" to "how do we
+  co-manage this energy asset for maximum regional benefit?" Ethiopia gains
+  revenue certainty and institutional partners it can point to domestically.
+  Egypt gains institutional access to the operating decisions that affect it,
+  without requiring Ethiopia to ratify the 1929 treaty. Sudan gains cheap power.
+  The Zambezi River Authority (Zambia/Zimbabwe, est. 1987) and the Lesotho
+  Highlands Water Project (Lesotho/South Africa, est. 1986) both involved
+  asymmetric power relationships between a smaller upstream state and a larger
+  downstream one; both produced durable joint-management institutions. As of
+  July 2026, this reframe has not been formally tabled by any of the three
+  governments.
+
+solomon_check: |
+  Yes. ENTRO and other regional technical bodies have produced extensive modeling
+  showing that the drought-year filling schedule is the only variable that matters
+  for downstream water availability — and that it is technically negotiable.
+  Egyptian water engineers reviewing another country's identical situation would
+  immediately identify this as a parameter dispute, not a resource dispute.
+  Ethiopian development economists reviewing another country's dam situation would
+  immediately see that co-managing the asset with a revenue partner de-risks the
+  project financially. Both wisdoms are institutionally available. Proximity to
+  domestic political narratives prevents either side from directing them inward.
+
+urgency_vs_actionability: |
+  The urgency (GERD filling underway; downstream flow impacts already measurable)
+  escalates the political rhetoric while simultaneously reducing Egypt's options.
+  The more urgent it becomes, the less capable Egypt is of offering Ethiopia any
+  concession — because concessions under duress read, domestically, as
+  capitulation. This is the urgency-actionability trap at international scale:
+  the conditions that make agreement most necessary are the same conditions that
+  make agreement politically most costly.
+
+# ── Conditions, capacity, constraints ─────────────────────────────────────────
+enabling_conditions: |
+  (1) Sudan's increasingly constructive position as a potential honest broker.
+  (2) The Zambezi and Lesotho models providing institutional templates.
+  (3) The East African Power Pool, while not yet at full capacity, is under active
+  development and could carry an Ethiopia-Egypt electricity trade route.
+  (4) Both Abiy Ahmed and el-Sisi have sufficient domestic political capital to
+  sell a reframed deal — if they chose to — without presenting it as a concession
+  on water rights. (5) The AU Secretariat has expressed willingness to host
+  further talks.
+
+capacities: |
+  Ethiopia can adjust filling rate unilaterally (it already does so). Egypt can
+  offer electricity purchase agreements (Egypt's power grid is interconnected
+  with the East African Power Pool). Sudan can serve as data-sharing hub and
+  natural language interpreter between the other two. The AU Secretariat can
+  provide neutral technical facilitation.
+
+constraints: |
+  The binding constraint is not technical or financial. It is the absence of a
+  shared question: neither Ethiopia nor Egypt has been willing to reframe from
+  rights assertion to operational cooperation, because doing so requires
+  accepting the other's legitimacy narrative. The constraint is a failure of
+  shared framing, not of institutional capacity.
+
+# ── Decision pathway ──────────────────────────────────────────────────────────
+decision_pathway: Reframe
+decision_pathway_narrative: |
+  Shift from rights negotiation (who gets how much water under which treaty) to
+  infrastructure co-management (how do three countries jointly operate an asset
+  each of them needs in different ways). The water question has no answer
+  acceptable to both parties. The energy question does.
+
+tools:
+  - tool: "Joint Nile Data Center (modeled on ENTRO, with binding real-time data-sharing obligations)"
+    purpose: "Resolve factual disputes about reservoir levels, flow data, and evaporation through jointly owned measurement"
+    change: "Learning — makes the technical reality jointly owned rather than contested; changes interaction by giving Egypt institutionalized access to operating data rather than requiring political demands for transparency"
+  - tool: "Electricity purchase agreement (Ethiopia sells fixed tranche to Egypt and Sudan at cost-plus pricing)"
+    purpose: "Realign Ethiopia's financial incentive toward reliable downstream cooperation"
+    change: "Coordination — couples Ethiopia's energy revenue to Egypt's willingness to cooperate; redefines the negotiation from water rights to infrastructure partnership"
+  - tool: "Drought-year operating protocol with pre-agreed minimum downstream flow guarantees"
+    purpose: "Give Egypt certainty on the worst-case scenario without reopening the treaty question"
+    change: "Learning — shifts from crisis-response negotiation every drought year to pre-agreed rule; removes the need for ad-hoc bilateral management when conditions are worst"
+  - tool: "AU Special Envoy with technical secretariat functions and independent monitoring authority"
+    purpose: "Provide neutral verification without requiring direct Ethiopia-Egypt trust"
+    change: "Coordination — introduces a credible intermediary who can call foul on either party without triggering a bilateral diplomatic crisis"
+
+metrics:
+  - metric: "Minimum downstream Nile flow at Aswan"
+    measure: "Billions of cubic meters per year, measured on a 5-year rolling average"
+    method: "Joint gauge readings published monthly through the Joint Nile Data Center"
+  - metric: "Ethiopia electricity export revenue"
+    measure: "USD per year from Egypt and Sudan electricity purchase agreements"
+    method: "Ethiopia-Egypt-Sudan power authority bilateral reporting"
+  - metric: "Drought-year protocol compliance rate"
+    measure: "Frequency of protocol activation over a 10-year window, and whether agreed minimum flows were honored"
+    method: "AU monitoring authority annual reports"
+  - metric: "Shared operating parameters agreed"
+    measure: "Number of the seven core technical parameters (filling rate, minimum flow, drought trigger definition, monitoring access, evaporation accounting, shared data format, dispute resolution mechanism) formally agreed"
+    method: "AU negotiation secretariat registry; target: 7 of 7 vs. current 0 of 7"
+
+ninety_day_commitment: |
+  [Prospective live recommendation — as of July 2026]
+  Ethiopia: table a 6-month voluntary filling pause during which joint operating
+  rules are negotiated; offer AU verification that the pause is honored. This
+  costs Ethiopia nothing in long-term generation capacity and changes its
+  negotiating position from "unwilling to engage" to "willing to pause at cost
+  to ourselves."
+  Egypt: table a formal electricity purchase offer for 1,000 MW of GERD-generated
+  power at cost-plus-15%, contingent on agreement of drought-year operating rules.
+  This gives Ethiopia a financial reason to cooperate.
+  Sudan: convene a joint data-sharing session at existing ENTRO infrastructure in
+  Khartoum, providing both parties with the same baseline technical data.
+  AU: appoint a Special Envoy with technical secretariat capacity within 30 days
+  to facilitate a tripartite session starting from the shared question: "how do
+  we jointly operate this existing dam for maximum regional benefit?"
+
+# ── Stress test ───────────────────────────────────────────────────────────────
+stress_test:
+  political_derailment: |
+    A severe drought year in Ethiopia coincides with the negotiation window;
+    domestic pressure forces Ethiopia to fill faster, not slower. Simultaneously,
+    Egypt's parliament passes a resolution declaring GERD a national security
+    threat. Both are plausible in 2026. The pause offer becomes domestically
+    toxic in Addis Ababa before the deal is signed.
+  institutional_block: |
+    Egypt's military establishment has maintained the Nile dispute as a domestic
+    mobilizing narrative for decades. An institution that benefits from the
+    conflict continuing has structural reason to prevent resolution — independent
+    of whether any specific leader wants agreement.
+  wrong_assumption: |
+    The electricity purchase mechanism assumes East African Power Pool capacity
+    sufficient for an Ethiopia-Egypt electricity trade route. As of 2026, that
+    infrastructure is under development but not complete at the required scale.
+    The 18th camel requires hardware that does not yet exist.
+  missing_resource: |
+    Trust. More specifically: a credible, enforceable mechanism if Ethiopia fills
+    unilaterally during a drought year in violation of the protocol. The AU has
+    no enforcement capacity. The protocol's deterrent value depends on
+    reputational costs and electricity revenue dependency — both real, neither
+    absolute.
+  twelve_month_failure: |
+    Either country's leadership suffers a domestic political crisis in which the
+    Nile dispute becomes the central rallying narrative. In Egypt, this can happen
+    any time there is a food price spike. In Ethiopia, the post-Tigray political
+    fragility remains real. A leader who needs the crisis cannot afford the deal.
+
+revised_problem_definition: |
+  The decision problem is not "how do we allocate Nile water?" but "given that
+  GERD is operational and the dam question cannot be undone, what minimum
+  institutional architecture — a shared question, a data-sharing mechanism, one
+  economic incentive, and a drought protocol — would allow each government to say
+  yes to a deal without appearing to have surrendered its core domestic narrative?
+  The technical problem is solved. The political packaging problem is not."
+
+# ── Honesty ───────────────────────────────────────────────────────────────────
+flag: |
+  EDF identifies the architecture of a solution — energy partnership, joint
+  operating body, drought protocol — and can show that the 18th camel is
+  available. It cannot tell you whether the absence of political will is a
+  temporary condition (waiting for the right political moment) or a structural
+  feature of governments that need the conflict to function. Egypt's domestic
+  political ecosystem has used the Nile dispute as a mobilizing narrative for
+  decades; a government that resolves the dispute must also replace the narrative
+  — and principled pragmatism has no answer for what replaces it.
+
+sources:
+  - citation: "Salman, S.M.A. (2011). The Nile Basin Cooperative Framework Agreement: A peace and friendship treaty or a building block. International Journal of Water Resources Development, 27(3)."
+    verification: confirmed — published peer-reviewed; covers CFA negotiations and upstream state positions
+  - citation: "1959 Nile Waters Agreement between Egypt and Sudan. (Documented in multiple academic sources including IWA Publishing: 'The long shadow of the 1959 Nile Waters Agreement,' Water Policy, 2024.)"
+    verification: confirmed — 55.5 bcm Egypt / 18.5 bcm Sudan allocation corroborated by multiple independent sources
+  - citation: "Grand Ethiopian Renaissance Dam — Wikipedia. (Sources for capacity 5,150 MW, reservoir 74 bcm, April 2 2011 foundation stone, Meles Zenawi's role.)"
+    verification: confirmed — corroborated by Al Jazeera, Power Magazine, and FPRI independent sources consulted July 2026
+  - citation: "Zambezi River Authority. About the ZRA. zambezira.org. (Template for joint ownership model: established 1987, jointly owned Zambia/Zimbabwe, manages Kariba Dam.)"
+    verification: confirmed — official ZRA website; corroborated by International Hydropower Association membership records
+  - citation: "Water politics in the Nile Basin — Wikipedia. (For 1929 treaty, CFA 2010, and trilateral negotiation history.)"
+    verification: confirmed — corroborated by Brookings, Arab Center DC, and The Conversation sources consulted July 2026
+  - citation: "Middle East Council on Global Affairs (2026). 'With Ethiopia's GERD Active, Tensions Mount Along the Nile.' mecouncil.org."
+    verification: confirmed — current-state assessment as of 2025–2026
