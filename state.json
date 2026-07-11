@@ -1,5 +1,5 @@
 {
-  "week_index": 0,
+  "week_index": 1,
   "rubric_version": 1,
   "last_feedback_seen": null,
   "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas"],
@@ -70,6 +70,28 @@
       "case_type": "documented",
       "mode": "retrospective",
       "flag": "the framework finds the 18th camel but not who pays for it"
+    },
+    {
+      "id": "who-covid-pheic-delay",
+      "scale": "international",
+      "region": "Global",
+      "recency": "recent",
+      "archetype_dominant": "humanist",
+      "crowded_out_mode": "doing",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "structural conflict of interest between institution and principals: WHO cannot act at pathogen speed against its largest funders"
+    },
+    {
+      "id": "gerd-nile-water-negotiation",
+      "scale": "international",
+      "region": "Africa",
+      "recency": "recent",
+      "archetype_dominant": "humanist",
+      "crowded_out_mode": "doing",
+      "case_type": "documented",
+      "mode": "prospective",
+      "flag": "absence of political will may be structural: governments that need the conflict may be unable to afford the 18th camel"
     }
   ]
 }
