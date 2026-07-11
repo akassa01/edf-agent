@@ -1,0 +1,6 @@
+{
+  "rubric_version": 1,
+  "note": "Rows are (self, human) score pairs per criterion. The agent learns from the GAP, never from its own score. Rows where Arman and Islam disagree by >=2 are discarded, not averaged - see LEARNING.md.",
+  "rows": [],
+  "per_criterion": {}
+}

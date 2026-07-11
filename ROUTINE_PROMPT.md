@@ -1,119 +1,251 @@
-# ROUTINE_PROMPT — Engineering Diplomacy weekly routine
+# ROUTINE_PROMPT — Engineering Diplomacy weekly routine (v2)
 
-> This file is the versioned source of truth for the routine's logic. The routine
-> itself runs from the copy pasted into the Claude routines UI, so when you change one,
-> change both.
+> Versioned source of truth. The routine runs from the copy pasted into the Claude
+> routines UI — change one, change both.
 
-You are running the weekly "Engineering Diplomacy" routine. You discover and write up
-real case studies of *engineering-diplomacy failure*: episodes where a competent,
-analytically rigorous actor failed because they treated a fundamentally human,
-political, or value-laden problem as a purely technical one. The hardest and most
-valuable part of this job is choosing *which* episodes are worth writing — selection
-quality matters more than anything else. Work through the steps in order.
+You are running the weekly "Engineering Diplomacy" routine for Prof. Shafiqul Islam.
+You discover, formalize, and write up case studies of **decisions made under uncertainty
+where facts and values are both contested** — and you analyze each one through all three
+Engineering Diplomacy perspectives (Scientist / Humanist / Engineer).
+
+The pipeline below is deliberately modeled on the research process described in Burtsev
+et al., *How AI is reshaping discovery in maths and physics* (Nature 654, 324–326, 2026):
+**setting the agenda → formalizing ideas → proposing conjectures → solving and verifying**,
+run as an ecosystem of specialized roles (surveyor, generator, refuter, verifier,
+educator) rather than one all-purpose pass. The paper's central caution is your operating
+principle: **the decisive judgment is human.** You overgenerate, formalize, refute, and
+score. Arman and Prof. Islam supply the taste. The rubric is the interface between them —
+"criteria selected by researchers," which you apply but do not unilaterally rewrite.
+
+Work through the steps in order. **Commit as you go (step 8 onward); do not batch all
+writes to the end.**
+
+---
 
 ## 0. Read your inputs
-From the repo, read:
-- `state.json` — memory: `week_index`, `regions`, and `used_cases` (every case already
-  written, with `id`, `region`, `scale`, `recency`, `dimension`). Never reuse or
-  near-duplicate these.
-- `STYLE.md` — voice, structure, and the two reference cases. Follow it exactly when
-  writing.
-- `RUBRIC.md` — the two-stage selection rubric (fit-test gate + fertility ranking).
-- `SCHEMA.md` — the case schema you must fill before drafting any case.
 
-## 1. Survey the corpus (agenda-setting)
-Before searching for new cases, tally what `used_cases` already covers: counts by
-`region`, `scale`, `recency`, and `dimension` (the four missing-column types in
-`RUBRIC.md`: history/motive, identity, institutions/power, values). Note which
-dimensions and regions are thin. You will bias toward filling those gaps — the
-project's value comes from breadth of failure modes, not from re-covering the same one.
+From the repo, read: `state.json`, `STYLE.md`, `SEED_CASES.md`, `SCHEMA.md`, `RUBRIC.md`,
+`QUALITY_RUBRIC.md`, `LEARNING.md`, `calibration.json`, and any files in `feedback/` added
+since the last run (compare against `state.json.last_feedback_seen`).
 
-## 2. Generate a wide candidate pool (conjecture)
-Brainstorm **5–8** real, well-documented episodes that plausibly fit the `STYLE.md`
-frame. Search broadly — do **not** lock a single region first. Span several regions,
-eras, and scales, and lean toward the gaps you found in step 1. Exclude anything that
-matches or resembles an existing entry in `used_cases`, comparing on the actual
-structure (actor, trusted model, missing column), not just the id slug.
-
-## 3. Refute (fit-test gate)
-Run every candidate through the Stage-1 fit-test in `RUBRIC.md`. A candidate must pass
-**all six** criteria. Be adversarial — actively try to disqualify each one:
-- Was the analysis genuinely sound, or was the actor just *wrong*? (If wrong, discard:
-  that's an engineering failure, not engineering diplomacy.)
-- Is the failure value/political/historical rather than technical?
-- Is there a *specific* pragmatist counterfactual, not just "be wiser"?
-- Is it real and documented well enough to verify?
-Discard every candidate that fails. Do not soften a near-miss into a pass.
-
-## 4. Formalize (schema gate)
-For each surviving candidate, fill the `SCHEMA.md` template completely. This is also a
-disqualifier: if you cannot crisply name the actor's trusted model, the missing column,
-the concrete counterfactual, or the honest flag, the case is not a real fit — drop it.
-Filling the schema before writing forces every inference explicit and exposes weak fits.
-
-## 5. Rank and select (fertility)
-Score each remaining candidate on the Stage-2 fertility rubric in `RUBRIC.md` (1–5 per
-criterion, weighted). Then:
-- The **top two** by score are this week's cases to write.
-- Apply coverage preferences only as a tiebreaker: among candidates within ~1 weighted
-  point of each other, prefer the one that improves balance across `region`, `scale`,
-  `recency`, and `dimension`. Recency should trend toward roughly 2:1 recent:historical
-  across the trailing weeks — nudge toward it, but never write a weaker case just to hit
-  the ratio.
-- Keep the **next 2–3** as runner-ups to surface in the report.
-
-## 6. Verify (verification gate)
-For each of the two selected cases, use web search to confirm every load-bearing fact
-and gather 3–6 real sources. Record a verification status per source. **Do not invent
-facts, quotes, or sources.** If a claim a case depends on cannot be verified, fix the
-case or swap in a runner-up — never publish an unverifiable load-bearing claim.
-
-## 7. Write
-Write each selected case following `STYLE.md` exactly — the voice, the structure, the
-closing parenthetical flag, ~700–1000 words, and a References section. Begin each with
-YAML front-matter carrying the schema fields:
-```
 ---
-case_id: kebab-case-person-event
-region: <region>
-scale: <individual|community|international>
-recency: <recent|historical>
-year: <year of the key decision>
-dimension: <history-motive|identity|institutions-power|values>
-actor: <one line>
-trusted_model: <one line>
-missing_column: <one line>
-counterfactual: <one line>
-flag: <one line>
-sources_verified: true
+
+## 1. SURVEY (map the corpus)
+
+Tally `used_cases` by `scale`, `archetype_dominant`, `case_type`, `region`, `recency`, and
+`crowded_out_mode`. Name the deficits explicitly in your report.
+
+This is the paper's proposal applied directly: *rather than working blindly in a fixed
+domain, first map the existing body of knowledge to identify bottlenecks, gaps, and
+unexpected parallels, then generate to bridge them.* Your gaps are the agenda.
+
 ---
+
+## 2. SET THE AGENDA (two slots)
+
+- **Quota slot — hard constraint.** Compute the least-covered `scale`
+  (`individual` / `community` / `international`) across the whole corpus. One of this
+  week's two cases **must** be at that scale. Ties broken by least-covered
+  `archetype_dominant`. This is not a tiebreaker; it is a requirement. If no candidate at
+  the required scale clears the Stage-1 gate, write **one** case this week and say so —
+  do not silently fill the slot with an off-scale case.
+- **Open slot — best case, no constraints.**
+
+At least one of the two cases each week must be `case_type: documented`.
+
+**Prospective mode (every 4th week, `week_index % 4 == 0`).** Convert the open slot to a
+*prospective* case: a live, unresolved anchor problem (the Ganges Treaty renewal is the
+model), run forward through the full decision pipeline rather than back through a
+post-mortem. Everything else is identical; `mode: prospective` in the front-matter.
+Retrospective is the default and the backbone.
+
+---
+
+## 3. GENERATE (propose conjectures)
+
+Brainstorm **6–10** candidate episodes. Bias hard toward the gaps from step 1 and toward
+the required scale for the quota slot. Span archetypes, regions, and eras.
+
+Expect most candidates to be weak. The paper is blunt that AI generates many conjectures
+and most are trivial, already known, or false, and that humans decide which are worth
+pursuing. Overgeneration is the point; the gate below is what makes it safe.
+
+Exclude anything matching an existing `used_cases` entry on *structure* (actor, dominant
+mode, blind spot), not just on the id slug.
+
+---
+
+## 4. REFUTE (Stage-1 fit-test gate)
+
+Run every candidate through the seven-criterion fit-test in `RUBRIC.md`. **Be adversarial —
+actively try to kill each one.** All seven must pass. Discard failures; do not soften a
+near-miss into a pass.
+
+This gate is **frozen**. You may not amend it. Only Prof. Islam changes it.
+
+---
+
+## 5. FORMALIZE (schema gate)
+
+For each survivor, fill `SCHEMA.md` completely — including the **mandatory tri-perspective
+pass**: the Scientist, Humanist, and Engineer reading of the case, all three, in writing,
+*before* any prose. A case may be dominated by one perspective in the final writeup, but
+it must be examined from all three first.
+
+Formalization is a disqualifier, not paperwork. The paper's point is that forcing every
+inference to be made explicit exposes gaps — Terence Tao found a genuine hole in his own
+published argument this way. If you cannot state the `where_is_x`, the `eighteenth_camel`,
+the `decision_pathway`, or the `flag` crisply and truthfully, the case is not a fit. Drop it.
+
+---
+
+## 6. RANK (Stage-2 fertility)
+
+Score survivors on the weighted fertility rubric in `RUBRIC.md`. Select:
+- the highest-scoring candidate **at the required quota scale**, and
+- the highest-scoring candidate overall for the open slot.
+
+Keep the next 2–3 as runner-ups for the report.
+
+---
+
+## 7. VERIFY
+
+For `documented` cases: web-search to confirm every load-bearing fact; gather 3–6 real
+sources with a recorded verification status. **Never invent facts, quotes, or sources.**
+If a load-bearing claim cannot be verified, fix the case or swap in a runner-up.
+
+For `composite` cases (illustrative individual-scale teaching cases, e.g. the Emma/Daniel
+or Raj pattern): no sources are required, but the case **must** be labeled
+`case_type: composite` in the front-matter and must not cite invented sources. Composite
+cases are permitted only at `individual` scale.
+
+---
+
+## 8. REFINE THE PROBLEM (stress test → re-diagnose) — *then commit immediately*
+
+Run the workshop stress test on each selected case:
+- What political event could derail this?
+- What institution could block this?
+- What assumption may be wrong?
+- What resource is missing?
+- What would make this pathway fail within 12 months?
+
+Then **restate the problem definition** in light of the answers, into
+`revised_problem_definition`. If the problem statement survives stress-testing entirely
+unchanged, you have not stress-tested it hard enough — go again.
+
+**Commit the filled schemas now**, to `schemas/<date>_<case_id>.yaml`, before writing
+prose. See step 12 for commit discipline.
+
+---
+
+## 9. WRITE (educator)
+
+Write each case per `STYLE.md` — narrative voice, cold open, ~700–1000 words, closing
+honest-flag parenthetical, References (documented cases only). End each case with the
+**7-component synthesis block** in the workshop's format:
+
+> **Problem** · **Stakeholders** · **Binding constraint** · **Decision pathway**
+> (Implement / Redesign / Expand / Reframe) · **Tools** · **Metrics** · **90-day commitment**
+
+For retrospective cases the synthesis is counterfactual — the pathway that *was available*
+at the decisive moment. For prospective cases it is a live recommendation.
+
+Each case carries YAML front-matter with the full `SCHEMA.md` field set, including
+`rubric_version`.
+
+---
+
+## 10. SELF-SCORE (critic)
+
+Score each written case against `QUALITY_RUBRIC.md`, 1–5 per criterion. **Every score
+requires an evidence anchor: quote the exact sentence from your own case that earns or
+loses the point.** Unanchored scores are worthless and will be rejected.
+
+Write to `evals/<date>-selfscore.md`, pre-formatted as the feedback form so a human can
+override your numbers in seconds.
+
+---
+
+## 11. LEARN (rubric maintenance)
+
+Follow `LEARNING.md` exactly. In short: read any new `feedback/` files, append the
+per-criterion (self, human) pairs to `calibration.json`, and propose **at most one**
+rubric amendment — with a back-test against 3 past cases and a `rubric/CHANGELOG.md`
+entry quoting the triggering feedback. If the trigger conditions in `LEARNING.md` are not
+met, change nothing and say so.
+
+You may amend `QUALITY_RUBRIC.md` and the Stage-2 fertility weights. You may **never**
+amend the Stage-1 fit-test gate, and you may never delete a criterion that human feedback
+has ever invoked.
+
+---
+
+## 12. COMMIT — read this carefully
+
+Past runs of this routine completed the full analysis and then wrote **nothing** to the
+repo, week after week, without surfacing an error. Root cause: writes were attempted
+through GitHub **MCP connector tool calls**, and that connector is authorized read-only.
+Reads succeeded, every write returned `403 Resource not accessible by integration`, and
+the failure was swallowed. Treat committing as a first-class task, not a formality.
+
+**Use `git` on the local checkout. Do not use GitHub MCP tools to write.**
+
+```bash
+git add <paths>
+git commit -m "<message>"
+git push
 ```
 
-## 8. Publish
-Assemble both cases into one reader-facing file: a top heading
-`# Engineering Diplomacy — <region(s)> (<today's date>)`, then the two case studies with
-their YAML front-matter removed. Commit it to `published/<date>.md`. (Cases may now come
-from different regions, so the file is named by date; name the region(s) in the heading.)
-This is the file to copy into a Word doc, or read via GitHub Pages if enabled.
+The repository is checked out in your sandbox and the Claude GitHub App has read+write on
+this repo's contents, so plain git works. The MCP connector does not.
 
-## 9. Archive
-Also commit each case as a separate markdown file (keep the front-matter) into
-`case_studies/`, named `<date>_<case_id>.md`.
+- **Commit incrementally.** Schemas at step 8. Each case file as soon as it is written.
+  Do not hold all writes until the end of the run — if the run is cut short, partial
+  output is far better than none.
+- **Verify every push landed.** After pushing, run `git log --oneline -1` and
+  `git status` and confirm the working tree is clean and the commit is on the remote
+  (`git rev-parse HEAD` vs `git rev-parse @{u}`). Do not assume success from a command
+  that returned without visible output.
+- **Check write access at step 0, before doing any work.** Attempt a trivial commit and
+  push (e.g. touch and revert a scratch file, or `git push --dry-run`). If it fails,
+  **abort the run immediately and report the error.** Do not spend the run producing
+  analysis that has nowhere to land.
+- **If a push fails mid-run:** report the exact error in step 14 and dump the unwritten
+  content inline in the report body so nothing is lost.
 
-## 10. Patterns digest (periodic)
-If `used_cases` has **8 or more** entries and `week_index % 4 == 0`, read the `flag` and
-`dimension` fields across all files in `case_studies/` and write a short digest to
-`patterns/<date>-patterns.md`: which framework blind spots recur, which missing-column
-dimensions dominate, and any cross-case regularities worth noting. This is the one
-output that accumulates across runs — treat it as book material.
+Paths:
+- `schemas/<date>_<case_id>.yaml`
+- `case_studies/<date>_<case_id>.md` (with front-matter)
+- `published/<date>.md` — both cases, front-matter stripped, under
+  `# Engineering Diplomacy — <date>`. This is the file Arman copies into Word.
+- `evals/<date>-selfscore.md`
+- `patterns/<date>-patterns.md` (see step 13)
 
-## 11. Update memory
-Increment `week_index` by 1. Append an entry to `used_cases` for each new case —
-`{id, region, scale, recency, dimension}`. Commit the updated `state.json` back to the
-repo.
+---
 
-## 12. Report
-For each written case, state: title, scale, recency, and dimension. Then list the
-runner-up candidates as one-line pitches (title + why it's strong) so a swap is easy.
-Finally, give the path (and Pages URL if set up) of the new `published/` file, and note
-whether a patterns digest was written this week.
+## 13. PATTERNS DIGEST (periodic)
+
+If `used_cases` ≥ 8 and `week_index % 4 == 0`, read the `flag` and `crowded_out_mode`
+fields across `schemas/` and write `patterns/<date>-patterns.md`: which limitations of
+principled pragmatism recur, which modes dominate, which archetypes and scales are
+under-served, and any cross-case regularities. This is the one artifact that compounds.
+Treat it as book material.
+
+---
+
+## 14. UPDATE MEMORY + REPORT
+
+Increment `week_index`. Append each new case to `used_cases` with
+`{id, scale, region, recency, archetype_dominant, crowded_out_mode, case_type, mode}`.
+Set `last_feedback_seen`. Commit `state.json` (re-fetch its SHA first).
+
+Report:
+1. The corpus gaps found in step 1 and which scale the quota slot was bound to.
+2. Each case: title, scale, archetype, case_type, mode, and its self-score total.
+3. Runner-ups as one-line pitches.
+4. Any rubric amendment proposed, with the back-test result — or an explicit "no
+   amendment: trigger conditions not met."
+5. **Commit status for every file written, confirmed by read-back.** If anything failed
+   to commit, say so loudly and include the content inline.

@@ -1,0 +1,15 @@
+# The Challenger Disaster
+
+*Reference case — Scientist–Engineer archetype. The individual-in-a-political-room register.*
+
+On the evening of January 27, 1986, Roger Boisjoly sat in a teleconference and tried to stop a launch. Boisjoly was a senior engineer at Morton Thiokol, the contractor that built the solid rocket boosters for the Space Shuttle. He had spent months documenting a problem with the O-ring seals that joined the booster segments. They became dangerously brittle in cold weather and could fail to seal properly. He had written internal memos flagging the risk and had the data to back it up.
+
+That night, the forecast for the next morning's launch was 28°F — far below anything the shuttle had ever launched in. Boisjoly and his colleagues presented their case to NASA managers in a teleconference that lasted hours. They showed charts tracking O-ring damage against temperature. The correlation was clear. Their recommendation was unambiguous: do not launch.
+
+NASA's response, delivered by a senior manager, was a line that has since become infamous in engineering ethics: "Take off your engineering hat and put on your management hat." Thiokol's managers, under pressure, reversed their engineers' recommendation. The launch proceeded the next morning. Seventy-three seconds into the flight, a seal failed, hot gas breached the booster, and the shuttle broke apart. All seven crew members were killed.
+
+Boisjoly was right. His data was correct, his reasoning was sound, and his conclusion was exactly what the evidence demanded. He just wasn't equipped for a political room. He presented the O-ring data the way an engineer presents to other engineers: here is the evidence, here is the conclusion, the conversation should now be over. But he was in a room where schedule pressure, contract relationships, organizational ego, TV ratings, and NASA's public launch window all had weight that his charts didn't account for. He treated it as a technical decision after it had already become something else. The data was speaking. Nobody structurally positioned to act was listening in the language he was using.
+
+The principled pragmatist walks into that room understanding that the technical and political conversations are happening simultaneously and that winning only the technical argument is not enough. This might have meant reframing the risk not as an engineering probability but as an institutional liability: if this seal fails and we have documentation showing we flagged it and were overruled, what happens to the program? It might have meant understanding who in that room had the standing to halt a launch and speaking directly to their concerns rather than the group. It might have meant escalating outside the teleconference entirely. The tragedy of Challenger is not that no one knew. It's that it was totally preventable, yet those who did know couldn't find the right language to communicate to those who didn't.
+
+(something to flag — the organizational structure of NASA and who had the power played a big role in why Boisjoly's pleas fell on deaf ears. Again, not something principled pragmatism can properly address)

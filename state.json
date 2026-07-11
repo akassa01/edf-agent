@@ -1,20 +1,75 @@
 {
   "week_index": 0,
+  "rubric_version": 1,
+  "last_feedback_seen": null,
   "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas"],
+  "quota_slot_next": "international",
   "used_cases": [
     {
       "id": "mcnamara-vietnam-body-count",
-      "region": "Asia",
       "scale": "international",
+      "region": "Asia",
       "recency": "historical",
-      "dimension": "history-motive"
+      "archetype_dominant": "scientist",
+      "crowded_out_mode": "feeling",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "ego"
     },
     {
       "id": "challenger-oring-launch",
-      "region": "Americas",
       "scale": "individual",
+      "region": "Americas",
       "recency": "historical",
-      "dimension": "institutions-power"
+      "archetype_dominant": "scientist",
+      "crowded_out_mode": "doing",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "raw organizational power structure"
+    },
+    {
+      "id": "emma-daniel-workplace-concern",
+      "scale": "individual",
+      "region": "unspecified",
+      "recency": "recent",
+      "archetype_dominant": "humanist",
+      "crowded_out_mode": "doing",
+      "case_type": "composite",
+      "mode": "retrospective",
+      "flag": "an actionable space is not an outcome"
+    },
+    {
+      "id": "hawaii-false-missile-alert",
+      "scale": "community",
+      "region": "Americas",
+      "recency": "recent",
+      "archetype_dominant": "engineer",
+      "crowded_out_mode": "feeling",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "trust decay cannot be rebuilt on demand"
+    },
+    {
+      "id": "raj-solomon-visa-decision",
+      "scale": "individual",
+      "region": "Americas",
+      "recency": "recent",
+      "archetype_dominant": "humanist",
+      "crowded_out_mode": "thinking",
+      "case_type": "composite",
+      "mode": "retrospective",
+      "flag": "naming the Solomon Paradox does not exempt you from it"
+    },
+    {
+      "id": "inderlok-dmrc-terminus",
+      "scale": "community",
+      "region": "Asia",
+      "recency": "recent",
+      "archetype_dominant": "engineer",
+      "crowded_out_mode": "thinking",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "the framework finds the 18th camel but not who pays for it"
     }
   ]
 }
