@@ -1,0 +1,374 @@
+# Engineering Diplomacy Case Schema — grenfell-tower-cladding
+
+# ── Identity ──────────────────────────────────────────────────────────────────
+case_id: grenfell-tower-cladding
+title: "The £2 Decision"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Europe (North Kensington, London, UK)"
+recency: recent
+year: 2017
+rubric_version: 1
+
+# ── Three perspectives (all three required) ───────────────────────────────────
+scientist: |
+  UK Building Regulations (Approved Document B) required that external
+  surfaces of buildings above 18 meters be of "limited combustibility."
+  The Reynobond PE aluminium composite panels installed on Grenfell Tower
+  had a polyethylene core — combustible by nature. The scientific problem
+  is not that this was unknown. The fire dynamics of ACM panels with PE
+  cores in cavity configurations were documented in research literature
+  and in fire investigation records from other fires (notably the Lakanal
+  House fire in 2009, eight years before Grenfell, which produced a coroner's
+  recommendation for guidance updates that was not acted on). What did not
+  exist was a requirement that the complete assembled cladding system —
+  panels, cavity, insulation, fixings — be tested as a unit. UK building
+  regulations tested materials component by component, not as assemblies.
+  Nobody asked the question the physics required: "What happens when all
+  these materials are assembled in a cavity on a 24-storey building and
+  ignite simultaneously?" The scientist's finding: the dangerous answer
+  to that question was available; it was not assembled.
+
+humanist: |
+  Grenfell Tower was social housing in the Royal Borough of Kensington and
+  Chelsea — the wealthiest local authority in England. Its residents were
+  predominantly lower-income and ethnically diverse. For years before the
+  fire, the Grenfell Action Group — a resident collective — had maintained
+  a public blog documenting fire safety failings in exact and specific terms.
+  A post published November 2016, titled "KCTMO — Playing With Fire!",
+  predicted with haunting accuracy that a "catastrophic event" was the
+  only thing that would expose management's ineptitude. The fire came seven
+  months later. The residents' warnings were treated not as safety
+  information but as a management problem: a nuisance to be handled,
+  not a signal to be investigated. The humanist reading is not about
+  information failure. It is about who counts as an expert in their own
+  risk environment. The people who slept in the building every night were
+  the most accurate fire risk assessors in the entire governance chain.
+  They were the last people consulted.
+
+engineer: |
+  The Grenfell refurbishment was a £8.7 million contract won by Rydon
+  after KCTMO demanded budget savings of over £800,000 from the original
+  £10 million estimate. Rydon achieved part of these savings by switching
+  from the initially proposed zinc cladding to aluminium composite material
+  (ACM) — and within ACM, specifying Reynobond PE rather than Reynobond FR
+  (fire-rated, mineral wool core). The additional cost of FR over PE was
+  approximately £2 per square meter; the total additional cost across the
+  full tower cladding would have been approximately £5,000 on an £8.7
+  million contract. Rydon concealed from KCTMO that it had captured
+  £419,627 in savings through the material switch. The Grenfell Tower
+  Inquiry found Arconic had "deliberately concealed" from the market the
+  true fire safety risks of using Reynobond PE on high-rise buildings.
+  The engineer's reading: this was not primarily a cost problem. It was
+  a process problem. At no point did the procurement chain require anyone
+  to ask whether the assembled system — as installed, in a cavity, on a
+  24-storey building — had been fire-tested as a unit. The absence of that
+  requirement made the safer choice invisible by default.
+
+archetype_dominant: engineer
+crowded_out_mode: "feeling — the lived safety expertise of residents (documented, repeated, specific) was structurally excluded from the procurement and safety assessment process that determined whether their home was safe"
+
+# ── Diagnosis ─────────────────────────────────────────────────────────────────
+scientific_facts: |
+  Grenfell Tower fire: June 14, 2017; 72 deaths. Grenfell Tower: 24-storey
+  social housing block, North Kensington, London, built 1974. Managed by
+  KCTMO (Kensington and Chelsea Tenant Management Organisation) on behalf
+  of RBKC (Royal Borough of Kensington and Chelsea). Refurbishment
+  contract: £8.7 million (original estimate £10 million; KCTMO demanded
+  savings over £800,000). Main contractor: Rydon; cladding subcontractor:
+  Harley Facades. Cladding specified and installed: Arconic Reynobond PE
+  (aluminium composite material, polyethylene core). Fire-rated alternative:
+  Reynobond FR (mineral wool core). Cost differential: approximately £2/sqm
+  (FR approx. £24/sqm vs. PE approx. £22/sqm); total additional cost for
+  FR across full tower: approximately £5,000. Rydon concealed from KCTMO
+  a £419,627 saving from the material switch to ACM. Grenfell Tower Inquiry
+  Final Report (February 26, 2025) found Arconic "deliberately concealed"
+  fire safety risks of Reynobond PE on high-rise buildings. Lakanal House
+  fire (2009): coroner's recommendations for updated fire safety guidance
+  for tall residential buildings were not implemented.
+
+social_facts: |
+  (1) Grenfell Tower residents were predominantly lower-income and
+  ethnically diverse in RBKC, the wealthiest London borough. (2) The
+  Grenfell Action Group maintained a public blog from at least 2012
+  documenting fire safety failings, management unresponsiveness, and
+  governance failures. The November 2016 post "KCTMO — Playing With Fire!"
+  explicitly predicted catastrophic loss of life. (3) KCTMO routinely
+  dismissed resident complaints and treated them as management problems
+  rather than safety signals. (4) The TMO (Tenant Management Organisation)
+  structure separated management authority from RBKC political accountability,
+  insulating decision-makers from resident pressure and public scrutiny.
+  (5) Arconic had withdrawn the PE product from sale in France due to fire
+  safety concerns, while continuing to sell it in the UK and concealing
+  this differentiated risk assessment from UK clients.
+
+political_realities: |
+  (1) RBKC's Conservative leadership represented one of the wealthiest
+  urban constituencies in the country. Social housing tenants had minimal
+  effective political leverage within this structure. (2) UK building
+  regulations had known ambiguities regarding ACM cladding in high-rise
+  buildings that the government had not acted on despite the Lakanal House
+  coroner's recommendations (2013) and industry fire safety professionals'
+  warnings. Post-Grenfell, combustible cladding was banned in high-rise
+  buildings in 2018 — regulation that could have been implemented on
+  existing evidence years earlier. (3) No individual has faced criminal
+  prosecution as a result of the Grenfell Tower fire, despite the Inquiry's
+  findings of systematic failure, deliberate concealment by Arconic, and
+  KCTMO's suppression of resident concerns.
+
+uncertainty_and_ambiguity:
+  uncertainty: |
+    Whether the assembled cladding system as installed on Grenfell Tower
+    would fail a mandatory BS 8414 large-scale fire performance test was
+    genuinely uncertain at the time of procurement — the test was not
+    commissioned. Whether any specific actor knew the PE variant was
+    dangerous in the assembled configuration was disputed across thousands
+    of pages of Inquiry evidence.
+  ambiguity: |
+    What does "compliant with building regulations" mean when each
+    component is individually certified but the assembled system has never
+    been fire-tested as a unit? The concept of "limited combustibility"
+    was applied to individual materials; fire spreading through a cavity
+    behind a cladding system is a system behavior, not a material property.
+    This ambiguity was not concealed — it was built into the regulatory
+    architecture. Different actors interpreted compliance differently in
+    ways that were all defensible under the existing rules.
+
+key_tensions:
+  - "Budget efficiency (meeting cost targets under competitive tender) vs. system safety (testing the assembled cladding as a whole)"
+  - "Component compliance (each material separately certified) vs. system performance (assembled fire behavior untested)"
+  - "Resident voice (documented, repeated, specific safety warnings with formal standing to complain) vs. management authority (formal decision-making power rested entirely with KCTMO)"
+
+problem_definition: |
+  How should a housing management organisation procure a high-rise building
+  refurbishment when cost pressures, regulatory ambiguity about system-vs-
+  component testing, and a culture of excluding resident input all combine
+  to make the unsafe choice the path of least resistance?
+
+# ── Metaphors ─────────────────────────────────────────────────────────────────
+one_plus_one: |
+  Rydon was answering: "How do we deliver on spec, on budget, while
+  capturing value from material substitution?" KCTMO was answering: "How
+  do we complete the refurbishment under budget and in compliance?"
+  The residents were asking: "How do we live safely in a building whose
+  managers have repeatedly refused to address our fire concerns?"
+  Arconic was answering: "How do we sell the product that meets current
+  regulatory certificates, regardless of fire behavior on high-rises?"
+  Nobody was answering: "What happens when all these materials are
+  assembled in a cavity on a 24-storey building and a fire starts on
+  the fourth floor?"
+
+where_is_x: |
+  The procurement decision in 2014–2015 to specify Reynobond PE rather
+  than FR — not as a deliberate, considered choice between two named
+  alternatives, but as a non-decision: the cheaper variant was available,
+  it held material-level certification, no process required a system-level
+  fire assessment, and so it was ordered. The lever: a mandatory requirement
+  that any external cladding material substitution on a building above 18
+  meters trigger a system-level fire performance assessment of the full
+  assembled configuration. That requirement did not exist. Its absence was
+  the intervention point — a structural gap in the regulatory process that
+  made the unsafe choice the default without anyone having to choose it.
+
+eighteenth_camel: |
+  The binary: (A) proceed with Reynobond PE (cheaper, component-certified),
+  or (B) significantly redesign the cladding system (more expensive,
+  disruptive to schedule). The 18th camel: specify Reynobond FR at
+  approximately £2/sqm more than the PE variant — approximately £5,000
+  additional cost on an £8.7 million contract — and commission a BS 8414
+  large-scale fire performance test of the full assembled cladding system
+  as a condition of final specification. This is not the cheapest option,
+  and it is not the most disruptive. It preserves the cladding system as
+  designed while changing the material core from polyethylene to mineral
+  wool, and it makes the fire behavior of the assembly visible before it
+  is installed. The system-level test existed as a methodology. The FR
+  variant existed as a product. Neither was used. The tragedy is not that
+  the safer option was prohibitively expensive. It is that the process
+  for selecting it did not exist.
+
+solomon_check: |
+  Any construction engineer reviewing an identical refurbishment specification
+  for another housing authority would immediately ask: "Has the full cladding
+  assembly — panels, cavity, insulation, fixings — been fire-tested as a
+  system?" That question was the first question an external technical review
+  would have asked. The expertise to ask it was available within the
+  construction industry at the time of procurement. The question was never
+  asked internally because no process required it, and no resident, however
+  clearly they described the risk, had the formal standing to compel it.
+
+urgency_vs_actionability: |
+  The refurbishment project timeline created urgency to complete on schedule.
+  Once value-engineering decisions were made (the ACM switch, the PE
+  specification), reversing them would have triggered contract renegotiation
+  and delay. The urgency of delivery crowded out the actionability of safety
+  review at each stage — not through deliberate concealment (though Rydon did
+  conceal the savings), but through a process design that treated schedule
+  compliance and budget compliance as the only variables requiring active
+  management.
+
+# ── Conditions, capacity, constraints ─────────────────────────────────────────
+enabling_conditions: |
+  (1) The Reynobond FR variant was available from the same manufacturer at
+  a small price premium. (2) Independent fire safety consultants capable
+  of commissioning BS 8414 system-level tests existed and were used by
+  other major refurbishment projects at the same time. (3) The Grenfell
+  Action Group's blog constituted a publicly available, searchable record
+  of specific resident fire safety concerns, readable by any party with
+  a search engine. (4) The Lakanal House coroner's 2013 recommendations
+  — calling for updated fire safety guidance for residential high-rises —
+  had already identified the gap the regulatory architecture contained.
+
+capacities: |
+  KCTMO could have specified FR rather than PE as a procurement condition.
+  RBKC could have required system-level fire assessment as a planning
+  condition. Rydon could have disclosed the material substitution rather
+  than concealing the savings. Any party could have commissioned a
+  BS 8414 system-level fire test. The Grenfell Tower Inquiry found all
+  of these were technically and financially feasible.
+
+constraints: |
+  The binding constraint was not financial (£5,000 on an £8.7 million
+  contract). It was the absence of any process that required the assembly
+  question to be asked. UK building regulations tested components, not
+  assemblies. No mandatory requirement existed for system-level fire testing
+  in high-rise cladding refurbishments. Without that requirement, the
+  non-decision — proceed with the cheaper variant — was the default.
+
+# ── Decision pathway ──────────────────────────────────────────────────────────
+decision_pathway: Redesign
+decision_pathway_narrative: |
+  Redesign the procurement process for high-rise building refurbishments
+  to require, as a mandatory condition, that any external cladding system
+  be assessed as an assembly — not component by component. Simultaneously
+  redesign the resident input mechanism to give tenants formal standing in
+  safety assessments: not consultation rights, but the right to trigger
+  an independent safety review that can pause a procurement specification.
+
+tools:
+  - tool: "Mandatory BS 8414 system-level fire performance testing for all high-rise cladding refurbishments (required prior to specification confirmation)"
+    purpose: "Reveal fire behavior of the assembled system in its actual cavity configuration, not the individual material properties"
+    change: "Learning — changes what information is visible at the procurement stage; the fire dynamics of PE vs. FR in a cavity configuration become known before installation, not after ignition"
+  - tool: "Material substitution disclosure protocol (any value-engineering change to fire safety systems must be notified to client and independent safety assessor)"
+    purpose: "Eliminate the information asymmetry in which Rydon knew about the material substitution and the savings, and KCTMO did not"
+    change: "Coordination — makes savings-driven material substitutions visible to parties with safety responsibility; forces the trade-off to be named rather than concealed"
+  - tool: "Resident safety representation with formal triggering standing (right to request independent safety review that can formally pause a procurement specification)"
+    purpose: "Integrate resident knowledge of the risk environment into the procurement process, not as input that can be dismissed but as a formal procedural right"
+    change: "Interaction — changes the relationship from one in which resident concerns are managed to one in which resident safety concerns can trigger external technical review with real stopping power"
+
+metrics:
+  - metric: "Proportion of high-rise cladding refurbishments with completed BS 8414 system-level fire test prior to specification confirmation"
+    measure: "Binary compliance (test completed: yes/no) reported to local planning authority at building permit stage"
+    method: "Planning authority building control records; annual MHCLG reporting"
+  - metric: "Material substitution disclosure rate"
+    measure: "Proportion of refurbishments where value-engineering changes to fire safety systems are disclosed to client and independent assessor prior to implementation"
+    method: "Building control submission records; contractor compliance attestation"
+  - metric: "Resident safety concerns formally escalated vs. resolved within 30 days"
+    measure: "Number of formal resident safety concerns lodged vs. number receiving written response and independent review escalation within 30 days"
+    method: "Housing management register, publicly reported quarterly"
+
+ninety_day_commitment: |
+  [Counterfactual retrospective — as of procurement decision, approximately 2014]
+  Month 1: KCTMO's building surveyor commissions an independent fire safety
+  review of the proposed cladding system, including a system-level assessment
+  of the full assembly in its proposed cavity configuration. Estimated cost:
+  £10,000–20,000. Concurrent: KCTMO formally acknowledges Grenfell Action
+  Group's outstanding fire safety concerns as items to be addressed in the
+  refurbishment scope, with written responses to each documented concern.
+  Month 2: The independent fire safety assessor reviews the Reynobond PE
+  specification; flags the difference between component certification and
+  system performance; KCTMO specifies Reynobond FR as the mandatory cladding
+  type with no negotiation.
+  Month 3: Rydon's revised specification is approved. The approximately
+  £5,000 additional cost is absorbed in the contract. The cladding
+  installation proceeds with FR panels.
+
+# ── Stress test ───────────────────────────────────────────────────────────────
+stress_test:
+  political_derailment: |
+    If mandatory system-level testing were introduced as a regulatory
+    requirement post-Grenfell (as it was, for new buildings), the UK
+    construction industry would resist extending it to all existing
+    building refurbishments, citing cost and pipeline delays in a context
+    of chronic social housing undersupply. Any regulation that slows
+    refurbishment completion is politically difficult to defend when
+    the alternative is leaving people in degraded housing. The industry
+    had successfully resisted similar requirements in prior years.
+  institutional_block: |
+    UK building regulations are set by the Ministry of Housing,
+    Communities & Local Government. Local authorities cannot unilaterally
+    require more than the national standard — any attempt by RBKC to
+    mandate system-level testing would face legal challenge from
+    contractors meeting the national standard. Fixing the regulatory
+    gap required national action that the ministry had been aware of
+    (via Lakanal House recommendations, 2013) and had not taken.
+  wrong_assumption: |
+    The counterfactual assumes that a commissioned BS 8414 system-level
+    test would have produced an unambiguous failure result for Reynobond
+    PE in the Grenfell configuration. BS 8414 test results for ACM PE
+    systems vary depending on installation details, insulation type, and
+    cavity configuration. The test might not have produced a clear "do
+    not use" finding. The lesson: no single test resolves regulatory
+    ambiguity; the test changes what information is available, not
+    necessarily what decision results.
+  missing_resource: |
+    Technical independence within the client organization. KCTMO was a
+    tenant management body, not a construction technical authority. It
+    relied on contractors and architects for technical judgment. No
+    internal capacity existed to evaluate a system-level fire safety
+    assessment independently. The missing resource was not financial
+    (£10,000–20,000 for a fire safety review on an £8.7 million contract)
+    but institutional: an informed client who could ask the right questions
+    and evaluate the answers.
+  twelve_month_failure: |
+    If Rydon concealed the material substitution (as it apparently did
+    in the actual procurement) and no disclosure protocol was in place,
+    an independent fire safety review would have reviewed the cladding
+    system as initially specified — not as later value-engineered. The
+    counterfactual only works if the material substitution is made visible
+    at the moment it occurs. Without a mandatory disclosure requirement,
+    a fire safety review reviews the last specification submitted, not
+    what is actually installed.
+
+revised_problem_definition: |
+  The problem is not "which cladding to choose" and not even "how to run
+  a better procurement." It is: "how does a regulatory system that tests
+  materials individually rather than as assemblies, combined with a
+  procurement culture that allows value-engineering without re-testing
+  and a client organization that lacks the technical independence to ask
+  the right questions, create structural conditions in which the unsafe
+  choice is the default — and what minimum regulatory redesign makes the
+  system test mandatory rather than optional, the material substitution
+  visible rather than concealable, and the resident's knowledge of their
+  own risk environment formally actionable rather than formally dismissible?"
+
+# ── Honesty ───────────────────────────────────────────────────────────────────
+flag: |
+  The residents of Grenfell Tower were the most accurate safety assessors
+  in the building's entire chain of governance. They lived in it. They
+  named the risks in writing, in a public blog, with sufficient specificity
+  that a competent fire safety engineer reading it in November 2016 would
+  have recognized an institution at risk. They were not included in the
+  safety process because their knowledge was constitutively excluded by
+  the formal hierarchy of technical authority. Principled pragmatism can
+  redesign the procurement process and give residents formal standing.
+  It cannot resolve the underlying political economy in which social housing
+  tenants in England's wealthiest borough have less institutional standing
+  than a construction contractor's value-engineering spreadsheet. The gap
+  is not informational. It is about who is constituted as an expert in
+  their own risk environment — and that question is answered by power
+  before principled analysis gets to it.
+
+sources:
+  - citation: "Grenfell Tower Inquiry. Phase 1 Report (October 2019); Phase 2 Final Report (26 February 2025). grenfelltowerinquiry.org.uk"
+    verification: "confirmed — primary source for all procurement, cladding specification, contractor, and Arconic concealment findings"
+  - citation: "Grenfell Tower fire. Wikipedia. Fire date (June 14, 2017), deaths (72), refurbishment contractor (Rydon), cladding details."
+    verification: "confirmed — cross-referenced with BBC, Inside Housing, and Grenfell Tower Inquiry primary sources"
+  - citation: "Grenfell Action Group. 'KCTMO — Playing With Fire!' blog post, November 2016. Archived as Grenfell Tower Inquiry exhibit TMO00835660. assets.grenfelltowerinquiry.org.uk"
+    verification: "confirmed — blog post archived as official Inquiry exhibit; posted November 2016; fire occurred June 14, 2017 (seven months later)"
+  - citation: "Inside Housing (2025). 'What the Grenfell Tower Inquiry report said about the key players in the disaster.' insidehousing.co.uk"
+    verification: "confirmed — covers KCTMO savings demand (£800K+), Rydon concealed savings (£419,627), Arconic deliberate concealment finding"
+  - citation: "CBS News / Building Design (2025). Grenfell Tower Inquiry: Arconic 'deliberately concealed' dangers of building materials. cbsnews.com; bdonline.co.uk"
+    verification: "confirmed — Inquiry final report finding on Arconic's deliberate concealment; cost differential FR vs. PE (approx. £2/sqm)"
+  - citation: "Rydon. Wikipedia entry. Covers subcontracting to Harley Facades, original vs. revised contract cost (£10M to £8.7M), and KCTMO cost-cutting context."
+    verification: "confirmed — cross-referenced with Grenfell Tower Inquiry witness statements and Inside Housing reporting"

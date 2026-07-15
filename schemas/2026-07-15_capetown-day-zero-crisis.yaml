@@ -1,0 +1,348 @@
+# Engineering Diplomacy Case Schema — capetown-day-zero-crisis
+
+# ── Identity ──────────────────────────────────────────────────────────────────
+case_id: capetown-day-zero-crisis
+title: "The Countdown That Divided the City"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Africa (Cape Town, South Africa)"
+recency: recent
+year: 2018
+rubric_version: 1
+
+# ── Three perspectives (all three required) ───────────────────────────────────
+scientist: |
+  Cape Town experienced three consecutive years of below-average rainfall
+  (2015–2018), draining the Western Cape Water Supply System dams to
+  approximately 25% capacity by late January 2018. The critical "Day Zero"
+  threshold was 13.5% — the level at which communal water collection at 149
+  designated points would begin, with a ration of 25 liters per person per
+  day. The behavioral science premise of the Day Zero announcement was
+  sound: announce a specific deadline and people change behavior. What the
+  analysis did not model was distributional response. Meter-level consumption
+  data — available to the City — showed that elite households used over
+  2,000 liters per household per day; lower-income formal households about
+  178 liters; informal township households about 41 liters. Township
+  residents, comprising roughly half the city's population, consumed
+  approximately 5% of its water. Fourteen percent of residents used
+  approximately 50% of the water supply. The behavioral nudge was aimed at
+  a population that was already, in aggregate, far below the level that
+  was causing the crisis. The scientist's uncomfortable finding: the data
+  existed to target the message precisely. It was not used.
+
+humanist: |
+  Cape Town is a post-apartheid city in which spatial inequality — organized
+  historically around race — maps almost perfectly onto contemporary water
+  consumption. Township residents, predominantly lower-income and Black,
+  had long experienced water insecurity as a chronic structural condition,
+  not an emergency. When the Day Zero countdown was announced, it was
+  experienced by wealthier residents as an unprecedented crisis and by
+  township residents as confirmation of what they already knew: the city's
+  infrastructure and political attention were not for them. The uniform
+  countdown applied identical language of emergency to populations whose
+  relationship to water was entirely different. To announce to a township
+  resident using 41 liters per day that they must conserve or face
+  catastrophe — while the nearby estate household used fifty times as much
+  with limited consequence — is not crisis communication. It is a
+  re-inscription of the inequality it failed to name.
+
+engineer: |
+  The City of Cape Town had the technical capability to differentiate. It
+  held meter-level consumption data; it had operated a tiered tariff
+  structure since 2016; it could have designed communications targeted to
+  specific consumption profiles. The binding constraint was not technical.
+  Enforcement was limited — the city lacked the operational capacity to
+  actually fine high-use estates at a scale sufficient to drive rapid
+  behavioral change. And a critical escape valve existed: wealthy
+  households that could afford to drill private boreholes removed themselves
+  from the municipal system, generating their own supply and simultaneously
+  removing themselves from the cross-subsidization pool that served
+  lower-income users. The asymmetric adaptation — the wealthy opt out, the
+  poor absorb the collective burden — was the mechanical failure the
+  communication strategy produced and did not anticipate.
+
+archetype_dominant: scientist
+crowded_out_mode: "feeling — the lived asymmetry of the crisis (who caused it, who bore the burden, who had alternatives) was displaced by the behavioral science logic of a uniform countdown applicable to all"
+
+# ── Diagnosis ─────────────────────────────────────────────────────────────────
+scientific_facts: |
+  Three consecutive below-average rainfall years (2015–2018) drained Cape
+  Town's Western Cape Water Supply System. Dam levels: approximately 25%
+  by late January 2018; critical Day Zero threshold: 13.5%. Level 6
+  restrictions: 87 liters/person/day (1 January 2018), later reduced to
+  50L. Day Zero ration: 25 liters per person at 149 communal collection
+  points. Day Zero announced January 23, 2018 by deputy mayor Ian Neilson
+  as April 12, 2018; later revised as rains improved. Day Zero was averted
+  by June 2018 rainfall raising dam levels. Consumption data: elite
+  households >2,000L/household/day; lower-income formal ~178L; informal
+  township ~41L. Township residents (approx. half the population) consumed
+  ~5% of municipal water. Top 14% of users consumed ~50% of water supply.
+
+social_facts: |
+  (1) Cape Town's residential geography continues to reflect apartheid-era
+  spatial segregation: wealthier, historically white suburbs in the south
+  and Atlantic seaboard; Black, Coloured, and lower-income townships in
+  the Cape Flats. (2) Township residents experienced water precarity as
+  a chronic condition pre-crisis — communal taps, water insecurity, limited
+  storage. (3) The Day Zero announcement was uniform — the same language,
+  the same countdown, for all residents regardless of baseline consumption
+  or capacity to respond. (4) Wealthy households responded by drilling
+  boreholes, substituting private groundwater for municipal supply —
+  removing themselves from the shared system and its cross-subsidization
+  logic. (5) The crisis was internationally watched as a climate adaptation
+  case study, creating pressure on the City to communicate boldly.
+  (6) Public shaming was the primary enforcement mechanism in high-use
+  areas; systematic financial penalties were not operationally deployed
+  at scale.
+
+political_realities: |
+  (1) The Democratic Alliance (DA), Cape Town's governing party, drew its
+  electoral base substantially from the wealthier areas whose consumption
+  was driving the crisis. Explicitly naming high-use (wealthy) households
+  as the principal obstacle had direct electoral exposure. (2) Local
+  government shared water management authority with the national
+  Department of Water and Sanitation (ANC-controlled), making inter-
+  governmental friction a practical constraint on any national-level
+  regulatory intervention (e.g., emergency borehole licensing). (3) The
+  ANC-controlled national government had its own political interest in
+  the crisis being managed visibly as a DA failure. (4) International
+  attention on Cape Town as a climate adaptation leader created pressure
+  for visible, legible communication — which a differentiated message
+  by income profile would have complicated.
+
+uncertainty_and_ambiguity:
+  uncertainty: |
+    Rainfall projections in early 2018 were genuinely uncertain — the
+    June 2018 rains that averted Day Zero could not have been reliably
+    predicted. Whether behavioral change alone (without rainfall) could
+    delay Day Zero sufficiently was uncertain. Borehole yield and city-
+    wide groundwater capacity under mass drilling were also not precisely
+    known in advance.
+  ambiguity: |
+    What does "conservation success" mean when wealthy households drill
+    boreholes and exit the municipal system — is that conservation or
+    private adaptation that deepens the collective infrastructure failure?
+    What does "fair" restriction mean when the 87L/day limit applies
+    uniformly to households whose baseline consumption differs by a
+    factor of fifty? These are contested value questions that the
+    behavioral science framing treated as settled.
+
+key_tensions:
+  - "Scientific legibility (a single, clear countdown that everyone understands) vs. social accuracy (a differentiated message that reflects heterogeneous reality)"
+  - "Behavioral effectiveness (urgency drives collective action) vs. equity (who actually bears the conservation burden)"
+  - "Short-term crisis management (avert Day Zero) vs. long-term structural inequality in who has water and who does not"
+
+problem_definition: |
+  How should the City of Cape Town communicate an acute water crisis to a
+  highly unequal population in a way that achieves behavioral change where
+  it matters most, without being politically blocked by the requirement to
+  explicitly name its own electoral base as the principal cause?
+
+# ── Metaphors ─────────────────────────────────────────────────────────────────
+one_plus_one: |
+  The City was answering: "How do we get all residents to conserve more?"
+  The wealthy household was answering: "How do we secure our household's
+  water supply?" The township resident was answering: "How do we survive
+  the formal emergency version of our chronic condition?" These are three
+  different questions. The uniform countdown answered the first in language
+  that the second population experienced as an invitation to opt out
+  individually, and the third population experienced as a statement of
+  collective emergency applied to people who weren't causing it.
+
+where_is_x: |
+  January 23, 2018 — deputy mayor Ian Neilson's public announcement of
+  the Day Zero date, applied uniformly to all residents. The lever: the
+  framing choice made at that moment. The data to differentiate existed:
+  meter-level consumption data, tiered pricing infrastructure, demographic
+  mapping of the city. The choice to present the crisis as a single shared
+  emergency rather than a differentiated burden was made here and was
+  causally decisive for the pattern of adaptation that followed — wealthy
+  households drilling boreholes and exiting the system while township
+  households absorbed the continuing collective risk.
+
+eighteenth_camel: |
+  The binary: (A) announce a uniform Day Zero countdown for all residents
+  (transparent, dramatic, legible — but undifferentiated), or (B) do not
+  publicly announce specific dates (avoid panic but lose behavioral lever).
+  The 18th camel: a tiered announcement differentiated by household
+  consumption profile. For high-use households (above 150L/day): "Your
+  Day Zero has already arrived. Our city's survival depends on your choices
+  in the next 60 days." For low-use households (already below 87L,
+  predominantly townships): "Your conservation has already extended our
+  water supply. Here is what others still need to do to meet you halfway."
+  This is not a compromise between (A) and (B): it uses the same data,
+  the same deadline mechanics, and the same urgency — but directs the
+  burden toward the households with the most capacity to bear it, and
+  recognizes the contribution of those who had been bearing it for years.
+  The differentiation was technically feasible; the City had the meter data.
+  What it did not have was the political authorization to send it.
+
+solomon_check: |
+  Yes. Any water management team reviewing an identical crisis in another
+  city would immediately point to the behavioral literature on differentiated
+  nudges and note that consumption data allows targeted messaging. The Cape
+  Town team would have given exactly that advice to Johannesburg.
+  The wisdom was available; proximity to electoral consequence prevented
+  it from being directed inward.
+
+urgency_vs_actionability: |
+  The countdown generated urgency; the structural inequality generated the
+  actionability trap. As Day Zero approached, the political cost of
+  differentiated enforcement rose — wealthy households had already adapted
+  via boreholes and were no longer subject to the same crisis dynamic —
+  while the practical leverage fell. The classic gap: the conditions that
+  made agreement on differentiated action most necessary were the same
+  conditions that made it most politically costly.
+
+# ── Conditions, capacity, constraints ─────────────────────────────────────────
+enabling_conditions: |
+  (1) Meter-level consumption data existed and was available within the
+  City's water utility. (2) A tiered tariff structure was already
+  operational since 2016, creating administrative infrastructure for
+  differentiation. (3) International attention on Cape Town as a climate
+  adaptation case created unusual political space for bold communication.
+  (4) The behavioral economics of countdown communications was well
+  understood; the additional step of differentiating by consumption
+  profile required no new research, only will.
+
+capacities: |
+  The City could: communicate directly to all registered water accounts;
+  design targeted messages by meter account; vary messaging tone and
+  urgency by consumption profile; deploy water wardens to high-use areas
+  with authority to issue compliance notices. It could not (practically):
+  prevent borehole drilling at scale, since regulation was split between
+  city and national levels; fine high-use estates at the rate needed
+  for rapid behavioral change within the project timeline.
+
+constraints: |
+  The binding constraint was not technical (the data to differentiate
+  existed) but political (explicitly naming the wealthy as the principal
+  obstacle was electorally costly to the governing party). The secondary
+  constraint was enforcement: no operational mechanism existed to fine
+  high-use estates at scale in the weeks available.
+
+# ── Decision pathway ──────────────────────────────────────────────────────────
+decision_pathway: Redesign
+decision_pathway_narrative: |
+  Redesign the crisis communication and enforcement architecture to
+  differentiate by consumption profile. Not a compromise between uniform
+  messaging and silence — a redesigned approach that uses existing data
+  to direct obligation and accountability toward the households with
+  the most capacity to change behavior, while recognizing the contribution
+  of those who are already conserving.
+
+tools:
+  - tool: "Tiered accountability announcement (message differentiated by meter-level consumption profile at the point of public communication)"
+    purpose: "Direct the conservation obligation toward households with the most behavioral capacity, not those who are already at or below the target"
+    change: "Interaction — changes who is being asked to do what, making the conservation ask legible to the population that needs to change; recognizes rather than condemns those who do not"
+  - tool: "Real-time suburb-level consumption reporting published weekly"
+    purpose: "Create social accountability in wealthy areas through peer comparison without requiring household-by-household enforcement"
+    change: "Learning — suburb-level public data creates collective reputation pressure and enables media attention to be directed toward the specific areas driving the crisis"
+  - tool: "Emergency borehole permitting with mandatory municipal reintegration agreement"
+    purpose: "Prevent wealthy households from exiting the shared system while preserving their supply security"
+    change: "Coordination — keeps high-income households within the municipal system, preserving cross-subsidization revenue for lower-income users and maintaining their stake in the shared crisis"
+  - tool: "Township-facing affirmation communication"
+    purpose: "Recognize existing conservation and prevent the crisis communication from being experienced as a collective condemnation of those who caused it least"
+    change: "Interaction — shifts the relationship from instructed-to-conserve to recognized-as-already-contributing; maintains social cohesion around the collective effort"
+
+metrics:
+  - metric: "Water consumption reduction by household income quintile"
+    measure: "Liters per household per day, disaggregated by suburb income profile, compared to pre-crisis baseline"
+    method: "City meter data reported weekly, disaggregated by postcode income band and published publicly"
+  - metric: "High-use household compliance rate"
+    measure: "Proportion of households using more than 150L/day that reduced to below 87L/day within 30 days of targeted communication"
+    method: "City meter data cross-referenced with water warden compliance report logs"
+  - metric: "Borehole drilling vs. municipal reintegration rate"
+    measure: "Number of new boreholes permitted vs. number with signed municipal reintegration agreements"
+    method: "City water and sanitation department permit registry, monthly"
+
+ninety_day_commitment: |
+  [Counterfactual retrospective — as of January 23, 2018]
+  Week 1: Publish suburb-level water consumption data disaggregated by
+  income quintile with public display through City website and media.
+  Frame the release: "Here is where our city's water is going, and here
+  is what each community needs to do."
+  Week 2: Launch targeted high-use household communication — direct
+  account holders above 150L/day receive a separate message that names
+  them specifically as the population on whose behavior the city's
+  survival depends.
+  Week 3: Launch township-facing affirmation campaign acknowledging the
+  conservation already underway and linking it to the shared outcome.
+  Month 2: Activate water warden deployment to the 50 highest-consumption
+  suburbs with authority to issue compliance notices and follow-up fines.
+  Month 3: Introduce emergency borehole licensing requiring signed
+  municipal reintegration agreements within 60 days of any new drilling.
+
+# ── Stress test ───────────────────────────────────────────────────────────────
+stress_test:
+  political_derailment: |
+    The DA's electoral coalition substantially includes the wealthy
+    homeowners being named as the principal obstacle. A campaign that
+    explicitly identifies affluent suburbs as the cause of the shared crisis
+    creates political exposure that opposition parties would immediately
+    weaponize. In a city with contested racial politics, the campaign could
+    be characterized as racial scapegoating in either direction — a ready-
+    made political trap that would consume the governing party's attention
+    at the moment of peak crisis.
+  institutional_block: |
+    National government (ANC-controlled) holds water regulation authority,
+    including borehole licensing at provincial level. A municipal
+    differentiation strategy requiring national cooperation (emergency
+    borehole restrictions) could be blocked or delayed by intergovernmental
+    friction between the DA-controlled city and the ANC-controlled national
+    government, each with an interest in the other's crisis management
+    appearing inadequate.
+  wrong_assumption: |
+    The counterfactual assumes that meter-level data supports reliable
+    household-level consumption targeting. In practice, some older Cape
+    Town residential areas had bulk meters serving multiple households,
+    making household-level differentiation impossible without infrastructure
+    upgrades. The differentiated approach works for the majority of accounts
+    in the city; coverage is not universal.
+  missing_resource: |
+    Political authorization. The technical and administrative resources for
+    differentiated communication existed. The missing resource was the
+    willingness of elected officials to name their own voters as the
+    principal obstacle, in language they could not subsequently walk back.
+  twelve_month_failure: |
+    If the June 2018 rains had not come, no communication strategy would
+    have averted Day Zero — the structural water supply infrastructure (aging
+    pipes, over-reliance on surface reservoirs, underdeveloped groundwater
+    management) would have overwhelmed any behavioral intervention. The
+    differentiated approach would have delayed Day Zero and distributed the
+    behavioral burden more equitably; it would not have created water that
+    was not there.
+
+revised_problem_definition: |
+  The problem is not "how do we communicate a water crisis honestly to all
+  residents equally" but "how does a governing party design crisis
+  communication that places the conservation burden on the households with
+  the most behavioral capacity to reduce consumption, when those households
+  are its own electoral base — and what does it do when honest communication
+  and political survival are irreconcilable?"
+
+# ── Honesty ───────────────────────────────────────────────────────────────────
+flag: |
+  A crisis caused disproportionately by high-income consumers, managed by
+  a government whose electoral coalition includes those consumers, cannot
+  be communicated with full equity without political consequences the
+  government may not survive. Principled pragmatism can design the
+  differentiated message; it cannot eliminate the political exposure of
+  sending it. When the powerful and the responsible are the same population,
+  crisis communication is not a technical problem. It is a political one
+  that principled analysis can clarify but cannot resolve.
+
+sources:
+  - citation: "Cape Town water crisis. Wikipedia. Covers dam levels, Day Zero date (April 12, 2018 as initially announced), 87L restriction, Level 6 declaration."
+    verification: "confirmed — cross-referenced with Bloomberg and National Geographic reporting"
+  - citation: "City of Cape Town deputy mayor Ian Neilson. Day Zero announcement, January 23, 2018. Reported widely in South African and international press including Bloomberg (2019) and Grist (2019)."
+    verification: "confirmed — cited in Wikipedia, Grist, Bloomberg reporting on the crisis timeline"
+  - citation: "NBER Working Paper w33468: Drought, Adaptation, and Inequality in Cape Town."
+    verification: "confirmed — peer-reviewed economics working paper; documents adaptation asymmetry (wealthy households drilling boreholes), cross-subsidization effects, and income-disaggregated consumption data"
+  - citation: "Frontiers in Water: Drought, water management, and social equity: Analyzing Cape Town, South Africa's water crisis (2022). frontiersin.org"
+    verification: "confirmed — social equity analysis; 14% of population consuming 50% of water; township residents consuming 5% of supply"
+  - citation: "IWA Publishing, H2Open Journal: How different Cape Town residential suburbs helped avert Day Zero. iwaponline.com"
+    verification: "confirmed — suburb-level differentiated consumption and behavioral response analysis"
+  - citation: "World Council of Churches. Water and social inequality: lessons learnt from 'Day Zero.' oikoumene.org"
+    verification: "confirmed — structural inequality dimensions; township experience as chronic vs. crisis condition"
