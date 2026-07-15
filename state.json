@@ -1,5 +1,5 @@
 {
-  "week_index": 1,
+  "week_index": 2,
   "rubric_version": 1,
   "last_feedback_seen": null,
   "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas"],
@@ -92,6 +92,28 @@
       "case_type": "documented",
       "mode": "prospective",
       "flag": "absence of political will may be structural: governments that need the conflict may be unable to afford the 18th camel"
+    },
+    {
+      "id": "capetown-day-zero-crisis",
+      "scale": "community",
+      "region": "Africa",
+      "recency": "recent",
+      "archetype_dominant": "scientist",
+      "crowded_out_mode": "feeling",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "when the powerful and the responsible are the same population, crisis communication is not a technical problem"
+    },
+    {
+      "id": "grenfell-tower-cladding",
+      "scale": "community",
+      "region": "Europe",
+      "recency": "recent",
+      "archetype_dominant": "engineer",
+      "crowded_out_mode": "feeling",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "the gap is not informational — who is constituted as an expert in their own risk environment is answered by power before principled analysis"
     }
   ]
 }
