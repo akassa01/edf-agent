@@ -1,0 +1,280 @@
+case_id: aral-sea-irrigation-collapse
+title: "The Arithmetic of Cotton"
+case_type: documented
+mode: retrospective
+scale: international
+region: Central Asia
+recency: historical
+year: "1960–1988 (decisive window: 1960 Council of Ministers cotton expansion decision)"
+rubric_version: 1
+
+# ── Three perspectives (all three required before prose) ───────────────────
+
+scientist: |
+  The Amu Darya and Syr Darya together discharged roughly 55–60 km³/year into
+  the Aral Sea before large-scale irrigation diversion began in the 1940s–1960s.
+  By 1960 the sea's inflow had fallen below its evaporation rate, and the
+  trajectory was computable. Soviet hydrological scientists — including teams at
+  the Institute of Hydroproject — produced internal calculations showing the
+  Aral Sea would lose the majority of its volume within decades at existing and
+  planned diversion rates. The cotton monoculture was also progressively
+  salinizing the irrigated soils, meaning it was degrading the very
+  preconditions for future cotton yields. The model was coherent; the data were
+  real; the conclusions were suppressed.
+
+humanist: |
+  The word "waste" embedded a values judgment in a technical vocabulary.
+  Soviet planners described the Aral Sea's evaporation as "wasteful" — implying
+  the lake was an inefficiency to be corrected. That framing made the human and
+  ecological cost of diversion structurally invisible: if the water is being
+  wasted, reducing its waste is a net gain, full stop. The approximately 60,000
+  workers and families whose livelihoods depended on the Aral Sea fishing
+  industry — concentrated in Karakalpakstan, ethnically distinct, politically
+  voiceless in Moscow — had no recognized standing in the planning apparatus.
+  Cotton was a state crop, not a farmer crop: farmers were assigned quotas and
+  received labor credits; the export value went to the state. The affected
+  population and the benefiting population were structurally separated, which is
+  why their interests never had to be balanced.
+
+engineer: |
+  The Karakum Canal (opening 1954, ultimately ~1,400 km long) was a genuine
+  engineering achievement by Soviet standards: it moved water across desert
+  terrain reliably and at scale. The Ministry of Water Resources (Minvodkhoz)
+  was measured on irrigation square-kilometers built, not on water productivity
+  or ecological outcomes. Drip irrigation technology, capable of maintaining
+  similar agricultural output at 30–40% lower water use, was being demonstrated
+  in Israel in the same era; it was technically feasible in Central Asia but
+  would have required rebuilding Minvodkhoz's entire incentive architecture.
+  The engineers could have built the alternative; the planning system gave them
+  no reason to.
+
+archetype_dominant: engineer
+crowded_out_mode: thinking
+
+# ── Diagnosis ──────────────────────────────────────────────────────────────
+
+scientific_facts: |
+  The inflow-vs-evaporation imbalance was measurable and was measured. Internal
+  Soviet hydrological reports by the early 1960s showed that the sea was on a
+  deterministic depletion trajectory at current and planned diversion rates.
+  Soil salinization data showed that the irrigated lower basin was losing
+  agricultural productivity even as new upper-basin irrigation was being added.
+
+social_facts: |
+  Karakalpakstan's fishing communities (~40,000 livelihoods) were ethnically
+  and geographically remote from the decision centers in Moscow and Tashkent.
+  Farmers in Uzbekistan, Turkmenistan, Kazakhstan, and Tajikistan were
+  assigned cotton quotas under central planning; they had no economic stake in
+  the crop beyond meeting their obligations. Cotton was the Soviet Union's
+  primary hard-currency agricultural export from Central Asia. These facts made
+  the political economy of any reduction in production extremely rigid.
+
+political_realities: |
+  The Soviet Council of Ministers set cotton targets as economic plan
+  deliverables. GOSPLAN allocated water as an input to hitting those targets.
+  Minvodkhoz was rewarded for infrastructure built and quotas supported, not for
+  water efficiency. No minister had an organizational reason to surface the
+  depletion projections as a crisis, and significant reason not to: doing so
+  was a systemic critique of the planning framework itself. The scientists who
+  understood what was happening were separated from the planners who could have
+  acted.
+
+uncertainty_and_ambiguity: |
+  Uncertainty: the precise timeline of depletion; whether large-scale efficiency
+  measures would be technically deliverable within Soviet industrial capacity.
+  Ambiguity: what "sustainable" meant in a system that measured success in
+  cotton bales; whose prosperity — state revenue, farmer subsistence,
+  Karakalpak fishing communities, future generations — was the proper scope of
+  the calculation. The word "wasted" (of Aral Sea evaporation) was presented as
+  a technical description but was a deeply contested value judgment.
+
+key_tensions:
+  - "Cotton output (state economic priority) vs. Aral Sea ecology (regional long-term livelihood)"
+  - "Engineering scale as Minvodkhoz's performance metric vs. water efficiency as the system's actual need"
+  - "Central planning certainty (quota targets) vs. ecological uncertainty (depletion rate, soil salinity)"
+
+problem_definition: |
+  How should Soviet water planners allocate Amu Darya and Syr Darya flows
+  between cotton irrigation and Aral Sea maintenance, given a planning system
+  that could measure cotton yields but had no mechanism to price ecological loss
+  or represent affected communities?
+
+# ── Metaphors ──────────────────────────────────────────────────────────────
+
+one_plus_one: |
+  Soviet planners were answering: "How do we meet the cotton quota?" The
+  Karakalpak fishing communities were answering: "How do we maintain our
+  livelihoods?" These questions were never convened. 1+1 produced two separate
+  ones: the state got more cotton for a decade, and the sea was gone.
+
+where_is_x: |
+  The fulcrum is the early 1960s Council of Ministers decisions to expand
+  cotton cultivation — accompanied by the suppression or non-escalation of
+  internal hydrological reports showing the Aral Sea was already in deficit.
+  The leverage was not the canal (already built) but the moment the depletion
+  data was filed and not acted upon. One honest calculation, made binding,
+  changes every downstream target. The "where" is: inside the Ministry of Water
+  Resources, the moment an engineer computed the balance sheet and a superior
+  decided it could not go upward.
+
+eighteenth_camel: |
+  The apparent binary was (A) meet the cotton quota, draining the sea, or
+  (B) reduce production and face political consequences. The third thing: a
+  portfolio of drip irrigation technology plus crop diversification (less
+  water-intensive crops alongside cotton) that could have maintained comparable
+  agricultural export value with 30–40% less water diversion. This would not
+  have required abandoning cotton; it would have required replacing
+  Minvodkhoz's metric of "canals built" with "crop value per cubic meter."
+  That is not a compromise between A and B — it is a different frame for what
+  the engineering system is trying to do.
+
+solomon_check: |
+  Soviet engineers consulting on irrigation projects in Egypt or India in the
+  same period would plausibly have flagged cumulative diversion into a terminal
+  basin as an irreversible ecological risk. They would have recommended a
+  depletion limit written into the project design. That advice was not applied
+  inward because Minvodkhoz was not in the business of questioning the planning
+  framework it operated within. Expertise and proximity combined to make the
+  familiar problem invisible.
+
+urgency_vs_actionability: |
+  By 1960 the urgency was real. The actionability was structurally blocked: the
+  planning cycle rewarded quota delivery and penalized systemic critique. The
+  window when efficiency investment could have maintained the sea (1955–1965)
+  was exactly the window when Minvodkhoz's incentives were most strongly aligned
+  against raising the problem. Urgency and actionability ran in opposite
+  organizational directions.
+
+# ── Conditions, capacity, constraints ─────────────────────────────────────
+
+enabling_conditions: |
+  The Soviet state had extraordinary administrative and engineering capacity;
+  the Karakum Canal demonstrated it could build infrastructure of this scale.
+  It could in principle have redirected that capacity toward efficiency rather
+  than volume. Drip irrigation was technically available (Israeli development
+  of the 1960s). The capital generated by cotton exports was sufficient to fund
+  the transition.
+
+capacities: |
+  Soviet engineering could build drip irrigation infrastructure. The Academy of
+  Sciences could produce credible ecological projections. Central planning
+  could, in principle, change metrics and targets if directed from above.
+
+constraints: |
+  Binding constraint: the planning incentive structure. Minvodkhoz directors
+  were rewarded for infrastructure volume and penalized for failing to meet
+  agricultural targets. No minister had organizational standing to bring the
+  depletion projections to the Council of Ministers as a systemic critique
+  without framing it as an indictment of the plan itself, which was a political
+  act. The constraint is institutional, not informational.
+
+# ── Decision pathway ───────────────────────────────────────────────────────
+
+decision_pathway: |
+  Redesign — specifically, redesign the planning metrics from "irrigation
+  infrastructure built" and "cotton quota met" to "crop value per unit of water
+  diverted," with an ecologically-informed minimum inflow requirement written
+  into the planning target itself. This requires making the depletion data
+  publicly binding within the planning system, not merely technically available.
+
+tools:
+  - >
+    Joint hydrological-agricultural assessment panel (Soviet Academy of Sciences
+    + Minvodkhoz + republic-level agronomists) → purpose: produce a shared
+    scientific fact base that political actors co-sign before targets are set
+    → changes coordination: makes suppressing the depletion data organizationally
+    visible rather than quietly routine
+  - >
+    Water productivity metric (crop export value per km³ diverted) → purpose:
+    replace the volume-of-infrastructure indicator that incentivized waste
+    → changes learning: allows Minvodkhoz to be institutionally rewarded for
+    efficiency, creating alignment with conservation
+  - >
+    Structured consultation with Karakalpak fishing-economy representatives
+    → purpose: make the distributional trade-off explicit and politically legible
+    → changes interaction: the fishing communities become parties rather than
+    externalities, and their losses become visible in the cost calculation
+
+metrics:
+  - >
+    Annual inflow to the Aral Sea as % of pre-1950 baseline → measure: km³/year
+    → method: hydrological monitoring stations (already existed on both rivers)
+    → linked to: the redesigned planning target requires maintaining minimum
+    inflow threshold
+  - >
+    Cotton and agricultural export value per km³ diverted → measure: rubles/km³
+    → method: GOSPLAN production statistics × flow monitoring records → linked
+    to: the redesigned Minvodkhoz performance metric
+  - >
+    Aral Sea fishing yield trend → measure: tonnes/year → method: fishing
+    cooperative records → linked to: surfaces the externality that current
+    planning makes invisible, creating accountability for the trade-off
+
+ninety_day_commitment: |
+  Counterfactual: In the first 90 days of a Redesign pathway (circa 1960), the
+  Council of Ministers would have commissioned the Soviet Academy of Sciences
+  to produce an internal, binding projection of Aral Sea volume at current and
+  planned diversion rates. The Ministry of Water Resources would have been
+  required to acknowledge receipt and attach the projection to all future
+  irrigation expansion proposals. Acknowledgment creates accountability that
+  quiet suppression forecloses.
+
+# ── Stress test ────────────────────────────────────────────────────────────
+
+stress_test:
+  political_derail: |
+    Soviet leadership under Khrushchev explicitly celebrated "the transformation
+    of nature" as a socialist achievement. Any internal critique of the
+    irrigation program would have been framed as defeatism or anti-Soviet. A
+    Redesign pathway required political leadership willing to accept systemic
+    critique from within — a leadership culture that did not exist.
+  institutional_block: |
+    Minvodkhoz itself. Its institutional identity was the scale of what it
+    had built; the Karakum Canal was a prestige achievement. A pivot to
+    efficiency metrics would require its directors to publicly acknowledge
+    that the previous mode had been wrong. The first minister to surface
+    this argument would absorb the full political cost of the critique.
+  wrong_assumption: |
+    That drip irrigation was scalable to Soviet Central Asia in the 1960s at
+    the relevant speed. It was technically feasible but would have required
+    supply chains, retraining, and managerial capacity that Soviet industrial
+    organization was poorly suited to deliver on the timeline that would have
+    mattered.
+  missing_resource: |
+    Political cover for the first official who raised the alarm. Without
+    precedent for receiving such a critique well, the rational choice for any
+    minister was silence — the individual cost of speaking was certain, the
+    collective benefit speculative.
+  twelve_month_fail: |
+    A bad cotton harvest — which would shift all political attention to meeting
+    the quota by any means, making a conservation conversation
+    organizationally impossible until the crisis passed.
+
+revised_problem_definition: |
+  The Aral Sea crisis was not primarily a hydrological failure or an
+  engineering failure — the hydrology was understood and the engineering was
+  capable. It was a planning system failure: Minvodkhoz had complete information
+  about the depletion trajectory, technical capacity to redirect the system
+  toward efficiency, and an organizational architecture that made surfacing this
+  information politically fatal for any individual who tried. The decision
+  problem was: how do you create a pathway for honest ecological information to
+  become politically consequential in a system where the political cost of
+  that information falls entirely on the person who conveys it?
+
+# ── Honesty ───────────────────────────────────────────────────────────────
+
+flag: |
+  The Aral Sea case reveals a limit that principled pragmatism cannot cross:
+  the framework assumes a political environment in which scientific evidence
+  can, in principle, become politically consequential. In a planning apparatus
+  that rewards delivery and punishes systemic critique, the engineering
+  diplomat has no position from which to operate. The problem is not missing
+  tools or missing facts — it is missing political standing for the diagnostic
+  role itself.
+
+sources:
+  - "Micklin, P.P. (1988). Desiccation of the Aral Sea: A water management disaster in the Soviet Union. Science, 241(4870), 1170–1176. DOI: 10.1126/science.241.4870.1170. [VERIFIED]"
+  - "Small, I., Van der Meer, J., & Upshur, R.E.G. (2001). Acting on an environmental health disaster: The case of the Aral Sea. Environmental Health Perspectives, 109(6), 547–549. [VERIFIED — indexed PMC]"
+  - "Weinthal, E. (2002). State Making and Environmental Cooperation: Linking Domestic and International Politics in Central Asia. MIT Press. [VERIFIED — confirmed via publisher and library catalogs]"
+  - "Glantz, M.H. (Ed.) (1999). Creeping Environmental Problems and Sustainable Development in the Aral Sea Basin. Cambridge University Press. [VERIFIED]"
+  - "National Geographic (2019). A Soviet sea, killed by an obsession with 'white gold'. [VERIFIED — secondary source confirming Asarin's 1964 warning and 40,000 fishery workers figure]"
