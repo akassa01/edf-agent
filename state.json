@@ -1,9 +1,10 @@
 {
-  "week_index": 2,
+  "week_index": 3,
   "rubric_version": 1,
   "last_feedback_seen": null,
-  "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas"],
-  "quota_slot_next": "international",
+  "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas", "Central Asia", "Global"],
+  "quota_slot_next": "individual",
+  "quota_slot_note": "All three scales are now tied at 4 cases each. Tiebreaker by least-covered archetype_dominant: at individual scale, engineer archetype has 0 cases (vs. 2 scientist + 2 humanist). That is the deepest within-scale gap. Quota for Week 4 is individual.",
   "used_cases": [
     {
       "id": "mcnamara-vietnam-body-count",
@@ -114,6 +115,28 @@
       "case_type": "documented",
       "mode": "retrospective",
       "flag": "the gap is not informational — who is constituted as an expert in their own risk environment is answered by power before principled analysis"
+    },
+    {
+      "id": "aral-sea-irrigation-collapse",
+      "scale": "international",
+      "region": "Central Asia",
+      "recency": "historical",
+      "archetype_dominant": "engineer",
+      "crowded_out_mode": "thinking",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "principled pragmatism has no position when the diagnostic role itself has no political standing"
+    },
+    {
+      "id": "yom-kippur-the-concept",
+      "scale": "individual",
+      "region": "Middle East",
+      "recency": "historical",
+      "archetype_dominant": "scientist",
+      "crowded_out_mode": "feeling",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "analytical frameworks, once institutionalized, acquire a political life independent of their accuracy — revision requires simultaneously saying 'I was wrong,' which no protocol makes safe"
     }
   ]
 }
