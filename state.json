@@ -1,10 +1,10 @@
 {
-  "week_index": 3,
+  "week_index": 4,
   "rubric_version": 1,
   "last_feedback_seen": null,
   "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas", "Central Asia", "Global"],
-  "quota_slot_next": "individual",
-  "quota_slot_note": "All three scales are now tied at 4 cases each. Tiebreaker by least-covered archetype_dominant: at individual scale, engineer archetype has 0 cases (vs. 2 scientist + 2 humanist). That is the deepest within-scale gap. Quota for Week 4 is individual.",
+  "quota_slot_next": "international",
+  "quota_slot_note": "After Week 4: individual=5, community=5, international=4. Quota for Week 5 is international. At international scale: scientist=1 (mcnamara), humanist=2 (who-covid, gerd-nile), engineer=1 (aral-sea). Scientist and engineer tied at 1. Tiebreaker by overall corpus archetype count: scientist=4 total, engineer=5 total. Scientist is less covered overall. Quota for Week 5 is international, with scientist archetype as tiebreaker preference.",
   "used_cases": [
     {
       "id": "mcnamara-vietnam-body-count",
@@ -137,6 +137,28 @@
       "case_type": "documented",
       "mode": "retrospective",
       "flag": "analytical frameworks, once institutionalized, acquire a political life independent of their accuracy — revision requires simultaneously saying 'I was wrong,' which no protocol makes safe"
+    },
+    {
+      "id": "citicorp-center-quiet-fix",
+      "scale": "individual",
+      "region": "Americas",
+      "recency": "historical",
+      "archetype_dominant": "engineer",
+      "crowded_out_mode": "thinking",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "the managed-disclosure pathway's ethics depend on conditions — repairability, institutional cooperation, political timing — that the engineer does not control and that principled pragmatism cannot specify in advance"
+    },
+    {
+      "id": "rana-plaza-accord-standing",
+      "scale": "community",
+      "region": "Asia",
+      "recency": "recent",
+      "archetype_dominant": "humanist",
+      "crowded_out_mode": "doing",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "engineering diplomacy's tools presuppose comparable standing at the table; in global supply chains, the workers with the most at stake have the least standing by design, and principled pragmatism has no answer for that precondition"
     }
   ]
 }
