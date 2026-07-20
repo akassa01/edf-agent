@@ -1,0 +1,276 @@
+## Identity
+case_id: rana-plaza-accord-standing
+title: "The Standing Problem at Savar"
+case_type: documented
+mode: retrospective
+scale: community
+region: Asia
+recency: recent
+year: 2013
+rubric_version: 1
+
+## The three perspectives (ALL THREE — completed before prose)
+
+scientist: |
+  The data were available and the conclusions were clear before April 24, 2013. Multiple
+  independent audits had documented fire and structural risks across Bangladesh's garment
+  sector. The contested scientific question after the collapse was not "are these factories
+  dangerous?" — multiple audit systems said yes — but "which audit system, applied by whom,
+  with what enforcement mechanism, produces actual remediation?" The Accord and the Alliance
+  were competing answers to this question. Their divergence — two incompatible inspection
+  standards for the same factories — made comparing the answers impossible and created
+  arbitrage opportunities for factory owners who could play systems against each other.
+  The building itself: constructed on a former pond site, additional floors added beyond
+  the approved design without engineering permits. Cracks appeared the day before the
+  collapse; evacuation was recommended; factory workers were ordered back anyway.
+
+humanist: |
+  4 million garment workers in Bangladesh — overwhelmingly women, many from rural families
+  who had migrated to Dhaka — had no effective political voice in the agreements made in
+  their name after the collapse. The Accord was negotiated by brands and international
+  trade unions. The Alliance was negotiated by brands and their industry association.
+  Neither body included factory workers as principals. The moral urgency of 1,134 deaths
+  produced rapid commitment-making; the architecture of those commitments was designed in
+  the same weeks as the news cycle peaked and the grief was most acute. The humanist asks:
+  was the Accord built to protect workers, or to let brands be seen protecting workers?
+  The distinction matters because the system that followed the Accord still depends on
+  brand moral attention — and brands have many other things to attend to.
+
+engineer: |
+  A coordination problem with a specific design failure. Splitting the buyer-base into
+  Accord and Alliance created two sets of standards, two auditing timelines, and no common
+  authority. Any factory supplying both European and American brands was operating under
+  two incompatible inspection regimes. The engineer sees the standing problem in structural
+  terms: brands' leverage over factories depends on their ability to credibly threaten to
+  redirect orders. That leverage erodes precisely when factory safety reform is most expensive —
+  because the cost of factory-level remediation creates incentives for factory owners to
+  find buyers not bound by the more demanding standard. The binding constraint was not
+  technical (safety upgrades for fire and structural hazards are well understood) or financial
+  (total estimated industry cost was in the range of $500M spread over years) — it was
+  the absence of a common authority with enforcement power that does not depend on the
+  continued goodwill of individual buyers.
+
+archetype_dominant: humanist
+crowded_out_mode: |
+  doing — committing to enforceable structural reforms (a common authority, binding
+  enforcement, mandatory inspection standards) was crowded out by feeling — making rapid
+  public commitments to manage the moral emergency of 1,134 deaths and the associated
+  brand reputational pressure.
+
+## Diagnosis of the problem space
+
+scientific_facts: |
+  The Rana Plaza building, Savar Upazila, Bangladesh, collapsed on April 24, 2013 at
+  approximately 8:57 a.m. local time. 1,134 people were confirmed dead; approximately
+  2,500 survivors were rescued over a 19-day search. The building housed five garment
+  factories, a bank, and retail tenants. It had been constructed on the site of a former
+  pond without proper permits and with additional floors added beyond the approved design.
+  Structural cracks had appeared on April 23; a structural engineer who inspected the
+  building recommended evacuation. Bank and retail tenants on lower floors refused to
+  reopen; garment factory workers on upper floors were directed to return or risk losing
+  pay. The Bangladesh Accord on Fire and Building Safety was signed by more than 200 global
+  brands, primarily European, within weeks of the collapse. The Alliance for Bangladesh
+  Worker Safety was formed by approximately 28 primarily North American brands as a
+  voluntary alternative.
+
+social_facts: |
+  The garment sector employs approximately 4 million workers in Bangladesh, over 80% women.
+  Workers have no direct contractual relationship with the brands whose labels appear on
+  their output; the relationship is between brand and factory owner, with workers as labor
+  inputs rather than parties. Multiple international auditing firms had inspected factories
+  in the Rana Plaza building in prior years for various brands; none had flagged the
+  building's structural condition as a safety concern, in part because structural auditing
+  of the building itself was outside the scope of standard social compliance audits. The
+  Accord was structured as a legally binding agreement between brands and trade unions;
+  its legal enforceability was tested only in arbitration, and its practical enforcement
+  depended on brands' continued sourcing relationships with Bangladesh.
+
+political_realities: |
+  European brands faced different litigation environments than North American brands:
+  US tort law creates greater liability exposure for brands that make binding safety
+  commitments and then fail to enforce them, which drove Gap, Walmart, and Target to
+  the voluntary Alliance rather than the binding Accord. The Bangladesh government was
+  ambivalent about the Accord — concerned about sovereignty over labor standards and
+  about the implicit critique of state regulatory capacity, while also dependent on the
+  garment sector for approximately 80% of export revenue. Factory owners were represented
+  by the Bangladesh Garment Manufacturers and Exporters Association (BGMEA), which had
+  political relationships with both major parties and resisted mandatory inspection regimes
+  that they did not control.
+
+uncertainty_and_ambiguity: |
+  Uncertainty: whether brand sourcing diversification to Vietnam, Cambodia, and Ethiopia
+  would reduce Bangladesh-specific leverage over time; whether the Accord's legal
+  enforceability in arbitration would prove meaningful; how long moral urgency would
+  sustain brand willingness to fund remediation.
+  Ambiguity: whether "legally binding" in the Accord's context meant the same thing to
+  brands, unions, and factories; whether worker safety was primarily a brand-reputational
+  problem (brands' framing) or a rights problem (workers' framing). These were not the
+  same question, and the Accord's architecture reflected the brands' framing.
+
+key_tensions:
+  - "Legally binding commitment vs. litigation liability: European vs. North American brands' divergent legal environments made a unified agreement politically impossible"
+  - "Speed of commitment vs. durability of mechanism: moral urgency peaked in weeks; institution-building takes years"
+  - "Brand-centered governance vs. worker standing: the Accord could bind brands but not give workers a principal role in the process governing their safety"
+
+problem_definition: |
+  After the deadliest garment-factory collapse in history, the decision is how to design
+  a safety enforcement mechanism that protects workers whose safety depends on buyers who
+  have no permanent stake in any particular factory's conditions and who operate under
+  incompatible legal environments.
+
+## The metaphors
+
+one_plus_one: |
+  The brands were answering "what commitment can we make right now to demonstrate moral
+  seriousness?" The garment workers (through their unions and advocacy organizations) were
+  answering "what mechanism will actually change the conditions in the factory where I work
+  tomorrow?" The Bangladesh government was answering "what can foreign brands do that
+  does not look like colonial intervention in national labor law?" Three questions, three
+  answers, no shared question. The Accord answered the first. Neither agreement answered
+  the second. The Bangladesh government's question was not asked aloud, which meant it
+  shaped the outcome without being negotiable.
+
+where_is_x: |
+  The 72 hours following the collapse, when representatives of major global brands chose
+  which agreement to join. Not the day of the collapse and not the ILO negotiations that
+  followed — the week of April 24–30, 2013, when the architecture of the governing
+  framework was being selected. A single negotiating table, rather than two, would have
+  required resolving the US litigation liability question directly — which was the
+  productive difficulty that splitting avoided. The split was the intervention point
+  that made the subsequent governance gap structural rather than incidental.
+
+eighteenth_camel: |
+  The binary was the Accord (legally binding, European, litigation risk) vs. the Alliance
+  (voluntary, North American, no legal exposure). The 18th camel was a Bangladesh
+  Remediation Authority: a new institution constituted under Bangladesh labor law reform,
+  jointly funded by brands regardless of their legal environment, independently auditing
+  all factories supplying any signatory brand, with a single standard and enforcement
+  powers rooted in domestic law rather than in brand goodwill. Not a compromise between
+  Accord and Alliance — a third thing that neither offered, because it requires the
+  Bangladesh government as a full principal rather than a bystander, and it requires
+  brands to fund domestic enforcement capacity rather than their own inspection systems.
+
+solomon_check: |
+  Would the same brands have designed a more durable enforcement architecture if it were
+  someone else's supply chain — if they were advising a government on labor standards in
+  a country they didn't source from? Almost certainly. The Accord's weaknesses (brand
+  discretion over factory relationships, no joint authority, split standards, dependence
+  on continued brand moral attention) are exactly what any international development
+  practitioner would flag in another country's worker safety regime. The wisdom was
+  available; it was not directed inward.
+
+urgency_vs_actionability: |
+  The moral urgency was enormous — 1,134 dead, images on every front page. The actionability
+  window was narrow: brands needed to make commitments before the news cycle moved on,
+  and before any brand that delayed could be positioned as indifferent. The Accord and
+  Alliance were both signed within six weeks of the collapse. The speed of commitment-making
+  was inversely related to the durability of the mechanism — institution-building that
+  would have produced a more durable authority (a Bangladesh Remediation Authority under
+  domestic law) would have taken months of legal and political work, during which the moral
+  pressure driving brands to act would have dissipated.
+
+## Conditions, capacity, constraints
+
+enabling_conditions: |
+  The scale of the disaster and its media visibility created an unprecedented window of
+  brand willingness to make commitments. International trade unions had been working toward
+  a binding agreement for years and had draft language ready. The ILO had convening
+  authority and could have provided a neutral forum. Bangladesh's government had an economic
+  interest in maintaining brand confidence and could have been a partner in institution-
+  building if approached with a framework that preserved sovereign authority.
+
+capacities: |
+  Brands: could commit funding and accept inspection obligations. International trade unions:
+  could negotiate agreement terms and monitor compliance. Bangladesh government: had
+  legislative authority to create a domestic safety body. ILO: had technical expertise and
+  convening legitimacy. What was not present: a party with the capacity and standing to
+  compel factory owners to comply regardless of their brand relationships.
+
+constraints: |
+  The binding constraint was the split legal environment: US litigation risk prevented
+  American brands from joining a legally binding agreement, which then made a unified
+  standard politically impossible. This structural split allowed a second constraint to
+  operate unchallenged: the absence of a common authority with enforcement powers independent
+  of brand-factory sourcing relationships.
+
+## Decision pathway
+
+decision_pathway: Redesign
+tools:
+  - "Joint safety authority with binding domestic powers → creates a common inspection standard independent of individual brand-factory relationships; changes coordination by removing factory-owner arbitrage between competing audit systems"
+  - "Publicly reported inspection database → makes compliance visible to all buyers, workers, and consumers simultaneously; changes learning by creating accountability that survives brand-supplier relationship changes and sourcing geography shifts"
+  - "Worker-representative review panels with formal standing → includes the parties with direct and sustained knowledge of factory conditions; changes interaction by giving workers a principal role in the process that governs their safety rather than a consultative one"
+
+metrics:
+  - "Factory remediation rate → percentage of identified structural and fire hazards remediated, tracked quarterly → third-party audit reporting against single unified standard"
+  - "Worker grievance filing rate → safety concerns reported per 1,000 workers per quarter → grievance mechanism data (a rising rate initially signals that workers trust the channel; a flat or falling rate after initial surge signals channel capture)"
+  - "Brand audit convergence → percentage of factories subject to a single unified inspection framework → adoption tracking across Accord, Alliance, and non-signatory brands"
+
+ninety_day_commitment: |
+  Counterfactual 90 days from April 24, 2013: week 1, commission joint legal analysis
+  of a Bangladesh domestic safety authority structure and US litigation exposure options;
+  week 2, approach ILO as convening body for a single negotiating table; weeks 3–6, draft
+  heads of agreement for a Bangladesh Remediation Authority with domestic legislative
+  backing; weeks 7–10, present to Bangladesh government, BGMEA, and international donors
+  as co-principals; week 12, launch pilot inspection program under jointly agreed standard.
+
+## Stress test and refinement
+
+stress_test:
+  political: |
+    Bangladesh's government comes under pressure from the BGMEA and factory owners to
+    nationalize safety auditing — creating a domestic authority that is politically
+    capturable. The Bangladesh Remediation Authority becomes a vehicle for factory-owner
+    influence rather than worker protection.
+  institution: |
+    Major European brands exit the Accord when a disputed factory finding creates a
+    precedent they cannot accept commercially; the legal enforcement mechanism is tested
+    and fails to compel return, demonstrating that "legally binding" did not mean
+    enforceable in the way signatories believed.
+  assumption: |
+    The assumption that brands retain sustained leverage over Bangladeshi factories as
+    sourcing diversifies to Vietnam, Ethiopia, and Cambodia may be wrong — as brands'
+    Bangladesh exposure shrinks, their willingness to fund compliance infrastructure
+    shrinks with it.
+  resource: |
+    No mechanism exists for remediation cost allocation: who pays when a factory cannot
+    afford the required safety upgrades? The brand (which created the demand for the
+    factory's labor), the factory owner (who is legally responsible), or a government
+    fund (which doesn't exist)? This gap is the Accord's actual operational failure mode.
+  failure_12_months: |
+    A major brand exits the Accord over a disputed remediation timeline; without a common
+    authority to adjudicate, the dispute is resolved in favor of exit, and other brands
+    use it as precedent. The legally binding character of the agreement proves illusory
+    when the enforcement party (the international trade union) lacks the legal standing
+    to compel a brand operating under another jurisdiction's courts.
+
+revised_problem_definition: |
+  The decision problem is not "which agreement to sign." It is "how do you build an
+  enforcement institution that survives the departure of any single brand, survives changes
+  in sourcing geography, and gives workers standing that does not depend on brand goodwill
+  or the continued moral attention of buyers who have many other priorities?" The binding
+  constraint is not the absence of moral will — brands had substantial moral will in April
+  2013 — but the absence of a common authority that all parties are constitutionally
+  obligated to fund and obey, independent of their commercial relationships.
+
+## Honesty
+
+flag: |
+  Engineering diplomacy's core tools — joint fact-finding, multi-stakeholder process,
+  adaptive experiments — presuppose that parties at the table have comparable standing:
+  that each can walk away and each loses something by doing so. In global supply chains,
+  the workers with the most at stake have the least standing: no contractual relationship
+  with the brands, no collective bargaining coverage that extends across factory ownership
+  changes, no seat at the table where the agreements governing their workplaces are designed.
+  The Accord is the best the framework produces under those conditions. But "the best the
+  framework produces" left 4 million people's safety depending on the continued moral
+  attention of buyers who have many other things to attend to, and principled pragmatism
+  has no answer for the case where the party with the most skin in the game has no seat
+  at the table by design.
+
+sources:
+  - "Human Rights Watch. 'Whoever Raises Their Head Suffers the Most: Workers' Rights in Bangladesh's Garment Factories.' 2015. [verified — labor rights documentation post-Accord, worker standing analysis]"
+  - "Donaghey, Jimmy, and Juliane Reinecke. 'When Industrial Democracy Meets Corporate Social Responsibility: A Comparison of the Bangladesh Accord and Alliance as Responses to the Rana Plaza Disaster.' British Journal of Industrial Relations 55(3), 2017. [verified — academic comparative analysis of Accord vs. Alliance governance structures]"
+  - "Clean Clothes Campaign. '11 Years Since the Rana Plaza Collapse: Factories Are Safer but the Root Causes of Tragedy Persist.' 2024. [verified — longitudinal assessment of Accord impact and remaining gaps]"
+  - "Bangladesh Accord on Fire and Building Safety. 'International Accord for Health and Safety in the Textile and Garment Industry.' Transition Accord text, 2021. [verified — primary source on structure and legal provisions]"
+  - "Wikipedia: Rana Plaza collapse. [verified against search — death toll 1,134, building construction facts, Accord and Alliance formation]"
