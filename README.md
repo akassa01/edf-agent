@@ -15,8 +15,10 @@ before he does.
 - `RUBRIC.md` — the two-stage case-selection rubric (fit-test gate + fertility ranking).
 - `SCHEMA.md` — the case schema the routine fills before writing each case.
 - `STYLE.md` — the voice + structure + your two reference cases.
-- `state.json` — the routine's memory (week index, used cases + dimensions); it updates
-  this itself.
+- `state.json` — static config + the 6 immutable seed cases. The week index and full
+  corpus are **not** stored here; they are computed from the repo by `survey.py`
+  (`week_index` = number of `published/*.md`; corpus = seed cases + every
+  `case_studies/*.md` front-matter). Run `python3 survey.py` to see the current survey.
 
 ## How it behaves
 - **Selection is quality-first.** Each week the routine brainstorms a wide pool of
@@ -31,13 +33,15 @@ before he does.
 - **Hybrid review.** It writes two full cases and lists 2–3 runner-ups as one-line
   pitches in the report, so you can swap one in without a re-run. That weekly read is
   also your quality check — you see the pair (and the alternatives) before the professor.
-- **No repeats.** Every case is logged in `used_cases` with its dimension; dedup
-  compares structure, not just the id slug. McNamara and Challenger are pre-seeded.
+- **No repeats.** The corpus is computed from every case's front-matter (plus the seed
+  cases); dedup compares structure, not just the id slug. McNamara and Challenger are
+  pre-seeded.
 - **Patterns digest.** Every fourth week (once there are ≥8 cases), it aggregates the
   honest "flags" across cases into `patterns/` — recurring blind spots of the framework,
   as book material.
 - **Output each week:** a combined reader file at `published/<date>.md`, the two
-  individual cases archived in `case_studies/`, and updated `state.json`.
+  individual cases archived in `case_studies/` (with full front-matter — that front-matter
+  *is* the corpus record), and the schemas/evals for the run.
 
 ## Setup
 
@@ -69,9 +73,9 @@ clean webpage — handy for reading and for copy-pasting into Word with formatti
 ### 5. Test it once, manually
 Trigger a run by hand. Confirm: a new file appeared under `published/`, the two cases
 read well, the individual cases got archived under `case_studies/`, the report listed a
-few runner-ups, and `state.json` came back with `week_index` bumped to 1 and two new
-`used_cases` entries (each with a `dimension`). If that all looks right, the weekly
-schedule keeps doing it.
+few runner-ups, and `python3 survey.py` now shows `week_index` bumped by 1 and the two new
+cases counted in the corpus. Confirm the run's PR merged to `main` (an open PR left unmerged
+makes the next run branch stale). If that all looks right, the weekly schedule keeps doing it.
 
 ## Your weekly 2 minutes
 When the run finishes (it reports the file path):

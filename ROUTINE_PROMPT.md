@@ -28,12 +28,30 @@ From the repo, read: `state.json`, `STYLE.md`, `SEED_CASES.md`, `SCHEMA.md`, `RU
 `QUALITY_RUBRIC.md`, `LEARNING.md`, `calibration.json`, and any files in `feedback/` added
 since the last run (compare against `state.json.last_feedback_seen`).
 
+**First, sync to the tip of `main`** (`git fetch origin main && git rebase origin/main`, or
+re-branch from `origin/main`). The corpus survey is computed from what is *on main*; a stale
+base makes the survey wrong and is what previously caused runs to overwrite each other's
+`state.json`. Then run the corpus survey once and keep its output for steps 1–2:
+
+```bash
+python3 survey.py            # human-readable
+python3 survey.py --json     # machine-readable, if you want to parse it
+```
+
+`state.json` no longer stores `week_index` or the full `used_cases` list — those are computed
+by `survey.py` from the repo (`week_index` = count of `published/*.md`; corpus = the immutable
+`seed_cases` in `state.json` plus the front-matter of every `case_studies/*.md`). You never
+hand-edit those; you only ever *add* dated files.
+
 ---
 
 ## 1. SURVEY (map the corpus)
 
-Tally `used_cases` by `scale`, `archetype_dominant`, `case_type`, `region`, `recency`, and
-`crowded_out_mode`. Name the deficits explicitly in your report.
+`survey.py` (run in step 0) already tallies the computed corpus by `scale`,
+`archetype_dominant`, `case_type`, `region`, `recency`, and `crowded_out_mode`, and reports
+`week_index`, whether this is a prospective week, and the next quota slot. Read those numbers
+off the survey — do not re-tally by hand and do not trust any counts baked into `state.json`
+(there are none anymore). Name the deficits explicitly in your report.
 
 This is the paper's proposal applied directly: *rather than working blindly in a fixed
 domain, first map the existing body of knowledge to identify bottlenecks, gaps, and
@@ -184,22 +202,33 @@ has ever invoked.
 
 ## 12. COMMIT — read this carefully
 
-Past runs of this routine completed the full analysis and then wrote **nothing** to the
-repo, week after week, without surfacing an error. Root cause: writes were attempted
-through GitHub **MCP connector tool calls**, and that connector is authorized read-only.
-Reads succeeded, every write returned `403 Resource not accessible by integration`, and
-the failure was swallowed. Treat committing as a first-class task, not a formality.
+Treat committing as a first-class task, not a formality. Two past failure modes to avoid:
 
-**Use `git` on the local checkout. Do not use GitHub MCP tools to write.**
+1. Runs that completed the analysis and wrote **nothing**, because writes went through the
+   GitHub **MCP connector**, which is authorized read-only (every write returned `403
+   Resource not accessible by integration`, swallowed silently). **Use `git` on the local
+   checkout. Never use GitHub MCP tools to write.**
+2. Weekday runs that **overwrote each other's `state.json`** and piled up unmerged PRs,
+   because each run branched from a stale `main` and rewrote a shared mutable file. Two
+   changes now prevent this: `state.json` no longer holds `week_index`/`used_cases` (they
+   are computed by `survey.py`, so runs only ever *add* disjoint dated files and never
+   collide), and each run must sync to `origin/main` at step 0 and land its PR promptly
+   (below).
+
+**This routine runs in a sandbox that puts your work on its own branch and opens a Pull
+Request — it does not push straight to `main`.** That is expected. Your job is to commit to
+your branch, then make sure the PR merges to `main` before the next run:
 
 ```bash
 git add <paths>
 git commit -m "<message>"
-git push
+git push                                   # pushes your run's branch
+# after the PR exists, enable auto-merge so it lands without waiting on a human:
+gh pr merge --squash --auto || echo "auto-merge unavailable — flag in the report for a human to merge"
 ```
 
-The repository is checked out in your sandbox and the Claude GitHub App has read+write on
-this repo's contents, so plain git works. The MCP connector does not.
+The Claude GitHub App has read+write on this repo's contents, so plain `git` works; the MCP
+connector does not.
 
 - **Commit incrementally.** Schemas at step 8. Each case file as soon as it is written.
   Do not hold all writes until the end of the run — if the run is cut short, partial
@@ -208,6 +237,10 @@ this repo's contents, so plain git works. The MCP connector does not.
   `git status` and confirm the working tree is clean and the commit is on the remote
   (`git rev-parse HEAD` vs `git rev-parse @{u}`). Do not assume success from a command
   that returned without visible output.
+- **Verify the PR is set to merge.** After enabling auto-merge, confirm with
+  `gh pr view --json state,autoMergeRequest`. If auto-merge is unavailable, say so loudly in
+  the step-14 report so a human merges it **before the next run** — an unmerged PR is what
+  makes the next run branch stale.
 - **Check write access at step 0, before doing any work.** Attempt a trivial commit and
   push (e.g. touch and revert a scratch file, or `git push --dry-run`). If it fails,
   **abort the run immediately and report the error.** Do not spend the run producing
@@ -237,9 +270,14 @@ Treat it as book material.
 
 ## 14. UPDATE MEMORY + REPORT
 
-Increment `week_index`. Append each new case to `used_cases` with
-`{id, scale, region, recency, archetype_dominant, crowded_out_mode, case_type, mode}`.
-Set `last_feedback_seen`. Commit `state.json` (re-fetch its SHA first).
+**Do not touch `week_index` or `used_cases` — they no longer exist in `state.json`.** The
+corpus and week counter are recomputed from the repo by `survey.py`; your two new
+`case_studies/*.md` files (with complete front-matter) and your new `published/<date>.md`
+*are* the state update. The only field you may write back to `state.json` is
+`last_feedback_seen`, and only if you actually processed new `feedback/` files this run. If
+you do, commit `state.json` on its own; otherwise leave it untouched. Confirm the corpus is
+correct by re-running `python3 survey.py` after your case files are committed and checking
+the new count and next-quota reflect this run.
 
 Report:
 1. The corpus gaps found in step 1 and which scale the quota slot was bound to.

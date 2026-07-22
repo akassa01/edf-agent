@@ -1,11 +1,17 @@
 {
-  "week_index": 5,
   "rubric_version": 1,
   "last_feedback_seen": null,
-  "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas", "Central Asia", "Global"],
-  "quota_slot_next": "international",
-  "quota_slot_note": "After Week 5 (16 cases): individual=6, community=6, international=4. International is least covered. At international scale: scientist=1 (mcnamara), humanist=2 (who, gerd), engineer=1 (aral). Scientist and engineer tied at 1. Tiebreaker by global least-covered archetype: scientist=4 total, engineer=6, humanist=6 — scientist is least covered overall. Quota for Week 6 is international, scientist archetype. Note: week_index=5, so 5%4 != 0 — Week 6 is NOT a prospective week and no patterns digest fires. CAVEAT: the Week 5 (2026-07-20) run branched from a stale state.json (week_index=3) and therefore skipped the prospective-mode + patterns-digest step that week_index=4 (4%4==0) required. Both Week 5 cases are retrospective; the prospective case and patterns/2026-07-20-patterns.md were not produced.",
-  "used_cases": [
+  "regions": [
+    "Asia",
+    "Europe",
+    "Middle East",
+    "Africa",
+    "Americas",
+    "Central Asia",
+    "Global"
+  ],
+  "_note": "week_index and the full used_cases corpus are NO LONGER stored here. They are computed from the repo by survey.py (week_index = count of published/*.md; corpus = these seed_cases + case_studies/*.md front-matter). This removes the shared mutable field that caused merge conflicts. seed_cases below are the 6 immutable pre-repo cases that have no case_studies file; do not edit them.",
+  "seed_cases": [
     {
       "id": "mcnamara-vietnam-body-count",
       "scale": "international",
@@ -71,116 +77,6 @@
       "case_type": "documented",
       "mode": "retrospective",
       "flag": "the framework finds the 18th camel but not who pays for it"
-    },
-    {
-      "id": "who-covid-pheic-delay",
-      "scale": "international",
-      "region": "Global",
-      "recency": "recent",
-      "archetype_dominant": "humanist",
-      "crowded_out_mode": "doing",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "structural conflict of interest between institution and principals: WHO cannot act at pathogen speed against its largest funders"
-    },
-    {
-      "id": "gerd-nile-water-negotiation",
-      "scale": "international",
-      "region": "Africa",
-      "recency": "recent",
-      "archetype_dominant": "humanist",
-      "crowded_out_mode": "doing",
-      "case_type": "documented",
-      "mode": "prospective",
-      "flag": "absence of political will may be structural: governments that need the conflict may be unable to afford the 18th camel"
-    },
-    {
-      "id": "capetown-day-zero-crisis",
-      "scale": "community",
-      "region": "Africa",
-      "recency": "recent",
-      "archetype_dominant": "scientist",
-      "crowded_out_mode": "feeling",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "when the powerful and the responsible are the same population, crisis communication is not a technical problem"
-    },
-    {
-      "id": "grenfell-tower-cladding",
-      "scale": "community",
-      "region": "Europe",
-      "recency": "recent",
-      "archetype_dominant": "engineer",
-      "crowded_out_mode": "feeling",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "the gap is not informational — who is constituted as an expert in their own risk environment is answered by power before principled analysis"
-    },
-    {
-      "id": "aral-sea-irrigation-collapse",
-      "scale": "international",
-      "region": "Central Asia",
-      "recency": "historical",
-      "archetype_dominant": "engineer",
-      "crowded_out_mode": "thinking",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "principled pragmatism has no position when the diagnostic role itself has no political standing"
-    },
-    {
-      "id": "yom-kippur-the-concept",
-      "scale": "individual",
-      "region": "Middle East",
-      "recency": "historical",
-      "archetype_dominant": "scientist",
-      "crowded_out_mode": "feeling",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "analytical frameworks, once institutionalized, acquire a political life independent of their accuracy — revision requires simultaneously saying 'I was wrong,' which no protocol makes safe"
-    },
-    {
-      "id": "hyatt-regency-walkway-approval",
-      "scale": "individual",
-      "region": "Americas",
-      "recency": "historical",
-      "archetype_dominant": "engineer",
-      "crowded_out_mode": "thinking",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "when professional liability is diffuse enough that each actor assumes someone else verified the critical condition, no individual has to be negligent for the system to fail — the architecture of accountability itself is the problem"
-    },
-    {
-      "id": "silverman-sf-aids-bathhouse",
-      "scale": "community",
-      "region": "Americas",
-      "recency": "historical",
-      "archetype_dominant": "humanist",
-      "crowded_out_mode": "doing",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "there is a class of public health crisis where the intervention's effectiveness depends on relational legitimacy that runs slower than the epidemic — principled pragmatism can name the co-design pathway but cannot compress the time required to earn the trust"
-    },
-    {
-      "id": "citicorp-center-quiet-fix",
-      "scale": "individual",
-      "region": "Americas",
-      "recency": "historical",
-      "archetype_dominant": "engineer",
-      "crowded_out_mode": "thinking",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "the managed-disclosure pathway's ethics depend on conditions — repairability, institutional cooperation, political timing — that the engineer does not control and that principled pragmatism cannot specify in advance"
-    },
-    {
-      "id": "rana-plaza-accord-standing",
-      "scale": "community",
-      "region": "Asia",
-      "recency": "recent",
-      "archetype_dominant": "humanist",
-      "crowded_out_mode": "doing",
-      "case_type": "documented",
-      "mode": "retrospective",
-      "flag": "engineering diplomacy's tools presuppose comparable standing at the table; in global supply chains, the workers with the most at stake have the least standing by design, and principled pragmatism has no answer for that precondition"
     }
   ]
 }
