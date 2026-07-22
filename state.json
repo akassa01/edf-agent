@@ -1,10 +1,10 @@
 {
-  "week_index": 3,
+  "week_index": 4,
   "rubric_version": 1,
   "last_feedback_seen": null,
   "regions": ["Asia", "Europe", "Middle East", "Africa", "Americas", "Central Asia", "Global"],
-  "quota_slot_next": "individual",
-  "quota_slot_note": "All three scales are now tied at 4 cases each. Tiebreaker by least-covered archetype_dominant: at individual scale, engineer archetype has 0 cases (vs. 2 scientist + 2 humanist). That is the deepest within-scale gap. Quota for Week 4 is individual.",
+  "quota_slot_next": "international",
+  "quota_slot_note": "After Week 4, scales are individual=5, community=5, international=4. International is least covered. At international scale: scientist=1 (mcnamara), humanist=2 (who, gerd), engineer=1 (aral). Scientist and engineer tied at 1. Tiebreaker by global least-covered archetype: scientist has 4 cases globally vs. engineer's 5. Quota for Week 5 is international, scientist archetype. Note: week_index=4, so 4%4==0 — Week 5 is a prospective week (open slot converts to prospective) AND patterns digest fires (used_cases=14 >= 8).",
   "used_cases": [
     {
       "id": "mcnamara-vietnam-body-count",
@@ -137,6 +137,28 @@
       "case_type": "documented",
       "mode": "retrospective",
       "flag": "analytical frameworks, once institutionalized, acquire a political life independent of their accuracy — revision requires simultaneously saying 'I was wrong,' which no protocol makes safe"
+    },
+    {
+      "id": "hyatt-regency-walkway-approval",
+      "scale": "individual",
+      "region": "Americas",
+      "recency": "historical",
+      "archetype_dominant": "engineer",
+      "crowded_out_mode": "thinking",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "when professional liability is diffuse enough that each actor assumes someone else verified the critical condition, no individual has to be negligent for the system to fail — the architecture of accountability itself is the problem"
+    },
+    {
+      "id": "silverman-sf-aids-bathhouse",
+      "scale": "community",
+      "region": "Americas",
+      "recency": "historical",
+      "archetype_dominant": "humanist",
+      "crowded_out_mode": "doing",
+      "case_type": "documented",
+      "mode": "retrospective",
+      "flag": "there is a class of public health crisis where the intervention's effectiveness depends on relational legitimacy that runs slower than the epidemic — principled pragmatism can name the co-design pathway but cannot compress the time required to earn the trust"
     }
   ]
 }
