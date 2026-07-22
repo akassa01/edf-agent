@@ -1,0 +1,297 @@
+case_id: nauru-phosphate-self-determination
+title: "The Phosphate Clock"
+case_type: documented
+mode: retrospective
+scale: community
+region: Pacific/Oceania
+recency: historical
+year: 1968
+rubric_version: 1
+
+# ── THREE PERSPECTIVES (all required before prose) ────────────────────────────
+
+scientist: >
+  The science was available and ignored. Geologists knew the approximate volume of
+  Nauru's phosphate deposits at independence; the extraction rate was publicly reported
+  annually through the Nauru Phosphate Corporation. A straightforward actuarial
+  calculation in 1975 — peak-fund year — would have placed exhaustion between 1990 and
+  2000 at the then-current extraction rate. The NPRT's founding premise was sound:
+  invest proceeds now to fund operations post-mining. The scientific failure is not that
+  data was hidden; it is that no institution translated that data into a binding
+  extraction schedule. By 2000, approximately 80% of the island's interior was stripped
+  to bare limestone coral pinnacles — a measurable, irreversible outcome entirely
+  foreseeable from 1970s extraction figures.
+
+humanist: >
+  Nauru was colonized by Germany in 1888, mandated to Australia after WWI, occupied
+  by Japan 1942–45, and administered as a UN trust territory until 1968. For over
+  eighty years the phosphate was mined by others and the proceeds went elsewhere. The
+  humanist reads the post-independence decisions not as irrationality but as an entirely
+  intelligible emotional response to that history: the community was entitled to enjoy
+  what was theirs. The right to self-determination includes the right to make your own
+  mistakes. The harder humanist question is whose claim matters more — the 1975
+  generation's right to its wealth, or the 2005 generation's need of a functioning
+  island. Both claims are legitimate. No framework adjudicates between them.
+
+engineer: >
+  The doing-mode read the situation as: extract phosphate, generate revenue, invest in
+  assets. The Nauru Phosphate Corporation was operationally excellent. The engineering
+  failure was downstream: the chosen investments — a 52-story Melbourne office tower
+  (Nauru House, 1977), an airline, a shipping company, a London West End musical (1993,
+  widely reported as among the worst produced) — were prestige assets, not productive
+  industries. The engineer also asks the honest question: what was the alternative? Nauru
+  is 21 square kilometres of limestone with no agriculture (phosphate stripped the
+  topsoil), no freshwater, and no natural harbour. Building a replacement economy on
+  this physical base may have been genuinely impossible. That constraint does not
+  excuse the NPRT's governance failures, but it contextualizes them.
+
+archetype_dominant: humanist
+crowded_out_mode: thinking
+
+# ── DIAGNOSIS ────────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  Nauru's phosphate reserves were estimated at approximately 100 million tonnes at
+  independence (1968). Peak extraction rate was approximately 2 million tonnes per
+  year. At that rate, exhaustion was projected within 50 years; deposits were virtually
+  exhausted by 2000. By 1975, the NPRT was valued at over A$1 billion and Nauru's GDP
+  per capita was second in the world (after Saudi Arabia). By 2002 the NPRT was
+  effectively bankrupt, assets vastly below liabilities. Today roughly 80% of the
+  island's interior is a moonscape of limestone pinnacles. Population at peak
+  (early 1990s): approximately 10,000; now approximately 9,000.
+
+social_facts: >
+  Independence in 1968 conferred on Nauruan leaders the right to manage their own
+  resources. President Hammer DeRoburt, who had spent his career negotiating for
+  Nauruan royalties under colonial administration (securing 22% royalties in 1960,
+  the full buyout in 1970 for A$21 million), understood the wealth in terms of justice
+  rather than stewardship. The Nauruan community experienced freedom from want — no
+  income tax, free healthcare, free education, government-provided housing — as the
+  tangible expression of independence. Questioning those benefits felt like questioning
+  independence itself. Accountability within the NPRT was diffuse; the governing body
+  was the same government whose mandate was to deliver the wealth.
+
+political_realities: >
+  The Nauru Phosphate Corporation was state-owned. Any government imposing extraction
+  limits was the same government that depended on extraction revenue to fund its social
+  contract. An extraction ceiling meant either reduced services or new taxes — both
+  politically impossible for a community that had just escaped sixty years of colonial
+  extraction. Australian advisers (the former administrators) were available but
+  politically unwelcome. The NPRT's governance structure gave the government significant
+  discretion over investment decisions, with no independent oversight board until
+  after the fund's value began declining.
+
+uncertainty_and_ambiguity:
+  uncertainty: >
+    The precise depletion timeline was genuinely uncertain — extraction rates could vary,
+    new pockets could theoretically be found, and the yield of alternative investments
+    was unknown. The scale of the diversification challenge was not fully appreciated.
+  ambiguity: >
+    "Sovereignty" meant different things to different Nauruans — some heard it as
+    "freedom to enjoy our wealth now," others as "responsibility to manage our future."
+    The NPRT's mandate to "provide income following depletion" was interpreted as
+    permission to extract fully (the trust will handle depletion) rather than as a
+    warning (depletion is coming — constrain it now). Same mandate, two readings.
+
+key_tensions:
+  - "Present generation's right to enjoy wealth after colonial dispossession vs. future
+     generation's need of a functioning island and state"
+  - "Democratic self-determination (including the right to decide wrong) vs. sustainability
+     (which constrains that right across time)"
+  - "Political feasibility of extraction revenue vs. long-horizon transition planning
+     with no near-term benefit and real near-term political cost"
+
+problem_definition: >
+  A newly independent community, having just won the right to control resources that
+  colonial administrations had mined for sixty years, chose to enjoy that wealth rather
+  than constrain it — while the only institution designed to protect future constituents
+  (the NPRT) had no binding restriction on the rate at which the underlying asset could
+  be liquidated.
+
+# ── METAPHORS ────────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  The Nauruan government was answering "how do we exercise sovereignty over our own
+  resources?" Actuarial sustainability required answering "how do we hold these resources
+  across generations?" The NPRT was designed to serve both questions simultaneously, but
+  with no binding mechanism to enforce the second, the first crowded it out entirely.
+  The trust's assets became a fund to spend, not a fund to govern.
+
+where_is_x: >
+  The 1975–1978 window — when the NPRT reached A$1 billion and phosphate extraction
+  was still at its most profitable. This is when a constitutional extraction covenant
+  (a binding ceiling with mandatory drawdown restrictions, agreed before the revenue
+  peaked) could have been adopted by a government still politically legitimate enough
+  to do so. After the peak, extraction pressures only increased as reserves declined
+  and the fund's performance fell. The intervention point was before the last
+  profitable year, when the government still had surplus political capital to spend on
+  constraint.
+
+eighteenth_camel: >
+  The apparent binary was: maximize extraction now (full sovereignty, full services,
+  full enjoyment) vs. reduce extraction (reduced services, introduced taxes — politically
+  lethal for a government whose mandate was the wealth of independence). The 18th camel
+  is a constitutional extraction covenant embedded in the NPRT Act: a legally binding
+  schedule specifying a declining extraction ceiling tied to demonstrated alternative-
+  income milestones, requiring supermajority to amend and entrenched before political
+  pressure peaked. This is not a compromise between extract and don't extract. It is
+  a third structure that preserves sovereignty (Nauruans made the rule) while
+  operationalizing the stewardship claim the NPRT was designed to embody. The NPRT was
+  the vehicle; it needed constitutional teeth.
+
+solomon_check: >
+  World Bank economists and Pacific development advisers flagged the depletion risk in
+  public reports throughout the 1980s. DeRoburt, evaluating another newly independent
+  small-island resource state in the 1970s, would very likely have told them to set
+  extraction limits and build alternative industries. The wisdom was universally
+  available to anyone outside Nauru's political economy. The colonial memory, the
+  community's direct experience of deprivation, and the political cost of any constraint
+  made the same advice impossible to give himself.
+
+urgency_vs_actionability: >
+  There was no felt urgency in 1975. The fund was at a billion dollars; the mine ran
+  smoothly; exhaustion was decades away. The urgency-actionability trap operates in
+  reverse here: the absence of urgency was the trap. When urgency finally arrived
+  (late 1990s, reserves visibly declining), actionability had closed. The window for
+  constraint was the window of abundance — which is precisely when constraint feels
+  least necessary.
+
+# ── CONDITIONS, CAPACITY, CONSTRAINTS ────────────────────────────────────────
+
+enabling_conditions: >
+  The NPRT Act provided a vehicle for binding restrictions. Australian financial and
+  legal expertise was available. The government had legislative majority and public
+  trust in the peak years. The economic modelling needed to set a defensible extraction
+  ceiling was within reach of any Pacific regional economist.
+
+capacities: >
+  Nauru had a functioning legislature, a state-owned mining company, and an investment
+  trust with a billion dollars under management. The governing capacity to pass binding
+  restrictions was undisputed in the mid-1970s.
+
+constraints: >
+  Binding constraint: political legitimacy was inseparable from the social contract of
+  free services funded by phosphate. Any extraction ceiling was a reduction in
+  services — and a government that had built its mandate on delivering the wealth of
+  independence had no political base from which to reduce it. The constraint is not
+  technical or institutional; it is structural: the mandate to deliver the wealth and
+  the mandate to protect it were the same government, and they pointed in opposite
+  directions.
+
+# ── DECISION PATHWAY ─────────────────────────────────────────────────────────
+
+decision_pathway: Reframe
+
+tools:
+  - tool: "Constitutional extraction covenant (embedded in NPRT Act)"
+    purpose: "Remove the stewardship decision from each legislative cycle by constitutionalizing it"
+    mechanism: "Changes the interaction from elected-government-decides-annually to
+      supermajority-required-to-amend — making depletion a legal question rather than a
+      political one, and removing the government from its own conflict of interest"
+  - tool: "Alternative-income milestone triggers"
+    purpose: "Make extraction limits politically survivable by linking them to demonstrated
+      replacement income"
+    mechanism: "Changes the coordination dynamic: extraction reductions trigger only when
+      fish royalties, financial services, or maritime licensing reach measurable thresholds,
+      so no government is forced to cut services without a visible replacement"
+  - tool: "Independent NPRT investment board with Pacific regional economists"
+    purpose: "Separate investment decisions from the political decisions of the same government"
+    mechanism: "Changes the learning loop: investment outcomes are reported to an independent
+      body with veto power over speculative investments, creating external accountability for
+      the fund's performance"
+
+metrics:
+  - metric: "Extraction-to-reserve ratio"
+    measure: "Annual extraction as percentage of estimated remaining reserves"
+    method: "Annual geological survey plus NPC production report; flagged if >5% of
+      remaining reserve extracted in a single year"
+  - metric: "Alternative income fraction"
+    measure: "Non-phosphate government revenue as percentage of total government revenue"
+    method: "Annual budget audit; covenant targets 25% by 1990, 50% by 1995 under the
+      extraction covenant scenario"
+  - metric: "NPRT real return on investment"
+    measure: "Annual return net of inflation, as percentage of assets"
+    method: "NPRT annual report, independently audited; below 4% real return triggers
+      mandatory governance review"
+
+ninety_day_commitment: >
+  President DeRoburt commissions a Pacific regional actuary to produce a binding
+  depletion scenario report — publication date, extraction rate, investment return
+  requirement for sustainability — and table it in Parliament within 90 days. NPRT board
+  expanded to include two non-Nauruan Pacific regional economists with veto power over
+  new speculative investments. Australia, as former administrator, offers technical
+  assistance on alternative industry development; Nauru accepts the modelling but
+  negotiates its own terms.
+
+# ── STRESS TEST AND REFINEMENT ────────────────────────────────────────────────
+
+stress_test:
+  political: >
+    Any extraction covenant faces a government whose mandate is to deliver phosphate
+    wealth. The first time a declining ceiling would have reduced services, the government
+    faces pressure to amend. With a slim legislative majority and a supermajority
+    threshold, the covenant could be repealed before it takes full effect.
+  institutional: >
+    The NPRT's governance structure in the 1970s was not independent. A covenant embedded
+    in the Act could be repealed by the same legislature that created it. Constitutional
+    entrenchment — requiring supermajority — was not part of Nauru's political tradition
+    and would itself have required political will to introduce.
+  wrong_assumption: >
+    That the alternative investments could replace phosphate revenue at any realistic
+    scale. Nauru has no agriculture, no freshwater, no port, and a population of 6,000.
+    The 18th camel may require a scale of economic development that the island's physical
+    constraints make impossible regardless of governance quality.
+  missing_resource: >
+    Independent economic expertise embedded in Nauru's institutions before independence,
+    rather than offered from outside after the fact. The window for external advice was
+    politically narrow from the start; the colonial relationship made "Australian advice"
+    politically toxic even when technically sound.
+  failure_within_12_months: >
+    The covenant fails if the 1975 government cannot survive the political cost of
+    introducing extraction limits. A rival faction promising "no restrictions" wins the
+    next election and the covenant is repealed before it takes effect.
+
+revised_problem_definition: >
+  A newly independent community held an asset whose value was inseparable from its
+  destruction, governed by a democratic system whose legitimacy depended on distributing
+  that value to present constituents — while the only institution designed to protect
+  future constituents had no binding restriction on the rate of liquidation and no
+  independent oversight to enforce one. The problem is not that Nauruans failed to plan:
+  it is that the planning required them to vote against themselves, and no constitutional
+  structure existed to make that vote unnecessary by removing stewardship from electoral
+  politics before the politics of abundance made any constraint feel like betrayal.
+
+# ── HONESTY ──────────────────────────────────────────────────────────────────
+
+flag: >
+  Principled pragmatism has no answer when the rights-holder and the harm-receiver
+  are the same community, separated only by time. The Nauruan community of 1975 had
+  a legitimate claim to the wealth that colonial powers had extracted for sixty years.
+  The Nauruan community of 2005 — the stripped island, the bankrupt trust, the offshore
+  detention centre built to raise emergency revenue — had a legitimate grievance against
+  what the 1975 generation chose. There is no framework — not engineering diplomacy,
+  not deliberative democracy, not international law — that can adjudicate between a
+  present generation's right to use its wealth and a future generation's right not to
+  inherit the consequences. The 18th camel can be named. Whether it should have been
+  constitutionally imposed on a community that had just won the right to decide for
+  itself is a question principled pragmatism cannot answer.
+
+sources:
+  - "Wikipedia: Nauru Phosphate Royalties Trust.
+     https://en.wikipedia.org/wiki/Nauru_Phosphate_Royalties_Trust — establishment,
+     mismanagement, bankruptcy. Verified."
+  - "Wikipedia: Economy of Nauru.
+     https://en.wikipedia.org/wiki/Economy_of_Nauru — GDP history, phosphate revenue,
+     depletion timeline. Verified."
+  - "ThinkLandscape / Global Landscapes Forum: How phosphate mining ruined Nauru.
+     https://thinklandscape.globallandscapesforum.org/97630/how-phosphate-mining-ruined-nauru/
+     — environmental collapse. Verified."
+  - "The MIT Press Reader: A Dark History of the World's Smallest Island Nation.
+     https://thereader.mitpress.mit.edu/dark-history-nauru/ — colonial and post-
+     independence history. Verified."
+  - "Devpolicy Blog, ANU: Nauru: riches to rags to riches.
+     https://devpolicy.org/nauru-riches-to-rags-to-riches-20210412/ — economic trajectory
+     and recovery. Verified."
+  - "Gowdy, J. & McDaniel, C.N. (1999). 'The Physical Destruction of Nauru: An Example
+     of Weak Sustainability.' Land Economics 75(2): 333-338. — academic analysis of
+     resource depletion and governance failure. Verified."

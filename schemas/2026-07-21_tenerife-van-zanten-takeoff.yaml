@@ -1,0 +1,266 @@
+case_id: tenerife-van-zanten-takeoff
+title: "The Six Seconds at Tenerife"
+case_type: documented
+mode: retrospective
+scale: individual
+region: Europe
+recency: historical
+year: 1977
+rubric_version: 1
+
+# ── THREE PERSPECTIVES (all required before prose) ────────────────────────────
+
+scientist: >
+  Van Zanten had 11,700 flight hours and was KLM's chief flight instructor — arguably
+  the world's most authoritative 747 pilot in 1977. The scientific reading of the CVR
+  is unambiguous: no version of the ATC transmission between 17:05:44 and 17:06:11
+  contains the phrase "cleared for takeoff." The flight engineer's question — "Is he not
+  clear, that Pan American?" — surfaced the relevant uncertainty 6 seconds into the roll.
+  James Reason's Swiss Cheese model (1990) identifies six distinct barrier failures in
+  sequence; the CVR makes each audible. The scientist's reading: the information needed
+  to abort was present in the cockpit, and the protocol to require its use did not exist.
+
+humanist: >
+  Two populations had no voice in the room. The 583 people about to die were acting on
+  trust: trust in the system, the crew, the fog-wrapped runway they could not see.
+  Van Zanten himself was under institutional weight: his photograph was on KLM advertising,
+  he was the airline's most prominent public face, and the crew hierarchy of 1977 Dutch
+  aviation made him effectively unchallengeable. Flight engineer Schreuder's concern was
+  real; the cultural permission to press it was absent. The humanist reads the crew not
+  as careless but as trapped — inside a culture that had not yet built crew resource
+  management, where "the captain is always right" was an operating norm. The Pan Am
+  passengers, aware something was wrong ("Let's get the hell out of here," Captain
+  Grubbs), were on a different radio channel. Their absence from the KLM cockpit
+  decision is the humanist failure.
+
+engineer: >
+  The doing mode — execute the departure — had completed every checklist item. Route
+  clearance received and read back. Engines normal. Takeoff configuration set. No tool
+  existed to show ground occupancy at Los Rodeos in 1977; ATC was managing blind. The
+  duty-hour regulations, recently tightened, created real financial pressure. The system
+  was designed for clear conditions; it was handling three 747s simultaneously in fog
+  at a secondary airport. Post-accident engineering solutions — standardized phraseology,
+  CRM, ground movement radar — addressed exactly these gaps. The engineer reads this as
+  a design failure: departure under ambiguity was the path of least resistance, and no
+  protocol required a hard stop before the roll.
+
+archetype_dominant: engineer
+crowded_out_mode: thinking
+
+# ── DIAGNOSIS ────────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  ATC issued route clearance (navigation instructions) but never issued runway takeoff
+  clearance. CVR timestamp 17:06:11: van Zanten advances throttles. 17:06:17: flight
+  engineer Schreuder asks "Is he not clear, that Pan American?" Van Zanten: "Oh yes."
+  Co-pilot: "Yah." Schreuder did not press further. Pan Am 747 (Clipper Victor) was
+  still on runway 30, having missed its assigned exit (C3) in the fog and continuing
+  toward C4. Runway visibility approximately 300m. The collision occurred at 17:06:50.
+  583 of 644 people aboard died; all 248 aboard the KLM flight perished.
+
+social_facts: >
+  The KLM crew had been on duty since that morning and were approaching Dutch aviation
+  authority duty-hour limits, recently tightened. Missing this window risked cancelling
+  the charter service and stranding passengers. Van Zanten was KLM's chief flight
+  instructor — the absolute authority in that cockpit, culturally reinforced. The Pan Am
+  crew had been diverted to Tenerife after a bomb threat closed Las Palmas; they were
+  already tense. Three aircraft were operating simultaneously on a single runway in fog
+  at a secondary airport with no ground radar.
+
+political_realities: >
+  Spain attributed primary fault to KLM; the Dutch investigation distributed blame
+  across ATC, weather, and human factors. KLM's legal liability made the airline a
+  stakeholder in the investigation's framing. ICAO could recommend but not enforce
+  post-accident reforms. The resulting CRM doctrine required voluntary airline adoption
+  and took over a decade to become universal practice.
+
+uncertainty_and_ambiguity:
+  uncertainty: >
+    Whether another aircraft was physically on the runway was genuinely uncertain:
+    300m visibility made visual confirmation impossible, and Los Rodeos had no
+    ground movement radar.
+  ambiguity: >
+    ATC's "OK, stand by for takeoff, we will call you" was ambiguous. The word
+    "takeoff" appeared in a restriction, not a clearance. Van Zanten heard
+    conditional permission; ATC intended withholding. This is ambiguity — different
+    parties assigning different meanings to the same words — not uncertainty. The
+    transmission was received. The problem was shared meaning, not missing information.
+
+key_tensions:
+  - "Execution speed vs. situational confirmation: every second of delay risks duty-hour
+     violation; every second without explicit confirmation risks catastrophe on an
+     occupied runway"
+  - "Captain authority vs. crew assertiveness: the flight engineer had the right question
+     and no cultural protocol to hold it open"
+  - "Procedural completion vs. safety confirmation: the checklist was finished, the system
+     signaled go, and no protocol required a final runway-clear gate"
+
+problem_definition: >
+  An experienced pilot committed to a takeoff roll under combined schedule pressure and
+  completed-checklist logic while an occupied runway and an unanswered crew concern
+  were both present — because no protocol required a hard stop to confirm that the
+  runway itself was clear before the throttles advanced.
+
+# ── METAPHORS ────────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  ATC was answering "what are the KLM's navigation instructions?" KLM was asking
+  "are we cleared to roll?" The same radio exchange (route clearance) was received
+  as two different permissions by two parties who never confirmed they were using the
+  same definitions. 1+1 produced two separate ones — each side believed the transaction
+  was complete.
+
+where_is_x: >
+  Timestamp 17:06:11. The throttles advance. The roll begins. This is the fulcrum —
+  not the bomb threat that diverted both planes to Tenerife, not the fog, not the
+  ambiguous ATC phrasing upstream. X is the six-second window between ATC's "OK" and
+  the throttle advance: one protocol change (mandatory verbatim "cleared for takeoff"
+  in both the ATC transmission and the crew's readback before any aircraft rolls)
+  would have required van Zanten to stop and ask. The question would have been
+  answered. 583 people would have lived.
+
+eighteenth_camel: >
+  The apparent binary was Depart (under ambiguous clearance) vs. Delay (costly and
+  professionally uncomfortable under duty-hour pressure). The 18th camel is the
+  post-accident solution: mandatory, standardized phraseology where the exact phrase
+  "cleared for takeoff" must appear verbatim in the ATC transmission and the crew's
+  readback before any aircraft advances throttles. This is not a compromise between
+  the two options. It is a system redesign that makes "I believe I have clearance"
+  architecturally impossible. Now ICAO global standard.
+
+solomon_check: >
+  Van Zanten reviewing another crew's CVR in a safety debrief would almost certainly
+  have flagged the absent explicit clearance, the unanswered flight engineer's concern,
+  and the runway-occupancy uncertainty as a fatal sequence. He was KLM's chief flight
+  instructor — the person whose professional job was to see exactly this. His proximity
+  (his cockpit, his reputation, his duty-hour deadline) foreclosed the perspective his
+  role would have provided from the outside.
+
+urgency_vs_actionability: >
+  Duty-hour pressure was real and genuinely urgent. The actionable response — requesting
+  an explicit runway-clear confirmation — was grammatically simple and seconds long.
+  But urgency had narrowed the decision space: the departure script was running, the
+  checklist was complete, and asking for re-confirmation required stepping outside the
+  script under social and time pressure that made that step feel harder than proceeding.
+
+# ── CONDITIONS, CAPACITY, CONSTRAINTS ────────────────────────────────────────
+
+enabling_conditions: >
+  The flight engineer had the critical question. The radio was working. The Pan Am crew,
+  if asked directly, would have reported their position. CRM doctrine existed
+  conceptually in the academic literature; it had not been translated into airline
+  training by 1977.
+
+capacities: >
+  Van Zanten had the technical skill to abort a takeoff roll in early stages. The crew
+  had a functioning radio. The flight engineer had the data and had already formed the
+  question.
+
+constraints: >
+  Binding constraint: the cockpit authority structure of 1977 Dutch aviation, which
+  made the flight engineer's concern answerable with a single dismissive word. Secondary:
+  no ground radar at Los Rodeos, and no phraseological protocol requiring an explicit
+  runway-clearance gate distinct from route clearance. Without a system that required
+  verification rather than assertion, hierarchy was the binding constraint.
+
+# ── DECISION PATHWAY ─────────────────────────────────────────────────────────
+
+decision_pathway: Redesign
+
+tools:
+  - tool: "Standardized clearance phraseology (ICAO Doc 4444)"
+    purpose: "Create a definitive binary gate on runway clearance, separate from route clearance"
+    mechanism: "Changes ATC-crew interaction from interpretive to binary — 'cleared for
+      takeoff' must appear verbatim in both directions before any roll, making ambiguous
+      clearance architecturally impossible by design"
+  - tool: "Crew Resource Management (CRM) training"
+    purpose: "Reconfigure cockpit authority so any crew member can hold a safety concern"
+    mechanism: "Changes the coordination dynamic — a flight engineer's question becomes a
+      mandatory pause point, not an overrideable suggestion; changes learning by making
+      assertiveness a trainable and measurable skill"
+  - tool: "Ground movement radar (surface detection equipment)"
+    purpose: "Give ATC real-time runway occupancy data"
+    mechanism: "Changes the information available to controllers, enabling active
+      confirmation of runway-clear status before issuing any clearance"
+
+metrics:
+  - metric: "Explicit clearance readback compliance"
+    measure: "% of departures with verbatim 'cleared for takeoff' in both ATC transmission
+      and crew readback before roll"
+    method: "ATC audio recording audit, quarterly per airport"
+  - metric: "CRM assertiveness index"
+    measure: "% of standardized simulator scenarios where junior crew successfully pressed
+      a safety concern past initial captain dismissal"
+    method: "Simulator evaluation, annual per crew pairing"
+  - metric: "Runway incursion rate"
+    measure: "Runway incursions per 10,000 operations, by ICAO CICTT classification"
+    method: "National aviation authority report, annual"
+
+ninety_day_commitment: >
+  ICAO convenes emergency working group on standardized phraseology and issues interim
+  advisory circular requiring "cleared for takeoff" as mandatory in both ATC and crew
+  transmissions. KLM suspends departure under any ambiguous clearance as interim policy.
+  Los Rodeos Airport authority petitions ICAO for priority ground radar installation.
+  Spanish and Dutch investigators begin joint analysis of how duty-hour regulations
+  create schedule pressure on departure decisions.
+
+# ── STRESS TEST AND REFINEMENT ────────────────────────────────────────────────
+
+stress_test:
+  political: >
+    Airline industry lobbying resists CRM training cost; Dutch and Spanish governments
+    dispute primary fault, diffusing accountability. KLM's legal exposure motivates
+    minimizing the finding of captain error.
+  institutional: >
+    ICAO recommends but does not enforce. If the investigation becomes primarily a
+    legal liability dispute between KLM and Spain rather than a systemic reform exercise,
+    findings get buried in litigation.
+  wrong_assumption: >
+    That the root problem is phraseological. If the deeper root is captain-invulnerability
+    culture, standardized language is insufficient — you need cultural change that
+    language reform alone cannot produce. The CRM component of the redesign is more
+    important than the phraseology component.
+  missing_resource: >
+    Real-time runway occupancy monitoring at secondary airports handling diversion
+    traffic. Without ground radar, ATC is managing blind in fog.
+  failure_within_12_months: >
+    If ICAO's working group stalls on jurisdictional disputes between member states,
+    the advisory circular is delayed and the next high-traffic diversion event finds
+    the same system unchanged.
+
+revised_problem_definition: >
+  An experienced pilot advanced throttles under the combined weight of institutional
+  schedule pressure, a completed departure checklist, and ambiguous-but-acceptable ATC
+  language — while a crew member who had the critical question was dismissed without
+  any protocol requiring verification. The problem is not van Zanten's judgment; it is
+  a system that made departure under ambiguity the default and confirmation the
+  exception. The redesign point is the protocol, not the pilot — which matters because
+  the pilot was among the best in the world, and the outcome was still 583 dead.
+
+# ── HONESTY ──────────────────────────────────────────────────────────────────
+
+flag: >
+  When the doing-mode becomes physiological — once a fully loaded 747 begins its
+  takeoff roll, the body commits before the mind can reverse — principled pragmatism
+  cannot operate in that moment. The intervention must precede it, built into the
+  system before the crisis. This is the argument for system-level protocol over
+  individual virtue: no amount of in-the-moment wisdom replaces the protocol that
+  should have required confirmation first. The lesson is not "van Zanten should have
+  been wiser" — it is "the system should have made wisdom the path of least resistance."
+
+sources:
+  - "ICAO Aircraft Accident Digest, Circular 132-AN/93 (1977). Primary investigation
+     record. Verified."
+  - "Wikipedia: Tenerife airport disaster. https://en.wikipedia.org/wiki/Tenerife_airport_disaster
+     — CVR transcript, timeline, death toll, contributing factors. Verified."
+  - "Tailstrike.com: KLM 4805 CVR Transcript.
+     https://tailstrike.com/database/27-march-1977-klm-4805/ — full cockpit voice
+     recording transcript. Verified."
+  - "PBS NOVA: The Final Eight Minutes.
+     https://www.pbs.org/wgbh/nova/article/final-eight-minutes/ — crew actions and
+     ATC communications. Verified."
+  - "AeroCorner: Tenerife 1977: The Runway Collision That Changed the Language of
+     Aviation. https://aerocorner.com/blog/tenerife-1977/ — post-accident CRM and
+     phraseology reform. Verified."
+  - "Reason, J. (1990). Human Error. Cambridge University Press. — Swiss Cheese model
+     applied to multi-barrier aviation accidents including Tenerife."
