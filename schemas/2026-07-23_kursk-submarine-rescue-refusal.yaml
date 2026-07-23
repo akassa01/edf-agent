@@ -1,0 +1,356 @@
+## Schema — Engineering Diplomacy case (SCHEMA.md v2)
+
+# Identity
+case_id: kursk-submarine-rescue-refusal
+title: "The Pride Calculation"
+case_type: documented
+mode: retrospective
+scale: community
+region: Europe (Barents Sea; Moscow; Oslo; London)
+recency: historical
+year: 2000
+archetype_dominant: engineer
+crowded_out_mode: feeling
+rubric_version: 1
+
+# --- THREE PERSPECTIVES (all three required before prose) ---
+
+scientist: |
+  The technical facts were clear within 48 hours of the August 12 sinking. The Russian
+  AS-34 rescue submarine had attempted to mate with the Kursk's escape hatch nine times and
+  failed on each attempt; the hatch's seal was damaged and a pressure differential between
+  the vessel's aft section and the rescue vehicle prevented successful docking. The Russian
+  Navy's own engineers knew their assets were not equal to the task. Norwegian rescue
+  technology — specifically the LR5 rescue vehicle and specialized commercial divers trained
+  in North Sea oil rig emergency operations — had the tools and training to equalize
+  pressure differentials and open recalcitrant hatches. The Norwegian team's track record
+  in similar operations was documented. A comparative capability analysis, conducted
+  empirically and honestly, would have reached a clear conclusion: Norwegian divers would
+  succeed where Russian assets were failing. The survival window in compartment 9 was finite
+  and measurable: the oxygen supply aboard the Kursk could sustain survivors for roughly
+  three to seven days from the time of the sinking, depending on the number of survivors
+  and the rate of consumption. The science said: act now, call Norway. The operational
+  doctrine said otherwise.
+
+humanist: |
+  In Vidyayevo, the small military town near the Kola Peninsula where most of the Kursk's
+  crew had families, wives and mothers were watching Russian television report that rescue
+  was proceeding normally. In St. Petersburg, Navy Admiral Mikhail Motsak told a meeting
+  of families that the submarine had established contact, that there were no casualties,
+  that supplies were being delivered. None of this was true. On August 22, three days after
+  Norwegian divers had opened the hatch and confirmed that all 118 crew members were dead,
+  a Navy officer appeared to tell the families. Nadezhda Tylik, whose son Sergei was among
+  the dead, collapsed in grief during the meeting. A uniformed nurse sedated her on camera.
+  The scene was broadcast across Russia. The humanist sees what the operational protocol
+  systematically prevented from being registered: the delay's cost was not abstract.
+  Captain-Lieutenant Dmitry Kolesnikov, the last known survivor to write a note, was alive
+  and writing at 15:15 on August 12 — three hours after the explosions. He and 22 others
+  had reached compartment 9. He wrote: "None of us can get to the surface." That note was
+  found three months later when the hull was raised. The survivors had time. The humanist's
+  reading is that the suffering was specific, named, and entirely preventable — not by
+  preventing the torpedo malfunction, but by accepting foreign help within the 72-to-96-hour
+  survival window.
+
+engineer: |
+  The Russian Northern Fleet operated within a procedural system designed for Soviet-era
+  conditions: self-sufficiency, operational security, and a command structure where
+  acknowledging failure was professionally and politically costly. The doing mode was fully
+  operational. The AS-34 was deployed according to protocol; the LR4 rescue submarine was
+  positioned; the rescue ships were on station. The doing mode's precise blindspot: it could
+  not model a scenario where the correct action was to stop doing — to acknowledge that the
+  established protocol was producing escalating failure and replace it with a capability it
+  didn't possess. The Norwegian rescue team arrived August 20 and opened the hatch the
+  following day. The Russian Navy had been attempting for six days with assets that had
+  failed nine times. The engineer's insight is architectural: a system built for procedural
+  compliance cannot self-correct when the procedure is the problem. The doing mode had no
+  feedback mechanism for "this protocol is killing people; stop it."
+
+archetype_dominant: engineer
+crowded_out_mode: feeling
+
+# --- DIAGNOSIS ---
+
+scientific_facts: |
+  - The Kursk sank at approximately 11:30 AM on August 12, 2000, following two explosions
+    in the torpedo room caused by a defective 65-76 kit torpedo using high-test peroxide fuel.
+  - The first explosion was ~100 kg TNT equivalent; the second, two minutes later, was
+    approximately 7 tonnes TNT equivalent — one of the largest non-nuclear submarine
+    explosions recorded.
+  - 23 sailors survived in the aft compartment 9. The last note (by Kolesnikov) was timed
+    at 15:15 on August 12, suggesting survival for at least 3 hours post-sinking.
+  - Russian rescue submarines (AS-34, LR4) attempted hatch docking nine times over four days
+    and failed on each attempt. Technical cause: the rescue hatch's external seal had been
+    damaged, and pressure differential prevented mating.
+  - Norwegian rescue team arrived August 20; commercial divers opened the escape hatch the
+    following day, August 21, in four attempts. The hatch was opened in hours, not days.
+
+social_facts: |
+  - The Kursk was Russia's most advanced nuclear cruise-missile submarine, and the Northern
+    Fleet exercise in which it sank was a major display of Russian naval capability.
+  - Accepting foreign rescue help meant, in the Russian military's frame, allowing NATO
+    military assets close access to a top-secret vessel.
+  - Families of the crew received false assurances of progress for days; public information
+    was controlled through the military's PR chain.
+  - Russian public reaction to the failure was intense: the disaster became a defining test
+    of Putin's leadership in his first year as president.
+  - The families' grief was performed on national television; the government's handling was
+    widely seen as callous.
+
+political_realities: |
+  - Putin remained at a Black Sea resort until August 17 — five days into the crisis.
+    His delayed return reinforced the perception of governmental indifference.
+  - The Russian military command had both operational and political reasons to avoid foreign
+    help: classified submarine technology, institutional pride, and fear of appearing weak
+    before NATO and the Russian public.
+  - Norway and the UK were members of NATO; Russia's relationship with NATO was a standing
+    military-political tension in 2000.
+  - Once Putin returned and Russian rescue assets had visibly failed, the political cost
+    of continued refusal began to exceed the cost of acceptance.
+  - Russia formally accepted Norwegian and British assistance on approximately August 18–19,
+    five to six days after the sinking.
+
+uncertainty_and_ambiguity: |
+  - Uncertainty: What had survived in compartment 9? Were any of the 23 sailors still alive?
+    The oxygen supply was finite but the exact duration unknown given the number of survivors
+    and conditions inside.
+  - Uncertainty: Could the Kursk's reactor pose a radiation risk if Norwegian divers approached
+    the hull? Russian authorities raised this concern; it proved unfounded.
+  - Ambiguity: "Helping Russia" versus "accessing a Russian military asset." These are not
+    the same thing, but Russian doctrine treated them as equivalent, and Norwegian divers'
+    intentions were not verifiable in advance from within that doctrine.
+
+key_tensions:
+  - "Operational security and national pride vs. the survival window of 23 known survivors"
+  - "Self-sufficiency doctrine vs. empirical evidence of capability gap"
+  - "Protecting state secrets vs. accepting help that required no access to classified systems"
+
+problem_definition: >
+  When the Russian Northern Fleet's rescue assets demonstrably failed to reach 23 surviving
+  sailors in the Kursk's aft compartment, under what conditions could the decision-makers
+  who controlled the rescue operation have accepted superior foreign capability in time to
+  save lives — and what prevented them from doing so?
+
+# --- METAPHORS ---
+
+one_plus_one: |
+  The Russian military command was answering: "How do we manage this crisis without exposing
+  our classified systems to NATO?" The 23 sailors in compartment 9 were answering — through
+  Kolesnikov's note — "How long do we have?" These were never joined into a single rescue
+  question. The Norwegian rescue team was asking a third question: "What do you need us to
+  do?" None of the three questions were ever posed in the same room. 1+1 produced two
+  separate emergencies: the military's institutional crisis and the sailors' survival crisis.
+
+where_is_x: |
+  August 14–15, 2000 — the hours when Norway formally offered its rescue team and Russia
+  declined. This is the precise fulcrum. Before that moment, Russian rescue had been failing
+  but had not definitively exhausted its options. After that moment, Russia continued for
+  four more days with assets that had already failed nine times, while Norwegian capability
+  sat 72 hours away. Every hour between August 15 and August 21 — when Norwegian divers
+  opened the hatch the day after they arrived — was an hour in which the survival probability
+  of anyone still alive in compartment 9 declined. The hinge is not when the submarine sank;
+  it is when Russia said no.
+
+eighteenth_camel: |
+  The apparent binary: (A) accept Norwegian/British rescue help = admit Russian failure, allow
+  NATO assets near a classified submarine, appear weak; or (B) continue Russian-only rescue
+  operations = protect national pride and operational security, regardless of outcome. The
+  18th camel: frame the foreign assistance not as "NATO access to a Russian military asset"
+  but as "international humanitarian cooperation in the Barents Sea, conducted under joint
+  Russian-Norwegian command." This framing was operationally available — the rescue hatch is
+  not classified; Norwegian divers were not there to inspect weaponry; the submarine was on
+  the sea floor. A pre-agreed joint humanitarian rescue protocol (which NATO and Russia had
+  discussed in other contexts) would have changed the political calculus without changing
+  the operational requirement: get someone to the hatch. The 18th camel reframes "will we
+  lose face?" into "will we be seen as saving lives?" — a different political calculation.
+
+solomon_check: |
+  If a Norwegian submarine had sunk in the North Sea with 23 survivors in an aft compartment,
+  and Russia had the only rescue team capable of opening the hatch, any Russian naval officer
+  would have counselled immediate acceptance of Norwegian help — no classified systems would
+  have been involved, the sailors' lives would have been the obvious priority. The wisdom
+  was structurally available but could not be directed inward through a system where the
+  institutional actor making the decision was also the actor whose prestige was at stake.
+  The Northern Fleet command could not solve the Solomon Paradox from inside itself.
+
+urgency_vs_actionability: |
+  The urgency was absolute and visible: people were dying, families were waiting, television
+  cameras were present. The actionability was blocked not by capability but by a framing
+  problem: the decision-maker's framework classified "foreign help" as institutional
+  capitulation rather than operational resource. The urgency escalated — public and
+  international pressure mounted daily — but the actionability moved in the same direction
+  only when the political cost of refusal finally exceeded the political cost of acceptance,
+  which happened on approximately day 6. Every day before that was a day in which urgency
+  was present and actionable alternatives were deliberately unavailable.
+
+# --- CONDITIONS, CAPACITY, CONSTRAINTS ---
+
+enabling_conditions: |
+  - Norway had a standing humanitarian rescue capability — the LR5 rescue vehicle and
+    commercial deep-sea divers experienced in North Sea operations — that was demonstrably
+    superior to Russian assets for this specific task.
+  - Norway was not a hostile power: it had no strategic interest in the submarine's military
+    capabilities, and the rescue hatch was not a classified system.
+  - The international media presence made the cost of continued refusal politically escalating.
+  - Putin's return from vacation created a decision point at which the political calculus
+    could be reassessed.
+
+capacities: |
+  - Norwegian rescue team: LR5 rescue vehicle; commercial divers trained in high-pressure
+    hatch operations; independent of military command chain
+  - Russian Northern Fleet: surface rescue ships, two rescue submarines (non-functional for
+    this task), 20,000-tonne salvage vessel
+  - Russian government: authority to accept or decline foreign assistance; communications
+    control; political decision-making over operational doctrine
+
+constraints: |
+  Binding constraint: the Russian military doctrine that classified all foreign assistance
+  as a threat to operational security, regardless of what the specific assistance required.
+  This doctrine had no provision for triage — for distinguishing between "foreign access to
+  classified systems" (genuinely problematic) and "foreign access to a rescue hatch on the
+  seafloor" (operationally neutral). The constraint was not capability; it was category.
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Reframe
+decision_pathway_detail: |
+  Reframe "accepting foreign rescue assistance" from a military-security question to a
+  humanitarian-operations question. The move: Russia publicly declares the Kursk's situation
+  a humanitarian emergency of international concern and invites Norway and the UK to
+  participate in the rescue under joint command — Russian operational authority, Norwegian
+  and British technical execution. This framing removes the "NATO near our submarine" problem
+  by making Russian authority explicit, and removes the "failure" framing by naming it as
+  internationally cooperative from the outset. The political cost: some loss of face. The
+  political gain: being seen as the government that saved its sailors rather than the
+  government that let them die for institutional pride.
+
+tools:
+  - tool: Pre-agreed joint humanitarian rescue protocol
+    purpose: Establish in advance the legal and operational framework for accepting foreign
+      rescue assistance during a submarine emergency, specifying what foreign assets can access
+      and under what command structure.
+    mechanism: Changes interaction by removing the real-time political negotiation that
+      cost five days in 2000; changes coordination by pre-positioning the 18th camel before
+      the crisis rather than requiring it to be invented under pressure.
+  - tool: Real-time survival assessment model
+    purpose: Provide decision-makers with a continuously updated estimate of survivor
+      probability as a function of time and available rescue capability.
+    mechanism: Changes learning by making the cost of delay quantitatively visible to
+      decision-makers in a form that cannot be dismissed as political rather than operational;
+      changes the interaction between military command and political authority by inserting
+      an empirical countdown.
+  - tool: International submarine rescue framework (ISMERLO)
+    purpose: A pre-existing international coordination body for submarine rescue, allowing
+      states to request assistance without treating it as bilateral capitulation.
+    mechanism: Changes coordination by routing foreign assistance through a multilateral
+      humanitarian framework rather than a bilateral military request — removing the face-saving
+      barrier that delayed acceptance in 2000.
+
+metrics:
+  - metric: Time-to-foreign-assistance-acceptance
+    measure: Hours from moment rescue assets demonstrably fail to moment foreign assistance
+      is formally accepted
+    method: Crisis log maintained by rescue coordination center; verifiable against
+      official communications records
+  - metric: Foreign rescue request protocol existence
+    measure: Binary — does a pre-agreed framework for requesting international submarine
+      rescue assistance exist, and has it been exercised in simulation?
+    method: ISMERLO annual exercise records; NATO-Russia submarine rescue agreement text
+  - metric: Survivor probability at time of foreign-assistance acceptance
+    measure: Estimated percentage of known survivors who would have remained viable at the
+      moment foreign assistance was accepted, modelled against oxygen consumption curve
+    method: Naval engineering analysis using documented compartment conditions and
+      confirmed occupancy (Kolesnikov's note establishes 23 survivors at T+3.5 hours)
+
+ninety_day_commitment: |
+  Counterfactual — the first 90 days of the 18th-camel pathway, beginning August 15, 2000
+  (the day Russia declined Norway's first rescue offer):
+  - Day 1 (August 15): Russia accepts Norwegian rescue team under joint command framework;
+    frames it publicly as "international humanitarian cooperation."
+  - Day 2 (August 16): Norwegian divers open hatch; compartment 9 status confirmed.
+  - Week 2: Putin meets families publicly in Vidyayevo; acknowledges the loss and the
+    decision to accept foreign help, explaining the distinction between classified access and
+    humanitarian rescue.
+  - Month 1: Russia and NATO initiate bilateral working group on a joint submarine rescue
+    protocol — a pre-agreed framework that specifies conditions under which either party can
+    request the other's rescue assets without treaty implications.
+  - Month 3: The ISMERLO framework (then nascent) is expanded with a Russia-specific protocol.
+  The 90-day pathway does not guarantee survivors in compartment 9 would have been found
+  alive — Kolesnikov's note suggests they may have died within hours of the sinking.
+  It guarantees that the possibility would have been tested.
+
+# --- STRESS TEST AND REFINEMENT ---
+
+stress_test:
+  political_derail: |
+    The domestic political consequences of being seen to "give up" and call Norway could
+    have been used by Putin's political opponents to undermine his early presidency — a real
+    concern in 2000 when his authority was not yet consolidated. A counterfactual that
+    required early acceptance of foreign help depended on Putin (or someone with access to
+    him) being willing to absorb that political cost upfront.
+  institutional_block: |
+    The Northern Fleet command structure had both incentive and authority to filter
+    information reaching Moscow. Even if Putin had wanted to accept help earlier, the
+    information reaching him was managed by the institution whose failure was being
+    assessed. An institutional block could prevent the decision-maker from knowing what the
+    decision actually was.
+  wrong_assumption: |
+    That the 23 survivors in compartment 9 were still alive on August 15. Kolesnikov's note
+    was timed to 15:15 on August 12. If they died within hours of the sinking due to
+    chemical reactions from a coolant leak (which the investigation found evidence of), the
+    entire rescue calculus was based on a survival assumption that may have been incorrect.
+  missing_resource: |
+    A direct communication channel between the rescue coordination center and the political
+    authority with the power to authorize foreign assistance. The institutional chain of
+    command filtered and delayed information in ways that a direct channel would have
+    bypassed.
+  twelve_month_failure: |
+    Even if Norway had been accepted immediately and opened the hatch on August 13, the
+    compartment might have been flooded or contaminated in ways that made rescue physically
+    impossible regardless of timing. The "right decision" might not have changed the
+    outcome — which is precisely the flag.
+
+revised_problem_definition: |
+  When the Russian Northern Fleet's rescue assets failed to reach known survivors in the
+  Kursk's aft compartment, the decision to refuse foreign assistance was not primarily a
+  military judgment about capability but a political judgment about acceptable loss — a
+  calculation that traded the probability of saving 23 sailors against the institutional
+  cost of appearing to need help. The revised problem definition: under what institutional
+  and political conditions can a decision-maker authorize the acceptance of superior foreign
+  capability when the very need for that capability constitutes an admission of failure —
+  and when the cost of that admission is measured in institutional prestige rather than in
+  lives? The problem is not the rescue technology. The problem is the political economy of
+  admitting what you cannot do.
+
+# --- HONESTY ---
+
+flag: |
+  When a state's calculation of its own political survival is explicitly traded against the
+  lives of the people it governs, principled pragmatism can expose that trade-off and name
+  it — but it cannot force a different choice. The Kursk case reveals a limitation that
+  engineering diplomacy cannot address from within the system: when authoritarian state pride
+  is factored directly into the calculus of acceptable loss, and when the families of 118
+  sailors constitute no meaningful political constituency, the framework can identify the
+  18th camel and quantify the cost of not taking it, but it has no lever that overrides the
+  political mathematics of self-preservation. The framework can advocate. It cannot compel.
+  And in the moment that matters — the specific decision room where the choice is made —
+  the people most harmed by the wrong choice are the people least represented.
+
+sources:
+  - citation: "Truscott, P. (2002). Kursk: Russia's Lost Pride. Simon & Schuster."
+    status: VERIFIED — published account by a UK defence analyst; widely cited in subsequent
+      Kursk coverage.
+  - citation: "Bellona Foundation (2000). Kursk Accident Time Line. Bellona.org."
+    status: VERIFIED — Norwegian environmental and nuclear safety organization; contemporaneous
+      timeline based on Russian and international press coverage and official statements.
+  - citation: "Polmar, N. & Moore, K. J. (2004). Cold War Submarines: The Design and Construction
+      of U.S. and Soviet Submarines. Brassey's / Potomac Books."
+    status: VERIFIED — standard reference on Soviet/Russian submarine design; Potomac Books.
+  - citation: "BBC Panorama (2000). 'Rescue: Who Is to Blame?' Broadcast November 2000."
+    status: VERIFIED — primary investigative account; BBC archive.
+  - citation: "Norwegian Radiation Protection Authority (2001). The Kursk Accident.
+      Straalevernrapport 2001:5. Østerås: NRPA."
+    status: VERIFIED — Norwegian government technical assessment; publicly available.
+  - citation: "Kolesnikov, D. R. (2000). Handwritten note, August 12, 2000, compartment 9,
+      K-141 Kursk. Released by Russian authorities October 2000."
+    status: VERIFIED — primary source; text published by Russian authorities and reported by
+      AP, AFP, and Russian state media in October 2000.
