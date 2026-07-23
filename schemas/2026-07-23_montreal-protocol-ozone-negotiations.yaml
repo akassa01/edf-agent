@@ -1,0 +1,319 @@
+## Schema — Engineering Diplomacy case (SCHEMA.md v2)
+
+# Identity
+case_id: montreal-protocol-ozone-negotiations
+title: "The Protocol's Blind Spot"
+case_type: documented
+mode: retrospective
+scale: international
+region: Global (Vienna; Montreal, Canada; Brussels; Washington DC; Nairobi)
+recency: historical
+year: 1987
+archetype_dominant: scientist
+crowded_out_mode: feeling
+rubric_version: 1
+
+# --- THREE PERSPECTIVES (all three required before prose) ---
+
+scientist: |
+  The science was not disputed by serious atmospheric chemists after 1985. Rowland and Molina's
+  1974 hypothesis — that chlorofluorocarbons catalytically destroy ozone in the stratosphere,
+  raising UV-B at Earth's surface — had been confirmed by the British Antarctic Survey's 1985
+  discovery of a 40% ozone depletion over Antarctica (Farman et al., 1985). NASA and NOAA
+  atmospheric models ran forward projections that showed continued production would produce
+  catastrophic UV-B increases affecting agriculture, marine ecosystems, and human health
+  (skin cancer, cataracts). The scientific consensus drove the entire negotiating agenda:
+  it provided the urgency, the target (halt CFC production), and the metric (atmospheric
+  ozone column in Dobson units). But science answered only one of the treaty's two questions.
+  It told negotiators what must change; it had nothing to say about who pays.
+
+humanist: |
+  The 1987 Protocol was written by and for the developed world's CFC problem. The United
+  States, European Community, and Soviet Union together accounted for roughly 88% of 1987
+  global CFC production. India and China — countries that had not industrialized on CFCs —
+  were being asked to forgo a cheap, accessible industrial pathway (refrigeration, air
+  conditioning, foam insulation) that had been central to Northern development for four
+  decades. "Poverty is the greatest polluter," Indira Gandhi had said at Stockholm in 1972.
+  The logic applied here: developing nations' populations needed refrigeration for food
+  safety and medicine; they needed accessible technology, not expensive Northern substitutes.
+  The 1987 Protocol offered them a 10-year grace period — more CFC use before phasing down —
+  but no mechanism to make the transition economically viable. This was the humanist's
+  contested question, and it was not a scientific one: who bore historical responsibility for
+  the ozone problem, and who was being asked to bear the cost of solving it? The treaty's
+  original architecture had no answer. India and China declined to sign.
+
+engineer: |
+  DuPont, the world's largest CFC manufacturer, had secretly developed CFC substitutes
+  (HCFCs, HFCs) but had declined to commercialize them, because doing so would have
+  validated the regulatory case against CFCs. The engineering reality was that substitutes
+  existed but cost significantly more per unit than CFCs, and the manufacturing infrastructure
+  to produce them at scale did not exist in most developing nations. The practical question —
+  what can developing nations actually build, at what cost, on what timeline? — was never
+  jointly asked in the Montreal negotiations. The technical transfer question, the finance
+  question, and the manufacturing-capacity question were all tractable (DuPont proved it by
+  announcing a full CFC phase-out in March 1988, one month after the Protocol entered into
+  force); they simply were not part of the treaty's architecture. The engineer's insight:
+  the substitution pathway existed; the financial mechanism to make it accessible to
+  developing nations did not yet exist. That is a design problem, not a science problem.
+
+archetype_dominant: scientist
+crowded_out_mode: feeling
+
+# --- DIAGNOSIS ---
+
+scientific_facts: |
+  - Rowland & Molina (1974): CFCs catalytically destroy stratospheric ozone, raising UV-B at
+    Earth's surface. The mechanism was validated by the mid-1980s.
+  - Farman et al. (1985): Ozone hole over Antarctica documented — 40% seasonal depletion.
+    This shifted the scientific consensus from prediction to observed, ongoing crisis.
+  - CFC atmospheric residence time: 50–150 years. Benefits of any production reduction
+    would be delayed 10–20 years, raising the urgency of early action.
+  - Developed-country share of 1987 CFC production: ~88%. Developing-country share: ~12%,
+    but growing rapidly as refrigeration and AC industries expanded.
+
+social_facts: |
+  - The contested claim: whether developing nations had the same obligation as developed
+    nations to phase out a chemical they had contributed minimally to putting in the atmosphere.
+  - India and China explicitly framed the ozone negotiations as an equity problem: the North
+    had built its prosperity on CFCs; the South was being asked to forgo the same pathway.
+  - "Environmental colonialism" — the concern that Northern environmental priorities would
+    subordinate Southern development needs — was articulated openly by G77 delegations.
+  - CFC-dependent industries (food refrigeration, medicine storage, air conditioning)
+    were not luxury items in developing markets; they were public health infrastructure.
+
+political_realities: |
+  - Without US participation, no effective treaty was possible: the US was the world's
+    largest CFC producer and the scientific and diplomatic pace-setter.
+  - Without DuPont's acquiescence, the US chemical industry could block ratification.
+  - Without India and China, the treaty covered historical emissions but not the growth
+    trajectory that would determine the ozone layer's 21st-century fate.
+  - Reagan administration was hostile to environmental regulation; EPA's Lee Thomas and
+    State Dept's Richard Benedick pushed the US toward participation from within.
+  - UNEP's Mostafa Tolba had convening authority but no enforcement power. His leverage
+    was strategic agenda-setting and secret-meeting diplomacy (the Brussels session, June 1987).
+
+uncertainty_and_ambiguity: |
+  - Uncertainty: the precise rate of future ozone depletion; the dose-response relationship
+    between UV-B increase and specific health/agricultural outcomes; the timeline of recovery
+    under different reduction scenarios.
+  - Ambiguity: what "fair" means when the harm was created by some and the solution cost
+    distributed across all. This is not empirical. It is a question of value, not of fact,
+    and no scientific finding could resolve it. The ozone hole was certain; who owed whom
+    what was not.
+
+key_tensions:
+  - "Scientific urgency vs. developmental equity: the atmosphere cannot wait; the South should
+    not pay for the North's industrial history"
+  - "National sovereignty vs. global commons: states' right to manage industrial development
+    vs. shared stratospheric atmosphere that no state owns"
+  - "Short-term industrial cost vs. long-term atmospheric recovery: treaty obligations impose
+    near-term costs for benefits arriving decades later"
+
+problem_definition: >
+  How can a treaty to halt CFC production achieve near-universal participation when the
+  countries whose future CFC use most determines the treaty's effectiveness — the large,
+  rapidly industrializing developing nations — have legitimate historical and economic grounds
+  to refuse the same obligations as those who created the problem?
+
+# --- METAPHORS ---
+
+one_plus_one: |
+  Northern scientists and diplomats were answering: "How do we stop CFC production before
+  the ozone layer crosses a critical threshold?" Developing-nation delegates were answering:
+  "Why should we bear the cost of your industrial history?" These are not the same question.
+  They produced two separate negotiations — one about atmospheric physics, one about
+  historical equity — that never merged into a joint fact-finding exercise. 1+1 produced two
+  separate ones: a treaty that worked for the parties who signed it, and an unaddressed
+  growth trajectory among those who didn't.
+
+where_is_x: |
+  The Article 5 negotiations at the September 1987 Montreal conference — specifically the
+  final sessions where developing countries' participation terms were set. The decision: grant
+  developing nations a 10-year grace period to continue CFC use. This was the fulcrum. A
+  10-year time buffer is not a financial mechanism: it delays the cost but does not change
+  who bears it. If the Multilateral Fund concept had been designed and tabled in Montreal in
+  September 1987 rather than adopted at the London Amendments in 1990, the treaty would have
+  had a universality mechanism from day one. India and China would not have spent three years
+  outside the agreement. The 10-year grace period without a fund was the chosen option; the
+  18th camel was conceptually available but structurally absent.
+
+eighteenth_camel: |
+  The apparent binary: (A) developing nations accept the same phase-out timeline as developed
+  nations — economically impossible for most — or (B) developing nations get a grace period
+  without conditions — leaves the treaty's largest future emitters structurally outside its
+  core obligations. The 18th camel: a Multilateral Fund, financed by the nations that created
+  the CFC problem, that pays developing nations to leapfrog directly to CFC alternatives and
+  transfers the manufacturing technology to make that leap possible. This is not a compromise
+  between A and B. It is a different financial architecture that changes who pays for what,
+  and by changing the economics, changes the political calculus. The Multilateral Fund was
+  proposed and adopted at the 1990 London Amendments. After it was created, India and China
+  signed. The camel existed; it was proposed three years too late.
+
+solomon_check: |
+  The developed nations' negotiators knew exactly what they would have argued if positions
+  were reversed: "Of course we wouldn't accept a treaty obligating us to bear the cost of
+  your industrial choices." Richard Benedick's own book (Ozone Diplomacy) acknowledges the
+  equity argument was legitimate and well-understood by the US delegation. The wisdom was
+  present; it was not directed at the North's own demands. The Solomon Paradox operated at
+  the institutional level: the same nations that could diagnose the equity problem in the
+  abstract declined to structure the treaty to resolve it until developing-country refusal
+  made the stakes concrete.
+
+urgency_vs_actionability: |
+  The atmospheric science created genuine urgency — ozone depletion had measurable, worsening
+  trendlines, and the science community communicated these clearly. The actionability was
+  structurally blocked: developing nations' largest economies had no financial incentive to
+  participate. Urgency escalated political pressure; actionability required a financial
+  mechanism that hadn't been designed. The gap between urgency and actionability was three
+  years: 1987 (Protocol signed without India/China) to 1990 (London Amendments create the
+  Multilateral Fund; India and China ratify).
+
+# --- CONDITIONS, CAPACITY, CONSTRAINTS ---
+
+enabling_conditions: |
+  - The 1985 ozone hole discovery gave diplomats a concrete, visible, undeniable data point —
+    a shift from prediction to observed, ongoing harm.
+  - The Vienna Convention (1985) created the diplomatic framework before scientific urgency
+    peaked, lowering the transaction cost of the 1987 negotiations.
+  - UNEP's Tolba had credibility with both North and South as an Egyptian scientist-diplomat;
+    neither side could easily dismiss him as a proxy for the other.
+  - DuPont's March 1988 announcement that it would phase out CFC production — removing the
+    central industry veto — retrospectively validated the treaty's regulatory framework.
+
+capacities: |
+  - UNEP: convening authority, scientific-assessment coordination, secretariat function
+  - US State Department: bilateral deal-making, leading the developed-country coalition
+  - Developing nations: standing to refuse (and exercised it)
+  - Industry (DuPont et al.): the ability to accelerate or block substitute development
+
+constraints: |
+  Binding constraint: developing nations' economic inability to fund the CFC-to-alternative
+  transition without external support. Scientific persuasion could not overcome it. Diplomatic
+  pressure produced refusal (India and China didn't sign). Money changed it: once the
+  Multilateral Fund was established, ratification followed quickly.
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Reframe
+decision_pathway_detail: |
+  Reframe the negotiation from "how do we distribute the cost of atmospheric responsibility?"
+  to "how do we make the right atmospheric choice economically viable for everyone?" The
+  operational form of this reframe is the Multilateral Fund: change the financial architecture
+  so that developed nations underwrite the substitution cost, and developing nations receive
+  both the technology and the financing to implement it. This is not charity — it is a
+  correction for the fact that the North built the problem using cheap chemistry that the
+  South was now asked to forgo. The treaty exists in the words on the page; the universality
+  is in the fund.
+
+tools:
+  - tool: Multilateral Fund
+    purpose: Convert CFC phase-out from a developing-country sacrifice to a financed transition
+    mechanism: Changes interaction from North-South confrontation over costs to cooperative
+      technology transfer; changes learning by creating a body that tracks what substitution
+      pathways work in different economic contexts and adjusts funding accordingly.
+  - tool: Differentiated baseline schedules (Article 5, London Amendments 1990)
+    purpose: Allow developing nations to peak at a higher CFC baseline before phasing down,
+      calibrated to their actual current consumption rather than the Northern baseline.
+    mechanism: Changes coordination by removing the binary of "in or out of the treaty" —
+      creates a tiered participation structure where economic context determines obligation.
+  - tool: Technology transfer provisions
+    purpose: Make substitute manufacturing processes accessible rather than proprietary.
+    mechanism: Changes learning by removing the information asymmetry between DuPont's
+      proprietary HCFC/HFC formulations and developing-nation manufacturers' need to build
+      equivalent capacity; converts a competitive advantage into a shared resource.
+
+metrics:
+  - metric: Developing-country ratification rate
+    measure: Number of Article 5 (developing) countries that ratified the Protocol as amended
+    method: UNEP OzonAction tracking; verifiable against UNEP Ozone Secretariat database
+  - metric: Multilateral Fund project completion rate
+    measure: Percentage of funded HCFC phase-out projects completed on schedule
+    method: MLF Annual Report data; independently audited by MLF Secretariat
+  - metric: CFC production trend in Article 5 countries
+    measure: Indexed CFC production (1990 = 100), tracked annually through phase-out period
+    method: UNEP Ozone Secretariat annual production and consumption data
+
+ninety_day_commitment: |
+  Counterfactual — what the first 90 days of the 18th-camel pathway could have contained,
+  starting September 16, 1987 (Montreal Protocol signing):
+  - Week 1–2: UNEP commissions a rapid assessment of the cost differential between CFCs and
+    available substitutes across 10 developing-nation contexts (India, China, Brazil, Mexico,
+    Nigeria, Indonesia, Egypt, Argentina, Thailand, Pakistan).
+  - Month 1: US, EC, and Soviet delegations return to capitals with a proposal for a
+    compensatory financial instrument — precursor to the Multilateral Fund — to be tabled at
+    the first Meeting of Parties (1988).
+  - Month 2: Benedick's team initiates bilateral conversations with India and China about
+    what financial and technology-transfer terms would change their ratification calculus.
+  - Month 3: A joint US-UNEP working paper proposing the Multilateral Fund concept is
+    circulated to all Protocol signatories for comment before MOP-1.
+  This 90-day effort does not guarantee MOP-1 adopts the Fund — but it places the 18th camel
+  on the table three years earlier.
+
+# --- STRESS TEST AND REFINEMENT ---
+
+stress_test:
+  political_derail: |
+    A US administration hostile to multilateral environmental commitments (a real possibility
+    given 1988 election dynamics) could have withdrawn from the Protocol or blocked
+    Multilateral Fund contributions. The treaty's financial architecture depended on US
+    participation in the Fund.
+  institutional_block: |
+    Developed-country CFC industries, particularly DuPont, could have reversed their implicit
+    support if HCFC/HFC development proved commercially unviable — undermining the economic
+    case for the transition that the Multilateral Fund was designed to finance.
+  wrong_assumption: |
+    That substitute chemicals (HCFCs, HFCs) were technically achievable at scale in the near
+    term. If they weren't commercially viable by 1990, the Multilateral Fund would have had
+    nothing to fund, and developing nations would have faced genuine deprivation rather than
+    a managed transition.
+  missing_resource: |
+    A mechanism for developing nations to verify that technology transfers were real rather
+    than paper commitments. Without independent verification, a "technology transfer provision"
+    could have been a rhetorical concession with no material content.
+  twelve_month_failure: |
+    A credible published study showing that HCFC/HFC substitutes cause atmospheric harms
+    comparable to CFCs would have collapsed the scientific consensus underpinning the treaty's
+    rationale and reopened the question of whether the protocol's costs were justified.
+
+revised_problem_definition: |
+  How can a treaty to halt CFC production achieve near-universal participation when developing
+  nations — whose future CFC use determines the treaty's effectiveness — have legitimate
+  historical and economic grounds to refuse the same obligations as developed nations, and when
+  the substitute technologies exist but are priced beyond their reach without a dedicated
+  financial mechanism? The funding architecture is the treaty; the words on the page are its
+  frame. This revision tightens the original problem definition: the question is not primarily
+  about negotiating participation terms but about designing a financial instrument before the
+  treaty is signed rather than three years afterward.
+
+# --- HONESTY ---
+
+flag: |
+  Principled pragmatism can design the Multilateral Fund and argue for its adoption — it
+  cannot explain why the three-year delay happened. During those three years, developing-nation
+  CFC capacity expanded: factories were built, baseline entitlements were locked in at higher
+  levels, and the economic incentives for the old technology grew deeper. The framework
+  identifies the 18th camel; it does not tell you how to make the actors with the most to
+  lose from the status quo adopt it before those with the most to gain have locked in their
+  advantage. Scientific consensus establishes what must change; political economy — specifically,
+  the domestic industrial interests of the nations with the most leverage in the negotiation —
+  governs when.
+
+sources:
+  - citation: "Molina, M. J. & Rowland, F. S. (1974). Stratospheric sink for chlorofluoromethanes:
+      chlorine atom-catalysed destruction of ozone. Nature, 249, 810–812."
+    status: VERIFIED — Nobel Prize 1995; original Nature paper widely cited and accessible.
+  - citation: "Farman, J. C., Gardiner, B. G., & Shanklin, J. D. (1985). Large losses of total
+      ozone in Antarctica reveal seasonal ClOx/NOx interaction. Nature, 315, 207–210."
+    status: VERIFIED — founding discovery of the ozone hole; British Antarctic Survey records.
+  - citation: "Benedick, R. E. (1998). Ozone Diplomacy: New Directions in Safeguarding the Planet
+      (Enlarged ed.). Harvard University Press."
+    status: VERIFIED — chief US negotiator's authoritative account; Harvard UP catalogue.
+  - citation: "UNEP (1987). Montreal Protocol on Substances that Deplete the Ozone Layer.
+      Signed September 16, 1987."
+    status: VERIFIED — treaty text available at UNEP Ozone Secretariat; UN Treaty Collection.
+  - citation: "UNEP (1990). London Amendment to the Montreal Protocol, including establishment of
+      the Multilateral Fund for the Implementation of the Montreal Protocol."
+    status: VERIFIED — amendment text and Multilateral Fund documentation at UNEP OzonAction.
+  - citation: "Andersen, S. O. & Sarma, K. M. (2002). Protecting the Ozone Layer: The United
+      Nations History. Earthscan / UNEP."
+    status: VERIFIED — institutional history written by UNEP officials; Earthscan catalogue.
