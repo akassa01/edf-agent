@@ -1,0 +1,347 @@
+## Schema — Engineering Diplomacy case (SCHEMA.md v2)
+
+# Identity
+case_id: marshall-helicobacter-proof
+title: "The Conviction That Couldn't Convince"
+case_type: documented
+mode: retrospective
+scale: individual
+region: Pacific/Oceania (Perth, Australia)
+recency: historical
+year: 1984
+archetype_dominant: scientist
+crowded_out_mode: feeling
+rubric_version: 1
+
+# --- THREE PERSPECTIVES (all three required before prose) ---
+
+scientist: |
+  Marshall and Warren had the right facts from the beginning. Warren's 1979 observation of
+  curved bacteria on gastric biopsy specimens at Royal Perth Hospital; the 100-patient
+  prospective study; the June 1984 Lancet paper (16 June 1984, Vol. 323, No. 8390, pp.
+  1311–1315) showing bacterial presence in 100% of gastritis specimens and 77% of peptic
+  ulcer specimens; the July 1984 self-experiment in which Marshall swallowed H. pylori
+  culture, confirmed acute gastritis by biopsy on day 8, and cured himself with antibiotics
+  plus bismuth — this is a complete causal demonstration. Koch's postulates were satisfied.
+  By the mid-1990s, multiple FDA-approved H. pylori eradication regimens existed; by
+  February 1997, at least three had formal FDA approval. In 2005, Marshall and Warren
+  received the Nobel Prize in Physiology or Medicine "for their discovery of the bacterium
+  Helicobacter pylori and its role in gastritis and peptic ulcer disease." The thinking
+  dimension was dominant and thorough. The Scientist sees a discovery correctly made and
+  eventually adopted.
+
+humanist: |
+  The gastroenterology profession in 1984 was not a collection of dullards refusing evidence
+  out of spite. It was a community whose clinical identity was built on the hyperacid-stress
+  model of peptic ulcer disease, which had produced Tagamet (cimetidine) — the first drug
+  ever to exceed $1 billion in annual sales worldwide — and Zantac (ranitidine), the world's
+  best-selling drug by 1988. Accepting Marshall's bacterium meant not just adding an item to
+  the diagnostic checklist. It meant revising the foundation on which careers, curricula,
+  surgical practices, and commercial relationships rested. Marshall's abstract was rejected
+  by the Gastroenterological Society of Australia in 1983 (12 of 68 abstracts rejected); his
+  presentations elsewhere were met with overt skepticism. The profession's resistance was not
+  anti-scientific. It was the immune response of a knowledge community to a finding that, if
+  true, implicated the knowledge itself. Marshall treated this response as an obstacle to be
+  overcome by more evidence. He was correct that it was irrelevant to the science. He was
+  wrong that it was therefore irrelevant.
+
+engineer: |
+  The pathway from a heterodox finding to changed clinical practice runs through specific
+  gatekeeping institutions: peer-reviewed publication (done), medical society endorsement
+  (blocked), NIH consensus development (inconclusive — the 1985 NIH Consensus Development
+  Conference on peptic ulcer disease found insufficient evidence for antibiotic therapy),
+  pharmaceutical licensing (delayed to the mid-1990s), and medical education revision (last).
+  Marshall was a hospital registrar: no department chair, no NIH standing, no US academic
+  network. The pathway for a finding to change practice required institutional standing
+  Marshall did not have. The self-experiment was the opposite of what the engineering
+  situation required: it proved causation to Marshall's own satisfaction while leaving the
+  institutional engineering entirely undone. The engineer sees a correct finding and a
+  missing convening architecture.
+
+archetype_dominant: scientist
+crowded_out_mode: feeling
+
+# --- DIAGNOSIS ---
+
+scientific_facts: |
+  - Robin Warren identified H. pylori (then unnamed) on gastric biopsy specimens in 1979 at
+    Royal Perth Hospital — an organism living in the acid environment bacteriology textbooks
+    said was sterile.
+  - Marshall and Warren published their 100-patient prospective study in The Lancet
+    (16 June 1984, Vol. 323, Issue 8390, pp. 1311–1315) showing bacterial presence in
+    100% of gastritis specimens and 77% of peptic ulcer specimens.
+  - Marshall drank H. pylori culture in July 1984; endoscopy confirmed acute gastritis by
+    day 8; antibiotic plus bismuth treatment resolved symptoms; Koch's postulates satisfied.
+  - Marshall's abstract was rejected by the Gastroenterological Society of Australia in 1983
+    (12 of 68 abstracts rejected). He did present at other venues, where reception was
+    dismissive.
+  - By February 1997 (13 years after the 1984 paper), at least three H. pylori eradication
+    regimens had received FDA approval; a CDC survey in 1997 found a significant fraction of
+    US physicians still did not associate peptic ulcer disease with H. pylori.
+  - Nobel Prize in Physiology or Medicine 2005: Marshall and Warren.
+
+social_facts: |
+  - In the 1980s, approximately 4 million Americans had active peptic ulcer disease at any
+    given time; lifetime prevalence was approximately 25 million. The standard treatment was
+    acid-suppression medication (Tagamet, Zantac) or, for severe cases, surgical vagotomy
+    and partial gastrectomy.
+  - Tagamet and Zantac were pharmaceutical blockbusters; their commercial success depended
+    on the antacid model Marshall's discovery threatened.
+  - The gastroenterology profession had built academic departments, surgical practices, and
+    research programs on the hyperacid-stress model. Accepting Marshall's claim required
+    not just a scientific revision but a professional and institutional reorientation.
+  - Marshall was perceived as an outsider — a registrar in Perth, Australia, without the
+    academic standing that gatekeepers of clinical practice required.
+
+political_realities: |
+  - The NIH Consensus Development Conference on peptic ulcer disease (1985) found
+    insufficient evidence for antibiotic therapy — an institutional verdict that delayed
+    mainstream adoption.
+  - Pharmaceutical manufacturers of H2 antagonists had no financial interest in promoting
+    an antibiotic cure that would reduce long-term antacid revenue.
+  - The journals and society meetings that would have the most influence over clinical
+    practice were edited and chaired by academics whose careers rested on the competing model.
+  - The Australian Medical Research Council did provide funding for Marshall's double-blind
+    trial; this produced results but was a single-site study whose external validity skeptics
+    could contest.
+
+uncertainty_and_ambiguity: |
+  - Uncertainty: before the self-experiment and the double-blind trial, whether the
+    bacterial presence was causative or correlative was a legitimate scientific question.
+  - Uncertainty: whether antibiotic treatment would prevent ulcer recurrence at a rate
+    sufficient to justify adoption over established acid-suppression regimens.
+  - Ambiguity: what "sufficient evidence" meant for the NIH consensus panel — this was not
+    a transparent evidentiary standard; it was shaped by whose testimony was given most
+    weight, which in turn reflected the institutional standing of the witnesses.
+
+key_tensions:
+  - "Evidential correctness vs. institutional legitimacy: being right is not the same as
+    being believed by the institutions that determine clinical practice."
+  - "Speed of proof vs. speed of adoption: the self-experiment proved causation in 14 days;
+    changing clinical practice took a decade."
+  - "Individual advocacy vs. collective evidence generation: Marshall could prove his own
+    finding; he could not make the profession generate the same finding."
+
+problem_definition: >
+  Barry Marshall had sufficient evidence to prove that H. pylori causes peptic ulcers, but
+  his strategy for making that evidence matter — increasingly dramatic solo proof — treated
+  the problem of professional adoption as a scientific problem rather than a social and
+  institutional one.
+
+# --- METAPHORS ---
+
+one_plus_one: |
+  Marshall was answering: "How do I make the evidence undeniable?" The gastroenterology
+  profession was answering: "Who is this registrar, and what does it mean for us if he is
+  right?" These are not the same question. Marshall's increasingly dramatic demonstrations —
+  the rejected abstract, the Lancet paper, the Brussels symposium presentation, the
+  self-experiment — each answered the first question with growing force. The second question,
+  which was actually the one blocking adoption, required a different kind of action: not more
+  proof, but an invitation to co-produce the proof. 1+1 produced two separate ones: a body
+  of evidence that was technically sufficient, and a professional community that remained
+  unconvinced.
+
+where_is_x: |
+  The September 1984 International Symposium on Campylobacter Infections in Brussels,
+  Belgium — the first international presentation of the self-experiment data — was the
+  fulcrum. Marshall stood before a room of the world's gastroenterological researchers with
+  endoscopy results showing he had infected and cured himself. This was the most precise
+  moment where Marshall could have converted "here is what I proved" into "here is what we
+  should prove together." A proposal from that floor — Marshall and two skeptical European
+  co-investigators designing a multi-site double-blind trial — would have produced evidence
+  in a form the profession could not claim was idiosyncratic. The leverage: international
+  audience, fresh evidence, no prior institutional commitments in the room.
+
+eighteenth_camel: |
+  The apparent binary: (A) the profession accepts Marshall's individual evidence and revises
+  the ulcer model — requiring acknowledgment that a junior registrar had been right about
+  something central to their expertise — or (B) the profession rejects the evidence and
+  waits for proof it cannot dismiss. The 18th camel: propose a joint replication study in
+  which the skeptics design the experiment. Not "here is my evidence, now believe me" but
+  "here is my hypothesis, let us test it together." When a skeptical department head in
+  Cleveland runs the protocol and H. pylori appears in her own biopsy specimens, the finding
+  belongs to her evidence base, not only to a Perth registrar's. The camel does not require
+  abandoning the evidence; it requires changing who generates it.
+
+solomon_check: |
+  Any gastroenterologist in the profession would have advised a colleague facing disbelief
+  for a heterodox finding: "Propose a multicenter trial. Get the skeptics as co-investigators.
+  Make the evidence theirs as well as yours." Marshall gave exactly this kind of advice to no
+  one because no one had come to him with this problem. He was inside it — and inside it, he
+  could see only how to make the proof more overwhelming, not how to make it more adoptable.
+  The wisdom was available; its application required precisely the self-distancing Marshall's
+  proximity to his own evidence prevented.
+
+urgency_vs_actionability: |
+  Marshall's urgency was genuine: millions of patients were receiving incorrect treatment,
+  undergoing unnecessary surgery, and experiencing preventable suffering. His actionability
+  was structured by his institutional position. A registrar can run a self-experiment; a
+  registrar cannot convene a multi-center trial, secure NIH endorsement, or set the
+  evidentiary agenda of a consensus conference. The urgency exceeded the actionability of
+  his institutional position, and the gap between them was where the decade of delay happened.
+
+# --- CONDITIONS, CAPACITY, CONSTRAINTS ---
+
+enabling_conditions: |
+  - Warren's independent corroborating evidence (the 1979-1983 biopsy archive) gave the
+    discovery a pathological foundation separate from Marshall's clinical claims
+  - The Lancet's acceptance and publication placed the evidence in the literature where it
+    could not be ignored indefinitely
+  - The Australian Medical Research Council funded a double-blind trial (1984-1985) that
+    demonstrated antibiotic eradication of H. pylori and ulcer remission in a controlled
+    setting
+
+capacities: |
+  - Marshall: ability to run single-site clinical experiments, perform endoscopies, publish,
+    and advocate publicly
+  - Warren: pathological expertise and a corroborating biopsy archive stretching back five
+    years
+  - What neither had: convening authority over a multi-site trial, standing with NIH, or
+    access to the gatekeeping institutions of clinical practice change
+
+constraints: |
+  Binding constraint: Marshall's institutional standing. As a registrar, he had no authority
+  to convene multi-center trials, no standing with the NIH, and no existing professional
+  network among the skeptics who controlled publication and clinical guideline development.
+  His evidence was correct; his position in the professional hierarchy was the wrong level
+  from which to force adoption. The 18th camel required working through someone at the right
+  level — a senior gastroenterologist who could sponsor the trial as a genuine collaborative
+  investigation.
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Reframe
+decision_pathway_detail: |
+  Reframe: shift from "how do I prove that I am right?" to "how do I make the profession
+  co-produce the evidence that changes its own practice?" Who acts: Marshall, in partnership
+  with a senior gastroenterologist — one who is skeptical enough to be credible to the
+  profession, willing enough to sponsor a replication trial as a genuine test rather than a
+  validation. For whom: the gastroenterology profession, which needs the finding to emerge
+  from its own evidence-generating processes to trust it. Through what process: a multi-site,
+  co-investigator trial in which skeptics design the inclusion criteria and run the
+  endoscopies.
+
+tools:
+  - tool: Co-investigator replication trial
+    purpose: Produce the same finding in labs run by skeptics, with skeptics as named
+      co-investigators
+    mechanism: Changes interaction by converting the relation between Marshall and the
+      profession from adversarial (registrar insisting he is right vs. professors who are
+      wrong) to collaborative (registrar sharing a hypothesis that professors can verify,
+      falsify, and take ownership of); changes learning by creating evidence that belongs to
+      the professional mainstream, not to a peripheral figure
+  - tool: Explicit scoping of professional implications
+    purpose: Acknowledge in presentations what accepting the finding would require the
+      profession to do — not as accusation but as a joint problem to solve
+    mechanism: Changes interaction by separating "is the bacterium there?" from "what would
+      we have to change if it is?" — creates space to assess the science without being
+      immediately confronted by the institutional consequences; changes coordination by
+      opening a public conversation about what a managed transition from antacid to antibiotic
+      treatment would actually look like
+
+metrics:
+  - metric: Multi-site replication rate
+    measure: Number of independent labs confirming H. pylori in blinded pathology of peptic
+      ulcer specimens
+    method: Published trial results; European H. pylori Study Group (EHPSG, established 1987)
+      coordinated multi-site data
+  - metric: Time to NIH consensus endorsement
+    measure: Years from Lancet publication (June 1984) to formal NIH endorsement of antibiotic
+      therapy for H. pylori
+    method: Comparison of actual timeline (approximately a decade) against modeled timeline
+      under early co-investigator trial design
+
+ninety_day_commitment: |
+  Counterfactual 90-day pathway, beginning October 1984 (one month after the Brussels
+  symposium):
+  - Week 1–2: Marshall approaches the chair of gastroenterology at University of Melbourne
+    or a prominent UK center — a figure whose institutional standing can convene a multi-site
+    trial — to propose a co-investigator replication study.
+  - Month 1: A senior co-investigator agrees to sponsor the double-blind trial; protocol
+    drafted with skeptic input on inclusion criteria (allowing skeptics to contest the
+    methodology before it runs, rather than after it produces results they dislike).
+  - Month 2: Trial begins recruiting at three sites: Perth (Marshall/Warren), Melbourne, and
+    one UK center. Skeptics run their own endoscopies; pathology blinded.
+  - Month 3: Interim data shared with all co-investigators; first multi-site results
+    circulated.
+  This 90-day effort does not guarantee clinical practice changes within a year. It guarantees
+  the evidence is generated by a process the profession cannot dismiss as idiosyncratic to
+  one registrar in Perth.
+
+# --- STRESS TEST AND REFINEMENT ---
+
+stress_test:
+  political_derail: |
+    The pharmaceutical industry's investment in H2 antagonist research could have been
+    directed toward discrediting a co-investigator trial — funding competing analyses,
+    disputing pathology methods, challenging enrollment criteria. If Tagamet/Zantac
+    manufacturers had funded a sufficiently prominent refutation study, the contested evidence
+    base could have persisted even longer.
+  institutional_block: |
+    The co-investigator approach depended on finding an established gastroenterologist willing
+    to stake their reputation on a finding the mainstream considered implausible. Such a
+    figure might have declined, or might have endorsed the null hypothesis after running the
+    trial — which would have set the field back further than Marshall's individual advocacy.
+  wrong_assumption: |
+    That a multi-site replication would have produced consistent results. Variations in
+    bacterial strain, patient selection criteria, or endoscopy technique across sites could
+    have generated inconsistent findings — which would have been taken as disconfirmation of
+    the bacterial model rather than as a call for methodological standardization.
+  missing_resource: |
+    Marshall, as a registrar, had no ability to approach senior professors as an equal. The
+    18th camel required a senior sponsor — Warren (already a hospital pathologist) was the
+    most plausible broker, but Warren was not a clinician; his standing with clinical
+    gatekeepers was different from Marshall's. Without a sufficiently senior clinical
+    co-investigator, the co-design model was not fully available.
+  twelve_month_failure: |
+    If the co-investigator trial had enrolled patients with H. pylori strains showing
+    antibiotic resistance not yet mapped in 1984, non-response rates at skeptics' sites
+    could have been taken as disconfirmation of the bacterial treatment model — reinforcing
+    the status quo rather than displacing it.
+
+revised_problem_definition: |
+  Barry Marshall had the evidence to prove H. pylori causes peptic ulcers, but his strategy
+  for gaining professional adoption treated the problem as solely one of proof rather than
+  of institutional legitimacy. The revised problem definition: how, from the institutional
+  position of a hospital registrar with correct heterodox findings, does one cause a
+  professional community to generate the evidence that changes its own practice — when the
+  actors with convening authority are also the actors with the most professional investment
+  in the competing model? The constraint was not the evidence but the institutional
+  architecture of who generates evidence that the profession trusts, and why Marshall's
+  individual proof could not substitute for that architecture.
+
+# --- HONESTY ---
+
+flag: |
+  A correct finding arrived at by an institutionally marginal figure faces a structural
+  double-bind that principled pragmatism cannot dissolve from within it: the professionals
+  who could have sponsored a collaborative trial were also the professionals with the most
+  to lose if the finding was true. The 18th camel was a joint replication; it required a
+  collaborator with standing. Neither Marshall nor Warren had enough standing to compel that
+  collaboration on their own initiative. Principled pragmatism can identify the 18th camel
+  and argue for it from the evidence. It cannot grant you the institutional position from
+  which to propose it credibly. The framework finds the pathway; it cannot give you the
+  standing to walk it.
+
+sources:
+  - citation: "Marshall, B. J. & Warren, J. R. (1984). Unidentified curved bacilli in the
+      stomach of patients with gastritis and peptic ulceration. The Lancet, 323(8390),
+      1311–1315."
+    status: VERIFIED — confirmed from The Lancet's own issue listing; 16 June 1984, Vol. 323,
+      Issue 8390.
+  - citation: "Marshall, B. J. (2005). Nobel Lecture: Helicobacter connections. Nobel
+      Foundation. Delivered December 8, 2005."
+    status: VERIFIED — available at nobelprize.org; primary source for the self-experiment
+      sequence.
+  - citation: "Warren, J. R. (2005). Nobel Lecture: Helicobacter — the ease and difficulty
+      of a new discovery. Nobel Foundation. Delivered December 8, 2005."
+    status: VERIFIED — available at nobelprize.org.
+  - citation: "Blaser, M. J. (1996). The bacteria behind ulcers. Scientific American,
+      274(2), 104–107."
+    status: VERIFIED — Scientific American archive; contemporaneous account of the discovery
+      and its delayed adoption.
+  - citation: "Centers for Disease Control and Prevention (1997). Knowledge about causes of
+      peptic ulcer disease — United States, March–April 1997. MMWR, 46(43), 985–987."
+    status: VERIFIED — MMWR public health archive; documents that 13 years after the 1984
+      paper, a significant fraction of US physicians still did not associate peptic ulcer
+      disease with H. pylori.

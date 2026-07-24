@@ -1,0 +1,380 @@
+## Schema — Engineering Diplomacy case (SCHEMA.md v2)
+
+# Identity
+case_id: tigris-euphrates-data-compact
+title: "The Invisible River"
+case_type: documented
+mode: prospective
+scale: international
+region: Middle East (Ankara, Turkey; Damascus, Syria; Baghdad, Iraq; Euphrates-Tigris basin)
+recency: recent
+year: 2026
+archetype_dominant: engineer
+crowded_out_mode: thinking
+rubric_version: 1
+
+# --- THREE PERSPECTIVES (all three required before prose) ---
+
+scientist: |
+  The hydrological data for the Tigris-Euphrates basin is contested, fragmented, and largely
+  inaccessible across state borders. Turkey publishes its own GAP project flow data; Iraq's
+  Ministry of Water Resources publishes its own measurements at its own gauging stations;
+  Syria's data infrastructure was severely damaged in the civil war and is being rebuilt by
+  the transitional government. Three countries, one river system, three incompatible national
+  datasets. Peer-reviewed literature estimates a long-run ~40% decline in Euphrates flows to
+  Iraq from historical baselines (UNEP; Robins 2022); drought years (2020–2021) saw flows
+  at specific downstream gauging points 70–90% below seasonal averages. But causation is
+  genuinely contested: how much of Iraq's water deficit is attributable to Turkey's GAP
+  dams, how much to climate change reducing headwater precipitation, how much to Syria's
+  internal agricultural consumption (~26% of Syria's cultivated land is irrigated, primarily
+  from the Euphrates), and how much to Iraq's own irrigation inefficiency (~25–30% water use
+  efficiency) is not established in the literature with shared data. A joint fact-finding
+  exercise is not a precondition for a pleasant negotiation; it is a precondition for any
+  negotiation, because the three countries are currently arguing about three different rivers.
+
+humanist: |
+  Iraq's approximately 4.6 million farmers in the Euphrates and Tigris valleys face an
+  existential crisis not of their making. The Marsh Arabs (Ma'dan), whose ecosystem was
+  drained by Saddam Hussein in the 1990s and partially restored by natural reflooding after
+  2003, now face renewed stress from reduced inflows and increased salinity. Syria's
+  transitional government — in place since December 2024 — inherited the Euphrates valley
+  in Deir ez-Zor, Raqqa, and Aleppo provinces as a reconstruction priority: 26% of Syria's
+  cultivated land is irrigated, and the Euphrates is the primary source. For Turkey's Kurdish
+  and Arab communities in the GAP project area, the dams represent development that took
+  decades to arrive and are politically untouchable. All three governments are simultaneously
+  trying to serve their own populations with no mechanism to understand the aggregate
+  trade-offs they are imposing on each other. The people with the most at stake in this
+  negotiation — farming communities, marsh communities, reconstruction-dependent
+  populations — have the least standing in the existing bilateral frameworks.
+
+engineer: |
+  Turkey has built the infrastructure. The GAP (Güneydoğu Anadolu Projesi / Southeastern
+  Anatolia Project) encompasses 22 dams and 19 hydroelectric plants on the Euphrates and
+  Tigris; as of 2023, approximately 82% of the planned dams are complete, with installed
+  capacity of approximately 5,534 MW out of a 7,476–7,490 MW target. The 1987 "Protocol on
+  Matters Pertaining to Economic Cooperation between Turkey and the Syrian Arab Republic"
+  (signed 17 July 1987) commits Turkey to a minimum average annual flow of 500 m³/s at the
+  Turkish-Syrian border; the 1989 Syria-Iraq bilateral agreement allocates 58% of what Syria
+  receives to Iraq. Whether Turkey is meeting its 500 m³/s commitment, and what the
+  relationship is between that flow and what Iraq actually receives, is unknown to any party
+  with certainty — because there is no shared monitoring mechanism all three countries trust.
+  The November 2025 Turkey-Iraq financial framework (oil purchases from Iraq channeled into
+  water infrastructure built by Turkish firms) creates a commercial relationship but
+  contains no binding flow guarantees. The Iraq-Syria bilateral MoU (2025) commits both to
+  daily data exchange at the Jarabulus border station and equipment upgrades — the most
+  operationally active monitoring in the basin. Turkey is outside both agreements. The
+  engineer sees operational flexibility that exists but has no governance structure to
+  activate it: Turkey can modulate reservoir releases; no mechanism tells Turkey what
+  downstream conditions require or what the treaty commits it to provide.
+
+archetype_dominant: engineer
+crowded_out_mode: thinking
+
+# --- DIAGNOSIS ---
+
+scientific_facts: |
+  - Turkey's GAP project: 22 dams and 19 hydroelectric plants on the Euphrates and Tigris;
+    approximately 82% of planned dams complete as of 2023; installed capacity ~5,534 MW
+    (target 7,476–7,490 MW)
+  - The 1987 Turkey-Syria protocol guarantees a minimum average annual flow of 500 m³/s at
+    the Turkish-Syrian border; the 1989 Syria-Iraq agreement allocates 58% of what Syria
+    receives to Iraq
+  - Long-run decline in Euphrates flow to Iraq: approximately 40% from historical baseline
+    (peer-reviewed literature); drought-year declines at specific gauging points reached
+    70–90% below seasonal averages (2020–2021) — this figure is context-dependent and
+    applies to specific downstream sections and drought conditions, not the long-run average
+  - Iraq-Syria bilateral MoU (2025): commits both to daily data exchange at Jarabulus border
+    station; most operationally active monitoring arrangement in the basin
+  - No functioning trilateral monitoring mechanism exists; the Joint Technical Committee
+    (Turkey, Iraq, Syria, 1980–1993) collapsed without reaching an allocation agreement and
+    has not been reconvened
+
+social_facts: |
+  - Iraq's farming communities in the Euphrates and Tigris valleys (Anbar, Babil, Najaf,
+    Dhi Qar, Basra) are experiencing agricultural collapse linked to water deficit
+  - The Marsh Arabs' ecosystem was restored after 2003 and is under renewed stress from
+    reduced inflows and increased salinity
+  - Syria's transitional government (since December 2024) inherited the Euphrates valley
+    as a reconstruction priority; its domestic institutional bandwidth for complex
+    multilateral negotiation is limited by the simultaneous demands of governance,
+    security, and economic recovery
+  - Turkey's Kurdish and Arab populations in the GAP zone view the project as overdue
+    development; it is politically unassailable domestically
+  - The November 2025 Turkey-Iraq "oil-for-water" financial framework is criticized by
+    civil society organizations (Save the Tigris Foundation) for containing no binding
+    flow guarantees — characterizing it as infrastructure investment, not water governance
+
+political_realities: |
+  - Turkey has not ratified the 1997 UN Convention on the Law of Non-Navigational Uses of
+    International Watercourses; Turkey does not accept prior use as a binding legal principle
+  - Iraq is the downstream state with the greatest stake and the least leverage: it cannot
+    threaten Turkey with anything Turkey materially values in the water domain
+  - Syria's transitional government has a fresh diplomatic start and no commitment to
+    Assad-era positions — but also no established negotiating relationships and limited
+    institutional capacity
+  - No UN-facilitated formal trilateral negotiation is currently in place (as of July 2026)
+  - EU interest in Middle East stabilization and Turkey's accession discussions (stalled
+    but not dead) provide potential external leverage; neither has prioritized the
+    Tigris-Euphrates as a diplomatic focus
+
+uncertainty_and_ambiguity: |
+  - Uncertainty: the precise volume of water Turkey is currently releasing vs. the volume
+    required by the 1987 protocol; without shared monitoring this is genuinely unknown to
+    any party
+  - Uncertainty: causation of Iraq's water deficit — the relative contributions of GAP
+    operations, climate change, Syrian consumption, and Iraqi irrigation inefficiency are
+    not established without joint data
+  - Ambiguity: what "equitable" means when three countries have different historical use
+    claims, different development levels, and different energy needs. Turkey, Syria, and
+    Iraq do not share a common definition of "fair allocation," and no treaty binds them
+    to a single framework for establishing one
+
+key_tensions:
+  - "Energy sovereignty vs. downstream food security: Turkey's reservoir operations are
+    optimized for hydroelectric generation; Iraq's farmers need predictable seasonal flows"
+  - "Development rights vs. no-significant-harm: Turkey asserts the right to develop its
+    water resources; Iraq and Syria argue GAP operations cause significant transboundary harm"
+  - "Data sharing vs. sovereignty concerns: joint monitoring exposes each party's
+    consumption patterns and infrastructure management, which each treats as sensitive
+    national information"
+
+problem_definition: >
+  Turkey, Syria, and Iraq share the Tigris-Euphrates basin under incompatible legal
+  frameworks, with no functioning joint monitoring mechanism and no agreed data baseline —
+  making meaningful negotiation on flows, allocation, or harm impossible. The live diplomatic
+  question is whether Syria's transitional government, which signed a data-sharing MoU with
+  Iraq in 2025 and is re-engaging with Turkey, can broker a trilateral hydrological
+  transparency compact before the current water crisis hardens into entrenched positions.
+
+# --- METAPHORS ---
+
+one_plus_one: |
+  Turkey is answering: "How do we operate our dam system to serve our national energy and
+  agricultural development goals?" Iraq is answering: "How do we get enough water for our
+  farmers to survive?" Syria is answering: "How do we rebuild our agricultural economy?"
+  These three questions do not share an object: each refers to a different river, because
+  each country's data describes a different river — a nationally-constructed estimate, not
+  a jointly-verified fact. 1+1 produces three separate ones: three national water narratives
+  about the same watershed, incompatible because they were built on incompatible data, unable
+  to merge into joint fact-finding because no mechanism for joint fact-finding exists.
+
+where_is_x: |
+  The July–September 2026 window is the current intervention point. Syria's transitional
+  government is less than two years old, has initiated a working bilateral relationship with
+  Iraq on monitoring, and is re-engaging with Turkey diplomatically for the first time in
+  decades. The Iraq-Syria MoU provides the architecture; Syria is the middle riparian through
+  whose territory the Euphrates flows between Turkey and Iraq. Syria is the only party that
+  can propose a trilateral extension of the bilateral monitoring compact and be taken
+  seriously by both Turkey and Iraq simultaneously. Miss this window — let the next drought
+  season produce a political crisis without a framework, or let Syria's transitional
+  government become consumed by its domestic reconstruction demands — and the opening closes
+  as new interests calcify.
+
+eighteenth_camel: |
+  The apparent binary: (A) negotiate a binding water allocation treaty among Turkey, Syria,
+  and Iraq — which Turkey will not sign (it would require acknowledging prior use as a
+  binding principle and would constrain GAP operations). Or (B) continue the status quo of
+  bilateral deals and fragmented monitoring, which leaves Iraq's deficit unaddressed and
+  Syria without a data baseline from which to advocate. The 18th camel: a Tigris-Euphrates
+  Hydrological Transparency Compact — a data-sharing and early-warning protocol that all
+  three countries can join without conceding legal positions on water rights. Turkey does not
+  have to acknowledge prior use; it shares flow data at dam outfall stations. Iraq and Syria
+  do not have to accept Turkey's development rights arguments; they share consumption data.
+  The compact is not about who gets what. It is about what is actually happening, so that
+  any eventual who-gets-what negotiation has a river all three parties can see.
+
+solomon_check: |
+  Turkey's water ministry officials know exactly what they would argue if positions were
+  reversed — if an upstream state were operating dams that reduced Turkey's flow by 40%
+  without sharing monitoring data: unacceptable, violation of customary international law,
+  immediate demand for joint fact-finding. The advice Turkey would give another state in
+  Iraq's position is the advice Turkey has not taken in the Tigris-Euphrates basin. The
+  Solomon Paradox operates at scale: the wisdom for diagnosing the problem is available to
+  every party in the room; none can direct it inward because each is simultaneously the
+  problem and the diagnostician.
+
+urgency_vs_actionability: |
+  The urgency is structural and accelerating: Iraq's water availability is declining, climate
+  change is reducing headwater precipitation, and the current pattern of bilateral deals
+  without flow guarantees is not building toward a sustainable baseline. The actionability
+  depends on Syria's new government having the institutional bandwidth and diplomatic
+  standing to propose a trilateral mechanism before its governing coalition fractures or its
+  reconstruction priorities overwhelm its diplomatic capacity. Syria's transition government
+  has been in place less than two years; the window in which it can take diplomatic
+  initiative is finite and closing.
+
+# --- CONDITIONS, CAPACITY, CONSTRAINTS ---
+
+enabling_conditions: |
+  - The Iraq-Syria bilateral MoU on data sharing (2025) provides both parties with
+    operational experience of joint monitoring; expanding to three parties is technically
+    straightforward
+  - Syria's transitional government has a fresh diplomatic start and no commitment to
+    Assad-era water positions or confrontational framing with Turkey
+  - The November 2025 Turkey-Iraq financial framework created a commercial relationship
+    with both; Turkey has a material interest in Iraq's economic stability
+  - EU interest in Middle East stabilization provides a potential external convener
+
+capacities: |
+  - Syria: legitimate authority to propose a trilateral mechanism; geographic position as
+    middle riparian; diplomatic freshness; party to the existing Iraq bilateral MoU
+  - Iraq: demonstrated commitment to data sharing (the 2025 bilateral MoU); political
+    urgency that makes participation rational; some leverage via the oil-for-water
+    financial relationship with Turkey
+  - Turkey: technical capacity to provide high-quality flow data from its own GAP
+    operational monitoring; the data to share already exists internally
+
+constraints: |
+  Binding constraint: Turkey's unwillingness to join any mechanism that could be used as
+  evidence in a future water allocation dispute, combined with Syria's limited institutional
+  bandwidth as a transitional government simultaneously managing reconstruction, security,
+  and economic recovery. The compact is designed to remove the first constraint by explicitly
+  scoping to data sharing rather than rights adjudication. The second constraint requires an
+  external convener.
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Expand
+decision_pathway_detail: |
+  Expand: take the existing Iraq-Syria bilateral data-sharing MoU (2025) and extend it to
+  include Turkey as a third party. The mechanism already exists; the architecture is built.
+  Who acts: Syria's transitional Ministry of Water Resources, as the middle riparian that
+  has signed the Iraq MoU and is re-engaging Turkey. For whom: all three countries' farming
+  communities and water managers who currently operate on incompatible national data. Through
+  what process: Syria formally proposes to Turkey the extension of the Jarabulus monitoring
+  mechanism as a trilateral compact, explicitly scoped to data and early-warning (not rights
+  adjudication), with UNEP or the Arab League as neutral technical secretariat.
+
+tools:
+  - tool: Trilateral data-sharing protocol (extension of Iraq-Syria MoU)
+    purpose: Establish a shared flow baseline across all three riparian states
+    mechanism: Changes interaction by converting each country's river narrative from a
+      nationally-constructed estimate to a jointly-verified fact, removing the incompatible
+      data problem that prevents negotiation; changes coordination by giving all three
+      parties a common data object to negotiate around instead of three incompatible claims
+  - tool: Real-time drought early-warning system (joint)
+    purpose: Trigger automatic consultation when downstream flow falls below agreed
+      seasonal thresholds
+    mechanism: Changes interaction by making the cost of drought conditions visible to
+      Turkey in real time and before political escalation; changes learning by producing a
+      dataset on which future seasonal adjustment protocols can be built
+  - tool: Independent technical secretariat (hosted by UNEP or Arab League)
+    purpose: Provide administrative home for data verification and dispute resolution on
+      monitoring questions
+    mechanism: Changes coordination by removing the need for any party to trust the others'
+      national data collection agencies; changes interaction by creating a body where
+      technical disputes ("is Turkey meeting the 500 m³/s commitment?") are resolved on
+      technical grounds before they become diplomatic ones
+
+metrics:
+  - metric: Shared monitoring station coverage
+    measure: Percentage of key Euphrates-Tigris gauging stations providing real-time data
+      to all three parties
+    method: UNEP / technical secretariat annual audit; list of covered stations published
+  - metric: Drought-trigger activation and response
+    measure: Number of drought-threshold triggers activated; number of times Turkey
+      modulated releases in response; ratio as governance effectiveness indicator
+    method: Joint technical committee log; independently verified by secretariat
+  - metric: Water use efficiency in all three countries
+    measure: Agricultural output per unit of water consumed, indexed against 2024 baseline
+    method: FAO country-level assessments shared with and verified by technical secretariat
+
+ninety_day_commitment: |
+  Live recommendation — the first 90 days of the 18th-camel pathway:
+  - July 2026: Syria's Ministry of Water Resources formally proposes to Turkey the extension
+    of the Iraq-Syria bilateral data-sharing MoU to a trilateral instrument, framed
+    explicitly as a hydrological monitoring compact with no implications for water rights
+    adjudication
+  - August 2026: Technical working group (Syria-Iraq leads; Turkey invited) convenes to
+    define data parameters — which dam outfall stations, what reporting frequency, in what
+    format; UNEP technical capacity assessment initiated
+  - September 2026: UNEP agrees to host the technical secretariat function and provide
+    independent data verification; Arab League briefed as potential convener
+  - October 2026 (before next agricultural season): Compact signed in principle, with a
+    12-month pilot phase at the Jarabulus border station now expanded to include Turkish
+    upstream data from Atatürk Dam outfall
+
+# --- STRESS TEST AND REFINEMENT ---
+
+stress_test:
+  political_derail: |
+    Turkey's domestic politics are structured around the GAP project as a symbol of national
+    development. If the data-sharing compact is perceived — by Turkish opposition parties
+    or Kurdish nationalist groups — as the first step toward binding allocation constraints,
+    it will be blocked before it is signed. The compact's explicit scoping to monitoring
+    rather than rights is the primary structural defense against this risk, but it cannot
+    survive a determined domestic-political framing effort.
+  institutional_block: |
+    Syria's transitional government may fracture, face renewed armed challenges, or be
+    absorbed entirely by reconstruction demands before it can lead the diplomatic initiative.
+    Turkish military operations in northeastern Syria — an ongoing factor — could freeze
+    Syrian-Turkish relations before the compact is concluded.
+  wrong_assumption: |
+    That Turkey is willing to participate in any trilateral mechanism. Turkey withdrew from
+    the Joint Technical Committee (1980–1993) after it failed to reach agreement; there is
+    no guarantee Turkey would agree to even a non-binding data-sharing instrument if it
+    believes the data would be used against it in future legal or diplomatic proceedings.
+  missing_resource: |
+    A neutral convener with credibility with all three parties simultaneously. UNEP has
+    technical standing; the Arab League has regional standing; neither has demonstrated
+    convening authority for a Turkish-Syrian-Iraqi negotiation in the recent past. Without
+    a convener Turkey trusts, Syria's initiative alone may be insufficient.
+  twelve_month_failure: |
+    Even with a data-sharing compact in place, if the 2026–2027 drought season is severe,
+    Iraq's water availability may fall below the threshold at which monitoring data matters:
+    the harm would be documented, not prevented. Monitoring can diagnose; it cannot produce
+    water that climate change has already reduced.
+
+revised_problem_definition: |
+  Turkey, Syria, and Iraq cannot negotiate meaningfully about Tigris-Euphrates water because
+  they have no shared data baseline — each country operates on its own national measurements,
+  which are incompatible with each other. The revised problem definition: the immediate
+  diplomatic opportunity is not a water allocation treaty — which Turkey will not sign and
+  which neither Syria nor Iraq currently has the institutional capacity to negotiate — but a
+  hydrological transparency compact that gives all three parties a shared object to negotiate
+  about when conditions allow. The constraint is not primarily legal (a compact can be scoped
+  outside the rights-dispute framework) but diplomatic and institutional: it requires Syria's
+  transitional government to take initiative before its domestic capacity is overwhelmed, and
+  it requires Turkey to sign a document that can be read domestically as monitoring rather
+  than constraint.
+
+# --- HONESTY ---
+
+flag: |
+  A transparency compact creates a shared data baseline; it does not change the physical
+  fact that Turkey has built 22 dams upstream. Even with perfect monitoring, Iraq's water
+  deficit in severe drought years is not addressable through data alone — addressing it would
+  require reducing Turkish reservoir retention, restructuring Syrian irrigation, improving
+  Iraqi water use efficiency, or some combination — all of which require enforceable
+  commitments that no party is currently willing to make. The engineering diplomat can build
+  the diagnostic instrument — the shared thermometer by which all three countries can read
+  the same temperature. They cannot compel the fever to break. The compact is necessary;
+  it is not sufficient. And the populations most in need of the sufficient solution are not
+  the populations with the standing to demand it.
+
+sources:
+  - citation: "'Protocol on Matters Pertaining to Economic Cooperation between Turkey and
+      the Syrian Arab Republic.' Signed 17 July 1987, Turkish-Syrian Joint Economic
+      Commission, Ankara."
+    status: VERIFIED — confirmed through Oregon State University Program in Water Conflict
+      Management and Transformation database; IEMed; peer-reviewed literature on
+      Tigris-Euphrates governance. 500 m³/s guarantee confirmed.
+  - citation: "Jongerden, J. (2010). Dams and politics in Turkey: utilizing water,
+      developing conflict. Middle East Policy, 17(1), 137–143."
+    status: VERIFIED — peer-reviewed; widely cited in Tigris-Euphrates literature.
+  - citation: "Robins, P. (2022). Turkey, water, Iraq, and the 2020 drought: A case of
+      aquapower? Middle East Journal, 76(2), 221–243."
+    status: VERIFIED — academic journal article; Duke University Press; confirms flow
+      decline figures and GAP project data.
+  - citation: "Save the Tigris and Iraqi Marshes Campaign (2022). Water Crisis in Iraq:
+      Policy Brief. Baghdad: Save the Tigris Foundation."
+    status: VERIFIED — policy brief; accessible at savethetigris.org; widely cited in
+      policy literature on Iraq water crisis.
+  - citation: "Turkey-Iraq Framework Agreement on Financial Mechanism for Water Cooperation
+      Projects. November 2025."
+    status: VERIFIED — reported by Reuters and Al-Monitor in November 2025; confirmed as a
+      financial mechanism with no binding flow guarantees by civil society analysis.
+  - citation: "Iraq-Syria Memorandum of Understanding on Shared Water Resource Management,
+      including commitment to daily data exchange at Jarabulus border station. 2025."
+    status: VERIFIED — reported by Save the Tigris Foundation and regional media; confirmed
+      as most operationally active monitoring arrangement in the basin.
