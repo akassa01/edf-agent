@@ -1,0 +1,267 @@
+case_id: cochabamba-water-coordinadora
+title: "The Well They Already Built"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Americas (Cochabamba, Bolivia)"
+recency: recent
+year: 2000
+rubric_version: 1
+archetype_dominant: humanist
+crowded_out_mode: doing
+
+# --- THREE PERSPECTIVES (all required before prose) ---
+
+scientist: >
+  The economic case for privatization rested on real data. SEMAPA, Cochabamba's municipal
+  utility, served roughly 60 percent of the city's 800,000 residents and lacked the capital
+  to fund the Misicuni tunnel-dam-power project needed to expand coverage. The World Bank's
+  structural adjustment analysis held that private investment was the only viable financing
+  mechanism. The model was internally coherent. Its boundary was wrong. The "current system"
+  baseline erased the community wells and irrigation cooperatives that served the 40 percent
+  SEMAPA didn't reach — treating them as a service gap to be filled by the concession rather
+  than as an existing governance system. The water table, extraction volumes, and maintenance
+  costs for those wells were not measured. What cannot be measured does not appear in the
+  model; what does not appear in the model does not appear in the contract.
+
+humanist: >
+  For Cochabamba's peri-urban and rural communities, water was not a commodity or an
+  infrastructure asset. It was a commons managed through intergenerational reciprocal
+  obligation — wells dug collectively, irrigation channels maintained through community
+  labor, water committees that allocated access during dry months through consensus.
+  When Law 2029 extended the Aguas del Tunari concession to "all water resources" within
+  the coverage area, it did not merely raise prices; it made the existing water governance
+  structure illegal. A rural farmer who had paid for and maintained a community well now
+  technically owed royalties to a foreign company for drawing from it. The Coordinadora
+  understood this before most commentators did: the issue was not price — it was sovereignty.
+  Water governance was the medium through which communities maintained a form of democratic
+  self-management that formal politics did not offer them. Criminalizing it was experienced
+  as expropriation even where no money had yet changed hands.
+
+engineer: >
+  The engineering picture has legitimate complexity. Cochabamba was chronically water-scarce
+  (rainfall fed only about 10 percent of demand), SEMAPA's infrastructure was failing, and
+  the Misicuni project was a technically sound but capital-intensive solution that required
+  a private concession to be financially viable at all. The contract was a response to a
+  real problem. But Article 50 — the clause extending the concession to all water resources —
+  was not an engineering necessity; it was a legal over-reach. A concession covering only
+  SEMAPA's existing formal connections and new Misicuni-funded infrastructure would have been
+  technically sufficient to fund the project while leaving existing community systems legally
+  intact. No one at the 1999 negotiating table was mandated to represent the cooperative water
+  users, so no one checked whether that clause was necessary. It wasn't.
+
+# --- DIAGNOSIS ---
+
+scientific_facts: >
+  SEMAPA served ~60% of Cochabamba's 800,000 residents (2000). Water rate increases under
+  Aguas del Tunari: the company's own figure was 35-50% for SEMAPA users; Democracy Center
+  field documentation showed some households receiving bills reaching $20/month — equivalent
+  to the monthly minimum wage. Law 2029 (October 1999) was modeled on World Bank structural
+  adjustment conditions attached to a $600M loan to Bolivia. Aguas del Tunari was a
+  consortium: International Water/Edison (US, Bechtel subsidiary), Abengoa (Spain), and
+  four Bolivian construction interests. SEMAPA's coverage had stagnated; the Misicuni project
+  had been on paper since the 1970s.
+
+social_facts: >
+  Community water governance in Cochabamba's peri-urban zones — water committees (comités de
+  agua), irrigation cooperatives, hand-dug community wells — predated SEMAPA and served the
+  40% the utility did not reach. These structures were governance structures, not just
+  infrastructure: they maintained community solidarity and local decision-making. Article 50
+  of Law 2029 threatened their legal existence. Many community water users did not know
+  whether their wells were included until the Coordinadora organized explanation meetings.
+  Oscar Olivera of the factory workers' federation (FSTMB) became the public face of the
+  Coordinadora de Defensa del Agua y de la Vida — an unusually broad coalition spanning trade
+  unions, farmers' associations, civic organizations, and professionals.
+
+political_realities: >
+  Bolivia was under World Bank and IMF structural adjustment conditions. The government of
+  Hugo Banzer (former dictator, elected 1997) had limited political capital to resist
+  creditor pressure. The Bolivian Congress rushed Law 2029 through without meaningful debate
+  in October 1999. The Coordinadora had unusual legitimacy precisely because of its
+  breadth — broader than a typical protest coalition, it was not easily dismissed as a
+  sectional interest. Victor Hugo Daza, 17, was killed by a sharpshooter in civilian clothes
+  during the April protests — a moment that removed any remaining government claim to public
+  trust. Aguas del Tunari (through Bechtel) ultimately filed a $50M ICSID arbitration
+  claim, which was withdrawn after international pressure in 2001.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: Whether Law 2029 legally covered community-dug wells was genuinely
+  ambiguous — the law's text was broad but its enforcement intentions unclear. Whether the
+  Misicuni project would actually extend service to underserved communities (SEMAPA's track
+  record suggested institutional reform alone would not change distributional outcomes).
+  Ambiguity: What "water as a human right" meant institutionally — it had moral consensus
+  but no legal definition in Bolivian law in 2000. What "privatization" meant to community
+  well users who had always managed their water privately, collectively.
+
+key_tensions:
+  - "Infrastructure investment vs. community water sovereignty: funding Misicuni required a private concession; the concession as designed extinguished community water governance"
+  - "Rate increases vs. service expansion: higher prices were needed to fund new infrastructure for the 40% unserved; but those communities were the least able to pay and were being asked to pay for infrastructure that would theoretically reach them"
+  - "International financial institution conditionality vs. democratic accountability: the World Bank's loan conditions constrained the Bolivian government's negotiating room within its own domestic politics"
+
+problem_definition: >
+  The Bolivian government must decide how to structure a water concession that funds the
+  Misicuni dam project without extinguishing the community water governance systems that
+  serve the peri-urban residents the municipal utility does not reach.
+
+# --- METAPHORS ---
+
+one_plus_one: >
+  The government and World Bank were answering "how do we finance critical water
+  infrastructure?" The Coordinadora was answering "who controls our water?" Both questions
+  used the word "water," but they described different things: a commodity requiring capital
+  investment vs. a commons requiring recognized governance. When they said "solve the water
+  problem," they were not adding the same quantities. Their sum was two incompatible answers,
+  not a shared solution.
+
+where_is_x: >
+  Article 50 of Law 2029 (October 1999), which included in Aguas del Tunari's concession
+  territory all water resources within the coverage area — making existing community wells,
+  irrigation systems, and independent water cooperatives part of the privatized system. The
+  Coordinadora explicitly demanded its repeal as a distinct condition before any other
+  negotiation. Remove Article 50 and you substantially change the conflict; keep it and the
+  conflict cannot be resolved short of either total capitulation or company withdrawal.
+
+eighteenth_camel: >
+  Neither full privatization (community systems absorbed into the concession) nor return to
+  SEMAPA (which could not fund Misicuni) had to be the only options. The camel: a hybrid
+  concession agreement that (a) explicitly exempts existing community-built water systems and
+  cooperatives from the territory of exclusivity; (b) grants Aguas del Tunari responsibility
+  only for SEMAPA's existing formal connections and all new Misicuni-funded infrastructure;
+  (c) establishes a tiered pricing structure where higher-consumption formal connections
+  cross-subsidize new connections to underserved areas. This model was technically available;
+  it was eventually approximated by Bolivia's 2004 Drinking Water and Sanitation Law
+  (Law 2066), which distinguished municipal networks from community-managed systems.
+
+solomon_check: >
+  The Bolivian government and World Bank, if advising a third country on a similar concession
+  design, would almost certainly have noted that excluding existing community water systems
+  from the territory of exclusivity reduces political risk — the principal source of project
+  failure. They gave themselves no such counsel. Distance reveals what proximity hides.
+
+urgency_vs_actionability: >
+  By April 2000, the urgency (protests, deaths, martial law, Daza's killing) had overtaken
+  the actionability. The government's negotiating window for the hybrid camel had effectively
+  closed by March. The Coordinadora's moral position was more coherent than the government's,
+  but the outcome — SEMAPA back, Misicuni unfunded, infrastructure deficit intact — was the
+  result of urgency consuming the space where a workable solution might have been built.
+
+# --- CONDITIONS ---
+
+enabling_conditions:
+  - "The Coordinadora's organizational breadth — an unusual cross-class coalition that gave it legitimacy across constituencies"
+  - "Community water committee infrastructure that had already organized communities around water governance, giving the movement a technical base, not just a moral one"
+  - "Global water rights discourse was gaining momentum; Democracy Center and international NGOs provided documentation and amplification"
+
+capacities:
+  - "Government: could modify Law 2029, could negotiate concession terms, could offer alternative financing models"
+  - "Coordinadora: could mobilize and sustain large-scale protest; had technical advisors; had identified the specific legislative clause (Article 50) that needed to change — a specific legal demand, not a general protest"
+  - "Aguas del Tunari: could renegotiate concession terms or exit; ultimately chose exit, withdrawing rather than accept either community exemption or political risk"
+
+constraints:
+  binding: "World Bank loan conditionality tied to the privatization model. The government needed the $600M loan, and the Misicuni concession structure was the instrument."
+  structural: "No alternative financing vehicle for Misicuni investment existed at the required scale."
+  political: "The Bolivian Congress had to modify Law 2029; that required a political consensus the Banzer government didn't have before April 2000."
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Redesign
+decision_pathway_detail: >
+  Redesign Article 50 of Law 2029 to exempt existing community-built water systems from the
+  concession's territory of exclusivity. The actor: the Bolivian Congress, acting on a
+  petition from the Coordinadora and the water ministry. The process: a joint working group
+  including community water committee representatives drafting the language. For whom:
+  peri-urban water communities managing independent systems. This redesign was eventually
+  executed in Bolivia's 2004 Law 2066; the question is not whether it was available but
+  whether the political and financial architecture of 2000 allowed the government to see it
+  before the protests reached crisis scale.
+
+tools:
+  - "Joint drafting of revised Article 50 language with community water committee representatives → to determine the actual boundaries of the concession territory → changes what communities understand themselves to be negotiating about, converting a general grievance into a specific legal demand"
+  - "Community water system mapping → enumerate and legally recognize existing cooperative structures before concession design → changes the economic model baseline from 'service gap' to 'existing governance system,' making the exemption legible to the World Bank's financial analysis"
+  - "Tiered pricing feasibility study → demonstrate that cross-subsidy from formal connections can offset revenue loss from community exemption → changes the concession's financial model so community exemption doesn't automatically compromise Misicuni's bankability"
+
+metrics:
+  - "Number of community water systems legally exempted / total operating community systems → measured by concession contract language against community water committee registry"
+  - "SEMAPA formal connection expansion rate in peri-urban areas → measured quarterly post-concession → linked to whether Misicuni revenue actually reaches underserved areas"
+  - "Real water cost for community system users vs. SEMAPA formal connection users → tracked annually → linked to cross-subsidy design effectiveness"
+
+ninety_day_commitment: >
+  Counterfactual: Within 90 days of the September 1999 concession agreement, the Bolivian
+  water ministry (1) commissions a legal opinion on whether Article 50 covers existing
+  community wells, with Coordinadora representatives on the review panel; (2) convenes a
+  joint working group with water committee leaders to map existing community systems and
+  their relationship to SEMAPA's service boundary; (3) presents a revised Article 50 draft
+  to the World Bank that explicitly exempts community-built systems. This gives the
+  Coordinadora a specific legislative ask — an Article 50 amendment — rather than "cancel
+  the contract." A specific demand is more likely to produce negotiated modification before
+  protests reach crisis scale.
+
+# --- STRESS TEST ---
+
+stress_test:
+  political: >
+    The World Bank could condition the $600M loan on non-exemption of community systems,
+    arguing a two-tier water governance structure reduces economic efficiency and raises
+    collection risk. Probability: medium-high. The Bank had leverage and had already
+    pushed Law 2029 through. If the Bank rejected the hybrid design, the government had no
+    viable financing alternative — and no domestic political base to resist the Bank's
+    position.
+  institutional: >
+    SEMAPA management could resist the community system mapping process to protect its
+    monopoly on technical information about the service area. Probability: medium. SEMAPA
+    had no institutional interest in seeing community systems recognized as legitimate
+    parallel infrastructure.
+  wrong_assumption: >
+    The assumption that the Coordinadora would accept a partial compromise — Article 50
+    amended, contract otherwise intact — may be wrong. By December 1999, the coalition had
+    hardened its position to full contract cancellation. The hybrid camel might have been
+    rejected as capitulation by the base, particularly after Daza's death.
+  missing_resource: >
+    A financing alternative to the Aguas del Tunari concession structure. Without one,
+    exempting community systems reduces concession revenue and jeopardizes Misicuni's
+    bankability. No such alternative existed in 1999-2000.
+  twelve_month_failure: >
+    Even with the hybrid design, if SEMAPA continues to exclude peri-urban areas from
+    expansion (as it did both before and after the Water War), the political case for the
+    Coordinadora to accept any form of privatization disappears within a year. Infrastructure
+    reform is the prerequisite; it is not automatically the outcome.
+
+revised_problem_definition: >
+  The Bolivian government must decide how to structure a water concession that funds the
+  Misicuni project — given that World Bank conditionality requires privatization, and that
+  any concession design that does not explicitly exempt existing community-built water
+  systems will generate a legitimacy crisis with peri-urban communities who are not SEMAPA
+  customers and who have no formal seat in the concession negotiation. The binding constraint
+  is not community opposition to Misicuni; it is the absence of a legal category for
+  community-managed water in the concession framework. The problem statement has changed:
+  this is not a protest to manage. It is a legal omission to correct.
+
+# --- HONESTY ---
+
+flag: >
+  The Cochabamba Water War ended with a clear outcome: Aguas del Tunari withdrew, SEMAPA
+  returned, Law 2029 was repealed. The Coordinadora won. But SEMAPA still could not fund
+  Misicuni, and peri-urban water access remained unresolved for years. The case reveals
+  something engineering diplomacy cannot resolve: when the humanist refusal to accept a
+  modified offer is vindicated by the counterparty's exit, the 18th camel becomes
+  retroactively unnecessary. But that vindication was contingent on Aguas del Tunari's
+  decision to leave rather than fight — a decision the Coordinadora could not have known
+  in advance. Principled pragmatism cannot tell you whether your counterparty will negotiate
+  or exit. It can tell you what the camel should be. When the camel is rejected and the
+  outcome is vindicated by the other side's departure, the case teaches the hardest lesson:
+  the decision under uncertainty was made correctly, and for reasons not fully available at
+  the moment of decision.
+
+sources:
+  - citation: "Oscar Olivera and Tom Lewis, '¡Cochabamba!: Water War in Bolivia' (2004), South End Press"
+    status: verified
+  - citation: "William Finnegan, 'Leasing the Rain,' The New Yorker, April 8, 2002"
+    status: verified
+  - citation: "Jim Shultz and Melissa Draper (eds.), 'Dignity and Defiance: Stories from Bolivia's Challenge to Globalization' (2008), University of California Press"
+    status: verified
+  - citation: "Tom Perreault, 'From the Guerra del Agua to the Guerra del Gas: Resource Governance, Neoliberalism and Popular Protest in Bolivia,' Antipode 38, no. 1 (2006): 150-172"
+    status: verified
+  - citation: "Bechtel Corporation, 'Bechtel Perspective on the Aguas Del Tunari Water Concession in Cochabamba, Bolivia,' press release (2003), bechtel.com"
+    status: verified
+  - citation: "Jim Shultz / Democracy Center, 'The Water War Dispatches' (April 2000), democracyctr.org/the-water-war-dispatches-in-full"
+    status: verified

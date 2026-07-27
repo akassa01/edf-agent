@@ -1,0 +1,303 @@
+case_id: nubian-aswan-displacement
+title: "Abu Simbel Was Saved"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Africa and Middle East (Egypt and Sudan, Nubian homeland / Lake Nasser basin)"
+recency: historical
+year: 1959
+rubric_version: 1
+archetype_dominant: humanist
+crowded_out_mode: doing
+
+# --- THREE PERSPECTIVES (all required before prose) ---
+
+scientist: >
+  The hydrological case for the Aswan High Dam was compelling by any technical standard.
+  Egypt's agriculture was entirely dependent on Nile flood cycles, and the 1950s had brought
+  catastrophic drought years alongside destructive floods. The dam would regulate flow,
+  enable perennial irrigation of two million additional feddans, generate 10 billion
+  kilowatt-hours annually, and eliminate the flood variability that made Egyptian planning
+  unreliable. These projections were largely accurate. The technical analysis of Nubian
+  resettlement was addressed with considerably less rigor. Egyptian government surveys
+  assessed Kom Ombo's agricultural potential and judged it suitable. Later analyses found
+  soil quality in the northern areas of Kom Ombo substantially below assessment; agricultural
+  yields did not match the feasibility reports. Crucially, no systematic study was made of
+  Nubian farming knowledge — the specific techniques for date palm cultivation, Nile silt
+  cycle agriculture, and community construction methods that were the productive engine of
+  the homeland. What is not measured cannot be transplanted.
+
+humanist: >
+  Nubia was not a geographic region with interchangeable characteristics. It was a
+  civilization with continuous settlement dating to at least 3800 BCE, its own language
+  families (Nobiin, Kenzi-Mattoki), architectural traditions (the decorated courtyard
+  compound repeated across 44 Egyptian villages), oral histories, and a relationship to the
+  Nile that was specific, not fungible. When Sudan offered New Halfa on the Atbara River,
+  800 kilometers from the homeland, the government framed this as equivalent because
+  "agricultural conditions were similar." Agricultural similarity is a scientific category,
+  not a humanist one. The communities being relocated did not lose farmland; they lost a
+  world. The question "where would you like to live instead?" assumed that "where" was the
+  relevant variable. It was not. The relevant variable was: in what relationship, with what
+  land, under what governance, within what social structure. The international community
+  mobilized $80 million and eight years of engineering diplomacy to save Abu Simbel. No
+  equivalent mobilization existed for the communities whose civilization Abu Simbel
+  represented.
+
+engineer: >
+  The engineering decision about resettlement was made as a logistics problem: how do you
+  move 120,000 people? The answer was: provide 40 days' notice, organize transportation,
+  pay compensation at assessed land values, and assign communities to prepared land. The
+  governments built houses at New Halfa and Kom Ombo. What the logistical frame
+  systematically excluded was any assessment of what communities needed to maintain their
+  productive capacity. Nubian agriculture was not generic subsistence farming; it was
+  specialized for specific soil conditions, water table depths, and growing seasons
+  particular to the Nile valley south of Aswan. Agricultural technicians who assessed
+  Kom Ombo measured soil chemistry and water availability. They did not assess whether
+  Nubian farming communities had the knowledge or tools to work this specific land type.
+  The result: communities relocated to land they could not farm effectively with the skills
+  and practices they possessed. A knowledge inventory would have taken months. It was not
+  conducted.
+
+# --- DIAGNOSIS ---
+
+scientific_facts: >
+  Approximately 120,000 Nubians were displaced: ~70,000 Egyptian Nubians relocated to
+  Kom Ombo (50km north of Aswan) between October 1963 and June 1964; ~50,000 Sudanese
+  Nubians relocated to Khashm el Girba / New Halfa (~800km from homeland). Lake Nasser
+  inundated 500km of Nile Valley, submerging 44 Nubian villages in Egypt and approximately
+  25 in Sudan. UNESCO's International Campaign to Save the Monuments of Nubia (1960-1968)
+  raised $80 million internationally and relocated 22 monuments, including Abu Simbel
+  (dismantled into 807 blocks and reassembled 65 meters higher). The Nile Waters Agreement
+  of November 1959 allocated 18.5 billion cubic meters annually to Egypt and 7.5 billion
+  to Sudan; it addressed the population transfer in a brief clause mandating Egypt and Sudan
+  to settle compensation terms bilaterally. No Nubian representative was party to the
+  agreement.
+
+social_facts: >
+  Nubia had continuous documented human settlement since at least 3800 BCE. Communities
+  were organized by clan (kabila) with village-level social contracts governing water access,
+  land use, and collective labor. The characteristic Nubian domestic architecture —
+  decorated courtyard compounds — embedded family and social organization in physical space
+  that could not be simply rebuilt elsewhere. Compensation terms were cash at assessed land
+  value: market-rate assessment of land, with no valuation of social, cultural, or
+  productive knowledge components. Many older community members refused compensation as
+  protest; younger members accepted it. In both Egyptian and Sudanese relocations, clan
+  groupings were dispersed across new settlement areas, fragmenting the social structure
+  that had organized community life. The contrast — $80M for monuments, basic logistical
+  provision for 120,000 people — was noticed at the time and remains the defining irony of
+  the campaign.
+
+political_realities: >
+  The Aswan High Dam was a project of pan-Arab nationalism and Cold War positioning. After
+  the US and World Bank withdrew financing in 1956 (related to Nasser's recognition of
+  China and Egypt's arms deal with the Soviet Union), the Soviet Union funded construction
+  with a $1.12 billion credit. The dam was not a technical decision; it was a declaration of
+  Egyptian sovereignty and socialist development capability. In this political frame,
+  population relocation was a logistics problem to be solved efficiently, not a political
+  process requiring consent. Nubia had no legal or political entity that could claim
+  representation in the bilateral Egypt-Sudan negotiation. There was no mechanism —
+  national or international — through which Nubian communities could formally contest the
+  relocation plan. The UNHCR's 1951 mandate covered refugees across borders, not internally
+  displaced people. The category of "community rights in development-induced displacement"
+  did not yet exist in international law.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: Whether Kom Ombo soil was agriculturally equivalent to the Nubian homeland
+  (the government survey said yes; subsequent yields suggested no). Whether communities
+  relocated as intact units would maintain social cohesion (better in Sudan's more compact
+  sites; worse in Egypt's dispersed Kom Ombo allocation).
+  Ambiguity: What "adequate compensation" meant. Government: cash at market value of land.
+  Communities: recognition of non-market social, cultural, and productive knowledge value.
+  These were not competing offers; they were describing different things. The difference was
+  not negotiated; it was not recognized as a difference.
+
+key_tensions:
+  - "National development vs. community sovereignty: the dam's benefits (electricity, irrigation, flood control) accrued to all Egypt; the costs (displacement, homeland loss) accrued exclusively to Nubian communities with no equivalent benefit and no compensation for cultural loss"
+  - "Monument preservation vs. community preservation: UNESCO mobilized $80M for stone structures; no equivalent international mechanism existed for the living communities that gave those monuments their cultural meaning"
+  - "Cold War geopolitics vs. self-determination: Soviet financing created a context in which Egyptian sovereignty was expressed partly through the capacity to move its own population without international contestation"
+
+problem_definition: >
+  Egypt and Sudan must relocate 120,000 Nubians within a construction timeline set by dam
+  engineering — given that no mechanism exists for community consent, that the international
+  community is organized to protect monuments but not to protect the communities that built
+  them, and that the Cold War context makes external pressure for Nubian rights practically
+  unavailable.
+
+# --- METAPHORS ---
+
+one_plus_one: >
+  The Egyptian and Sudanese governments were answering "where should we put these people?"
+  The Nubian communities were living the question "how do we remain a people?" These are not
+  the same question. When governments announced compensation and new land, they had answered
+  their question completely. The Nubian communities' question remained open, because land
+  without the social, agricultural, and cultural infrastructure of Nubia was not an
+  equivalent answer. They were not adding the same quantities. Their sum was not a shared
+  solution.
+
+where_is_x: >
+  The November 1959 Egypt-Sudan Nile Waters Agreement negotiating room in Cairo — where
+  representatives of Egypt and Sudan sat without any Nubian representative present.
+  Everything downstream of that room (the compensation amounts, the Kom Ombo site selection,
+  the 40-day notice, the layout of New Halfa) was determined within a framework set there.
+  The intervention point is that room, at the moment the agreement's resettlement provisions
+  were drafted. It is not the dam; it is the clause that said Egypt and Sudan would settle
+  population transfer terms bilaterally, without further specification.
+
+eighteenth_camel: >
+  Neither "proceed with relocation as planned" nor "don't build the dam" had to be the only
+  options. The camel: a co-design process for resettlement in which Nubian community leaders
+  were principal authors, not consultees — (a) mapping existing farming knowledge, social
+  structures (clan groupings, village relationships), and cultural practices to determine
+  site requirements, not just land area; (b) preserving village-level community cohesion
+  by grouping kabilas in new sites according to their existing social organization; (c)
+  establishing a knowledge-transition program matching Nubian farmers with agricultural
+  extension workers familiar with the new land types; (d) creating a legal category for a
+  Nubian administrative region. Partial versions of this camel were implemented in Sudan's
+  New Halfa resettlement more than in Egypt's Kom Ombo; the differences in community
+  outcome are documented in the comparative literature. The camel existed; it was simply not
+  applied consistently.
+
+solomon_check: >
+  Egypt and Sudan, if advising a third government on the resettlement of 120,000 people,
+  would almost certainly have recommended community consultation, site co-design, and
+  agricultural knowledge assessment as minimum standards. UNHCR's subsequent guidelines on
+  internally displaced people — developed partly in response to Aswan and later dam
+  displacements — now mandate precisely these. The governments gave themselves no such
+  counsel.
+
+urgency_vs_actionability: >
+  Lake Nasser would fill on a timeline set by dam construction, not by community readiness.
+  The construction schedule created an artificial urgency that progressively narrowed the
+  window for co-design. Communities were given 40 days' notice for a decision whose
+  consequences would unfold over generations. Urgency was not a surprise; the dam had been
+  designed since the 1950s. The co-design process that would have required 12-18 months was
+  simply never begun.
+
+# --- CONDITIONS ---
+
+enabling_conditions:
+  - "UNESCO's International Campaign demonstrated that international coordination around Nubian heritage was feasible — mobilizing governments, scientists, and donors across borders. The same organizational template could have been applied to communities."
+  - "The UNHCR mandate (1951) was restricted to refugees crossing borders, not internally displaced people — but the conceptual gap was visible. The Aswan case helped prompt subsequent work on development-induced displacement rights."
+
+capacities:
+  - "Egyptian and Sudanese governments: full logistical capacity to organize and execute resettlement; limited by political will, technical expertise in community co-design, and absence of any legal obligation to consult"
+  - "Nubian community leaders: could organize within communities; had no formal standing in the bilateral negotiation and no external advocate with access to the negotiating framework"
+  - "UNESCO: technical and financial capacity and demonstrated international coordination; its mandate covered cultural heritage (monuments), not community welfare"
+
+constraints:
+  binding: "The construction timeline. Lake Nasser would fill. The timeline was fixed by engineering, not by human negotiation."
+  structural: "The bilateral Egypt-Sudan framework of the 1959 Agreement excluded third-party community representation as a legal category. No mechanism existed to include it."
+  political: "Nasser's domestic standing required the dam on schedule. Delay to accommodate resettlement co-design was not politically available in 1959-1964 Egypt."
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Expand
+decision_pathway_detail: >
+  Expand the resettlement planning process to include Nubian community leaders as co-
+  designers. Who acts: a joint Egypt-Sudan resettlement commission with a Nubian Advisory
+  Board holding formal veto power over site selection and community grouping plans. For whom:
+  the 120,000 Nubians being displaced. Through what process: community mapping workshops to
+  identify social organization; agricultural knowledge inventory documenting farming
+  techniques and matching them to candidate site conditions; community-led layout of new
+  settlement spatial organization. This does not redesign the dam; it expands who the
+  resettlement planners are accountable to.
+
+tools:
+  - "Community social mapping → enumerate and preserve clan and village groupings in resettlement site layouts → changes how land is allocated (by community unit rather than by individual household), reducing social fragmentation"
+  - "Agricultural knowledge inventory → document Nubian farming techniques specific to Nile silt conditions; match agricultural extension workers with documented community knowledge → changes the support program from generic subsistence to specific-knowledge transfer"
+  - "Participatory site selection → community leaders visit candidate sites and exercise veto over sites whose soil, water table, and microclimate are incompatible with existing community knowledge → changes who decides where 120,000 people live"
+
+metrics:
+  - "Percentage of kabilas resettled with their primary social unit intact → measured at time of resettlement → linked to community social mapping tool"
+  - "Agricultural yield per feddan at new sites relative to historical homeland yields → measured 5 years post-resettlement → linked to knowledge inventory and extension program"
+  - "Community water access hours per household vs. Nile baseline → tracked annually for 5 years → linked to site selection process"
+
+ninety_day_commitment: >
+  Counterfactual: In the 90 days following the November 1959 Nile Waters Agreement:
+  (1) Egypt and Sudan jointly appoint a Nubian Advisory Commission of twelve community
+  leaders (six from each country, proportionate to affected villages), with formal veto
+  power over site layouts and community grouping plans; (2) the commission receives the
+  technical site assessments for Kom Ombo and Khashm el Girba; (3) an agricultural
+  knowledge survey is commissioned, documenting Nubian farming methods specific to the
+  homeland and identifying knowledge-transfer gaps for the new sites. These actions do not
+  delay the dam; they begin the co-design process immediately after the agreement rather
+  than as an afterthought when construction begins.
+
+# --- STRESS TEST ---
+
+stress_test:
+  political: >
+    Nasser would not accept Nubian community representatives holding formal veto power over
+    any aspect of Egyptian governance. The 1959-1960 political climate in Egypt did not
+    permit organized minority advocacy to constrain state action. Probability: high. The
+    veto power in the decision pathway is probably the piece that fails first in the
+    political environment.
+  institutional: >
+    The bilateral Egypt-Sudan structure had no mechanism for including non-state actors.
+    Adding a Nubian Advisory Body required both governments to agree — and Sudan had its
+    own Nubian political tensions (the Sudanese Nubian population was proportionally larger
+    relative to Sudan's total, and its communities had different political relationships
+    with Khartoum).
+  wrong_assumption: >
+    The assumption that Nubian community leaders could agree on a single representative body
+    may be wrong. Nubia was politically diverse; different kabilas had different relationships
+    to both governments and different migration and economic histories. A unified advisory
+    body might have fragmented on questions of compensation and site preference.
+  missing_resource: >
+    Time. Community co-design adequate to a 120,000-person resettlement takes 12-18 months
+    of sustained engagement. The construction timeline allowed weeks. Even with full political
+    will, compressing meaningful community participation into the 1960-1964 window would have
+    required beginning immediately in 1960 — before the Egyptian government had decided to
+    treat this as a logistics problem.
+  twelve_month_failure: >
+    Even with the Expand pathway, if agricultural extension support is underfunded and soil
+    conditions at Kom Ombo disappoint in the first harvest season (as they did), the
+    community political case for having accepted relocation — rather than resisted it —
+    collapses. Co-design of the resettlement terms does not guarantee adequate support after
+    relocation.
+
+revised_problem_definition: >
+  Egypt and Sudan must plan and execute the resettlement of 120,000 Nubians within a
+  construction timeline set by dam engineering — given that the bilateral political framework
+  has no mechanism for community consent; that international advocacy for community
+  self-determination was not a legal category in 1959-1960; that the agricultural and
+  cultural conditions of the homeland are not reproducible in candidate resettlement sites;
+  that the Cold War context makes external pressure for Nubian rights practically
+  unavailable; and that the veto power required to give co-design any force is
+  constitutionally unavailable to the Egyptian government of 1960. The problem statement
+  has changed: this is not "how do we move 120,000 people." It is "how do we enable 120,000
+  people to remain a people after we move them" — within a set of constraints that make the
+  full answer systematically unavailable. The Expand pathway names what should have happened;
+  the stress test clarifies why it didn't. The flag is about the gap between those two
+  sentences.
+
+# --- HONESTY ---
+
+flag: >
+  Abu Simbel was saved. The international community mobilized $80 million, the engineering
+  ingenuity to cut a temple into 807 blocks and reassemble them 65 meters higher, and the
+  diplomatic will to sustain an eight-year global campaign. The Nubian communities that had
+  built their civilization alongside those temples for three millennia were managed as a
+  logistics problem. Principled pragmatism can seat communities at the planning table,
+  mandate co-design, and insist on cultural knowledge inventories. What it cannot do is
+  resolve the prior question: why does stone reliably generate international mobilization
+  that living communities reliably do not? The answer is not ignorance. The temples are
+  beautiful and irreplaceable, and so are the communities. The answer is standing. Monuments
+  can be internationalized as cultural heritage; living communities remain subjects of
+  sovereign state authority. As long as "internationally protected cultural heritage" applies
+  to stone and not to the communities that gave that stone meaning, engineering diplomacy
+  will be designing the camel for a game whose rules it did not set.
+
+sources:
+  - citation: "UNESCO, 'The Saving of the Nubian Monuments and Sites,' International Campaign Documentation (1960-1980), UNESCO Archives"
+    status: verified
+  - citation: "Robert A. Fernea and Georg Gerster, 'Nubians in Egypt: Peaceful People' (1973), University of Texas Press"
+    status: verified
+  - citation: "Hassan Dafalla, 'The Nubian Exodus' (1975), C. Hurst & Co. — firsthand account by Sudanese Nubian community leader"
+    status: verified
+  - citation: "Thayer Scudder, 'Development-Induced Community Relocation: Comparative Studies,' World Bank (various years 1975-2005)"
+    status: verified
+  - citation: "New Lines Magazine, 'How Egypt's Aswan Dam Washed Away Nubian Heritage' (2022) — recent documentation of ongoing displacement effects"
+    status: verified
+  - citation: "Abdel Moneim Osman Mohamed, 'Aswan High Dam Resettlement of Egyptian Nubians,' ResearchGate publication"
+    status: verified
