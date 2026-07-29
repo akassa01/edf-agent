@@ -1,0 +1,298 @@
+case_id: fukushima-tepco-tsunami-decision
+title: "The Generator on the Floor: TEPCO's 2008 Tsunami Assessment"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Asia (Fukushima, Japan; Pacific region)"
+recency: recent
+year: 2008
+rubric_version: 1
+archetype_dominant: engineer
+crowded_out_mode: thinking
+
+# --- THREE PERSPECTIVES (all required before prose) ---
+
+scientist: >
+  In 2008, TEPCO's civil engineering division ran two sets of calculations using the government's
+  updated HERP (Headquarters for Earthquake Research Promotion) tsunami hazard model. The first
+  produced a wave height estimate of approximately 10.2 meters at the Fukushima Daiichi site.
+  The second, using the Meiji Sanriku-oki earthquake wave-source model, produced 15.7 meters.
+  The existing seawall stood at 5.7 meters. These results were presented to TEPCO's Executive
+  Vice President Sakae Muto in June 2008. The science was accurate and internally shared.
+  TEPCO then commissioned the Japan Society of Civil Engineers to "re-evaluate the reliability"
+  of the underlying government estimate — a move that deferred action indefinitely rather than
+  addressing the hazard. In March 2011, the tsunami measured approximately 14–15 meters at the
+  plant. The models had been right. The decision to defer action on them was not a scientific
+  judgment.
+
+humanist: >
+  The 154,000 residents of Fukushima Prefecture who were evacuated after March 11, 2011 made
+  their choices — whether to evacuate, where to go, what to eat, whether to return — based
+  on a public understanding of nuclear plant safety that TEPCO's internal risk assessment had
+  already negated. They were operating inside a narrative of safety while TEPCO executives
+  sat on calculations showing the seawall was inadequate. The 2,268 people who died as a direct
+  result of the evacuation itself (disrupted medical care, stress, loss of home and continuity)
+  are usually not counted in the disaster's death toll; they were killed not by radiation but by
+  the social rupture the disaster produced. They are the population for whom knowing, in 2008,
+  that the plant was vulnerable would have mattered most — the people who trusted the claim
+  of safety and paid the cost when it collapsed. TEPCO's internal knowledge and the public's
+  right to that knowledge were in the same building and never met.
+
+engineer: >
+  TEPCO faced two technically viable options after the 2008 calculations. Option A: build
+  the seawall to the required height — a multi-billion-yen undertaking that, combined with
+  the plant's already-thin margins, might have forced decommissioning. Option B: relocate
+  the backup diesel generators from the turbine building basements, where they sat at
+  approximately 5 meters above sea level, to rooftop installations or elevated terrain above
+  the maximum credible flood level. The second option was a fraction of the first's cost and
+  addressed the specific failure mode the 2011 disaster would expose: loss of backup power
+  causing inability to cool the reactors. This bounded, costed, technically straightforward
+  fix was identified and not implemented. The engineering response to an engineering finding
+  was suppressed not by a technical judgment but by an institutional one: implementing the fix
+  would require formally acknowledging the hazard, which would trigger regulatory obligations
+  at other TEPCO plants. The doing mode — optimizing for current operations and avoiding
+  regulatory cascade — overrode the thinking that had already solved the problem.
+
+# --- DIAGNOSIS ---
+
+scientific_facts: >
+  June 2008: TEPCO's civil engineering division presents two tsunami calculations to EVP Muto.
+  First calculation (HERP model, Japan Trench off Fukushima): ~10.2 m. Second calculation
+  (Meiji Sanriku-oki wave-source model): 15.7 m. Existing seawall: 5.7 m. Muto shelves
+  countermeasures and commissions Japan Society of Civil Engineers for a "reliability review."
+  March 11, 2011: Mw 9.0 Tōhoku earthquake. Tsunami arrives at Fukushima Daiichi at
+  approximately 15:35 JST, wave height approximately 14–15 m. Six of twelve emergency diesel
+  generators fail immediately as basement turbine buildings flood at ~5 m elevation. Remaining
+  units lost power when basement distribution panels flooded. Complete station blackout causes
+  inability to cool reactors 1, 2, and 3; all three melt down. Approximately 154,000 residents
+  evacuated. 2,268 evacuation-related deaths. Total area rendered uninhabitable for years.
+
+social_facts: >
+  TEPCO operated within Japan's "nuclear village" — the dense nexus of regulators, industry,
+  academics, and politicians who shared a pro-nuclear consensus and rotated between institutional
+  roles. Fishing families and farming communities within 20 km of the plant had been economically
+  integrated with TEPCO's operations (payments, employment, community investments) for decades.
+  The nuclear village consensus made independent local risk assessment structurally unavailable:
+  there was no credible institution outside TEPCO/NISA in which affected communities could obtain
+  an independent second opinion. The local communities who would bear the evacuation's cost had
+  the least access to the information that would have allowed them to assess or contest the risk.
+
+political_realities: >
+  NISA (Nuclear and Industrial Safety Agency) was structurally embedded in METI (Ministry of
+  Economy, Trade and Industry), which simultaneously promoted nuclear power domestically and
+  internationally. NISA employees routinely sought post-retirement positions at TEPCO and
+  affiliated suppliers. The Diet's post-disaster investigation (NAIIC, 2012) concluded the
+  disaster was "a profoundly manmade disaster that could and should have been foreseen and
+  prevented," explicitly identifying regulatory capture: NISA had "avoided their direct
+  responsibilities by letting operators apply regulations on a voluntary basis." Filing the
+  2008 calculations with NISA as a mandatory safety notification would have required NISA to
+  impose corrective-action requirements — which the nuclear village consensus made structurally
+  unavailable. The pathway from honest internal knowledge to mandatory external disclosure ran
+  through a regulator that was institutionally aligned with TEPCO's commercial interests.
+
+uncertainty_and_ambiguity: >
+  Genuine uncertainty: exact timing and magnitude of a future major earthquake on the Japan
+  Trench; which wave-source model was most appropriate (HERP explicitly or Meiji Sanriku-oki);
+  actual peak wave height at specific intake points on the site.
+  Genuine ambiguity: what "regulatory compliance" required — for TEPCO management, compliance
+  meant meeting the standard currently in force (which did not require the updated HERP-based
+  analysis); for TEPCO engineers who ran the 2008 calculations, compliance meant applying the
+  methodology the government had endorsed.
+  Not genuine uncertainty: that the existing seawall was inadequate given the 2008 calculations;
+  that the diesel generators would be flooded if the plant were overtopped; that the backup
+  power loss was the specific failure pathway that caused meltdown — these were all calculable
+  and calculated.
+
+key_tensions:
+  - "Economic viability vs. physical safety: the plant's marginal economics made a full seawall upgrade potentially decisive for its closure"
+  - "Institutional acknowledgment vs. operational continuity: formally disclosing the hazard would trigger regulatory cascade at other TEPCO plants, threatening the nuclear program's viability"
+  - "Internal technical capacity vs. institutional incentive structure: the engineers knew the answer; the institution was structured to prevent them from acting on it"
+
+problem_definition: >
+  How should a technically capable engineering organization translate an internal finding of
+  unacceptable risk into corrective action when the institutional system that should mandate
+  disclosure is structurally captured by the organization's commercial interests, and when the
+  cost of acknowledging the risk is borne entirely by the organization while the cost of not
+  acknowledging it is borne entirely by others?
+
+# --- METAPHORS ---
+
+one_plus_one: >
+  TEPCO's management was answering "Does the plant comply with the current regulatory standard?"
+  (Yes — NISA had not yet required the updated HERP-based analysis.) TEPCO's engineers were
+  answering "Is the plant safe against the credible maximum tsunami?" (No — the 2008 calculations
+  showed the seawall was inadequate by a factor of nearly three.) These are different questions.
+  Both parties used the word "safe." 1+1 produced two separate ones: regulatory compliance on
+  paper and physical vulnerability in practice. The community living downwind and downstream of
+  the plant was not asked either question and could not have answered either without access to
+  the documents that showed them to be incompatible.
+
+where_is_x: >
+  The engineering meeting in June 2008 at TEPCO headquarters where the 15.7 m calculation was
+  presented to EVP Muto, who received the finding and deferred countermeasures. Within this
+  meeting, the intervention point is more precisely the generator question: the baseline seawall
+  upgrade (Option A) was genuinely expensive and organizationally difficult. Relocating the
+  diesel generators from the basement to above the 15-meter flood contour (Option B) was neither.
+  It addressed the specific failure mode that would cause the meltdown. A decision to implement
+  Option B — cheaper, bounded, directly responsive to the hazard — would not have required
+  formally triggering the full regulatory cascade that Option A would have demanded. The 2008
+  meeting was where that distinction could have been made and was not.
+
+eighteenth_camel: >
+  The stated binary was: (A) build the seawall to specification (billions of yen; potentially
+  forces plant closure) / (B) do nothing (maintain current operations and cost structure).
+  The 18th camel: relocate the diesel generators from the basement to above the maximum credible
+  flood elevation. This is not a compromise between A and B — it is a third thing that directly
+  addresses the failure mode the 2008 calculations revealed. Cost: a fraction of Option A.
+  Regulatory footprint: potentially limited enough to implement without triggering the full
+  NISA cascade. TEPCO engineers identified this option. It was not implemented. The camel
+  existed; it was rejected because implementing it — even quietly — required internally
+  acknowledging that the hazard was real, and that acknowledgment was institutionally too costly.
+
+solomon_check: >
+  TEPCO's engineers — and the nuclear village broadly — would have had no difficulty advising
+  another utility on the correct response to a 15.7 m tsunami calculation: implement
+  countermeasures, notify the regulator, upgrade or decommission. The same engineers, reviewing
+  their own plant, translated "implement the fix" into "acknowledge the hazard to the regulator,"
+  and from there into "trigger a regulatory cascade affecting the entire nuclear program." Distance
+  grants what proximity forecloses: the institutional stakes of the honest answer collapsed
+  the distinction between a technical engineering decision and an institutional survival question.
+
+urgency_vs_actionability: >
+  The hazard identified in 2008 was probabilistic: a major tsunami would occur at some point in
+  the future. Probabilistic hazards feel abstract and deferrable — the urgency of a low-probability
+  event is hard to feel. The cost of acting on the 2008 calculations was immediate and concrete
+  (capital expenditure, regulatory disclosure, institutional cascade). The urgency of the hazard
+  and the actionability of the response operated on different calendars. The institutional calendar
+  (quarterly earnings, regulatory cycles, plant operating licenses) consumed the window in which
+  the technical question was still separable from the institutional survival question.
+
+# --- CONDITIONS ---
+
+enabling_conditions:
+  - "The HERP 2002 model was government-endorsed and TEPCO was expected to apply it — an acknowledged scientific basis for requiring the upgrade was already available"
+  - "A technically viable bounded fix (generator relocation) existed that did not require the full seawall investment — making a politically survivable corrective action theoretically available"
+  - "The NAIIC investigation pathway existed in principle: engineers could have escalated to the company board or to parliamentary oversight"
+
+capacities:
+  - "TEPCO's engineering division: capable of implementing generator relocation without requiring full seawall expenditure"
+  - "TEPCO's board: capable of filing the 2008 calculations with NISA as a voluntary safety notification"
+  - "NISA in principle: capable of mandating corrective action if the filing were made; lacked the institutional incentive to demand it"
+
+constraints:
+  binding: "Institutional architecture: no mechanism existed by which an honest internal safety finding could be transmitted to an independent verification body separate from the institution that had a financial interest in the plant's continued operation."
+  financial: "Plant margins: the economics of a full seawall upgrade could have forced decommissioning of a plant that was marginally profitable."
+  political: "Nuclear village consensus: the dense web of personnel rotation, shared interest, and pro-nuclear ideology eliminated the institutional distance needed for independent risk assessment."
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Redesign
+decision_pathway_detail: >
+  Redesign the interface between internal risk assessment and external mandatory disclosure,
+  so that any probabilistic hazard calculation above a defined threshold is automatically
+  transmitted to an independent safety body — structurally separated from METI's promotional
+  function — rather than routed through the same institution that has financial interests in
+  the plant's continued operation. The actor: NISA's regulatory structure, requiring legislative
+  separation from METI. The immediate move available in 2008: TEPCO engineers escalate the
+  2008 calculations to the company board with a concrete costed proposal for generator relocation
+  as a bounded corrective action that does not require full seawall disclosure.
+
+tools:
+  - "Mandatory independent safety notification → purpose: require any internal probabilistic hazard finding above a set threshold to be transmitted automatically to a body structurally separated from the promotional function → changes coordination: removes the organization's discretion over whether and when to disclose, eliminating the asymmetry in which the party with the most accurate information has the strongest institutional incentive to suppress it"
+  - "Safety case database → purpose: time-stamped public record of all internal safety studies → changes learning: makes concealment costly and disclosure cheap; affected communities can independently monitor whether calculations have been filed"
+  - "Generator relocation protocol → purpose: require backup power systems at coastal nuclear plants to be positioned above the site's maximum credible flood level as a standard engineering requirement → changes interaction: bounded corrective action that does not require a full regulatory cascade, lowering the institutional cost of honest disclosure"
+
+metrics:
+  - "Time from internal hazard finding to external notification → measure: median days from calculation completion to regulatory filing → method: timestamped safety case filings with independent verification"
+  - "Backup power survivability → measure: percentage of coastal plants with generators above maximum credible flood elevation → method: annual site inspection by independent regulator"
+  - "Regulatory independence → measure: percentage of post-career hires by regulated entities from regulatory body → method: disclosed personnel records; target: reduction to below 5% over 5 years"
+
+ninety_day_commitment: >
+  Counterfactual — first 90 days after the June 2008 TEPCO internal meeting:
+  (1) TEPCO engineering division submits the 2008 tsunami calculation to NISA as a voluntary
+  safety notification, with a bounded corrective action proposal: generator relocation above
+  the 15-meter contour at Fukushima Daiichi and an assessment of other coastal plants (Days 1–30).
+  (2) TEPCO board requests an independent seismological review of the wave-source model to
+  determine whether the 15.7 m estimate or the 10.2 m estimate is the appropriate planning basis;
+  invites the academic who flagged the HERP result to participate (Days 30–60).
+  (3) NISA — if operating with genuine independence — issues a preliminary corrective action
+  requirement for generator relocation at all TEPCO coastal plants pending the seismological review,
+  with a 12-month implementation schedule (Days 60–90).
+
+# --- STRESS TEST ---
+
+stress_test:
+  political: >
+    The nuclear village consensus was a parliamentary architecture problem, not a management
+    problem. Separating NISA from METI required legislation that the Abe-era energy consensus
+    actively opposed. A single TEPCO EVP filing a voluntary notification would not have dissolved
+    the institutional structure that made genuine independent regulation unavailable. The political
+    event that could derail the counterfactual: any government that continues to define nuclear
+    promotion and nuclear safety as the same institutional function.
+  institutional: >
+    TEPCO's board, advised that generator relocation would implicitly acknowledge a hazard that
+    the current regulatory standard did not require acknowledging, would likely have framed the
+    engineers' escalation as unnecessary and premature. The nuclear village personnel network
+    provided multiple informal channels through which TEPCO management could seek NISA's
+    informal view before filing formally — and those channels would have produced the same
+    deferral that the formal filing process would have.
+  wrong_assumption: >
+    The case assumes that a TEPCO engineer escalating to the board in 2008 would have been
+    heard and protected. TEPCO's internal culture was explicitly identified by the NAIIC as one
+    that suppressed internal dissent. The TEPCO staffer who presented the 15.7 m finding to
+    Muto was subsequently asked whether the calculation method could be changed to produce a
+    lower number — suggesting that the institutional response to accurate science was to seek
+    less accurate science rather than to respond to the finding.
+  missing_resource: >
+    No independent regulator with both standing and technical capacity to override TEPCO's
+    institutional judgment existed before September 2012, when the Nuclear Regulation Authority
+    was established. The counterfactual institutional fix required legislation that was enacted
+    only after the disaster made it unavoidable.
+  twelve_month_failure: >
+    Even with generator relocation successfully implemented at Fukushima Daiichi, the 2011
+    tsunami also compromised cooling pools at other sites and disabled external power transmission.
+    The generator relocation was necessary, not sufficient. Without addressing the broader
+    infrastructure vulnerability (external power restoration pathways, cooling pool design),
+    some meltdown risk would have remained even with relocated generators. The partial fix
+    could have created false confidence about a problem that was only partially solved.
+
+revised_problem_definition: >
+  The question is not "what was the right engineering fix for this tsunami risk?" The question
+  is "what institutional architecture allows an organization to act honestly on an internal
+  finding of unacceptable risk when the cost of honesty is borne by the organization and the
+  cost of silence is deferred onto people who have no access to the internal finding?"
+  The binding constraint is not the engineering gap — the engineers identified the problem
+  and the bounded fix. The binding constraint is the institutional asymmetry: the party with
+  the most accurate information about the risk had the strongest financial incentive to suppress
+  it, and the institution that should have mandated disclosure was structurally captured by
+  that party's interests. The problem was not a calculation error. It was the architecture
+  of accountability.
+
+# --- HONESTY ---
+
+flag: >
+  TEPCO's engineers knew. The models were accurate. The failure was that knowing and acting on
+  knowledge are institutionally separated whenever the cost of acting is borne by the
+  organization that holds the knowledge, and the cost of not acting is borne by people who don't.
+  Principled pragmatism can design the mandatory disclosure mechanism — the independent regulator,
+  the automatic notification threshold, the time-stamped public safety case database. What it
+  cannot change is the fundamental asymmetry in which the party with the most accurate
+  information about a risk has the strongest institutional incentive to suppress it. That
+  asymmetry is not a regulatory gap. It is a feature of how liability interacts with
+  organizational self-preservation. The NRA (established September 2012) is the institutional
+  answer the disaster produced. It arrived eighteen months after the meltdown and
+  approximately thirty-six months after the calculations that could have prevented it.
+
+sources:
+  - citation: "National Diet of Japan Fukushima Nuclear Accident Independent Investigation Commission (NAIIC). The Official Report. Executive Summary. 2012."
+    status: verified
+  - citation: "Acton, J.M. & Hibbs, M. Why Fukushima Was Preventable. Carnegie Endowment for International Peace. 2012. carnegieendowment.org/2012/03/06/why-fukushima-was-preventable-pub-47361"
+    status: verified
+  - citation: "Lipscy, P.Y., Kushida, K.E. & Incerti, T. The Fukushima Disaster and Japan's Nuclear Plant Vulnerability in Comparative Perspective. Environmental Science & Technology, 47(12), 6082–6088. 2013. doi:10.1021/es4004813"
+    status: verified
+  - citation: "National Academies of Sciences, Engineering, and Medicine. Lessons Learned from the Fukushima Nuclear Accident for Improving Safety of U.S. Nuclear Plants. NCBI NBK253933. 2014."
+    status: verified
+  - citation: "IEEE Spectrum. 24 Hours at Fukushima. spectrum.ieee.org/24-hours-at-fukushima"
+    status: verified
+  - citation: "Mainichi Shimbun. TEPCO staffer testifies execs put off tsunami measures at Fukushima plant. 2018. (via Uchicago Atomic Age archive)"
+    status: verified
