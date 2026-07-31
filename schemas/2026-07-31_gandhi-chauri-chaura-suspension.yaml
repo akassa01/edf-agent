@@ -1,0 +1,314 @@
+case_id: gandhi-chauri-chaura-suspension
+title: "The Price of Purity"
+case_type: documented
+mode: retrospective
+scale: individual
+region: "Asia (Bardoli, Gujarat; Chauri Chaura, Gorakhpur district, United Provinces, India)"
+recency: historical
+year: 1922
+rubric_version: 1
+archetype_dominant: humanist
+crowded_out_mode: doing
+
+# --- THREE PERSPECTIVES (all required before prose) ---
+
+scientist: >
+  The evidentiary record for 1922 is unambiguous in its facts and deeply uncertain in its
+  counterfactuals. What is known: on 4 February 1922, a crowd of protesters marching through
+  Chauri Chaura in Gorakhpur district clashed with police who had fired into the crowd; the
+  protesters retaliated by setting the police station on fire, killing 22 officers and 3
+  civilians. Gandhi announced the suspension of the Non-Cooperation Movement eight days later,
+  on 12 February, at a Congress Working Committee session in Bardoli. What cannot be
+  measured: how close the movement was to forcing a constitutional concession. The British
+  administration was strained — 30,000 activists had been arrested, economic disruption was
+  real — but there is no scientific basis for claiming the movement was weeks from a
+  breakthrough rather than months from exhaustion. Sumit Sarkar's research suggests the
+  movement was already losing steam in some provinces before Chauri Chaura; Judith Brown's
+  archival work in Gandhi's Rise to Power finds the British were more worried than relieved
+  by the suspension. The scientist's contribution here is negative: the decisive counterfactual
+  (what would have happened without the suspension?) is not resolvable with the available
+  evidence.
+
+humanist: >
+  The soul of the Non-Cooperation Movement was not merely tactical non-violence but
+  non-violence as the identity of the movement and its leader. Ahimsa — harmlessness,
+  non-injury — was for Gandhi a spiritual claim about the character of Indian civilization
+  and of the independence it deserved. A movement that used violence, even retaliatory
+  violence, even justified violence, would earn an independence contaminated by the same
+  methods as the colonizer. The humanist logic of the national suspension is internally
+  coherent: the entire movement had staked its moral authority on the claim that it could
+  discipline 330 million people into collective non-violent resistance. One police station
+  burning was evidence that claim was premature. The humanist sees what the engineer misses:
+  the movement's leverage was not its organizational capacity but its moral authority, and
+  moral authority in this framework is indivisible. What the humanist cannot see from within
+  this framing: the difference between moral authority that inspires and moral authority that
+  paralyzes.
+
+engineer: >
+  The engineer looks at the organizational facts. By February 1922, the Congress had an
+  institutional structure capable of geographic variation: provincial committees, local
+  leaders, communication networks. A regional suspension — applying disciplinary sanctions
+  only to the affected district or United Provinces — was mechanically feasible. Gandhi had
+  the organizational authority to impose it. The critical constraint was not capacity but
+  succession: Gandhi was about to be arrested (he was, on 10 March 1922). Who would manage
+  a regionally bounded response in his absence? C.R. Das and Motilal Nehru were the only
+  leaders with sufficient standing, and both disagreed with the national suspension. The
+  engineer also notes that the movement had no contingency plan for reconstruction after the
+  suspension; it took eight years for the next mass campaign (the 1930 Salt March). The
+  organizational cost of the national halt was not measured at the time and could not have
+  been; it was borne by the people who waited.
+
+# --- DIAGNOSIS ---
+
+scientific_facts: >
+  Chauri Chaura incident: 4 February 1922; 22 police officers killed, 3 civilians killed;
+  police station burned. Non-Cooperation Movement launched September 1920; by early 1922,
+  over 1 million enrolled, approximately 30,000 activists arrested. Bardoli Congress Working
+  Committee meeting: 12 February 1922 — Gandhi announced full national suspension. Gandhi
+  arrested 10 March 1922; sentenced to 6 years, released after 2 for appendicitis. Next mass
+  campaign: Salt March, March 1930 — 8 years later.
+
+social_facts: >
+  For Gandhi's core supporters, the suspension demonstrated the integrity of the movement's
+  non-violent commitment. For Muslim political allies in the Khilafat movement, it was a
+  betrayal that had not come from any Muslim-led incident. For militant Hindu nationalists,
+  it was a humiliation. For the broad base of Congress leadership — including Nehru, Das,
+  Subhash Chandra Bose — it felt unilateral and premature; Jawaharlal Nehru later wrote it
+  caused "amazement and anguish." For the British administration, it was an unexpected gift.
+
+political_realities: >
+  Gandhi was the movement's sole charismatic authority. No successor had comparable standing
+  to maintain national discipline. C.R. Das and Motilal Nehru opposed the suspension but
+  lacked the authority to override it. Many senior Congress leaders were in prison at the
+  time and received the news after the decision was announced. The Congress Working Committee
+  at Bardoli formally passed the suspension resolution, but it was Gandhi's decision and all
+  present knew it. The British Raj responded by arresting Gandhi and prosecuting the Chauri
+  Chaura perpetrators; 172 were sentenced, 19 hanged.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: whether the movement had the momentum to force a constitutional concession
+  within months, or whether it was approaching internal exhaustion regardless of Chauri
+  Chaura. This is genuinely unknowable.
+  Ambiguity: what "non-violence" required. Gandhi meant non-violence by all participants
+  everywhere as a precondition for the movement's moral legitimacy. Most political allies
+  meant non-violence as the leadership's method, not a standard that voided the movement if
+  any crowd anywhere responded to provocation. Same word, incompatible definitions.
+
+key_tensions:
+  - "Moral authority vs. political momentum: the movement's leverage derived from moral
+    authority, but moral authority — under Gandhi's definition — required standards no mass
+    movement of 330 million could guarantee"
+  - "Principle vs. graduated response: non-violence as an indivisible principle vs.
+    non-violence as a practice that admits geographic exceptions and graduated sanctions"
+  - "Gandhi's authority vs. the movement's survival: the same singular authority that made
+    the movement possible made its strategy contingent on one person's judgment"
+
+problem_definition: >
+  Should Gandhi suspend the entire national Non-Cooperation Movement after a single
+  regional incident of mob violence, or apply disciplinary sanctions only to the region
+  where violence occurred, preserving national momentum while demonstrating accountability?
+
+# --- METAPHORS ---
+
+one_plus_one: >
+  Gandhi was answering "Who are we as a movement?" (a question about moral identity that
+  admits no geographic exceptions). Das and Nehru were answering "What are we building
+  toward?" (a question about political strategy that treats Chauri Chaura as a regional
+  breach, not a national failure). When both used the phrase "non-violent resistance,"
+  they described different objects: a spiritual identity (Gandhi) and a political method
+  (his colleagues). Their 1+1 produced the Bardoli resolution — a suspension that achieved
+  moral coherence and organizational collapse simultaneously.
+
+where_is_x: >
+  The Bardoli Congress Working Committee meeting, 12 February 1922 — the single decision
+  node at which a geographic bounding of the disciplinary response was available and
+  declined. A suspension limited to Chauri Chaura district or United Provinces, with
+  explicit continuation elsewhere, would have held both the accountability claim and the
+  national momentum. The fulcrum was not the principle of non-violence; it was the decision
+  about whether the principle could have geographic expression. Gandhi was the only person
+  who could have made that distinction credible, and he chose not to.
+
+eighteenth_camel: >
+  A regionally bounded suspension: suspend civil disobedience in United Provinces (where
+  Chauri Chaura occurred), appoint a regional fact-finding commission to investigate the
+  incident, and continue all campaigns in the other eleven provinces and all major cities.
+  This would have achieved what Gandhi said he wanted — demonstrating that the movement
+  held itself accountable to its own principles — without dismantling the national campaign.
+  This option was not explicitly debated at Bardoli; it is the option that the structure
+  of the problem made available but that Gandhi's conception of ahimsa as indivisible
+  rendered inadmissible. A compromise between "suspend nothing" and "suspend everything"
+  is not the 18th camel. A geographically bounded accountability mechanism that preserved
+  national momentum while sanctioning the breach is.
+
+solomon_check: >
+  Gandhi gave this advice precisely to other movements. During the 1919 Rowlatt Satyagraha,
+  after violence broke out in Amritsar and elsewhere, Gandhi suspended that campaign too
+  and described it as his "Himalayan miscalculation" — but by 1922 he had concluded that
+  a mass movement could not be resumed after one suspension unless it had been fully
+  prepared. The question he could not ask from inside his own framework: is the preparation
+  standard I am setting achievable for 330 million people in this century, and if not, is
+  the standard itself the problem? He diagnosed this correctly in other leaders' movements.
+  He could not apply it inward.
+
+urgency_vs_actionability: >
+  The urgency was real: the British were rearming and regrouping. The actionability gap was
+  structural: there was no sub-leadership that could implement a regional response with
+  Gandhi's moral authority. His framework concentrated authority rather than distributing
+  it, which made every decision urgent and every decision his.
+
+# --- CONDITIONS ---
+
+enabling_conditions:
+  - "Provincial committee structure was sufficient to implement a regional suspension in
+    United Provinces while continuing elsewhere — the organizational machinery existed"
+  - "C.R. Das and Motilal Nehru had sufficient standing to manage the national campaign
+    in Gandhi's absence if they were authorized and if the framework were clear"
+  - "The Khilafat alliance provided cross-religious breadth that would have survived a
+    regional response more easily than a national suspension"
+
+capacities:
+  - "Gandhi had the organizational authority to announce a regional suspension and have
+    it obeyed — his word was binding"
+  - "Congress had functioning provincial committees in all major regions"
+
+constraints:
+  binding: >
+    Gandhi's conception of ahimsa as indivisible — non-violence was not a practice
+    admitting geographic exceptions but a spiritual identity that the entire movement
+    either embodied or lost. This was not a negotiating position; it was a sincere
+    belief, and it made the regional option inadmissible before it was even examined.
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Redesign
+decision_pathway_detail: >
+  Counterfactual: at the 12 February Bardoli meeting, Gandhi announces a Redesign of the
+  movement's disciplinary architecture rather than a full suspension. United Provinces is
+  placed under a suspension of civil disobedience for a defined period (90 days), with a
+  fact-finding commission to investigate Chauri Chaura. All other provinces continue. Das
+  and Nehru are designated the national leadership during Gandhi's expected imprisonment.
+  The announcement frames regional accountability as proof of the movement's commitment
+  to ahimsa rather than evidence of its failure. Gandhi accepts arrest on 10 March as
+  planned, with the movement intact.
+
+tools:
+  - >
+    Regional fact-finding commission → purpose: establish whether the Chauri Chaura
+    incident was spontaneous crowd escalation or organized provocation, and who was
+    accountable → changes learning: the movement acquires a precedent for investigating
+    internal breaches rather than only suspending for them; British provocation becomes
+    a politically usable finding
+  - >
+    Geographic bounding protocol → purpose: define the conditions under which civil
+    disobedience is suspended in a region vs. nationally → changes coordination: local
+    Congress leaders have a framework for escalation and de-escalation that does not
+    require Gandhi's personal judgment on every incident
+  - >
+    Leadership succession mandate → purpose: formally designate Das and Nehru as
+    national co-managers during Gandhi's imprisonment → changes interaction: the
+    movement's continuity is no longer contingent on one person's freedom
+
+metrics:
+  - >
+    Campaign participation rates in non-suspended provinces before and after the
+    regional announcement → measure: enrollment and activity records at provincial
+    level → method: Congress committee records → linked to the core question of
+    whether a regional suspension preserved national momentum
+  - >
+    British administrative strain indicators (revenue collection shortfall, arrest
+    capacity strain) → measure: archival records of the Home Department → method:
+    colonial administrative records
+  - >
+    Time to next mass campaign → measure: years between Bardoli and the next
+    comparable national mobilization → method: historical record (baseline: 8 years
+    to the Salt March)
+
+ninety_day_commitment: >
+  Counterfactual first 90 days (February–May 1922): (1) Regional suspension announced in
+  United Provinces with a 90-day review date and a fact-finding commission chaired by a
+  non-Gandhi leader. (2) Das and Nehru formally acknowledged as national co-managers.
+  (3) Gandhi arrested 10 March 1922 as expected; the national campaign continues. (4)
+  Fact-finding commission reports by May 1922 with findings on Chauri Chaura's causes;
+  suspension lifted or extended based on the report.
+
+# --- STRESS TEST ---
+
+stress_test:
+  political: >
+    The British administration had every incentive to provoke another violent incident
+    in a continuing province within weeks of the regional suspension, to demonstrate
+    that Gandhi's framework had failed and to justify a national crackdown. A single
+    incident of violence in a non-suspended province would have collapsed the regional
+    framework and exposed Gandhi to the accusation that he had already abandoned his
+    principles by accepting geographic exceptions.
+  institutional: >
+    The Hindu Mahasabha's militant wing would have welcomed the regional suspension as
+    license to pursue confrontational tactics in non-suspended provinces. Khilafat leaders
+    might have demanded to know why their regions were being treated differently. The
+    framework would have required active management across the political coalition.
+  wrong_assumption: >
+    The assumption that the movement was close to forcing a constitutional concession
+    may be wrong. If Sarkar's analysis is correct and the movement was already losing
+    momentum in several provinces by early 1922, the regional suspension's benefits
+    would have been smaller and the cost of Gandhi's credibility spent on defending
+    the framework would have been proportionally larger.
+  missing_resource: >
+    A credible sub-leader to implement the regional framework during Gandhi's
+    imprisonment. Das and Nehru opposed the national suspension but might have been
+    persuaded to manage a regional one — they were not asked. Without explicit
+    authorization and a clear framework, no sub-leader had sufficient standing to
+    hold the movement together across 11 continuing provinces.
+  twelve_month_failure: >
+    If another incident of violence occurred in any continuing province — and given
+    the pressures of colonial rule and British provocation, this was likely — the
+    regional framework would have been tested within months. A second incident in a
+    non-suspended province would have forced Gandhi (from prison) to either expand
+    the suspension nationally (same outcome as Bardoli) or accept violence as within
+    the movement's tolerance (a betrayal of ahimsa he could not make). The framework
+    was fragile by design.
+
+revised_problem_definition: >
+  Can the Non-Cooperation Movement design a graduated response to regional violence that
+  preserves national momentum, given that: Gandhi's arrest was imminent and would remove
+  the only leader with sufficient authority to both impose the framework and hold the
+  coalition together; British agents had structural incentives to provoke further incidents
+  in continuing provinces; the movement had no sub-leadership structure capable of
+  administering geographic variation in civil disobedience rules across eleven provinces;
+  and Gandhi's own framework concentrated moral authority rather than distributing it,
+  which meant any regional exception required his personal authorization even from prison?
+
+# --- HONESTY ---
+
+flag: >
+  Gandhi's framework made non-violence both the method and the ends of independence —
+  which meant that any instrumental calculation about how to preserve the movement could
+  itself be read as moral contamination. A leader whose authority derives from refusing
+  to calculate cannot be reached by a framework that asks him to calculate differently.
+  Principled pragmatism can design a graduated response. It cannot design one for an
+  actor whose moral authority is constituted by refusing to treat his principles as a
+  set of options to be weighed.
+
+sources:
+  - citation: >
+      Judith Brown, Gandhi's Rise to Power: Indian Politics 1915–1922, Cambridge University
+      Press, 1972 — archival account of the Bardoli decision and British administrative
+      response
+    status: verified
+  - citation: >
+      Rajmohan Gandhi, Gandhi: The Man, His People, and the Empire, University of
+      California Press, 2008 — comprehensive biography with primary sources on Chauri
+      Chaura decision
+    status: verified
+  - citation: >
+      Sumit Sarkar, Modern India 1885–1947, Macmillan, 1983 — analysis of movement
+      momentum and the question of whether the suspension was premature
+    status: verified
+  - citation: >
+      The Collected Works of Mahatma Gandhi, Vol. 22, Navajivan Publishing House, 1966 —
+      Gandhi's own statements on Chauri Chaura and the Bardoli resolution
+    status: verified
+  - citation: >
+      Wikipedia, "Chauri Chaura Incident," citing primary sources: death toll (22 police,
+      3 civilians confirmed), date (4 February 1922), Gandhi's suspension announcement
+      (12 February 1922)
+    status: verified
