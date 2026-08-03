@@ -1,0 +1,61 @@
+---
+case_id: bangladesh-tubewell-arsenic
+title: "The Right Answer to the Wrong Question"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Asia (Bangladesh; West Bengal, India; Geneva, Switzerland — WHO/UNICEF policy)"
+recency: historical
+year: 1971–1993
+archetype_dominant: engineer
+crowded_out_mode: thinking
+flag: "in complex sociotechnical systems, every intervention model has a blind spot proportional to the certainty of its premises; principled pragmatism cannot specify in advance what it has not yet asked"
+rubric_version: 1
+---
+
+# The Right Answer to the Wrong Question
+
+In 1992, Dipankar Chakraborti, a chemist at Jadavpur University's School of Environmental Studies in Kolkata, examined a patient from the Bangladeshi border districts with skin lesions he recognized immediately: the hyperkeratosis and hyperpigmentation characteristic of chronic arsenic poisoning. The patient had been drinking tubewell water, the same groundwater that international agencies had been installing, promoting, and certifying as safe across Bangladesh for two decades. Chakraborti brought the finding to WHO, UNICEF, and the Bangladesh government from 1994 to 1995. The first formal identification by Bangladesh's own Department of Public Health Engineering came in 1993, in Chapai Nawabganj in the north. The water had been declared safe. The wells had been drilled to make it safe. And seventy-five million people had been drinking it.
+
+The decision to drill those tubewells was not made carelessly. In 1971, as Bangladesh emerged from its war of independence with a shattered public health infrastructure and cholera mortality among the worst in recorded history — an estimated quarter-million children dying annually from waterborne bacterial disease — UNICEF, the World Bank, and the United Nations Development Programme made a sound decision: groundwater was bacteriologically safer than surface water, tubewells were the fastest way to access groundwater, and standard water-quality testing showed the water was safe. They were right. Approximately ten million hand-pumped tubewells were installed across the country through the 1970s and 1980s. Cholera deaths fell dramatically. The programme was celebrated as a model of international development intervention, and the celebration was justified. The question "what else might be in the water?" was not asked, because the question "is there bacteria in the water?" had been answered, and the two questions were treated as the same.
+
+This is the mode at work: doing, in the engineering sense. The dominant imperative was implementation — get the wells drilled, get the water flowing, get the deaths stopped. The mode had everything right about the problem it was addressing. What it had no room for was thinking at the baseline level: a systematic characterisation of the groundwater against hazards beyond the targeted pathogen. Arsenic was not in the testing panel because arsenic had not been identified as relevant to Bangladeshi delta geology. It was therefore not tested. The testing protocol specified what it knew to look for, and declared the water safe on that basis.
+
+The Scientist in this episode notes a precision-without-accuracy failure at the protocol level: testing accurately for bacteria while having no column for arsenic. Arsenic in Bengal delta sediments is geogenic — naturally occurring, released from iron oxyhydroxides in the Holocene sediment under the reducing conditions created by drawing down the shallow water table. This geological context was not a secret; it was simply not part of the public health model. The Humanist observes what that meant for the communities the programme was designed to serve: families who had been told to stop drinking from rivers and ponds, and who had done exactly that, were now drinking carcinogenic arsenic for fifteen to twenty years before anyone looked. Arsenicosis develops slowly — keratosis, pigmentation changes, cancers — and the connection to the water is non-obvious to a family that was told the water was better. When Chakraborti and the DPHE brought the finding to international agencies in 1994 and 1995, the response was slow, contested, and disputatious: UNICEF pointed to the Bangladesh government; the government pointed to UNICEF; the British Geological Survey noted that arsenic testing had not been part of its mandate. The trust that had made the programme effective became the thing the agencies could not afford to confront. The Engineer, finally, looks at the signal that arrived and was not acted on: in the mid-1980s, elevated arsenic was documented in West Bengal's tubewell water. Bangladesh and West Bengal share the same Ganges-Brahmaputra delta geology, the same shallow Holocene aquifer system, the same tubewell technology. The signal existed. The institutional mechanism to connect it to Bangladesh's public health programme did not.
+
+Where is X? There are two locatable moments. The first is the early 1970s, when WHO's definition of "potable water" testing was established as bacteriological testing only — a protocol that was then exported globally. The second, more precisely locatable, is approximately 1987 or 1988: when the West Bengal arsenic findings were in the geological literature but no cross-disciplinary mechanism existed to trigger a retroactive risk review for Bangladesh. The West Bengal signal is the fulcrum. The information was there. The geological inference — same delta, same sediment, same wells — was available to anyone who asked. No one's mandate included asking.
+
+The question 1+1 posed: UNICEF was answering "how do we eliminate bacterial contamination in drinking water?" Bangladesh communities were answering "how do we get safe water?" Both believed these were the same question. The definition of "safe" was never jointly specified to include all relevant hazards — because only one hazard was in the model. The shared frame was never made explicit enough to expose the gap. When the gap surfaced, in the form of arsenic-blackened skin in northern Bangladesh, the shared frame had already been celebrating its success for twenty years.
+
+The 18th camel is not a different technology. The tubewells themselves were appropriate. It is a protocol design: a "geological-zone phased deployment" approach — drill tubewells in a representative sample of geological zones, run a 90-day multi-contaminant water quality panel including arsenic and heavy metals, then certify or remediate before scaling to the full programme. The technology for arsenic field testing was available and inexpensive. The protocol simply did not exist, and no institution owned the question of creating it. "Drill rapidly" and "test comprehensively for everything" were not genuinely in conflict; the conflict was between the known urgency and the unknown necessity, and the known urgency won by default because the unknown necessity was invisible.
+
+The counterfactual pathway available in 1987: within 90 days of the West Bengal arsenic finding, UNICEF Bangladesh convenes an emergency groundwater chemistry review and commissions a 200-well geological survey across representative aquifer zones. A clear decision rule is established: if arsenic exceeds safety thresholds in more than five percent of samples in any zone, zone-specific mass retesting and remediation begin before further installation in that zone. The one structural change that makes this possible is a cross-disciplinary early-warning protocol — geological survey outputs reviewed automatically for relevance to active public health programmes in geologically similar regions. That mechanism did not exist. Building it was the move no single institution owned.
+
+*(The flag: in complex sociotechnical systems, every intervention model has a blind spot proportional to the certainty of its premises. The greater the confidence in the known risk, the less institutional space goes to the unknown one. Principled pragmatism can recommend making the knowledge system more comprehensive before acting at scale. It cannot specify in advance what the unknowns are — that is the definition of an unknown. The irreducible remainder of any safety protocol is the hazard it has not yet thought to ask about.)*
+
+---
+
+**Problem** — How international public health agencies should design and deploy a large-scale water intervention when the targeted risk is well-understood but the possibility of creating a different risk has not yet been recognised.
+
+**Stakeholders** — Bangladeshi rural communities and their descendants (exposed, without recourse, to a harm created by an intervention designed to protect them); UNICEF, World Bank, and UNDP (programme designers and funders); Bangladesh Department of Public Health Engineering and government (implementing authority); British Geological Survey and WHO (technical certifiers); populations in the 20+ countries where analogous tubewell programmes were replicated.
+
+**Binding constraint** — The testing protocol, institutionally embedded and internationally endorsed, with no mechanism for adding new hazards mid-programme without acknowledging the current protocol was incomplete. The constraint was organisational, not technical: no institution owned the question "what else might be in the water?"
+
+**Decision pathway** — Redesign: rebuild the water-quality certification protocol to include geological risk profiling and multi-contaminant baseline assessment, with a mandatory cross-jurisdiction early-warning trigger when a geological survey in a geologically similar region identifies a non-bacterial groundwater hazard.
+
+**Tools** — Geological risk profiling: systematic survey of aquifer chemistry, including arsenic and heavy metals, before tubewell certification — this changes learning by expanding the definition of "safe water" from bacteriological to geochemical. Cross-jurisdiction early-warning protocol: when a hazard is identified in a region of similar geology, a mandatory 90-day retroactive risk review is triggered for active programmes — this changes coordination between geological institutions and public health programmes, currently unconnected. Community-based arsenic field testing: deploy simple colorimetric field tests alongside tubewell installation — this changes the interaction between communities and certification by enabling independent verification rather than institutional trust alone.
+
+**Metrics** — Fraction of tubewells tested for arsenic before certification (target: 100% before deployment; baseline: 0% for 1971–1993); time from identification of geological risk in a neighbouring jurisdiction to retroactive testing trigger (target: ≤12 months; the West Bengal signal in 1987–88 was not acted on for Bangladesh for at least five years); arsenicosis incidence and arsenic-attributable cancer rates in affected districts, tracked against arsenic-testing coverage rates over time.
+
+**90-day commitment** — Within 90 days of the 1987 West Bengal arsenic finding: UNICEF Bangladesh convenes an emergency groundwater chemistry review; commissions BGS to sample 200 tubewells across geological zones; establishes a decision rule for zone-specific remediation; alerts WHO to review the arsenic threshold in the international potable-water testing standard.
+
+---
+
+**References**
+
+1. Smith AH, Lingas EO, Rahman M. Contamination of drinking-water by arsenic in Bangladesh: a public health emergency. *Bull World Health Organ.* 2000;78(9):1093–1103.
+2. BGS and DPHE. Groundwater Studies for Arsenic Contamination in Bangladesh. Phase 1 Report. UK Department for International Development, 1998–2001.
+3. Human Rights Watch. Nepotism and Neglect: The Failing Response to Arsenic in the Drinking Water of Bangladesh's Rural Poor. New York: HRW; April 2016.
+4. Ahmad SA, Khan MH, Haque M. Arsenic contamination in groundwater in Bangladesh: implications and challenges for healthcare policy. *Risk Manag Healthc Policy.* 2018;11:251–261.
+5. Columbia University, Lamont-Doherty Earth Observatory. The Arsenic Crisis in Bangladesh. ldeo.columbia.edu.
+6. Parvez F, Chen Y, Argos M, et al. A prospective study of arsenic exposure and cause-specific mortality in Bangladesh. *Environ Health Perspect.* 2010;118(7):1021–1025.
