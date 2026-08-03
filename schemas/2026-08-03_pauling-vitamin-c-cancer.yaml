@@ -1,0 +1,248 @@
+---
+case_id: pauling-vitamin-c-cancer
+title: "The Authority Transfer"
+case_type: documented
+mode: retrospective
+scale: individual
+region: "Americas (Palo Alto, California; Vale of Leven, Scotland; Rochester, Minnesota)"
+recency: historical
+year: 1976–1985
+rubric_version: 1
+
+# ── Three perspectives (all required) ────────────────────────────────────────
+
+scientist: >
+  Pauling had genuine biochemical evidence that ascorbic acid participates in
+  collagen synthesis, immune function, and the oxidative defence of cells. The
+  theoretical basis was coherent. His and Cameron's 1976 PNAS data showed 100
+  terminal cancer patients at Vale of Leven Hospital surviving three to four
+  times longer than 1,000 matched controls. The problem: controls were labeled
+  "untreatable" at a substantially earlier stage in disease progression than
+  the vitamin-C patients, a selection bias documented by NCI's William DeWys.
+  Two rigorous double-blind RCTs at the Mayo Clinic (Creagan 1979; Moertel
+  1985) using the same 10 g/day oral dose found no survival benefit. The
+  Scientist sees a precision-without-accuracy failure at the design level: a
+  plausible mechanism was mistaken for clinical proof.
+
+humanist: >
+  Tens of thousands of terminal cancer patients read Pauling's bestselling
+  books — Vitamin C and the Common Cold (1970); Cancer and Vitamin C (1979) —
+  and chose megadose supplementation in their final months, sometimes
+  abandoning conventional palliative care. The humanist notices that Cameron's
+  patients did report feeling better — quality-of-life improvements were real
+  even where survival benefit was not. Pauling genuinely believed he was
+  fighting for dying people against a medical establishment that was slow to
+  test his claims. The establishment genuinely believed it was protecting dying
+  people from false hope. Both were partly right. The patient, caught between
+  competing authorities, had no mechanism to evaluate the epistemic dispute.
+
+engineer: >
+  The pathway that existed but was not taken: Pauling could have collaborated
+  with the NCI to design a prospective, matched, double-blind RCT using
+  Cameron's network, submitting the 1976 data as pilot evidence rather than
+  proof of efficacy. The NCI had the infrastructure. Pauling had the prestige
+  to negotiate trial design with any institution. What blocked the cooperative
+  path was Pauling's certainty that the retrospective data was already
+  sufficient — and his interpretation of each negative Mayo trial as a
+  methodological attack. The Engineer sees a cooperation structure that could
+  have been built but was not, because one party would not recognize the
+  question had not yet been answered.
+
+archetype_dominant: scientist
+crowded_out_mode: doing
+# thinking (theoretical certainty about ascorbate mechanism) crowded out
+# doing (the clinical methodology required to validate the clinical claim).
+
+# ── Diagnosis ─────────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  Ascorbic acid has documented roles in collagen synthesis and immune function.
+  The Cameron-Pauling 1976 retrospective: 100 vitamin-C patients vs. 1,000
+  historical controls at Vale of Leven Hospital; survival 3–4× longer in
+  vitamin-C group. Control selection bias identified by DeWys (NCI): controls
+  labeled "untreatable" earlier in disease course. Cameron-Pauling 1978 PNAS
+  follow-up reported consistent results. Creagan et al. (1979) NEJM double-blind
+  RCT: no benefit (but patients had prior chemotherapy, a methodological dispute
+  Pauling raised). Moertel et al. (1985) NEJM double-blind RCT specifically
+  excluding prior chemotherapy: no benefit. Pauling called the 1985 trial a
+  "conspiracy to suppress the truth." Modern pharmacological research has since
+  shown IV vitamin C achieves plasma concentrations oral dosing cannot — making
+  the oral/IV distinction a genuine scientific refinement that came too late.
+
+social_facts: >
+  Pauling held two unshared Nobel Prizes (Chemistry 1954; Peace 1962), the
+  most of any individual. His public credibility was enormous and deliberately
+  leveraged. Cancer and Vitamin C sold hundreds of thousands of copies. Tabloid
+  media amplified his claims without the epidemiological caveats. Terminal
+  cancer patients are uniquely vulnerable to hopeful authoritative claims. The
+  medical establishment's responses were sometimes dismissive rather than
+  engaged, feeding Pauling's narrative that the establishment was protecting
+  institutional turf. The orthomolecular medicine movement — which Pauling had
+  co-founded — used his authority as a permanent legitimating credential.
+
+political_realities: >
+  Pauling was enmeshed in the alternative medicine and nutritional supplement
+  culture of the 1970s–1980s. Conceding to the Mayo Clinic RCTs would have
+  required him to abandon that cultural alliance and implicitly validate the
+  medical establishment he had publicly criticized for decades. The NCI and FDA
+  were institutionally hostile to alternative medicine claims, which reinforced
+  Pauling's siege mentality. These structural incentives made a cooperative
+  trial-design arrangement politically costly for both sides.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: Does high-dose IV vitamin C (now known to be pharmacologically
+  different from oral) affect cancer progression? This remains an active
+  research question. Ambiguity: What protocol counts as "testing Pauling's
+  claim"? Pauling argued neither Mayo trial tested his specific regimen; Moertel
+  argued they tested the published dose and route exactly. The two sides never
+  agreed on what question they were jointly answering — a paradigm case of
+  1+1 producing two separate ones rather than 2.
+
+key_tensions:
+  - "Credibility vs. domain expertise: Nobel authority in chemistry does not confer authority in clinical trial design"
+  - "Patient hope vs. patient harm: terminal patients' lived hope in final months vs. diversion from palliative care"
+  - "Speed of advocacy vs. rigor of evidence: publishing for patients now vs. publishing after evidence is settled"
+
+problem_definition: >
+  On what epistemic terms should Pauling publish his retrospective vitamin-C
+  cancer findings, and through what channel, such that the clinical community
+  can engage rather than dismiss — and patients can make informed decisions
+  rather than ones based on authority alone?
+
+# ── Metaphors ─────────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  Pauling was answering "Does ascorbic acid have biological anticancer
+  activity?" (theoretical/biochemical). The oncologists were answering "Does
+  10 g/day oral vitamin C improve survival in terminal cancer patients?"
+  (clinical/empirical). These are different questions. Because they were never
+  jointly specified, the 1976 paper and the Mayo trials produced two separate
+  verdicts rather than a shared conclusion, and the dispute about
+  "methodology" was actually a dispute about which question was the right one
+  to be answering.
+
+where_is_x: >
+  The PNAS submission, May 1976. Pauling, as a member of the National Academy
+  of Sciences, submitted the Cameron-Pauling paper through the "communicated"
+  channel — accepted in 36 days, with a sympathetic Academy colleague as
+  editor — bypassing the clinical peer review process that would have required
+  a matched control group and pre-specified endpoints. The manuscript went from
+  received to accepted in the time most NEJM peer reviews are still awaiting
+  their first reviewer report. That submission decision — which journal, which
+  channel, under which epistemic norms — is the precise fulcrum.
+
+eighteenth_camel: >
+  Binary: publish the retrospective data as evidence of benefit (Pauling's
+  choice) OR demand a full RCT before any publication (the establishment's
+  demand). The 18th camel: submit the 1976 data explicitly as pilot evidence
+  to the Journal of Clinical Oncology or JNCI, accompanied by a call for a
+  jointly designed NCI-funded Phase III trial with Pauling on the steering
+  committee. This changes the structure: the retrospective data functions as
+  hypothesis-generating rather than claim-confirming. The trial runs 1977–1982.
+  Pauling's insight gets a fair test with his participation rather than his
+  opposition. The binary "right vs. wrong" fight never happens.
+
+solomon_check: >
+  If another scientist — without Nobel authority — had published the same
+  retrospective data claiming cancer benefit, Pauling would immediately have
+  said: "This is a pilot study that requires a proper RCT before anyone acts on
+  it." He could not apply that standard to himself. The Solomon Paradox is
+  present at full strength: proximity to the finding foreclosed the perspective
+  that distance would have provided.
+
+urgency_vs_actionability: >
+  Terminal cancer patients were dying. The urgency was real and Pauling felt it.
+  But the actionability of retrospective, uncontrolled data was not established.
+  Pauling let urgency justify publication-as-proof — and the gap between that
+  urgency and the actual evidence became the harm channel through which dying
+  patients made decisions.
+
+# ── Conditions, capacity, constraints ────────────────────────────────────────
+
+enabling_conditions: >
+  The NCI was actively funding cancer clinical trials and had Phase III
+  infrastructure. Cameron's patients were accessible for a prospective follow-up.
+  Pauling had the prestige to open negotiations with any institution. The
+  political climate of the 1970s was receptive to complementary approaches if
+  presented within evidence-based frameworks.
+
+capacities: >
+  Pauling had funding (Linus Pauling Institute, 1973), Cameron's clinical
+  network in Scotland, NAS membership to open NCI doors, and enough public
+  credibility to negotiate trial design on his own terms.
+
+constraints: >
+  Binding constraint: Pauling's epistemic certainty that the retrospective data
+  was already sufficient proof. This was not an external constraint — not
+  funding, not access, not political opposition — but an internal one. He
+  genuinely believed the Mayo trials were not testing his claim but suppressing
+  it. No pathway design can overcome a refusal to recognize the question is
+  still open.
+
+# ── Decision pathway ─────────────────────────────────────────────────────────
+
+decision_pathway: Redesign
+# Redesign the publication and advocacy strategy: submit the retrospective
+# findings as pilot-study evidence with an explicit call for a jointly
+# designed RCT, rather than as clinical proof to a non-clinical journal.
+
+tools:
+  - "Joint fact-finding (JFF): Pauling + NCI + Cameron jointly specify the research question, endpoint definitions, and control-group matching criteria → changes coordination from adversarial (each side testing its own framing) to co-investigator (both sides committed to the same falsifiable test)"
+  - "Structured clinical peer review: route the manuscript through a clinical oncology journal requiring matched controls, pre-specified endpoints, and ethics-board documentation → changes learning by exposing methodological gaps before public advocacy"
+  - "Public pre-registration: register the hypothesis, dose, route, endpoints, and expected effect size before the trial → makes the test falsifiable in advance; eliminates post-hoc methodological disputes"
+
+metrics:
+  - "Time from pilot-data publication to completed Phase III RCT → target: ≤5 years (vs. the de facto 9-year adversarial process that produced two contested trials)"
+  - "Number of terminal cancer patients making treatment decisions based solely on retrospective Pauling data before RCT completion → proxy for preventable harm → should approach zero if the paper is framed as hypothesis-generating"
+  - "Pauling citation integrity over a 10-year window → measured as fraction of citing papers that accurately represent the study design's limitations → degraded by advocacy framing, preserved by pilot-study framing"
+
+ninety_day_commitment: >
+  Counterfactual — the first 90 days of the alternative pathway: By October
+  1976, Pauling meets with NCI Division of Cancer Treatment to negotiate a
+  Phase III trial design using Cameron's patient network. Within 90 days:
+  signed agreement on endpoint definitions (survival, quality of life, toxicity),
+  ethics-board approval for prospective enrollment, and a co-authored NEJM
+  correspondence letter announcing the pilot data and the forthcoming trial —
+  framing the retrospective finding as promising but requiring confirmation.
+
+# ── Stress test ───────────────────────────────────────────────────────────────
+
+stress_test:
+  political: "Reagan's 1981 NCI budget cuts could delay trial funding mid-enrollment; Pauling would need a private-sector backup funder (the Linus Pauling Institute was financially precarious by 1980)."
+  institutional: "The AMA and oncology establishment could refuse to enroll patients in a trial they viewed as legitimizing quackery — but Pauling's prestige makes this unlikely if the trial design is rigorous."
+  wrong_assumption: "That Pauling would accept negative RCT results in good faith. The evidence from 1979 and 1985 suggests he would not — making the cooperative pathway fragile even if the structure is right."
+  missing_resource: "Good faith on both sides. Pauling distrusted the establishment; the establishment distrusted him. A genuine co-investigator relationship required each side to extend trust it had publicly withdrawn."
+  twelve_month_failure: "Pauling publishing the 1978 PNAS follow-up as 'confirmation' before the RCT enrolls — treating his own second retrospective study as proof and abandoning the cooperative framework."
+
+revised_problem_definition: >
+  The decision problem is not "should Pauling publish his vitamin-C findings?"
+  but: on what epistemic terms, through what channel, and with what explicit
+  claims should he publish — such that the clinical community can engage rather
+  than dismiss, and patients can make decisions based on the calibrated weight
+  of the evidence rather than on his authority alone? The stress test reveals
+  that even a well-designed cooperative pathway faces a key fragility: Pauling's
+  epistemic certainty was deep enough that he might have abandoned the framework
+  the moment it produced a negative interim result. The binding constraint is not
+  external opposition but internal epistemic closure — the refusal to recognize
+  that a domain authority in one field does not transfer to another.
+
+# ── Honesty ───────────────────────────────────────────────────────────────────
+
+flag: >
+  Scientific authority scales. A Nobel laureate's error reaches more patients
+  than a junior researcher's error, at greater velocity, with greater
+  institutional resistance to correction. But there is no mechanism — in science,
+  in medicine, or in principled pragmatism — that imposes clinical-domain humility
+  on an authority whose credibility was earned elsewhere. The "authority transfer"
+  problem has no institutional solution so long as credentialing systems treat
+  eminence as portable across domains. Principled pragmatism can design better
+  publication pathways; it cannot override the decision of a Nobel laureate to
+  use his own.
+
+sources:
+  - "Cameron E, Pauling L. Supplemental ascorbate in the supportive treatment of cancer: prolongation of survival times in terminal human cancer. Proc Natl Acad Sci USA. 1976;73(10):3685–3689. [Verified — NIH Profiles in Science; received May 1, accepted June 6, 1976]"
+  - "Cameron E, Pauling L. Supplemental ascorbate in the supportive treatment of cancer: reevaluation of prolongation of survival times in terminal human cancer. Proc Natl Acad Sci USA. 1978;75(9):4538–4542. [Verified — PubMed]"
+  - "Creagan ET, Moertel CG, et al. Failure of high-dose vitamin C (ascorbic acid) therapy to benefit patients with advanced cancer. N Engl J Med. 1979;301:687–690. [Verified — NEJM]"
+  - "Moertel CG, Fleming TR, Creagan ET, et al. High-dose vitamin C versus placebo in the treatment of patients with advanced cancer who have had no prior chemotherapy. N Engl J Med. 1985;312(3):137–141. [Verified — PubMed PMID 3880867]"
+  - "Richards E. The politics of therapeutic evaluation: the vitamin C and cancer controversy. Soc Stud Sci. 1988;18(4):653–701. [Verified — SAGE Journals]"
+  - "Science History Institute. Linus Pauling's Vitamin C Crusade. sciencehistory.org. [Verified — Science History Institute, Philadelphia]"

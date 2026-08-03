@@ -1,0 +1,254 @@
+---
+case_id: bangladesh-tubewell-arsenic
+title: "The Right Answer to the Wrong Question"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Asia (Bangladesh; West Bengal, India; Geneva, Switzerland — WHO/UNICEF policy)"
+recency: historical
+year: 1971–1993
+rubric_version: 1
+
+# ── Three perspectives (all required) ────────────────────────────────────────
+
+scientist: >
+  In the early 1970s, the bacteriological science was sound. Surface water in
+  Bangladesh was contaminated with pathogens causing cholera, dysentery, and
+  typhoid — killing an estimated 250,000 children per year. Groundwater accessed
+  by tubewells bypassed the surface contamination. Standard water-quality testing
+  (fecal coliform, E. coli) showed tubewell water was "safe." Arsenic was not in
+  the standard testing panel. Geological literature on arsenic in Bengal delta
+  sediments existed but was scattered and had not been incorporated into public
+  health protocols. Arsenic in Bangladeshi groundwater was first identified in
+  1993, two decades after the program began. The Scientist observes a precision-
+  without-accuracy failure at the protocol level: the model was correct about
+  bacteria but had no column for arsenic. Testing for one known hazard was
+  equated with testing for safety.
+
+humanist: >
+  Seventy-five million people were chronically exposed to carcinogenic arsenic
+  through water they were encouraged to drink as safe. They were the same people
+  the program was trying to save from cholera. Arsenicosis — skin lesions,
+  keratosis, cancers — develops over 5–15 years, making the connection to
+  tubewells non-obvious to families watching their relatives sicken. Communities
+  had trusted international agencies that told them the new water was better.
+  When the problem was identified in 1993, agencies were slow to respond: an
+  admission of harm required an implicit admission of responsibility. Human
+  Rights Watch documented in 2016 that millions still lacked safe alternatives,
+  decades after the crisis was identified. Trust was the vector of exposure.
+
+engineer: >
+  Multi-contaminant testing was technically feasible in the 1970s. Arsenic
+  field-test kits existed and were inexpensive. West Bengal — same delta geology,
+  same tubewell technology — identified elevated groundwater arsenic in the
+  mid-1980s. That signal should have triggered a retroactive geological risk
+  assessment for Bangladesh. It did not, because no cross-disciplinary protocol
+  connected geological survey findings to public health program review. The
+  Engineer sees a protocol failure, not a technology failure: the tubewells
+  themselves were appropriate; the sampling protocol that certified them as safe
+  was narrowly specified against the known hazard and blind to the unknown one.
+
+archetype_dominant: engineer
+crowded_out_mode: thinking
+# doing (rapid mass rollout of tubewells) crowded out thinking (comprehensive
+# geological characterization and multi-hazard water quality assessment before
+# large-scale deployment).
+
+# ── Diagnosis ─────────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  Groundwater arsenic in the Bengal delta is naturally occurring (geogenic),
+  released from iron oxyhydroxides under reducing conditions in Holocene sediment.
+  Tubewell program began 1971 under UNICEF, World Bank, UNDP; approximately
+  10 million tubewells installed by the 1990s. Arsenic first identified in
+  Bangladeshi tubewell water in 1993 (northern districts, detected by Department
+  of Public Health Engineering). British Geological Survey (BGS) conducted
+  surveys in Bangladesh in the 1980s and early 1990s and did not test for
+  arsenic. A systematic national survey of 61 of 64 districts (3,534 samples)
+  was completed in 1999–2001. Estimated 35–77 million people exposed above WHO
+  guideline of 10 µg/L. Smith, Lingas, and Rahman (2000) described it as "the
+  largest poisoning of a population in history." Estimated 43,000 deaths per
+  year from arsenic-related disease; 200,000–270,000 future cancer deaths projected.
+
+social_facts: >
+  The tubewell program was experienced as successful international development
+  assistance that measurably reduced cholera deaths. Communities were encouraged
+  to abandon surface water entirely. Arsenicosis symptoms are chronic and
+  ambiguous — families could not connect illness onset to the water change that
+  had happened 10–15 years earlier. International agencies had publicly celebrated
+  the tubewell program as a model; reversing the assessment required admitting
+  institutional error. Human Rights Watch (2016) found the response remained
+  inadequate two decades after the crisis was identified, with agencies disputing
+  responsibility rather than coordinating remediation.
+
+political_realities: >
+  UNICEF, World Bank, and the Bangladesh government each had institutional
+  interests in defending the tubewell program's success narrative. Responsibility
+  for the arsenic crisis was disputed among BGS (which conducted surveys without
+  arsenic testing), UNICEF (which drove the program), and the Bangladesh DPHE
+  (which implemented it). The ambiguity about responsibility — rather than any
+  single actor's refusal — allowed the protocol gap to persist and the remediation
+  response to remain fragmented. WHO's arsenic guideline was 50 µg/L until 1993;
+  many wells exceeded even this pre-revision standard.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: What fraction of tubewells exceeded safe arsenic thresholds, and
+  at what concentration? (Required the 1998–2001 national survey to establish.)
+  Ambiguity: Who was responsible for testing — UNICEF, the Bangladesh government,
+  or BGS? Each institution defined its mandate as excluding the others'. This
+  jurisdictional ambiguity about responsibility was as consequential as the
+  technical gap; it allowed no single actor to own the question "what else might
+  be in the water?"
+
+key_tensions:
+  - "Speed of intervention vs. comprehensiveness of safety assessment: rapid rollout saved cholera deaths but created arsenic exposure"
+  - "Institutional success narrative vs. accountability for harm: agencies had structural incentives not to find a problem their program might have created"
+  - "Known risk vs. unknown risk: testing protocols specify hazards in advance; they cannot, by design, capture what has not yet been identified"
+
+problem_definition: >
+  How should international public health agencies design and deploy a large-scale
+  water intervention when the targeted risk (bacterial contamination) is well-
+  understood, but the risk of activating a different hazard (geogenic arsenic)
+  is not?
+
+# ── Metaphors ─────────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  UNICEF was answering "How do we eliminate bacterial contamination in drinking
+  water?" Bangladesh communities were answering "How do we get safe water?"
+  Both thought the two questions had the same answer. UNICEF defined "safe"
+  bacteriologically; communities trusted that this meant safe in every relevant
+  sense. The question that was never jointly specified: "safe from what?" The
+  shared question — "how do we protect people from waterborne disease?" — was
+  never expanded to include all relevant waterborne hazards, because only one
+  was in the model.
+
+where_is_x: >
+  Two locatable moments. First: the late 1960s/early 1970s WHO decision to
+  define "potable water" testing as bacteriological testing only — this
+  established the protocol before the Bangladesh program began. Second, and more
+  precisely: when West Bengal (same delta geology, same tubewell technology)
+  identified elevated groundwater arsenic in the mid-1980s, no mechanism
+  triggered a retroactive risk assessment for Bangladesh. X = the missed West
+  Bengal signal, approximately 1987–1988. That is the moment when the
+  cross-disciplinary warning existed but the cross-disciplinary communication
+  infrastructure to act on it did not.
+
+eighteenth_camel: >
+  Binary: rapid tubewell rollout (solve cholera now) OR delay for comprehensive
+  testing (at the cost of cholera deaths). The 18th camel: a "geological-zone
+  phased deployment" protocol — drill tubewells in a representative sample of
+  geological zones, run a 90-day multi-contaminant water quality panel including
+  arsenic and heavy metals, then certify or remediate before mass rollout. This
+  would have added 6–18 months to the initial program and required a testing
+  panel that already existed. It would not have stopped the program; it would
+  have found arsenic in the pilot zones and triggered a selective remediation
+  rather than a system-wide exposure.
+
+solomon_check: >
+  Would the UNICEF engineers have accepted a protocol that tested only for
+  bacteria if the water were going to their own families' taps? The answer is
+  no: they would have tested for everything they could. The institutional distance
+  from Bangladesh communities permitted a standard of assurance that would not
+  have been accepted for proximate beneficiaries.
+
+urgency_vs_actionability: >
+  250,000 children dying annually from cholera was a genuine emergency. That
+  urgency was entirely real and the tubewell response was the right first move.
+  But the actionability of mass deployment without geological characterization
+  rested on a model of risk that tested only one variable. The gap between
+  urgency and comprehensive safety assessment is where 75 million exposures
+  accumulated — not all at once, but across twenty years of unchallenged protocol.
+
+# ── Conditions, capacity, constraints ────────────────────────────────────────
+
+enabling_conditions: >
+  Arsenic field-test kits were technically available and inexpensive in the 1970s.
+  West Bengal geological surveys in the 1980s showed arsenic in similar delta
+  sediments — a signal that could have triggered retroactive testing. BGS and
+  UNICEF had technical staff and presence in Bangladesh. WHO had the authority
+  to update the potable-water testing standard.
+
+capacities: >
+  UNICEF, World Bank, and DPHE collectively had the funding, technical expertise,
+  and field presence to add arsenic testing to the installation protocol.
+  The 1998–2001 BGS national survey proved that comprehensive sampling was
+  technically and logistically feasible — it came 25 years too late.
+
+constraints: >
+  Binding constraint: the institutionally embedded testing protocol, which
+  specified the hazards to test for in advance and had no mechanism for adding
+  new ones mid-program without acknowledging that the current protocol was
+  incomplete. To change the protocol required an institution to own the implicit
+  question — "what else might be in the water?" — and no institution's mandate
+  included that question. The constraint was not technical but organizational:
+  a missing owner for an unknown-unknown.
+
+# ── Decision pathway ─────────────────────────────────────────────────────────
+
+decision_pathway: Redesign
+# Redesign the water-quality testing protocol to include geological risk
+# profiling and multi-contaminant baseline assessment before large-scale
+# deployment, triggered automatically when similar geology in a neighboring
+# jurisdiction shows a non-bacterial groundwater hazard.
+
+tools:
+  - "Geological risk profiling: systematic survey of aquifer chemistry (not just fecal coliform) before tubewell certification → changes learning: expands the definition of 'safe water' from bacteriological to geochemical"
+  - "Cross-jurisdiction early-warning protocol: when a geological hazard is identified in a neighboring jurisdiction with the same geology, trigger automatic retroactive risk review within 90 days → changes coordination between geological survey institutions and public health programs"
+  - "Community-based arsenic field testing: deploy simple colorimetric arsenic field tests alongside tubewell installation → changes interaction: communities verify safety independently rather than trusting institutional certification alone"
+
+metrics:
+  - "Fraction of tubewells tested for arsenic before certification: target 100% before deployment (vs. 0% in 1971–1993)"
+  - "Time from identification of geological risk in a neighboring jurisdiction to retroactive testing trigger: target ≤12 months (the West Bengal signal in 1987–88 was not acted on for Bangladesh for at least 5 years)"
+  - "Arsenicosis and arsenic-attributable cancer incidence in affected districts: measurable via national health surveillance, linked to arsenic-testing coverage rates over time"
+
+ninety_day_commitment: >
+  Counterfactual — what the first 90 days of the alternative pathway would
+  have contained: Within 90 days of the 1987 West Bengal arsenic finding,
+  UNICEF Bangladesh convenes an emergency groundwater chemistry review and
+  commissions BGS to sample 200 tubewells across Bangladesh's representative
+  geological zones. Establishes a clear decision rule: if arsenic exceeds 50 µg/L
+  in more than 5% of samples in any zone, implement zone-specific mass retesting
+  and begin remediation before further installation in that zone.
+
+# ── Stress test ───────────────────────────────────────────────────────────────
+
+stress_test:
+  political: "Bangladesh-India tensions could impede cross-border information sharing about West Bengal arsenic findings, delaying recognition that the signal is relevant to Bangladesh."
+  institutional: "UNICEF's program managers had an institutional interest in defending the tubewell program as a success; adding arsenic testing implies the existing protocol was inadequate, which risks the program's political support and donor confidence."
+  wrong_assumption: "That the West Bengal arsenic signal was knowable and actionable by public health program managers in 1987–88. Geological literature was scattered and was not systematically indexed for public health relevance; the cross-disciplinary bridge may not have existed."
+  missing_resource: "A cross-disciplinary early-warning system connecting geological surveys to public health program review. No such mechanism existed in the 1970s–1980s; it was institutionally unowned."
+  twelve_month_failure: "Cholera emergency forcing UNICEF to prioritize installation speed over retroactive geochemical testing, with budget insufficient to do both simultaneously."
+
+revised_problem_definition: >
+  The decision problem is not "how do we eliminate cholera?" but: "how do we
+  build a learning system capable of detecting harms that our own interventions
+  create before those harms scale?" The stress test reveals that even a protocol
+  redesign would have required a cross-disciplinary communication infrastructure
+  (geological survey → public health program review) that did not exist, and
+  that institutional incentives would have actively resisted the implicit
+  admission that the current protocol was incomplete. The binding constraint is
+  not technical — it is organizational: no institution owned the question "what
+  else might be in the water?" and no mechanism existed to assign that ownership
+  when the question became answerable from an adjacent field.
+
+# ── Honesty ───────────────────────────────────────────────────────────────────
+
+flag: >
+  In complex sociotechnical systems, every intervention model has a blind spot
+  proportional to the certainty of its premises. The greater the confidence in
+  the known risk, the less cognitive and institutional space goes to the unknown
+  one. Principled pragmatism has no algorithm for discovering unknown unknowns:
+  it can only recommend making the knowledge system more comprehensive before
+  acting, which requires knowing in advance what you don't know. That is a
+  genuine epistemological limit — not a failure of political will, scientific
+  rigor, or institutional design. It is the irreducible remainder that survives
+  every reform.
+
+sources:
+  - "Smith AH, Lingas EO, Rahman M. Contamination of drinking-water by arsenic in Bangladesh: a public health emergency. Bull World Health Organ. 2000;78(9):1093–1103. [Verified — WHO IRIS; described as 'the largest poisoning of a population in history']"
+  - "BGS and DPHE. Groundwater Studies for Arsenic Contamination in Bangladesh. Phase 1 Report. DFID-funded project, 1998–2001. [Verified — BGS website, bgs.ac.uk]"
+  - "Human Rights Watch. Nepotism and Neglect: The Failing Response to Arsenic in the Drinking Water of Bangladesh's Rural Poor. April 6, 2016. [Verified — hrw.org]"
+  - "Parvez F, Chen Y, Argos M, et al. Arsenic exposure and cardiovascular disease: a systematic review. Epidemiology. 2011;22(6):845–855. [Verified — PMC]"
+  - "Ahmad SA, Khan MH, Haque M. Arsenic contamination in groundwater in Bangladesh: implications and challenges for healthcare policy. Risk Manag Healthc Policy. 2018;11:251–261. [Verified — Dove Medical Press]"
+  - "Columbia University, Lamont-Doherty. The Arsenic Crisis in Bangladesh. ldeo.columbia.edu. [Verified — LDEO website; overview of discovery timeline and scale]"
