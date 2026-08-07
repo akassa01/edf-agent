@@ -1,0 +1,316 @@
+---
+case_id: boyer-haiti-independence-debt
+title: "The Ransom of Freedom"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Americas (Port-au-Prince, Haiti; Paris, France)"
+recency: historical
+year: 1825
+rubric_version: 1
+
+# ── Three perspectives (all required) ────────────────────────────────────────
+
+scientist: >
+  Haiti's annual state revenue in 1825 was approximately 10 million francs.
+  The French ordonnance demanded 150 million — roughly fifteen times annual
+  revenue — with the first installment of 30 million due by December 1825.
+  Haiti could not pay from treasury and was immediately forced to borrow from
+  French banks at market rates, compounding the principal. The 1838
+  renegotiation reduced the nominal debt to 60 million, repaid in 1883. But
+  because Haiti had taken loans to make earlier payments, it continued
+  servicing those obligations until 1947 — 122 years after the original
+  ordonnance. A 2022 New York Times investigation calculated the total cost
+  at approximately $560 million in today's dollars. The Scientist sees capital
+  permanently extracted from a developing economy across six generations: no
+  railroads, no public hospitals, no school infrastructure that the treasury
+  could have funded instead. The economic impossibility of the original demand
+  was visible from the moment the figure was named. No one in the negotiating
+  room said so.
+
+humanist: >
+  The ordonnance required that the formerly enslaved people of Haiti
+  compensate the people who had enslaved them — not symbolically, but in
+  specie, across generations. The financial instrument did not merely transfer
+  wealth; it embedded a legal claim that Haitian freedom itself had a price,
+  set by those from whom it had been taken. Haitian fighters had died to end
+  slavery; their children would spend their working lives paying for the right
+  to have done so. No category in Boyer's negotiating framework had room for
+  this inversion, because accepting the framework at all meant accepting the
+  moral claim that underlay it. The Humanist does not ask whether the payment
+  was strategically rational. The Humanist asks what it meant for a people who
+  had just proven that their freedom was unconditional, to then purchase it.
+
+engineer: >
+  Boyer's strategic assessment was precise: France, backed by 14 warships
+  carrying more than 500 cannon, could blockade Haiti's ports and foreclose
+  its export economy. Haiti's military, though formidable in jungle combat,
+  could not engage a naval force. Britain was trading quietly with Haiti but
+  would not break with France over recognition. Boyer calculated that French
+  recognition — and the end of diplomatic isolation — was worth the economic
+  price. He was solving for political survival over an 18-month horizon. The
+  economic consequences played out over 122 years. The Engineer sees a
+  technically rational short-run decision that locked in a catastrophic
+  long-run structure, and asks: what was the full range of deal structures
+  available, and why did Boyer engage only one?
+
+archetype_dominant: engineer
+crowded_out_mode: feeling
+# Boyer's doing mode — the pragmatic deal-making — dominated the negotiation.
+# The feeling dimension — what it meant for formerly enslaved people to pay
+# their former enslavers for the right to be recognized as free — was not
+# integrated into the bargaining frame, nor was the scientific analysis
+# (this sum is economically self-defeating). Both were crowded out by the
+# engineer's urgency to close a survivable agreement.
+
+# ── Diagnosis ─────────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  Haiti's annual state revenue circa 1825: approximately 10 million francs.
+  French demand: 150 million francs (nominal). First installment due December
+  1825: 30 million francs — borrowed from French banking houses immediately.
+  1838 renegotiation: reduced principal to 60 million; final payment of
+  reduced debt in 1883. Total debt service including loans for earlier
+  payments: continued until 1947. NYT (2022) calculated the total economic
+  cost at approximately $560 million in present-day dollars. Haiti allocated
+  up to 80% of state revenues to debt service at the height of the payment
+  schedule.
+
+social_facts: >
+  The ordonnance stated that Haiti must compensate "former colonists" for
+  "losses" during the revolution — legally defining enslaved people as property
+  whose forced liberation required compensation to owners. Haitian peasants,
+  freedpeople, and workers had no role in the negotiation. Boyer's political
+  legitimacy depended partly on ending the isolation that blocked trade.
+  French Haitian émigré landowners in Paris had influence over the Bourbon
+  court's Haiti policy. Some French abolitionists had publicly opposed the
+  indemnity principle from the moment it was proposed.
+
+political_realities: >
+  France recognized Haitian sovereignty only on condition of payment. The
+  United States and most European states followed France's non-recognition
+  posture. The United Kingdom had commercial interest in Haitian trade but
+  would not break with France. Baron de Mackau's instructions explicitly
+  described his mission as non-negotiable — this was an ordonnance, not an
+  offer. Boyer's internal political position required him to deliver a result
+  that ended isolation. No third-party mediator existed or was sought.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: whether France would actually impose a naval blockade if Boyer
+  refused; whether Britain would intervene commercially; whether Haiti could
+  sustain its export economy without formal French recognition. Ambiguity:
+  what "recognition" was worth — Boyer valued it as existential security;
+  many Haitians valued it as the completion of independence; France valued it
+  as restoration of commercial relationships; French abolitionists valued the
+  recognition question entirely differently, as a moral matter.
+
+key_tensions:
+  - "Security vs. Sovereignty: recognition ended diplomatic isolation but
+    mortgaged state revenues for 122 years, foreclosing the investment that
+    would have built the security it was meant to deliver"
+  - "Moral legitimacy vs. Legal pragmatism: the debt was morally indefensible
+    — freedom cannot be priced by the former enslaver — but Boyer signed it
+    as a legitimate state instrument, and every subsequent government honored it"
+  - "Short-term survival vs. Long-term capacity: the deal solved the immediate
+    threat over an 18-month horizon and extracted capital from the development
+    budget across six generations"
+
+problem_definition: >
+  How should Haiti negotiate the terms of French recognition when France
+  demands financial compensation for colonial losses, the stated alternative
+  is continued isolation and potential naval blockade, and the frame presented
+  to Boyer offers only the question of how much to pay?
+
+# ── Metaphors ─────────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  France was answering: "What is the market value of property — plantations,
+  equipment, and enslaved people — lost when the colony was seized?" Haiti was
+  answering: "What is the minimum price of international recognition and
+  security for an isolated republic?" These were not the same calculation.
+  They shared a currency unit and no shared understanding of the question
+  behind it. Boyer signed a document settling both without noticing they
+  were two separate ones.
+
+where_is_x: >
+  Boyer's negotiating position in July 1825, at the specific moment before
+  he accepted the frame that the question was "how much?" The 14 warships
+  narrowed Boyer's perceived options to a single dimension: the price. The
+  lever was the moment — still available, briefly — in which a different form
+  of agreement could have been articulated. Not the amount of the debt, but
+  whether the debt was the right instrument at all. The fulcrum was the framing
+  of the question, not the answer to it.
+
+eighteenth_camel: >
+  Accept French recognition, but offer a 99-year preferential trade agreement
+  — specific tariff advantages for Haitian sugar, coffee, and indigo in French
+  markets, and for French goods in Haitian markets — rather than an indemnity
+  payment. France's actual commercial interest was access to Haitian markets,
+  not a one-time financial transfer. A trade arrangement monetizes the future
+  relationship rather than the past claim, establishes no legal precedent that
+  freedom has a price, and creates no compounding debt structure. Boyer's
+  envoys had the standing to table this. It was never tabled.
+
+solomon_check: >
+  Boyer and his legal advisers would have said instantly, if counseling any
+  other newly independent republic, that no legitimate state accepts an
+  indemnity under duress from its former oppressor without contesting the
+  moral principle. The argument was available — in French revolutionary law
+  itself, in Toussaint Louverture's own declarations, in the objections of
+  French abolitionists who were already making it in Paris. The wisdom was
+  not absent. The warships made the distance required for that wisdom
+  impossible to maintain.
+
+urgency_vs_actionability: >
+  The warships created urgency. But Haiti's export economy was already partly
+  functional — France was not Haiti's only market, and British merchants were
+  trading without formal recognition. The actionable space was larger than
+  Boyer perceived: French merchants in Bordeaux, Nantes, and Le Havre had
+  commercial reasons to prefer a trade framework over a debt instrument.
+  Urgency compressed the negotiating horizon to a question Boyer could answer
+  (how much?) rather than the question worth asking (in what form?).
+
+# ── Conditions, capacity, constraints ─────────────────────────────────────────
+
+enabling_conditions: >
+  France's genuine commercial interest in Haitian markets was an underused
+  lever — the colony had produced more than half of Europe's coffee and 40%
+  of its sugar before the revolution. Some French merchants wanted restored
+  trade access more than they wanted restitution. French abolitionists were
+  already arguing against the indemnity principle in Paris. A longer
+  negotiating timeline could have surfaced these constituencies.
+
+capacities: >
+  Haiti had a functioning export economy, a battle-hardened military, the
+  political legitimacy of the world's first Black republic, and the moral
+  argument from French revolutionary law (the 1794 abolition decree, later
+  reversed, was still within living memory). What it lacked: time, access to
+  alternative recognition processes, a third-party mediator, and a negotiating
+  frame outside the one France had imposed.
+
+constraints: >
+  Binding constraint: French naval superiority in Caribbean waters made
+  blockade a credible threat to Haiti's export economy. Secondary: no
+  third-party mediator available or sought; Boyer's internal political need
+  to deliver a result; no precedent for a sovereign state refusing a major
+  power's recognition terms. The constraint was military and political, not
+  conceptual — the alternative frame existed; it simply was not named.
+
+# ── Decision pathway ─────────────────────────────────────────────────────────
+
+decision_pathway: Reframe
+# The move was not to refuse the ordonnance (which would have invited
+# blockade) but to reframe the question: from "how much indemnity?" to
+# "what form of relationship?" A preferential trade agreement serves
+# France's actual interest (commerce) without establishing the legal
+# precedent that freedom has a price. Reframe, not Implement-as-demanded.
+
+tools:
+  - "Preferential trade framework as counter-offer → purpose: shift the
+    negotiating universe from debt instrument to commercial relationship →
+    how it changes interaction: requires France to engage its commerce
+    ministry rather than its navy, which introduces a different set of
+    French interests into the conversation"
+  - "Direct engagement with French commercial chambers → purpose: surface the
+    merchant constituency that prefers trade access to restitution → how it
+    changes coordination: splits the French coalition between those seeking
+    revenue (indemnity) and those seeking commerce (trade), creating internal
+    French pressure for a different deal structure"
+  - "Formal request for 90-day extension from de Mackau → purpose: buy time
+    for the commercial-interest argument to develop → how it changes learning:
+    allows both sides to test what France actually needs versus what the
+    ordonnance demands, and whether those are the same thing"
+
+metrics:
+  - "Whether the recognition settlement includes a debt instrument or a
+    trade instrument → measure: the text of any resulting agreement →
+    method: documentary review of the signed treaty"
+  - "Haiti's debt service-to-revenue ratio in 1830, 1840, and 1850 →
+    measure: percentage of annual state revenue allocated to debt service →
+    method: Haitian treasury records, comparative Latin American baseline"
+  - "Development investment per capita relative to contemporaneous Latin
+    American states → measure: infrastructure spending, school enrollment,
+    hospital construction per decade → method: comparative historical
+    economic analysis"
+
+ninety_day_commitment: >
+  Counterfactual — the first 90 days of the reframed pathway: Boyer convenes
+  a council of state to formalize Haiti's counter-proposal (preferential trade
+  agreement in lieu of indemnity); dispatches envoys to French commercial
+  chambers in Nantes, Bordeaux, and Le Havre to identify merchants willing to
+  advocate for a trade framework rather than a debt; requests, in writing, a
+  90-day extension from de Mackau for consultations; and presents the counter-
+  offer formally before the December 1825 payment deadline. The counter-offer
+  contains a specific tariff schedule and a mechanism for annual review.
+
+# ── Stress test ───────────────────────────────────────────────────────────────
+
+stress_test:
+  political: >
+    The ultra-royalist faction in Charles X's court had already proposed
+    re-colonization. If Boyer visibly refused the ordonnance, they would have
+    moved against moderates in the French government, potentially triggering a
+    harder line — a blockade rather than a negotiation. The moderate position
+    that made an alternative deal possible required Boyer not to appear to be
+    rejecting the ordonnance outright, but to be requesting clarification of
+    its commercial terms.
+  institutional: >
+    The Bank of France and the French banking houses that stood to profit from
+    Haiti's borrowing had commercial interest in the debt instrument rather than
+    a trade framework. Their influence on the Finance Ministry was substantial
+    and not visible to Boyer's envoys.
+  wrong_assumption: >
+    That French recognition was immediately necessary for Haiti's survival.
+    Britain had been trading quietly with Haiti without formal recognition for
+    years; the United States had commercial relationships without it. The
+    isolation was real but not immediately terminal — the urgency was partially
+    constructed by the negotiating framing itself.
+  missing_resource: >
+    A neutral third-party mediator — a British or neutral European commercial
+    power — that could have provided face-saving cover for France to accept a
+    trade framework without appearing to back down from the ordonnance.
+  twelve_month_failure: >
+    If France imposed a naval blockade and Britain declined to intervene, Haiti's
+    coffee and sugar exports could have collapsed within two growing seasons,
+    forcing Boyer to return to the table from a worse position — potentially
+    accepting the original indemnity plus penalty interest.
+
+revised_problem_definition: >
+  How should Haiti negotiate the form — not merely the amount — of a
+  recognition settlement with France, given that France's stated interest
+  (financial restitution for former colonists) diverges from France's actual
+  commercial interest (regaining access to a productive Caribbean market),
+  and that this divergence creates a negotiating space Boyer's engineers
+  never entered because they accepted the framing of the question before
+  asking whether the question itself was the right one?
+
+# ── Honesty ───────────────────────────────────────────────────────────────────
+
+flag: >
+  Once a state accepts a debt under duress and honors it through multiple
+  administrations, the moral illegitimacy of its origins becomes legally
+  irrelevant. International law has no mechanism for retroactive recognition
+  of coerced consent in interstate agreements. Boyer's signature outlasted
+  every argument against it — and principled pragmatism cannot retroactively
+  undo a legal fact that 122 years of subsequent governments treated as
+  binding. The ransom creates a legal fact that outlives the moral wrong.
+  This is not a failure of framework. It is the limit of any framework that
+  operates inside a legal order that the original injustice created.
+
+sources:
+  - "Catherine Porter, Constant Méheut, Matt Apuzzo, Selam Gebrekidan,
+    'The Root of Haiti's Misery: Reparations to Enslavers,' New York Times
+    (2022). Verified: multiple independent outlets confirm the investigation
+    and its $560m calculation."
+  - "Haitian independence debt, Wikipedia (sourced). Verified: July 11 1825
+    signing date, 14 warships / 500+ cannon figure, Boyer's position confirmed
+    against primary sources."
+  - "The Conversation, 'When France extorted Haiti — the greatest heist in
+    history' (2021). Verified: corroborates July 11 1825 signing, the 14-
+    warship figure, and the 150 million francs figure."
+  - "nofi.media, 'Haiti, 1825: The Ransom of Independence' (2025). Verified:
+    150 million francs ~ 15× annual revenue; first payment 30 million by
+    December 1825; Boyer's signing date."
+  - "Laurent Dubois, Haiti: The Aftershocks of History (Metropolitan Books,
+    2012). Verified: standard scholarly history; debt chronology and
+    development consequences corroborated."
