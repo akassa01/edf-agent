@@ -1,0 +1,338 @@
+---
+case_id: worldbank-sap-human-face
+title: "The Row That Wasn't in the Model"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Africa (Sub-Saharan Africa; Lusaka, Zambia; Washington D.C., USA)"
+recency: historical
+year: 1987
+rubric_version: 1
+
+# ── Three perspectives (all required) ────────────────────────────────────────
+
+scientist: >
+  The Berg Report (1981) correctly identified the macroeconomic dysfunction
+  of sub-Saharan Africa: overvalued currencies, unsustainable fiscal deficits,
+  state enterprise inefficiency, trade barriers. Its prescriptions — devaluation,
+  subsidy removal, privatization, trade liberalization — were internally
+  consistent within the model. What the model measured: GDP growth, balance of
+  payments, inflation, debt service ratios. What it did not measure: child
+  mortality, school enrollment, nutrition indices, or political stability. By
+  1987 UNICEF economists Giovanni Andrea Cornia, Richard Jolly, and Frances
+  Stewart had assembled the counter-data in "Adjustment with a Human Face":
+  in 37 of 41 sub-Saharan African countries implementing structural adjustment
+  programs (SAPs), child mortality had risen. Subsequent peer-reviewed research
+  has confirmed that countries receiving World Bank structural adjustment loans
+  show higher child mortality than those receiving World Bank health investment
+  loans. The Scientist notes that both datasets were available by 1987. Only
+  one was in the letter of intent.
+
+humanist: >
+  In Zambia, Kenya, Ghana, and Zimbabwe, the maize meal subsidy was not an
+  economic distortion in the sense the Berg Report intended. It was the
+  material contract between the post-independence state and its citizens — the
+  proof that independence had delivered something ordinary and concrete:
+  affordable food. When Zambia removed the maize subsidy in December 1986,
+  fifteen people were killed in the riots that followed. When Zambia removed
+  it again in June 1990, twenty-seven people were killed, more than one
+  hundred were wounded, and an attempted military coup against President
+  Kaunda followed within days. The letter of intent that mandated the subsidy
+  removal contained no row for these deaths. The Humanist observes that the
+  social compact between the state and its citizens is not a line item that
+  can be cut without consequences, and that treating it as one does not
+  merely cause suffering — it destroys the political infrastructure on which
+  any future program depends.
+
+engineer: >
+  The IMF and World Bank conditionality framework was a single-variable
+  optimization: restore fiscal balance and debt serviceability. Political
+  stability was treated as a constraint to be respected, not a resource to
+  be managed. The instrument had no feedback loop for human capital
+  destruction, which manifested as regime change — treated as the borrowing
+  government's problem rather than as a signal that the program's design had
+  failed. The engineering failure was systemic: the instrument optimized for
+  one output and generated externalities it could not see because it had not
+  built a sensing mechanism for them. The Engineer asks: what would have to
+  change in the letter of intent to make child mortality a real-time indicator
+  rather than a retrospective finding? And who would have had to be in the
+  room when the letter of intent was drafted?
+
+archetype_dominant: scientist
+crowded_out_mode: feeling
+# The economist's thinking mode — macroeconomic modeling, debt sustainability
+# analysis, fiscal balance targets — dominated both program design and the
+# political economy of conditionality. The feeling dimension — the lived
+# experience of people losing access to food, healthcare, and schooling as a
+# direct consequence of conditions set in Washington — was not integrated
+# into the instrument's design or its success metrics.
+
+# ── Diagnosis ─────────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  Elliot Berg et al., "Accelerated Development in Sub-Saharan Africa: An
+  Agenda for Action" (World Bank, 1981): the Berg Report. Prescribed currency
+  devaluation, subsidy removal, privatization, trade liberalization as
+  conditions for World Bank and IMF structural adjustment lending. SAPs were
+  implemented across sub-Saharan Africa from 1982 onward in exchange for
+  balance of payments support and debt restructuring. Giovanni Andrea Cornia,
+  Richard Jolly, Frances Stewart (eds.), "Adjustment with a Human Face"
+  (UNICEF/Oxford University Press, 1987): documented rising child mortality
+  in 37 of 41 countries implementing SAPs, alongside declining school
+  enrollment and nutritional deterioration. Subsequent peer-reviewed research
+  confirms SAP loan recipients show higher child mortality than health
+  investment loan recipients.
+
+social_facts: >
+  Food subsidies in sub-Saharan African states were inherited from colonial
+  administrations and functioned as the primary social compact of post-
+  independence governance. Urban populations depended on subsidized formal
+  food markets; rural populations bore devaluation impacts through input costs.
+  The urban poor bore disproportionate adjustment costs and were the
+  constituency most likely to riot when subsidy removals caused sudden price
+  spikes. In Zambia: December 1986 riots (15 dead); May Day 1987 Kaunda
+  publicly breaks with IMF; June 1990 riots after second subsidy removal
+  (27 dead, 100+ wounded, military coup attempt).
+
+political_realities: >
+  The United States Treasury held effective veto power over IMF program design
+  through weighted voting. Borrowing states could not refuse conditionalities
+  without defaulting on their external debts; no alternative lender existed
+  at scale. The IMF and World Bank operated without independent external audit
+  of program social costs — UNICEF was external and had no voting power in
+  either institution. Competitive conditionality: individual African states
+  could not negotiate alternative conditionality structures; the standard
+  program was the only one on offer.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: whether economic stabilization would eventually generate growth
+  sufficient to compensate for adjustment-period human costs; whether the
+  counterfactual (no adjustment, continued deficit financing) would have been
+  worse or better for child survival. Ambiguity: what "success" meant — the
+  IMF and World Bank measured fiscal indicators; UNICEF and affected
+  governments measured child survival and school enrollment. Neither
+  definition was objectively wrong. Only one was written into the contract.
+
+key_tensions:
+  - "Fiscal stability vs. Human capital: cutting social spending to balance the
+    budget depleted the workforce and institutional capacity needed to generate
+    the future revenue that would service the debt"
+  - "Short-term adjustment vs. Political sustainability: the fastest path to
+    fiscal balance repeatedly destroyed the government whose compliance the
+    program required, forcing renegotiation or program abandonment"
+  - "Lender accountability vs. Borrower conditionality: the institution setting
+    conditions bore none of the cost if those conditions generated social collapse;
+    the institution paying the cost had no power to change the conditions"
+
+problem_definition: >
+  How should international lending institutions design sovereign debt
+  restructuring conditionality when the required fiscal adjustments are
+  economically defensible in their own terms but predictably generate human
+  capital destruction and political instability that undermine the long-run
+  objectives the loans are supposed to serve?
+
+# ── Metaphors ─────────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  The IMF was answering: "What fiscal adjustments restore debt serviceability
+  and macroeconomic stability?" The Zambian government — and UNICEF — was
+  answering: "What adjustments can a state make without destroying the minimum
+  social infrastructure required for the state to function and a population to
+  survive?" These were not the same question. Only one appeared in the letter
+  of intent. The other appeared in the mortality statistics, approximately
+  two years later.
+
+where_is_x: >
+  The conditionality annex of the letter of intent — specifically, the blank
+  line where social spending floors were not written. The fiscal targets were
+  in the document: deficit as a percentage of GDP, inflation ceiling, current
+  account balance target, subsidy removal schedule. The child mortality
+  threshold was not. That absence was the intervention point: the document
+  that set the terms of adjustment was the place where a different design
+  was still possible.
+
+eighteenth_camel: >
+  UNICEF's 1987 proposal was the 18th camel: retain the conditionality
+  framework — the fiscal discipline was real and necessary — but add mandatory
+  social protection floors as co-conditions of lending, alongside the fiscal
+  ceilings. Not "adjust" vs. "don't adjust." Not a soft program vs. a hard
+  one. A program that made minimum health and education expenditure as
+  contractually binding as debt service ratios. "Adjustment with a Human
+  Face" was not a critique of adjustment; it was a redesign of the instrument.
+  The World Bank and IMF eventually incorporated social floors in the 1990s —
+  roughly a decade after UNICEF proposed it, and after roughly a million
+  preventable child deaths in the interval.
+
+solomon_check: >
+  World Bank economists would have immediately recognized that removing food
+  subsidies during a price shock in any OECD economy was political dynamite —
+  a generator of social unrest that would destabilize the very government whose
+  compliance the adjustment program required. They applied this political
+  economy analysis to Europe and North America reflexively, because their
+  institutional relationships there required it. They did not apply it to
+  Zambia or Kenya. The analytical capacity was fully present. It was not
+  directed inward, toward the institution's own prescriptions.
+
+urgency_vs_actionability: >
+  The debt crisis of 1982-83 was genuine: several African states were
+  technically insolvent. The urgency was real. But the urgency of debt service
+  compressed the design timeline for conditionality programs — complex
+  questions of sequencing, sector protection, and social floors were treated
+  as secondary technical problems to be resolved later, not primary design
+  constraints to be resolved before the letter of intent was signed. Speed of
+  stabilization crowded out the time needed to design humane implementation.
+
+# ── Conditions, capacity, constraints ─────────────────────────────────────────
+
+enabling_conditions: >
+  By 1985-87, country-level data documenting the social costs of SAPs existed
+  — UNICEF had assembled it. World Bank internal researchers had the technical
+  capacity to design social protection floors. African finance ministers had
+  direct political evidence of the social cost. What was absent: a mechanism
+  for UNICEF's evidence to change IMF conditionality design; a voting structure
+  in which African states could negotiate rather than accept; US Treasury
+  willingness to accept "softened" conditionality.
+
+capacities: >
+  UNICEF had the mortality data and the moral mandate. World Bank economists
+  had the technical capacity to design social floors. Academic economists at
+  CGIAR-affiliated institutions were developing relevant analytical frameworks.
+  African health ministers had granular knowledge of what social floors would
+  need to contain. None of these capacities were connected to the letter-of-
+  intent drafting process, because that process was controlled by finance
+  ministries and IMF resident representatives.
+
+constraints: >
+  Binding constraint: US Treasury's effective veto over IMF program design
+  foreclosed any "softening" of conditionality that could be read as reducing
+  the priority of debt service. Secondary: the IMF's General Counsel position
+  that its mandate was narrowly macroeconomic, making social conditions a
+  potential charter violation. Tertiary: the speed of the debt crisis created
+  incentives to accept standard programs over custom-designed ones.
+
+# ── Decision pathway ─────────────────────────────────────────────────────────
+
+decision_pathway: Redesign
+# The move was not to abandon conditionality (the fiscal discipline was
+# necessary) but to redesign the conditionality instrument: add mandatory
+# social spending floors as co-conditions of lending alongside fiscal targets,
+# making child mortality a real-time program indicator rather than a
+# retrospective finding. Redesign, not Implement-as-is.
+
+tools:
+  - "Social protection floor as mandatory co-condition of lending → purpose:
+    make minimum health and education expenditure as binding as fiscal ceilings
+    → how it changes coordination: brings health and education ministries into
+    the letter-of-intent negotiation, not only finance ministries; requires
+    WHO and UNICEF sign-off alongside IMF fiscal review"
+  - "Child mortality and school enrollment as leading program indicators →
+    purpose: create a real-time feedback loop for human capital costs →
+    how it changes learning: makes the human cost visible to the lender as
+    it occurs, rather than appearing only in UNICEF retrospective reports
+    two years after the program was designed"
+  - "Independent social impact assessment as pre-condition of conditionality
+    design → purpose: model the human cost of specific subsidy removals before
+    they are written into the program → how it changes interaction: requires
+    UNICEF and WHO participation in design, not only post-hoc documentation
+    of what went wrong"
+
+metrics:
+  - "Child under-5 mortality rate in program countries, tracked quarterly
+    against regional non-program baseline → measure: U5MR per 1,000 live
+    births → method: WHO/UNICEF country data, with automatic program review
+    triggered if U5MR rises > 5% above pre-program baseline"
+  - "Social spending as a percentage of government expenditure, pre- and
+    post-program → measure: health and education share → method: national
+    budget execution reports, independently verified"
+  - "Program completion rate vs. political stability index → measure: whether
+    programs complete without regime change or social breakdown → method:
+    World Bank program archives cross-referenced with political event database"
+
+ninety_day_commitment: >
+  Counterfactual — the first 90 days of the redesigned pathway, starting in
+  1981 when the Berg Report framed the agenda: World Bank convenes a joint
+  working group with UNICEF to define social spending floors for inclusion in
+  standard SAP conditionality; commissions social impact assessments for the
+  three largest pending adjustment programs (Zambia, Kenya, Ghana); proposes
+  to the IMF board a "human face annex" to standard letters of intent —
+  requiring health and education floor commitments alongside fiscal targets —
+  for board consideration within six months. No delay to adjustment programs
+  occurs; the social floor design is built in parallel, not afterward.
+
+# ── Stress test ───────────────────────────────────────────────────────────────
+
+stress_test:
+  political: >
+    A US Treasury Secretary (as occurred under James Baker and Nicholas Brady)
+    could define social floors as "soft conditionality," signaling that the US
+    would withhold support for IMF programs that included them. Without US
+    backing, no SAP could be approved. The entire redesign depends on US
+    Treasury acquiescence that did not exist in the 1981-87 period.
+  institutional: >
+    The IMF's General Counsel consistently held that its mandate was narrowly
+    macroeconomic and that social conditions would require a charter amendment.
+    A charter amendment requires a supermajority of voting shares — effectively
+    requiring US and EU approval simultaneously, which was not achievable in
+    the 1980s.
+  wrong_assumption: >
+    That stabilized fiscal balances would eventually generate growth sufficient
+    to compensate for adjustment-period human capital losses. In practice, many
+    African economies achieved fiscal stabilization and stagnated socially for
+    more than a decade, with the malnourished generation entering the workforce
+    in the 1990s as a permanent productivity deficit.
+  missing_resource: >
+    An independent external audit mechanism with enforcement power — UNICEF
+    could document the mortality data but could not compel a change in the
+    letter of intent. A formal joint review mechanism with cross-conditionality
+    (IMF programs subject to WHO/UNICEF sign-off on social floors) never
+    existed and was not politically achievable.
+  twelve_month_failure: >
+    If Zambia or Kenya lacks the administrative capacity to implement a social
+    protection floor program simultaneously with fiscal adjustment, the program
+    is technically compliant but practically empty — the floor exists on paper
+    while the health clinic closes in fact, and the lender has a legal basis
+    to claim it fulfilled its obligation.
+
+revised_problem_definition: >
+  How should international lending institutions redesign sovereign debt
+  conditionality to make human capital protection a binding co-condition of
+  fiscal adjustment, given that their institutional mandates are narrowly
+  macroeconomic, their largest shareholder actively resists softening
+  conditionality, and no external accountability mechanism exists that can
+  compel them to measure — let alone respond to — the social costs their
+  programs generate?
+
+# ── Honesty ───────────────────────────────────────────────────────────────────
+
+flag: >
+  When the institution measuring success is also the creditor, and when
+  borrowers have no alternative lender, the feedback loop is structurally
+  captured. UNICEF could publish the mortality data. It could not change
+  the letter of intent. Principled pragmatism identifies the 18th camel and
+  builds the analytical case for it. It cannot compel a creditor to redesign
+  an instrument that continues to perform its primary function — extracting
+  debt service — regardless of its secondary effects on human capital. The gap
+  between UNICEF's 1987 report and the IMF's eventual adoption of social floors
+  in the 1990s is not a failure of diagnosis. It is a record of how long it
+  takes institutional accountability to catch up with external evidence when
+  the institution controls both the instrument and the definition of success.
+
+sources:
+  - "Elliot Berg et al., Accelerated Development in Sub-Saharan Africa: An
+    Agenda for Action (World Bank, 1981). The Berg Report. Verified: World
+    Bank archives; widely cited as the intellectual foundation of SAPs."
+  - "Giovanni Andrea Cornia, Richard Jolly, Frances Stewart (eds.), Adjustment
+    with a Human Face (UNICEF / Oxford University Press, 1987). Verified:
+    published Oxford UP; two-volume study; widely cited in peer-reviewed
+    literature on SAPs."
+  - "'Adjustment with a Human Face: A UNICEF Record and Perspective on the
+    1980s,' World Development (1991). Verified via ScienceDirect: peer-reviewed
+    summary of UNICEF's position and evidence base."
+  - "'1990 Zambia food riots,' Chalo Chatu (Zambia online encyclopedia).
+    Verified: consistent with multiple sources on June 1990 riots (27 dead,
+    100+ wounded, coup attempt) and December 1986 riots (15 dead); Kaunda's
+    May Day 1987 IMF break confirmed."
+  - "'The World Bank and Child Mortality in Sub-Saharan Africa,' ResearchGate /
+    World Development. Verified: peer-reviewed research confirming higher child
+    mortality in SAP loan recipient countries vs. health investment loan
+    recipients."
