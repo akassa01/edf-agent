@@ -1,0 +1,217 @@
+case_id: ebadi-iran-staying
+title: "The Staying — Shirin Ebadi's Dilemma"
+case_type: documented
+mode: retrospective
+scale: individual
+region: "Middle East (Tehran, Iran; Oslo, Norway)"
+recency: recent
+year: 1980
+rubric_version: 1
+
+scientist: |
+  What we know: Ebadi had a law degree from Tehran University and became the first woman
+  to preside over a court in Iran in 1975. After the 1979 Islamic Revolution, female judges
+  were dismissed; she was demoted to a clerk position in the same court she had led. Between
+  1980 and 1992 she was denied a license to practice law independently. Once she obtained
+  it, she took cases that produced a documented evidentiary record: the Chain Murders of
+  1988–98 (80+ writers, translators, and activists killed by the Ministry of Intelligence),
+  student deaths at Tehran University in 1999, and children killed at Kahrizak detention
+  center in 2003. Her 2003 Nobel Peace Prize — the first awarded to an Iranian and to a
+  Muslim woman — established an international profile before the regime's 2009 crackdown.
+
+humanist: |
+  The families who came to Ebadi's office had nowhere else to go. The formal court system
+  was compromised, international organizations could not appear in Iranian courts, and most
+  lawyers were unwilling to take politically dangerous cases. The contested value: does
+  a woman's dignity require refusing to inhabit a legal system that treats her as half a
+  person, or does it require staying to use whatever rights that system still leaves her?
+  For her clients, the choice was not abstract — it was the difference between a documented
+  record of what happened to their children and silence. The regime's answer to whether a
+  woman could be a full legal actor was no; Ebadi's practice was a daily argument that the
+  question was not settled.
+
+engineer: |
+  The practical architecture of Ebadi's choice: practice within formal legal structures but
+  derive authority from international human rights law. Take high-visibility cases that
+  Western human rights organizations would fund and publicize. Make the cost of silencing
+  her greater than the cost of tolerating her. The binding constraint: no case was fully
+  winnable in a compromised judiciary — the goal was not acquittal but creating facts
+  internationally. The viable actors were Ebadi, international human rights organizations,
+  and foreign governments who could raise her cases diplomatically. The resource she was
+  building was an institutional presence that could not be quietly revoked.
+
+archetype_dominant: humanist
+crowded_out_mode: thinking
+
+scientific_facts: |
+  - Iran's 1979 revolutionary code formally reduced women's legal testimony and inheritance
+    rights to half of a man's; female judges were dismissed outright.
+  - Ebadi was denied a law license from approximately 1980 to 1992.
+  - The Chain Murders of 1988–98 targeted writers, translators, and political activists;
+    Human Rights Watch documented 80+ victims.
+  - Ebadi represented families in the Chain Murders cases and obtained evidence implicating
+    the Ministry of Intelligence.
+  - Her Nobel Peace Prize was awarded in 2003.
+
+social_facts: |
+  - The Iranian exile community argued that remaining in Iran conferred legitimacy on the
+    Islamic Republic; Ebadi disagreed and argued that leaving was abandonment.
+  - Her clients — families of dissidents, students, and journalists — had no other legal
+    recourse within Iran.
+  - International human rights organizations could not appear in Iranian courts; Ebadi was
+    the translational figure between international norms and domestic legal process.
+  - The contested question: who had more leverage, the exile advocate or the resident lawyer?
+
+political_realities: |
+  - The Islamic Republic could revoke her license at will (and eventually did in 2008).
+  - High international visibility created partial protection: arresting her carried diplomatic
+    costs.
+  - After the disputed 2009 elections, the regime's calculation changed — it arrested her
+    husband, confiscated her Nobel medal, and disbarred her, effectively forcing her into
+    exile.
+  - The protection of visibility is real but finite; it lasts until the regime's survival
+    calculus outweighs the diplomatic cost.
+
+uncertainty_and_ambiguity: |
+  Uncertainty: Would Iran become less repressive? Would she regain her law license?
+  Would her presence be more effective than exile advocacy? None of these was known in 1980.
+  Ambiguity: "Staying" meant different things to different parties. To Ebadi: moral commitment
+  and professional effectiveness. To the regime: a tolerable internal critic. To international
+  audiences: a figure of legitimacy and courage. To many exiles: either heroic or implicitly
+  legitimizing.
+
+key_tensions:
+  - "Presence vs. Safety: staying provides effectiveness; leaving provides security"
+  - "Individual leverage vs. systemic constraint: her cases produced records but rarely acquittals"
+  - "Visibility as protection vs. visibility as target: the same prominence that shielded her eventually made her a prize"
+
+problem_definition: |
+  In 1980, with her judgeship stripped and her law license withheld for an indefinite
+  period, Shirin Ebadi faced a decision: leave Iran and advocate from exile, or remain in
+  a legal system that formally diminished her, accepting an open-ended wait for the license
+  that might eventually let her act.
+
+one_plus_one: |
+  The Iranian state was answering "how do we maintain Islamic legal order?" — a governance
+  question with a technical answer (demote, restrict, control). Ebadi's clients were
+  answering "how do we get justice for what was done to our children?" — a moral question
+  with no institutional answer available to them. Ebadi was trying to make both questions
+  answerable simultaneously, using the state's own formal legal language. 1+1 produced not
+  two separate ones but a long, slow argument about whose question counted as the real one.
+
+where_is_x: |
+  The decisive window: 1980, when Ebadi chose early retirement rather than submit to the
+  clerkship, and chose to remain in Iran rather than emigrate as many of her colleagues did.
+  The X is the bureaucratic office in Tehran, 1980, where she handed in her retirement papers
+  and — quietly, without announcement — decided not to buy a plane ticket. Everything that
+  followed depended on that choice.
+
+eighteenth_camel: |
+  The binary: (A) remain as clerk in a system that formally devalued her, or (B) emigrate
+  and advocate from safety. The 18th camel: leave state employment but stay in the country —
+  build an independent legal practice that operated within formal legal structures but derived
+  its authority from international human rights frameworks, cultivating international
+  visibility as a shield. This is not a compromise between A and B; it creates a third
+  relationship with both Iran and the international community simultaneously.
+
+solomon_check: |
+  Ebadi counseled many clients to pursue legal channels she herself could not always access.
+  She reasoned strategically and clearly about their cases in ways she could not always apply
+  to her own situation — particularly in the 2009 crisis, when she might have left Iran
+  earlier than she did. The Solomon Paradox ran in reverse: she was sometimes clearer about
+  others' pathways than her own.
+
+urgency_vs_actionability: |
+  The urgency was continuous — each new case involved a family in crisis. But actionability
+  was structurally limited: she could document, argue, and publicize, but winning in court
+  required a judiciary she didn't have. The gap between urgency and actionability was the
+  precise space in which principled pragmatism had to operate, and where it was most strained.
+
+enabling_conditions: |
+  - International human rights law had established norms that gave Iranian courts' decisions
+    an external audience
+  - Foreign governments and organizations provided resources for high-visibility cases
+  - Her legal training was scarce and recognized internationally
+  - The regime maintained formal legal procedures, providing a point of entry
+
+capacities: |
+  - Legal training and court standing (restored in 1992)
+  - International profile and relationships with human rights organizations
+  - Willingness to take cases others refused
+
+constraints: |
+  - No judicial independence: courts were political instruments
+  - License revocable at state discretion
+  - Personal safety contingent on visibility remaining costly to disrupt
+  - Binding constraint: regime political calculations, not legal merit, determined outcomes
+
+decision_pathway: Reframe
+
+tools:
+  - "International human rights frameworks used as legal argument in domestic courts →
+    purpose: give Iranian court proceedings an external audience → changes interaction by
+    turning domestic hearings into international accountability events"
+  - "High-visibility case selection coordinated with international media and NGOs →
+    purpose: make silencing her diplomatically costly → changes coordination by creating
+    a global audience for each case outcome"
+  - "Documentation and evidence production regardless of verdict →
+    purpose: create a factual record that future legal and political processes can draw on →
+    changes learning by decoupling evidentiary success from juridical success"
+
+metrics:
+  - "Cases taken annually → number of politically sensitive human rights cases accepted →
+    method: Human Rights Watch and Amnesty International annual reports"
+  - "International profile → frequency of diplomatic citations and foreign government
+    statements → method: press and diplomatic record"
+  - "Legal record produced → number of documented human rights violations traceable to
+    state actors in court filings → method: published legal arguments and case records"
+
+ninety_day_commitment: |
+  Counterfactual (1980): In the first 90 days after filing for early retirement, Ebadi
+  should have identified one international human rights organization willing to fund and
+  publicize future cases; drafted a formal legal argument establishing why continued
+  residence in Iran was consistent with professional integrity; and initiated contact with
+  the Iranian Bar Association's appeals process for restoring her license. These moves
+  would have compressed the 12-year wait and built the protective structure earlier.
+
+stress_test:
+  political_event: "A political crisis raising the cost of tolerating her above the regime's
+    survival threshold — exactly what happened in 2009."
+  institution: "The Iranian Bar Association (which revoked her license in 2008) and the
+    Ministry of Justice, which could withdraw her court access at any time."
+  wrong_assumption: "That international visibility provides durable protection; Iran showed
+    it doesn't when the regime's survival is at stake."
+  resource_missing: "A functioning domestic civil society independent enough to coordinate
+    with her; she relied heavily on international rather than Iranian organizations."
+  pathway_failure: "A political crisis — internal or external — in which the regime decides
+    the diplomatic cost of silencing her is lower than the cost of tolerating her."
+
+revised_problem_definition: |
+  The decision is not simply "stay or go" but: how to build a record and a protective
+  structure within a hostile system, knowing both are finite — the record will be contested,
+  the protection will eventually fail, and the measure of success is the quality of the
+  facts produced before the window closes, not a verdict in any individual case. The
+  strategy has a lifespan determined by the regime's political calculations, not the
+  lawyer's skill.
+
+flag: |
+  Ebadi's strategy of protective visibility works when the lawyer is prominent enough to be
+  diplomatically costly to silence. It does not work for the hundreds of lawyers who took
+  politically dangerous cases in Iran and were disbarred, imprisoned, or executed without
+  attracting international attention. Principled pragmatism produces no answer for the
+  anonymous practitioner doing the same work without the same protection.
+
+sources:
+  - "Ebadi, S. (2006). Iran Awakening: A Memoir of Revolution and Hope. Random House. —
+    verified: Ebadi's own account of the demotion, the decision to stay, and the years
+    without a license. PRIMARY SOURCE."
+  - "Nobel Prize Committee. (2003). 'Shirin Ebadi — Nobel Peace Prize Award Ceremony.'
+    nobelprize.org. — verified: confirms demotion, license restriction, and human rights
+    work."
+  - "Human Rights Watch. (1999). 'Iran: Chain Murders of Writers and Intellectuals.'
+    hrw.org. — verified: documents the cases Ebadi took as counsel for victims' families."
+  - "Humanists International. (2009). 'Shirin Ebadi: From Gender-based Demotion to Nobel
+    Peace Prize.' humanists.international. — verified: biographical timeline and demotion
+    details."
+  - "Amnesty International. (2009). 'Iran: Shirin Ebadi — Human Rights Defender Targeted.'
+    amnesty.org. — verified: documents post-2009 repression, license revocation, and exile."
