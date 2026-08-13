@@ -1,0 +1,320 @@
+---
+case_id: slotin-demon-core-protocol
+title: "The Expert Is the Risk"
+case_type: documented
+mode: retrospective
+scale: individual
+region: "Americas (Omega Site, Pajarito Canyon, Los Alamos, New Mexico)"
+recency: historical
+year: 1946
+rubric_version: 1
+
+# ── Three perspectives (all required) ────────────────────────────────────────
+
+scientist: |
+  The physics of what would happen was not in doubt. Slotin was the most technically
+  capable person in the room. He knew the critical mass parameters of the plutonium-239
+  core — 6.2 kg, 3.5 inches in diameter — with precision. He knew the beryllium
+  hemispheres would reflect neutrons back into the core, driving it toward
+  supercriticality as they approached. He knew the blue flash of Cherenkov radiation
+  would appear if the system crossed the threshold. All of this was exactly what he was
+  demonstrating to Alvin Graves. What the scientist's reading notices is that Slotin's
+  technical mastery did not extend to its own limits: he treated the probability of a
+  screwdriver slip as negligible because he had not slipped before, rather than computing
+  it across the distribution of all future demonstrations. One year after Harry Daghlian
+  died doing the same class of experiment with the same core, the risk-benefit ratio
+  had not been systematically revisited. The scientific facts were solid; the decision
+  about which facts were relevant was not.
+
+humanist: |
+  Louis Slotin was 35, a Canadian physicist who had measured the critical mass of the
+  uranium core of the first atomic bomb at Trinity. By 1946 he was the acknowledged
+  master of criticality experiments at Omega Site — the person others watched to learn
+  how it was done. His technique was personal: one hand on the upper beryllium dome, a
+  flat-blade screwdriver in the other, the blade pressed against the gap to keep the
+  dome from falling. Enrico Fermi had reportedly told him he would be "dead within a
+  year" if he kept it up. Slotin continued. The humanist reading asks what it meant,
+  institutionally and culturally, to be Louis Slotin in Los Alamos in 1946 — what
+  it cost to be the person who was trusted not to slip, and what it would have meant
+  to pick up the mechanical spacers instead. It would have meant acknowledging that
+  Louis Slotin's hands were fallible, which was something that Louis Slotin had never
+  had reason to believe and something the culture around him had no vocabulary for.
+  The price of that acknowledgment was not technical; it was about what kind of expert
+  he was permitted to be.
+
+engineer: |
+  The mechanical spacers — shims — were standard protocol after Harry Daghlian's death
+  in August 1945. They were not a theoretical proposal; they existed, were in the lab,
+  and had been implemented as required procedure following the first criticality fatality.
+  The engineer's reading is structural: who had standing to tell Louis Slotin to put
+  down the screwdriver and pick up the shims? Not the other seven people in the room —
+  six of them were younger physicists and one was a military guard. Not Alvin Graves,
+  who was there precisely to learn from Slotin. Not, apparently, whoever had written the
+  protocol requiring spacers, since Slotin was routinely not using them and this had
+  become normal. The mechanical solution to the problem existed. The social architecture
+  for making it mandatory — the authority structure with standing to override the most
+  capable person's personal preference — did not function. The 18th camel was in the
+  room. Nobody made Slotin pick it up.
+
+archetype_dominant: engineer
+crowded_out_mode: thinking (systematic risk analysis; which failure modes does personal skill not prevent?)
+
+# ── Diagnosis ────────────────────────────────────────────────────────────────
+
+scientific_facts: |
+  The plutonium-239 core — 6.2 kg, 3.5 inches in diameter — was the same core
+  involved in the Daghlian criticality accident of August 21, 1945. The beryllium
+  neutron-reflector hemispheres, when brought together around the core, could drive
+  it into a supercritical state in a fraction of a second. This was precisely
+  quantifiable and was the point of the demonstration. The Los Alamos National
+  Laboratory's Review of Criticality Accidents (LA-13638, 2000 revision) documents
+  that on May 21, 1946, Slotin's screwdriver slipped, the upper hemisphere dropped,
+  a criticality excursion occurred for an estimated fraction of a second, a blue
+  Cherenkov flash was observed by all eight people in the room, and Slotin immediately
+  flipped the upper hemisphere off with his bare hand. His radiation dose was
+  approximately 1,000 rads by 1946 measurement or approximately 2,100 rem by modern
+  Monte Carlo reconstruction (Oettingen et al., 2018). He died nine days later, on
+  May 30, 1946. Alvin Graves, the closest other observer, received approximately
+  182 rem and survived with lasting health consequences including cataracts.
+
+social_facts: |
+  Slotin was understood by colleagues to be irreplaceable at Omega Site. His technique
+  was called "tickling the dragon's tail" — a phrase that captured both the danger and
+  the mastery it required. The seven observers on May 21 were there to be trained by
+  him; Graves was his designated replacement. The Daghlian accident had resulted in the
+  implementation of mechanical shim protocols, but Slotin had continued to use his
+  personal technique without apparent challenge from anyone in a position of authority.
+  Multiple accounts record Fermi's warning that Slotin would be "dead within a year"
+  if he persisted. Slotin's response to the warning, if any, is not recorded. What is
+  clear is that his technique was known to the Los Alamos leadership and was not stopped.
+  The culture that enabled this was one in which frontier expertise carried its own
+  authority: the more capable the person, the less question was attached to their method.
+
+political_realities: |
+  Los Alamos in 1946 was transitioning from wartime urgency to peacetime nuclear
+  research. The drive to complete weapon designs had normalized risk-taking; the
+  question of who had authority to regulate a physicist of Slotin's seniority was
+  genuinely contested. Norris Bradbury, who had succeeded Oppenheimer as lab director
+  in late 1945, was still establishing institutional norms. Slotin's contract required
+  him to leave for the University of Chicago in the summer of 1946; the May 21
+  demonstration was to train his replacement. The political reality is that Bradbury had
+  the authority to mandate mechanical spacers for all critical assemblies, and did so
+  immediately after the accident — suggesting the decision was available before it and
+  was not made.
+
+uncertainty_and_ambiguity: |
+  Uncertainty: what was the per-demonstration probability of a slip? Not calculated.
+  Slotin had done the procedure many times without incident; the absence of prior slips
+  was used, implicitly, as evidence of zero risk — a classic base-rate neglect. The
+  actual probability was low but nonzero; across many demonstrations it was a near-
+  certainty.
+  Ambiguity: what counts as "acceptable risk" in frontier nuclear research in 1946?
+  Multiple coherent answers existed. The Manhattan Project had accepted risk as a
+  condition of speed. Whether peacetime research operated under a different ethic was
+  contested, and the accident resolved the contest by brute force rather than by
+  deliberation.
+
+key_tensions:
+  - "Expert judgment vs. systematic protocol: when the expert's embodied skill IS the safety margin, there is no redundancy"
+  - "Institutional authority vs. technical hierarchy: who can tell the most capable person in the room to change their method?"
+  - "Demonstrating vs. institutionalizing: Slotin's technique was training-effective but institutionally irreproducible — he was teaching a skill no one else was allowed to acquire"
+
+problem_definition: |
+  How should a scientific institution enforce a safety protocol when the most technically
+  capable person in the relevant domain routinely bypasses it, and where the bypass
+  is tacitly accepted because the person's expertise is treated as the safety system?
+
+# ── Metaphors ────────────────────────────────────────────────────────────────
+
+one_plus_one: |
+  Slotin was answering: "How do I demonstrate the criticality margin precisely and
+  effectively to my replacement?" The question the institution needed to be answering
+  was: "How do we make criticality safety reproducible and independent of any
+  individual's skill?" Two separate questions. Slotin's answer (personal technique)
+  was excellent for the first; catastrophic for the second. The institution was not
+  asking the second question.
+
+where_is_x: |
+  X is the moment Slotin picked up the screwdriver rather than the mechanical shims for
+  the May 21 demonstration. More precisely, X is the point — which preceded May 21 by
+  months or years — at which his personal technique became institutionally normalized and
+  was never formally challenged. The slip of the screwdriver is the visible event; the
+  fulcrum is the invisible accumulation of undisturbed demonstrations that made that
+  technique appear safe by virtue of repetition without incident.
+
+eighteenth_camel: |
+  The mechanical shims — the spacers that maintained a fixed, hardware-enforced gap
+  between the beryllium hemispheres — were not a proposal or a thought experiment.
+  They were already standard protocol at Los Alamos after the Daghlian accident.
+  They were in the lab. They were the 18th camel: not "don't do the demonstration"
+  and not "do it manually" but "do it with the device designed to prevent the exact
+  failure mode that killed Daghlian." The 18th camel had been invented. Nobody made
+  Slotin use it. The option outside the apparent binary (personal mastery vs. stopping
+  the experiment) had already been placed in the room and was being bypassed.
+
+solomon_check: |
+  Would Slotin have advised a junior physicist to perform the same technique? Almost
+  certainly not — that is precisely why he was training Graves in person rather than
+  writing a protocol. He understood, at some level, that what he was doing was
+  irreproducible by others. That understanding should have applied inward: if the
+  technique is too dangerous for a less experienced person, it is also too dangerous
+  for an experienced one, because the experienced person's judgment cannot be the
+  safety system. He was not giving Graves the screwdriver.
+
+urgency_vs_actionability: |
+  There was no urgency in May 1946 that required the demonstration on that date.
+  Slotin was leaving for Chicago in the summer; training his replacement was a
+  scheduled event, not a crisis. The demonstration was performed as routine, without
+  the time pressure that might have explained bypassing the safer method. The
+  urgency-vs-actionability trap did not apply in its normal form; what applied instead
+  was habit — the routine that had always worked, repeated without re-evaluating
+  whether "has worked so far" equals "is safe."
+
+# ── Conditions, capacity, constraints ────────────────────────────────────────
+
+enabling_conditions: |
+  The mechanical spacers were in the laboratory and were standard protocol.
+  Lab director Bradbury had authority to mandate their use.
+  The Daghlian precedent, less than a year earlier, had established that hands-on
+  critical assembly work was lethal when control was lost.
+  Slotin himself knew the protocol existed and chose not to follow it — suggesting
+  the enabling condition (willingness to follow the protocol) was the binding gap,
+  not technical capability or knowledge.
+
+capacities: |
+  Bradbury could have issued a written directive mandating mechanical spacers for all
+  critical assembly demonstrations. Any physicist in the room on May 21 could have
+  asked Slotin why he was not using the shims. Slotin himself could have picked them up.
+  All three capacities existed.
+
+constraints: |
+  Binding constraint: the institutional authority structure that treated the most
+  technically capable person's personal method as beyond oversight. No formal
+  mechanism existed to hold Slotin accountable to the protocol he was bypassing —
+  because the protocol existed on paper but the enforcement authority had deferred to
+  his expertise. The constraint was not technical; it was sociological.
+
+# ── Decision pathway ────────────────────────────────────────────────────────
+
+decision_pathway: Reframe
+tools:
+  - "Mandatory-protocol enforcement → Bradbury issues a written directive that all
+    critical assembly demonstrations require mechanical spacers regardless of the
+    demonstrator's seniority or preference → changes coordination: removes personal
+    discretion from a safety-critical procedure, making compliance independent of any
+    individual's judgment about their own reliability"
+  - "Peer safety review → each critical experiment at Omega Site is reviewed by a
+    physicist who was not involved in designing it, specifically asked to identify
+    failure modes the experimenter may have normalized → changes learning: introduces
+    adversarial checking into a domain where institutional deference to expertise had
+    eliminated routine challenge"
+  - "Transparent risk accounting → explicit per-demonstration probability assessment
+    for all critical assembly procedures, reviewed and signed by a safety officer →
+    changes interaction: makes the risk visible to people other than the experimenter
+    and creates a record that can accumulate into institutional safety culture rather
+    than individual memory"
+
+metrics:
+  - "Protocol compliance rate: percentage of Omega Site critical assembly demonstrations
+    performed with mechanical spacers → measure: safety officer observation log
+    → method: direct observation, weekly summary → linked to mandatory-protocol tool"
+  - "Failure-mode identification: number of previously unnoted failure modes surfaced
+    per experiment through peer review → measure: peer review log → method: written
+    review reports filed per experiment → linked to peer safety review tool"
+  - "Risk register completeness: percentage of active Omega Site procedures with a
+    formal written probability assessment → measure: safety officer audit
+    → method: document count vs. active procedure count → linked to transparent
+    risk accounting tool"
+
+ninety_day_commitment: |
+  Counterfactual pathway (from May 21, 1946, or earlier): Bradbury issues a written
+  directive in the week following the Daghlian accident (September 1945) making
+  mechanical spacers mandatory for all critical assembly demonstrations, with no
+  personal-discretion exceptions. Within 30 days, all Omega Site experimental protocols
+  are reviewed by a designated safety physicist. Within 60 days, a written risk register
+  for active procedures is completed and posted. Within 90 days, Slotin's training of
+  Graves proceeds — using the mechanical spacers. The demonstration is slightly less
+  elegant. Slotin is slightly less Slotin. He is still alive.
+
+# ── Stress test ──────────────────────────────────────────────────────────────
+
+stress_test:
+  political_derailment: |
+    Mandatory mechanical spacers would have required Slotin to relinquish his personal
+    technique, which other physicists understood as expert judgment. This could have
+    produced quiet resistance — other senior physicists treating the mandate as
+    bureaucratic overreach by an administration that had not done the experiments itself.
+    The institutional response to this resistance is not guaranteed: Bradbury's authority
+    to impose safety culture on senior physicists in 1946 was genuinely contested.
+  institutional_block: |
+    The Army's continued involvement in Los Alamos in 1946 created a divided authority
+    structure. If the safety directive had been challenged as operationally unnecessary,
+    it might have been overridden on grounds of scientific continuity or transition costs.
+    The transition from wartime to peacetime governance was itself a contested process.
+  wrong_assumption: |
+    The assumption that the mechanical spacers would have made the demonstration safe
+    rests on the premise that the spacers themselves were free of failure modes. If the
+    shims were inadequate for some configurations, or if their use introduced new
+    complications, the counterfactual pathway might have produced a different class of
+    accident. No mechanical solution is infinitely safe; the shims were safer than the
+    screwdriver, but not invulnerable.
+  missing_resource: |
+    A designated safety officer with real authority — not an advisory role — at Omega
+    Site. The lab in 1946 had no equivalent to a modern nuclear criticality safety
+    officer with independent authority to halt experiments. Creating one would have
+    required organizational design that did not exist in the culture of Los Alamos at
+    that time.
+  twelve_month_failure: |
+    If the mandatory-spacer protocol were issued but not enforced — if Slotin or others
+    simply continued their existing techniques because no one checked — the directive
+    would have been a paper record without operational effect. The same failure mode
+    (institutional deference to expert judgment) that allowed Slotin to bypass the
+    Daghlian-era protocol would have bypassed the next one.
+
+revised_problem_definition: |
+  The decision problem is not "should Slotin use the screwdriver or the shims on
+  May 21" but "how should a scientific institution enforce safety protocols when
+  the authority hierarchy is inverted — when the person most capable of performing
+  a procedure is also the person least subject to oversight, because their expertise
+  is treated as self-validating?" The stress test reveals that the mechanical fix
+  (shims) is available but insufficient alone: without enforcement architecture,
+  a mandatory protocol is a paper record. The real problem is whether an institution
+  can hold its most capable members accountable to procedures they could, individually,
+  safely circumvent — and whether it has any mechanism for deciding when "I have done
+  this without incident before" stops being evidence of safety and starts being
+  evidence of accumulated unpriced risk.
+
+# ── Honesty ──────────────────────────────────────────────────────────────────
+
+flag: |
+  Expert authority and accountability cannot occupy the same body. When Slotin's
+  judgment was the safety system, there was no safety system — only a person who had
+  not yet slipped. Principled pragmatism can redesign protocols and mandate mechanical
+  safeguards. What it cannot do is resolve the structural position of the irreplaceable
+  expert: the person whose skill is most valuable is also the person whose failure
+  modes are least visible, because their track record is taken as proof of their method.
+  After the Slotin accident, Los Alamos resolved this by making the expert irrelevant
+  to the safety outcome — remote operation, physical distance, no human body in the
+  decision loop. That solution is available only when the knowledge has been fully
+  transferred and the domain permits remote procedure. Where it cannot be applied,
+  the flag stands: the most capable person in the room is also the least safe one to
+  trust with unilateral discretion.
+
+sources:
+  - "Wellerstein, A. (2016, May 23). 'The Demon Core and the Strange Death of Louis
+    Slotin.' The New Yorker. Based on archival research; considered authoritative
+    secondary account. Verification: confirmed — widely cited by nuclear historians."
+  - "Los Alamos National Laboratory (2000). A Review of Criticality Accidents (2000
+    Revision), report LA-13638. Authoritative declassified technical history of
+    criticality accidents. Verification: confirmed — publicly available; covers both
+    Daghlian and Slotin accidents in detail."
+  - "APS News (2014, May). 'May 21, 1946: Louis Slotin Becomes Second Victim of
+    Tickling the Dragon's Tail.' American Physical Society. Verification: confirmed —
+    peer-reviewed historical account, date May 21 explicitly confirmed."
+  - "Rhodes, R. (1987). The Making of the Atomic Bomb. Simon and Schuster.
+    Pulitzer Prize-winning account of the Manhattan Project; covers both accidents.
+    Verification: confirmed — standard scholarly reference."
+  - "Oettingen, M. et al. (2018). 'Criticality analysis of the Louis Slotin accident.'
+    Nuclear Engineering and Design, Vol. 339. Modern Monte Carlo reconstruction
+    confirming dose of approximately 2,100 rem. Verification: confirmed — peer-reviewed
+    journal, ScienceDirect DOI 10.1016/j.nucengdes.2018.09.020."

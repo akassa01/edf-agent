@@ -1,0 +1,350 @@
+---
+case_id: samoa-measles-trust-vacuum
+title: "The Killing Spree"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Asia/Pacific (Samoa; Savaii; Upolu)"
+recency: recent
+year: 2019
+rubric_version: 1
+
+# ── Three perspectives (all required) ────────────────────────────────────────
+
+scientist: |
+  The vaccine was not the problem. On July 6, 2018, nurse Luse Emo Tauvale mixed the
+  MMR powder with a vial of expired atracurium — a neuromuscular blocking agent — instead
+  of the sterile water provided as diluent. The vaccine itself was inert; the injected
+  substance was a paralytic. WHO and UNICEF confirmed this within five days in a joint
+  statement. The nurses pleaded guilty to negligence causing manslaughter on June 4, 2019,
+  and were sentenced to five years in prison on August 2, 2019. The measles-mumps-rubella
+  vaccine's safety profile was never in question; its efficacy for measles protection
+  exceeds 97% for both doses. What the scientist reads is a near-perfect case of
+  availability heuristic displacing base-rate reasoning: two vivid, recent deaths
+  associated with vaccination made vaccination feel dangerous; 83 deaths from measles
+  — at an attack rate exceeding one in five infants in the 6-11 month cohort — were
+  abstract until they were not. The community's risk perception was measurably, and
+  fatally, inverted.
+
+humanist: |
+  Two twelve-month-old infants — Lana Samuelu and Lameko Siu — died within minutes of
+  their injections at Safotu Hospital. Their families saw it happen. A second mother,
+  present at the hospital that morning, protested before her child was injected; the
+  nurse manager overrode her objection and administered the same contaminated shot.
+  The humanist reading does not begin with the nurse error; it begins with what it
+  meant to be a Samoan parent learning that your government's health system had killed
+  two babies and then, when a mother raised her hand, had done it again. The community's
+  refusal of vaccination between July 2018 and October 2019 was not paranoid or
+  uninformed; it was the correct response to a specific, documented institutional
+  failure. What the humanist reading asks is: what did "trust us" mean, coming from
+  the same institution, in the same language of bureaucratic reassurance, to families
+  who had watched the harm happen? The feeling that crowded out the epidemiological
+  statistics was not irrational. It was the only appropriate scale at which to respond
+  to a loss that could not be measured in percentage points.
+
+engineer: |
+  The Samoan government suspended mass vaccination campaigns from July 2018 through
+  April 2019 — nine months — while it investigated the deaths and prosecuted the nurses.
+  When vaccination resumed, coverage did not recover; by the time the first measles case
+  appeared on September 30, 2019, national MMR coverage had remained at approximately
+  31-34%, against the 95% threshold required for herd immunity. The engineer asks: what
+  was the delivery mechanism that failed, and what alternative delivery mechanism was
+  available? Government-administered mass vaccination requires community trust in the
+  government as an institution. Community health ambassador programs — in which
+  vaccination is delivered by village midwives, church deacons, or traditional healers
+  known and trusted within their specific community — are operationally established in
+  Papua New Guinea, Fiji, and Tonga. The ambassador model decouples vaccine efficacy
+  from institutional trust: the science is unchanged; the social architecture is
+  redesigned. In July 2018, the government suspended vaccination without simultaneously
+  activating an alternative delivery mechanism. That gap — nine months, then twelve —
+  is where 83 people died.
+
+archetype_dominant: humanist
+crowded_out_mode: thinking (base-rate reasoning; the comparative risk of measles vs. a correctly administered vaccine)
+
+# ── Diagnosis ────────────────────────────────────────────────────────────────
+
+scientific_facts: |
+  July 6, 2018: two twelve-month-old infants — Lana Samuelu and Lameko Siu — died at
+  Safotu Hospital, Savaii, after receiving injections prepared with atracurium rather
+  than sterile water. The vaccination program was suspended for investigation from
+  July 2018 through April 2019. WHO/UNICEF issued a joint statement on July 11, 2018
+  confirming the deaths were caused by preparation error, not by the vaccine. MMR
+  first-dose coverage fell from approximately 74% (2017) to approximately 34% (2018),
+  remaining at 31-34% when the outbreak began. First confirmed measles case: September
+  30, 2019. State of emergency declared November 15, 2019 by Prime Minister Tuilaepa
+  Sailele Malielegaoi. Final count: 5,707 confirmed cases, 83 deaths. Approximately
+  87% of deaths were children under five. The 6-11 month age cohort saw attack rates
+  of 239.6 per 1,000 — more than one in five infants infected.
+
+social_facts: |
+  The conviction of both nurses (guilty plea June 4, 2019; sentencing August 2, 2019 —
+  5 years 6 months and 5 years respectively) was understood by much of the community
+  not as accountability but as confirmation of institutional wrongdoing. Edwin Tamasese,
+  a Samoan farmer and internet entrepreneur with no medical training, had been amplifying
+  anti-vaccine messaging on Facebook since before the 2018 deaths; afterward, his
+  audience grew substantially. His posts described unproven alternatives (papaya leaf
+  extract, high-dose vitamin C) and, during the December 2019 mandatory vaccination
+  campaign, he addressed the government: "I'll be here to mop up your mess. Enjoy your
+  killing spree." He was arrested December 6, 2019; the case was dismissed December 20,
+  2020. Robert F. Kennedy Jr. visited Samoa in June 2019, organized by Tamasese's network;
+  health workers reported that Tamasese's associates "got louder" after Kennedy's visit.
+  No specific church denomination was documented as formally organizing vaccine refusal.
+  The vaccine hesitancy was distributed across communities, with social media serving
+  as the amplifying architecture.
+
+political_realities: |
+  The Samoan government's suspension of the vaccination program was a defensible
+  institutional response to a genuine crisis — investigating two deaths is the correct
+  response to two deaths. What the government did not do was simultaneously activate
+  an alternative delivery mechanism that maintained coverage while the institutional
+  investigation proceeded. The suspension sent a signal — however unintended — that
+  the government was uncertain about its own program. By the time vaccination formally
+  resumed in April 2019, that signal had been amplified for nine months. The mandatory
+  vaccination emergency order in November 2019, when enforced, achieved high coverage
+  rapidly — demonstrating that the barrier was never vaccine access but vaccine trust.
+  The mandatory order worked because the outbreak made the risk of measles visible in
+  a way that the 2019 statistics had not.
+
+uncertainty_and_ambiguity: |
+  Uncertainty: would a community ambassador delivery program, launched in July 2018,
+  have maintained coverage above 95% through 2019? Unknown. Community ambassador
+  programs require training time and community buy-in that may not have been achievable
+  in the window available.
+  Ambiguity: what does "the community should have trusted the vaccine" mean in a context
+  where the community had genuinely good reasons not to trust the institution delivering
+  it? The same statistical fact — that measles is more dangerous than a correctly
+  administered vaccine — produces a different response depending on whether you are a
+  WHO epidemiologist or a parent who watched a nurse kill your neighbor's baby. These
+  are not two levels of the same argument; they are two different questions that share
+  no common unit of measure.
+
+key_tensions:
+  - "Rational distrust vs. population immunity: the community's distrust was individually justified but collectively lethal"
+  - "Institutional accountability vs. trust maintenance: the government could not simultaneously investigate the deaths and signal confidence in the program; one of these was always going to lose"
+  - "Emergency speed vs. earned trust: the only solution available at outbreak scale (mandatory vaccination) was precisely the solution that could not have been chosen while the trust was being built"
+
+problem_definition: |
+  How should a public health institution maintain vaccine coverage when its own
+  documented failure has given a community rational grounds for refusing its services,
+  and the only alternative delivery mechanisms require months to establish while
+  the epidemic clock is already running?
+
+# ── Metaphors ────────────────────────────────────────────────────────────────
+
+one_plus_one: |
+  The government was answering: "How do we investigate the deaths, convict the
+  responsible nurses, and restore institutional accountability?" The community was
+  answering: "How do we protect our children from a health system that just killed
+  two babies and then, when a mother protested, did it again?" Two separate questions.
+  The government's answer (investigate, prosecute, suspend program, resume) was
+  procedurally correct for the first question and catastrophically wrong for the second.
+  The institutional narrative of accountability — nurses convicted, justice served —
+  produced exactly the opposite community response it intended: it confirmed that the
+  health system HAD been causing harm and could not be trusted to have stopped.
+
+where_is_x: |
+  The 48-hour window after July 6, 2018. When the government announced the suspension of
+  mass vaccination campaigns, it should have simultaneously announced a community
+  ambassador program — trained village health workers and trusted community figures
+  delivering the same vaccine through a different social architecture. The suspension
+  announcement, without the alternative, created a trust vacuum. Edwin Tamasese and
+  his network filled that vacuum. X is the press conference on July 7 or 8, 2018, where
+  the government said "we are stopping until we understand what happened" without
+  adding "and here is who will deliver your children's vaccines tomorrow." The silence
+  in that second clause lasted twelve months.
+
+eighteenth_camel: |
+  The apparent binary in July 2018 was: (A) continue government-administered mass
+  vaccination, which the community would not accept, or (B) suspend vaccination until
+  trust was rebuilt, which took twelve months it did not have. The 18th camel was a
+  community health ambassador program — trained, community-trusted figures (village
+  midwives, church deacons who had themselves been vaccinated, traditional healers
+  enrolled in a modified delivery protocol) administering the same vaccine on the same
+  schedule, but outside the government health system's institutional authority. Not
+  a compromise: the vaccine remains unchanged; the trust architecture is redesigned.
+  Papua New Guinea, Fiji, and Tonga had operational models. The ambassador structure
+  is not a compromise between the two stated options; it is a different thing: a
+  delivery mechanism whose authority derives from the community, not from the state.
+
+solomon_check: |
+  If Samoa's Director General of Health had been advising a neighboring Pacific
+  government facing the same crisis — two infants dead from nurse error, program
+  suspended, coverage collapsing — would he have recommended activating community
+  health ambassadors while the investigation proceeded? Almost certainly yes; that
+  advice exists in Pacific public health literature. The wisdom he would have offered
+  someone else was not directed inward, perhaps because the institutional logic of
+  "suspend and investigate" was the obvious procedural response — and procedural
+  correctness, in a crisis, takes the place of strategic reasoning.
+
+urgency_vs_actionability: |
+  The urgency after the July 2018 deaths was correctly diagnosed as institutional
+  (investigate and fix the program), but this crowded out the parallel urgency of
+  maintaining population immunity. By the time the epidemic urgency became visible —
+  September 30, 2019, first confirmed case — the gap between the action needed
+  (immediate high-coverage vaccination) and the capacity to deliver it (a community
+  that did not trust the program) was twelve months wide. The mandatory emergency
+  order that closed that gap in November-December 2019 was exactly the blunt instrument
+  that principled pragmatism would have made unnecessary.
+
+# ── Conditions, capacity, constraints ────────────────────────────────────────
+
+enabling_conditions: |
+  Community health ambassador models were operationally established in neighboring
+  Pacific nations (Papua New Guinea, Fiji, Tonga). WHO and UNICEF had technical
+  specialists in country and in the Pacific regional office who could have advised on
+  rapid ambassador deployment. Samoa's church network — given that no specific
+  denomination was organizing vaccine refusal — represented an available trusted
+  infrastructure that was not activated for vaccination delivery.
+
+capacities: |
+  The government had the authority and the international partners (WHO, UNICEF, GAVI)
+  to fund a rapid community ambassador program. Church leaders, who commanded community
+  trust, were not organizing against vaccination; they were available as partners.
+  Tamasese's network was influential but not hegemonic — many Samoan families were
+  hesitant rather than committed to refusal, a state that is more addressable by trusted
+  community figures than by government mandates.
+
+constraints: |
+  Binding constraint: the institutional logic of public health investigation, which
+  required suspension as the procedurally correct response to unexplained deaths, and
+  which had no built-in mechanism for maintaining coverage through an alternative
+  channel while the investigation proceeded. The constraint was not technical or
+  financial; it was architectural — no pathway existed within standard public health
+  institutional design for "suspend the program and simultaneously continue it through
+  a different mechanism."
+
+# ── Decision pathway ────────────────────────────────────────────────────────
+
+decision_pathway: Redesign
+tools:
+  - "Community health ambassador program → recruit and train 300-500 village-level
+    health ambassadors (midwives, church deacons, trained traditional healers) within
+    30 days of the 2018 suspension → changes interaction: moves vaccine delivery
+    authority from government health system to community-trusted figures, decoupling
+    vaccine efficacy from institutional trust"
+  - "Transparent parallel investigation channel → create a community-accessible
+    real-time feed (radio, village heads, church pulpits) reporting investigation
+    findings as they emerge, with WHO and UNICEF joint imprimatur → changes learning:
+    replaces the 9-month information vacuum with a continuous factual counter-narrative
+    to social media speculation"
+  - "Coverage dashboard → village-by-village MMR coverage tracking, shared publicly
+    weekly → changes coordination: makes coverage gaps visible to community leaders,
+    health ambassadors, and church networks, enabling peer follow-up rather than
+    government enforcement"
+
+metrics:
+  - "MMR first-dose coverage per village: percentage of eligible children vaccinated
+    → measure: ambassador-reported count vs. village health register → method: weekly
+    reporting by community ambassadors → linked to ambassador program"
+  - "Time-to-community-communication after adverse event: hours from adverse event
+    identification to WHO/UNICEF-endorsed community notification → measure: event log
+    timestamp vs. community notification timestamp → method: public health incident log
+    → linked to transparent investigation channel"
+  - "Coverage trajectory: rate of change in MMR coverage per week during re-launch
+    → measure: rolling 4-week coverage change → method: HMIS dashboard → linked to
+    both ambassador program and coverage dashboard"
+
+ninety_day_commitment: |
+  Counterfactual pathway (from July 7, 2018): Within 48 hours of the suspension
+  announcement, the DG of Health announces simultaneous: (1) suspension of
+  government-administered mass vaccination pending investigation; (2) emergency
+  activation of a community ambassador delivery program, with WHO technical support,
+  beginning within 7 days. Weeks 1-4: 300 community health ambassadors identified
+  from existing community health worker networks, trained in vaccine preparation
+  verification and community communication. Week 5: vaccinations resume through
+  ambassador channel. Weeks 5-12: coverage tracked weekly by village; church leaders
+  briefed on findings from the investigation as they emerge. Week 12: MMR coverage
+  maintained above 70%, investigation complete, nurse accountability visible, both
+  findings communicated simultaneously through ambassador networks. The trust damage
+  is real; the coverage gap is not.
+
+# ── Stress test ──────────────────────────────────────────────────────────────
+
+stress_test:
+  political_derailment: |
+    Tamasese's network could have characterized the community ambassador program as
+    a government proxy — the same institution, different face — particularly if
+    ambassadors were perceived as government employees rather than genuine community
+    figures. If the first ambassador in a village was seen as a government plant,
+    the trust architecture collapses immediately. The program's success depends on
+    genuinely community-selected figures, which requires community participation in
+    the selection process that the government cannot control.
+  institutional_block: |
+    WHO's in-country protocols for post-adverse-event response focus on investigation
+    and communication, not on rapid alternative delivery architecture. Activating a
+    community ambassador program at the speed required would have needed WHO regional
+    office approval and re-scoping of the in-country response plan — a bureaucratic
+    process that could take weeks in standard operation, and that the 48-hour window
+    does not accommodate.
+  wrong_assumption: |
+    The assumption that church leaders were available as neutral partners rests on the
+    finding that no specific denomination was organizing vaccine refusal. But this was
+    assessed post-outbreak; in July 2018, the church landscape's position was unknown
+    and might have included more organized hesitancy than post-hoc reporting captured.
+    A church leader who privately opposed vaccination but had not yet said so publicly
+    is a more complicated ambassador candidate than the post-hoc reporting suggests.
+  missing_resource: |
+    Training capacity: 300-500 village health ambassadors, each needing several days
+    of training in vaccine preparation verification and community communication, within
+    30 days, in a country where the health workforce was already strained by the
+    investigation of the original incident. The rapid deployment timeline requires
+    staffing that WHO and UNICEF could provide but only with immediate political
+    authorization.
+  twelve_month_failure: |
+    If the ambassador program launched but Tamasese's campaign continued to intensify —
+    particularly after the nurses' guilty plea in June 2019 confirmed the institutional
+    wrongdoing — community ambassadors might themselves face social pressure not to
+    vaccinate. An ambassador program is not immune to the social dynamics it is designed
+    to navigate. If the sentencing of the nurses was used as proof of ongoing risk,
+    the program's community authority could erode even with the right design.
+
+revised_problem_definition: |
+  The decision problem is not "how to maintain public vaccination coverage after an
+  institutional failure" but "how to build community health delivery infrastructure
+  that is resilient to institutional trust collapse — before, not during, the emergency."
+  The stress test reveals that the 48-hour window is real but the underlying constraint
+  is not 48 hours; it is the years before 2018 in which a community ambassador program
+  was available to build but was never built, because government-administered mass
+  vaccination was working and there was no reason to invest in the redundant
+  architecture. The real problem is the absence of redundancy in health delivery
+  systems that are one institutional failure away from coverage collapse.
+
+# ── Honesty ──────────────────────────────────────────────────────────────────
+
+flag: |
+  Rational distrust is indistinguishable from irrational distrust in its epidemiological
+  effects. The Samoan community's refusal of vaccination between 2018 and 2019 was
+  not paranoid; it was the correct response to a specific, documented institutional
+  failure in which the health system killed two babies and then, when a mother raised
+  her objection, did it again. Principled pragmatism can redesign institutions to
+  re-earn trust. What it cannot do is specify the timeline on which trust is earned,
+  or guarantee that the timeline and the epidemic curve will not be in direct conflict.
+  The only resolution available — build the redundant, community-embedded delivery
+  infrastructure before it is needed — requires a public health system to invest in
+  failure-mode planning for its own institutional credibility. That investment is
+  not in the standard public health budget calculus.
+
+sources:
+  - "WHO/UNICEF Pacific (2018, July 11). Joint statement on the deaths of two children
+    in Samoa after MMR vaccine. Confirmation that deaths were caused by preparation
+    error, not by the vaccine. Verification: confirmed — publicly archived on WHO
+    website."
+  - "RNZ News (2019, August 2). 'Samoan nurses get five years for manslaughter.'
+    Documents nurse names, guilty plea date (June 4, 2019), and sentencing
+    (August 2, 2019). Verification: confirmed — contemporaneous reporting, URL
+    date-stamped."
+  - "WHO/UNICEF Pacific (2020, January 3). Measles Outbreak in Samoa — Situation
+    Report No. 9. Final case count (5,707) and death count (83). Verification:
+    confirmed — WHO official document, publicly archived."
+  - "ABC News (2019, December 6). 'Low vaccination rate and deadly medical mistake led
+    to Samoa outbreak.' Documents vaccination rate drop (74% → 34%), Tamasese's
+    activities, and Kennedy's visit. Verification: confirmed — multiple corroborating
+    outlets."
+  - "NPR (2019, December 6). 'Samoa Arrests Anti-Vaccination Activist As Measles Death
+    Toll Rises.' Documents Tamasese arrest (December 6, 2019) and 'killing spree' quote.
+    Verification: confirmed — contemporaneous reporting; quote also confirmed by
+    France 24."
+  - "The Lancet Infectious Diseases (2020). 'Curbing the 2019 Samoa measles outbreak.'
+    Peer-reviewed epidemiological analysis of age-stratified attack rates and coverage
+    data. Verification: confirmed — peer-reviewed journal, indexed."
