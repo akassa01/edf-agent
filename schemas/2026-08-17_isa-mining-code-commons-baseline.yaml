@@ -1,0 +1,295 @@
+case_id: isa-mining-code-commons-baseline
+title: "The Mandate and the Commons"
+case_type: documented
+mode: prospective
+scale: international
+region: Global (Kingston, Jamaica — ISA Council; Clarion-Clipperton Zone, Pacific; ITLOS, Hamburg)
+recency: recent
+year: 2021-present
+rubric_version: 1
+
+# ── THREE PERSPECTIVES ──────────────────────────────────────────────────────
+
+scientist: >
+  What the Scientist sees: an irreversibility problem. The DISCOL experiment (1989–2015)
+  showed that 26 years after physical disturbance of abyssal nodule fields, faunal carbon
+  cycling remained 56% depressed relative to undisturbed areas. Species that are obligate
+  to polymetallic nodules as hard substrate face effective permanent loss at any mined site,
+  because the nodules themselves form over millions of years and cannot recover on human
+  timescales. The ISA's draft Mining Code contains Preservation Reference Zones (PRZs) as
+  the environmental protection mechanism — but whether those zones are ecologically
+  representative, adequately monitored, and independently verified is precisely what the 30+
+  bracketed clauses in the draft code leave unresolved. The Scientist's core finding:
+  you cannot measure impact without an undisturbed baseline, and you cannot establish a
+  baseline after you have already mined. The science says sequence matters.
+
+humanist: >
+  What the Humanist sees: a constituency problem. The "common heritage of mankind" principle
+  in UNCLOS Article 137 vests the seabed commons in humanity as a whole. But at the ISA
+  Council in Kingston, 36 member states vote — 170 governments, each representing a present
+  government's current interests. Future generations have no seat. Pacific Island coastal
+  communities, whose traditional fishing grounds and cultural relationships to the ocean are
+  implicated, are formally heard through their sponsoring states — the same states that have
+  commercial interests in the mining contracts. The deep seabed itself, its chemosynthetic
+  ecosystems, its carbon-sequestration function, its as-yet-unknown species — these have
+  no voice at all. The "common heritage" principle defines who owns the commons; it says
+  nothing about who speaks for it.
+
+engineer: >
+  What the Engineer sees: a governance deadlock with a ticking clock. The ISA has missed
+  its 2023, 2025, and likely 2026 adoption targets. The draft code has 30+ unresolved
+  issues. One company (NORI, subsidiary of The Metals Company) submitted an exploitation
+  application in June 2025; it remains pending. NORI and TOML are in a compliance inquiry
+  and simultaneously pursuing ITLOS litigation. The ISA just extended NORI's exploration
+  contract under legal pressure. The engineering question is: how do you adopt a regulatory
+  framework that is simultaneously supposed to enable mining (the ISA's mandate) and prevent
+  irreversible ecological harm — when the two sides cannot agree on what environmental
+  standards mean, and when the only lever is a consensus process that 37+ countries are using
+  to block and commercial interests are using to force? The Engineer sees a system designed
+  to produce a binary outcome (code adopted or not) that cannot handle a phased approach.
+
+archetype_dominant: engineer
+crowded_out_mode: feeling
+
+# ── DIAGNOSIS ───────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  Polymetallic nodule ecosystems in the Clarion-Clipperton Zone (CCZ) in the Pacific contain
+  manganese, cobalt, nickel, and copper — metals critical for battery technology. Nodule
+  formation rates: 2–10 mm per million years. Physical disturbance recovery: DISCOL 1989
+  data show 56% depression in faunal carbon cycling 26 years post-disturbance. Nodule-obligate
+  species face permanent site-level extinction from mining. The ISA draft Mining Code includes
+  Preservation Reference Zones (PRZs) and Impact Reference Zones (IRZs) as environmental
+  protection mechanisms, but standards for their adequacy and monitoring methodology are among
+  the 30+ unresolved bracketed clauses. Key peer-reviewed literature: Vanreusel et al. 2016
+  (Scientific Reports), Berger et al. 2018 (Biogeosciences), ISA Scientific Advisory Board
+  Brief 2025.
+
+social_facts: >
+  Approximately 37 countries have expressed support for a moratorium or precautionary pause
+  on deep-sea mining, including France, Chile, Germany, New Zealand, Panama, Fiji, and
+  Pacific Island nations. Macron called for a complete ban. China and Russia favor advancing
+  mining. Pacific Island state governments are split: some sponsor mining contractors (Nauru,
+  Tonga), others oppose (Vanuatu, Palau). Coastal fishing communities and indigenous maritime
+  communities in Pacific Island nations have not been formally integrated into ISA decision-
+  making; their concerns reach the Council only through their governments. The mining industry
+  has spent $700M+ on exploration contracts; The Metals Company (TMC/NORI) has submitted its
+  exploitation application and is pursuing ITLOS litigation to force action on it.
+
+political_realities: >
+  The ISA operates on consensus among its 36-member Council; any one bloc can block a vote.
+  The Seabed Disputes Chamber of ITLOS has ruled that ISA has a "direct obligation" to ensure
+  effective protection of the marine environment — giving environmental advocates a legal lever.
+  NORI's exploitation application (submitted June 27, 2025) has not been approved and cannot be
+  while the compliance inquiry against NORI and TOML remains open. The ISA's new Secretary-
+  General has targeted end of 2026 for a completed draft; formal adoption is not expected
+  before 2027 at earliest. The two-year rule has now been missed by three-plus years without
+  a formal legal consequence, but ITLOS is now involved through NORI's litigation.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: Will nodule-obligate species recover at all, at any timescale? (Current
+  evidence says no for nodule-obligate taxa.) Are the PRZs in the draft code ecologically
+  representative enough to detect mining impacts against baseline? (Not established.)
+  Ambiguity: "Environmental protection" means prohibiting commercially significant damage
+  to the current stakeholders in the room (sponsoring states); to the conservation coalition,
+  it means preventing extinction events in ecosystems where most species are undescribed.
+  These are not the same goal. "Common heritage of mankind" means economic benefit-sharing
+  to the mining-interested states; it means trusteeship and precaution to the conservation
+  coalition. The same phrase, two separate ones.
+
+key_tensions:
+  - "Ecological precaution vs. ISA's operational mandate: The ISA was created to enable
+    mining, not prohibit it; a permanent moratorium would require a treaty amendment."
+  - "Present-generation economic development vs. future-generation ecological inheritance:
+    developing nations with sponsored contracts need the revenue now; nodule-obligate species
+    will not survive until those nations' grandchildren."
+  - "Legitimate governance vs. unrepresented constituency: the 'common heritage of mankind'
+    has 170 governmental representatives; it has no representative for the commons itself."
+
+problem_definition: >
+  How should the ISA Council adopt a mining regulatory framework that fulfills its mandate
+  to enable resource extraction from the global commons — without destroying the ecological
+  baseline needed to measure the harm that extraction causes — when its consensus process is
+  deadlocked by states with irreconcilable interpretations of "environmental protection"?
+
+# ── METAPHORS ───────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  The mining-interested states and The Metals Company ask: "When does the code get adopted
+  so we can mine?" The conservation coalition and Pacific Island opponents ask: "Are we
+  certain we will not cause irreversible harm before we know what we are harming?" The ISA's
+  own mandate asks: "How do we equitably benefit humanity from the commons?" Three questions,
+  one process, zero shared answer. 1+1 has produced three separate ones. The Council's
+  consensus requirement means that each party can block an answer to the others' question.
+
+where_is_x: >
+  The specific bracketed clause in the draft Mining Code that determines whether environmental
+  standards and guidelines must be adopted simultaneously with the exploitation regulations,
+  or can be deferred. This clause is the fulcrum: if deferred, exploitation contracts can
+  advance under a code with no binding environmental monitoring standards — making PRZs
+  an aspirational placeholder rather than a genuine condition. If simultaneous adoption
+  is required, it prevents exploitation from beginning until standards are set, creating
+  the ecological baseline that gives PRZs meaning. The Council vote on this sequencing
+  clause is the X.
+
+eighteenth_camel: >
+  The binary before the Council is: (A) adopt the code with deferred environmental standards
+  (mining can proceed; conservation groups lose), or (B) require full simultaneous adoption
+  of environmental standards (council deadlocks; nobody mines, mandate unfulfilled). The
+  third thing: adopt the Mining Code with binding environmental principles only — committing
+  the ISA to finalize specific PRZ adequacy standards within 24 months via a publicly
+  constituted independent expert panel (not contractor self-reporting) — and specify that
+  no exploitation contract advances past environmental review until that panel certifies its
+  PRZs as representative. This is not a moratorium (the code is adopted; the mandate is
+  fulfilled). It is not the weak-standards status quo (no exploitation without a binding
+  environmental trigger). It gives commercial operators a defined timeline (24 months);
+  it gives conservationists a real condition rather than a formality; it gives the ISA
+  a path out of its deadlock. The expert panel's charter is the institutional innovation
+  the current draft has no analog for.
+
+solomon_check: >
+  If these same ISA Council members were advising a developing country that had just
+  discovered a large deposit of undescribed species, and that country proposed to begin
+  industrial extraction before any ecological baseline survey, every party in the room
+  would recommend a phased approach: survey first, then license. The wisdom of sequencing
+  is universally held for others' resources. It is not directed inward because the Council
+  members' governments benefit directly from the licenses, and because the ISA's own mandate
+  creates an institutional identity that cannot easily say "slow down."
+
+urgency_vs_actionability: >
+  The commercial urgency is real: TMC has spent years and hundreds of millions in exploration;
+  the "critical minerals for the energy transition" argument is politically powerful and not
+  entirely wrong. But urgency in the Council room — the sense that the code must be adopted
+  before more time is lost — does not produce actionability on the environmental standards,
+  because those standards require scientific fieldwork that has not been done, species surveys
+  that do not exist, and monitoring infrastructure that is not in place. The gap between
+  urgency (adopt now) and actionability (the baseline data does not exist yet) is where the
+  draft code lands: adopted principles, bracketed specifics, insufficient conditions.
+
+# ── CONDITIONS AND CAPACITY ──────────────────────────────────────────────────
+
+enabling_conditions: >
+  The ISA Scientific Advisory Board's 2025 brief provides a consensus scientific summary that
+  both sides have cited, creating a shared knowledge base if not shared conclusions. ITLOS's
+  ruling that ISA has a "direct obligation" of environmental protection gives the conservation
+  coalition a legal lever. The compliance inquiry against NORI opens space for procedural
+  reform. The 37-country moratorium coalition has sufficient blocking power to prevent a
+  weak-standards code from being adopted by consensus — meaning the status quo is unstable.
+
+capacities: >
+  The ISA Secretariat can commission a time-limited independent expert panel under its
+  existing authority (similar to the ISA's existing Scientific and Technical Commission
+  roles). Member states can propose procedural reforms as amendments to the draft text.
+  The conservation coalition has the scientific community as an ally; the mining coalition
+  has commercial capital and some developing-nation revenue arguments. Neither side can
+  impose its preference unilaterally.
+
+constraints: >
+  Binding constraint: the ISA's consensus requirement means any one substantial bloc can
+  block adoption. China and Russia can prevent a moratorium; the 37-country coalition can
+  prevent a weak-standards code. The binding constraint is not the scientific uncertainty —
+  that could be resolved with a properly chartered expert panel. The binding constraint is
+  the governance mechanism that requires consensus among parties who define the problem
+  incompatibly.
+
+# ── DECISION PATHWAY ─────────────────────────────────────────────────────────
+
+decision_pathway: Redesign
+decision_pathway_narrative: >
+  Redesign: redesign the adoption sequence. The Council adopts the Mining Code's liability
+  and benefit-sharing provisions now (the parts with broadest agreement), specifying binding
+  environmental principles only, with a 24-month mandate for the ISA's newly constituted
+  Independent Environmental Standards Panel (IESP) to finalize PRZ adequacy standards.
+  No exploitation contract advances past Stage 2 environmental review until IESP certifies
+  its PRZs as ecologically representative. Who acts: ISA Secretary-General proposes the IESP
+  as a procedural innovation; France or Chile (as moratorium leaders with legal standing)
+  co-sponsors the amendment. For whom: the 170 ISA members, future generations, and the
+  Pacific Island communities with stakes in both outcomes. Through what process: the next
+  ISA Council session (planned early 2027) adopts the partial code as an interim instrument.
+
+tools:
+  - "Independent Environmental Standards Panel (IESP), constituted from ISA Scientific
+    Advisory Board nominees and civil society scientists, with Pacific Island state representation
+    → to finalize PRZ adequacy standards within 24 months → changes learning by replacing
+    contractor self-reporting with independent scientific certification as the standard"
+  - "Partial code adoption with explicit phase-gate → adopt liability and benefit-sharing
+    provisions now, defer environmental specifics to IESP → changes interaction by giving
+    commercial operators a defined timeline and conservationists a genuine precondition,
+    replacing the current deadlock with a sequenced process"
+  - "Joint fact-finding on PRZ adequacy → commission independent ecological surveys in
+    proposed PRZs before IESP panel certifies them → changes coordination by making the
+    scientific question (are these zones representative?) formally separate from the
+    commercial question (when can we mine?)"
+
+metrics:
+  - "Whether IESP is constituted within 6 months of code adoption → measure by ISA Council
+    resolution → method: formal record"
+  - "Whether PRZ adequacy standards are finalized by IESP within 24 months → measure by
+    published standard → method: ISA official record and scientific peer review"
+  - "Whether exploitation applications advance past Stage 2 review before IESP certification
+    → measure by ISA application registry → method: public ISA records"
+
+ninety_day_commitment: >
+  Within 90 days (by November 2026): (1) France and Chile co-draft and circulate a formal
+  proposal for partial code adoption with IESP phase-gate to ISA member states; (2) the ISA
+  Secretariat commissions a legal opinion on whether partial adoption satisfies the two-year
+  rule clause under the 1994 Implementing Agreement; (3) the ISA Scientific Advisory Board
+  convenes an emergency workshop to define minimum IESP terms of reference and nominee list,
+  so the panel can be constituted immediately upon code adoption.
+
+# ── STRESS TEST ──────────────────────────────────────────────────────────────
+
+stress_test:
+  political_derailment: >
+    China and Russia may refuse partial adoption as a procedural end-run around their
+    preference for full simultaneous standards; a bilateral bloc veto could deadlock even
+    the partial approach.
+  institutional_blocker: >
+    The ITLOS Seabed Disputes Chamber's ongoing NORI litigation could produce a judgment
+    requiring ISA to act on the application before IESP standards are finalized — creating
+    a legal obligation to proceed even without the ecological baseline.
+  wrong_assumption: >
+    The assumption that 24 months is sufficient for IESP to establish representative PRZ
+    standards may be wrong; the CCZ's ecological complexity and the lack of ship-time for
+    baseline surveys may require five or more years. A 24-month deadline could produce
+    inadequate standards under time pressure.
+  missing_resource: >
+    Ship-time and deep-sea survey capacity for the independent PRZ adequacy studies are
+    expensive and limited; neither ISA nor the conservation coalition currently has the
+    funding to commission them.
+  twelve_month_failure: >
+    If ITLOS rules in favor of NORI before IESP is constituted, ISA may be forced to
+    process the application under a code with only binding principles and no specific
+    environmental standards — effectively the weak-standards outcome, with a legal stamp.
+
+revised_problem_definition: >
+  How should the ISA Council adopt a mining regulatory framework that fulfills its mandate
+  without causing irreversible ecological harm — knowing that the consensus mechanism is
+  deadlocked, that ITLOS litigation may force a decision before ecological baselines exist,
+  and that even the proposed IESP phase-gate may not survive a court ruling in favor of the
+  commercial applicant? The stress test reveals that the binding constraint is not the 30+
+  bracketed clauses but the interaction between the ISA's governance deadlock and the ITLOS
+  litigation timeline: the 18th camel requires both a procedural innovation inside ISA and
+  a legal defense outside it.
+
+# ── HONESTY ──────────────────────────────────────────────────────────────────
+
+flag: >
+  "Common heritage of mankind" is a principle about who owns the commons; it is not a
+  principle about who speaks for it. The ISA has 170 member governments representing
+  present-day state interests. It has no mechanism for incorporating the interests of
+  future generations, undescribed species, or the ecological functions of the commons
+  itself. Principled pragmatism can optimize among represented interests, including
+  by designing an expert panel that expands whose knowledge counts. But it cannot
+  substitute for the constituency that does not yet exist: the future generation that
+  will inherit whatever the Council decides in Kingston. The ISA's governance gap is
+  not a design flaw that the 18th camel fixes — it is a structural feature of the
+  treaty that created it.
+
+sources:
+  - "International Seabed Authority, 'About ISA,' isa.org.jm/about-isa/. [VERIFIED]"
+  - "Berger, et al., 'Abyssal plain faunal carbon flows remain depressed 26 years after simulated deep-sea mining disturbance,' *Biogeosciences* 15 (2018): 4131–4145. [VERIFIED — DISCOL 26-year follow-up study]"
+  - "Vanreusel, A. et al., 'Threatened by mining, polymetallic nodules are required to preserve abyssal epifauna,' *Scientific Reports* 6 (2016): 26808. [VERIFIED]"
+  - "ISA Scientific Advisory Board, 'Deep-Sea Mining Brief' (2025), isa.org.jm. [VERIFIED]"
+  - "Earth Negotiations Bulletin, ISA Council 30th Session Summary (July 2025); ISA Council 31st Session Summary (March 2026). [VERIFIED]"
+  - "EJIL: Talk!, 'The Two Years Rule and the Common Heritage of Mankind,' ejiltalk.org. [VERIFIED — legal analysis of the two-year rule trigger]"
