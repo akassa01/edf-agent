@@ -1,0 +1,79 @@
+---
+case_id: isa-mining-code-commons-baseline
+title: "The Mandate and the Commons"
+case_type: documented
+mode: prospective
+scale: international
+region: Global (Kingston, Jamaica — ISA Council; Clarion-Clipperton Zone, Pacific; ITLOS, Hamburg)
+recency: recent
+year: 2021-present
+archetype_dominant: engineer
+crowded_out_mode: feeling
+decision_pathway: Redesign
+flag: "common heritage of mankind names who owns the commons; it does not name who speaks for it"
+rubric_version: 1
+---
+
+# The Mandate and the Commons
+
+In July 2021, the Republic of Nauru sent a letter to the International Seabed Authority in Kingston, Jamaica, that activated a clause nobody had tested in twenty-seven years. Under the 1994 Implementing Agreement to the Law of the Sea, a member state can trigger a two-year clock: within that time, the ISA must adopt exploitation regulations for deep-sea mining, or it must process applications for mining licenses under whatever rules already exist. Nauru invoked the clause on behalf of a subsidiary of a Canadian mining company, The Metals Company, which holds exploration rights in the Clarion-Clipperton Zone — an abyssal plain in the Pacific roughly the size of Europe, three to five kilometers beneath the surface.
+
+The deadline passed on July 9, 2023. No Mining Code had been adopted. It still has not been adopted. It is now 2026.
+
+The ISA was created by UNCLOS in 1994 to govern the "Area" — the international seabed beyond national jurisdiction — according to the principle, inscribed in Article 137, that its mineral resources constitute the "common heritage of mankind." No nation can claim the deep seabed; all of humanity owns it; the ISA is the body through which that ownership is organized and, under its mandate, made productive for humanity as a whole. The mandate is explicit: the ISA is supposed to enable mining. It is not supposed to prohibit it.
+
+This is the governance predicament in Kingston. The ISA's institutional doing mode — its operational logic, its raison d'être — is toward issuing licenses. The bureaucratic identity of the organization, the interests of the 36-member Council's most commercially active member states, and the legal expectations of contractors who have spent $700 million on exploration all push in the same direction: adopt the code, process the applications, let the mining begin. The draft Mining Code contains Preservation Reference Zones and environmental principles. The code has also been in drafting since 2016, has 30-plus unresolved bracketed clauses, and has missed three adoption targets.
+
+The Scientist sees an irreversibility problem. The DISCOL experiment tracked a section of abyssal nodule field in the Peru Basin for twenty-six years after a 1989 disturbance. In 2015, faunal carbon cycling within the disturbed tracks was still 56 percent below the baseline of undisturbed areas nearby. The species that live on polymetallic nodules as substrate — obligate inhabitants of a hard surface that forms at a rate of two to ten millimeters per million years — face permanent site-level extinction at any mined location. The draft code's Preservation Reference Zones are meant to provide an undisturbed baseline for comparison. Whether those zones are ecologically representative, adequately sized, and independently verified is precisely what the 30-plus bracketed clauses leave unresolved. The Scientist's diagnosis is a sequencing problem: you cannot measure impact against a baseline you establish after the mining has started.
+
+The Humanist sees a constituency problem. Approximately thirty-seven countries, including France, Chile, Germany, and most Pacific Island conservation states, have called for a precautionary pause or moratorium. Emmanuel Macron has called for a complete ban. Their argument is not simply that the risks are large — it is that the commons has no constituency at the table with standing to refuse. The ISA's 170 member governments represent present-day state interests. They do not represent future generations. They do not represent the hadal zone's chemosynthetic ecosystems, most of whose species are undescribed. They do not represent Pacific Island fishing communities whose governments are themselves split — Nauru and Tonga sponsor commercial contractors; Vanuatu and Palau oppose them. "Common heritage of mankind" names who owns the commons. It does not name who speaks for it.
+
+Where is X? Not the failed adoption deadline, and not the court case. The intervention point is a specific unresolved clause in the draft Mining Code: whether environmental standards and monitoring guidelines must be adopted simultaneously with the exploitation regulations, or can be deferred to a later process. This clause is the fulcrum. If environmental standards are deferred, exploitation contracts can advance under a code with binding principles but no binding specifics — making the Preservation Reference Zones an aspirational formality rather than a genuine precondition. If simultaneous adoption is required, the Council cannot adopt the code until it agrees on environmental standards, which are the most contested aspect of the entire document. Both paths lead, in the current governance posture, to the same place: deadlock.
+
+The question that 1+1 produces here is not one question. The mining-interested states and The Metals Company ask: "When does the code get adopted so we can mine?" The conservation coalition asks: "Are we certain we will not cause irreversible harm before we know what we are harming?" The ISA's own mandate asks: "How do we equitably benefit humanity from the commons?" Three questions, one consensus-required process, zero shared answer.
+
+The apparent binary before the Council is: adopt the code with deferred environmental standards, or require full simultaneous adoption of those standards — which, given current Council disagreements, means no adoption at all. The 18th camel is a sequenced redesign. Adopt the Mining Code's liability and benefit-sharing provisions now, with binding environmental principles only — and alongside adoption, constitute an Independent Environmental Standards Panel (IESP), drawn from the ISA Scientific Advisory Board and including Pacific Island civil society representation, with a twenty-four-month mandate to finalize Preservation Reference Zone adequacy standards. No exploitation contract advances past environmental review until the IESP certifies that the contract's proposed PRZs are ecologically representative, using independent monitoring rather than contractor self-reporting. This is not a moratorium: the ISA fulfills its mandate, the code is adopted, commercial operators get a defined timeline. It is not the weak-standards status quo: no exploitation begins without a real, independently verified condition. The innovation is the IESP itself — a body the current draft has no analog for, constituted to do the thing the Council cannot do by consensus.
+
+The Solomon check applies here precisely. If these same Council members were advising a developing country that had just discovered a large deposit of undescribed biological species and proposed to begin industrial extraction before any ecological baseline survey, every party in the room would recommend a phased approach: survey first, then license. The wisdom of sequencing is universally held for others' resources. At the ISA, it is not directed inward — because the Council members' governments benefit directly from licensing revenue, and because the ISA's institutional identity cannot easily accommodate the word "wait."
+
+The enabling conditions for the IESP redesign are in place. The ISA Scientific Advisory Board has issued a 2025 consensus brief that both sides have cited. The ITLOS Seabed Disputes Chamber has ruled that the ISA holds a "direct obligation" to ensure effective environmental protection — giving the conservation coalition a legal lever independent of Council consensus. The ongoing compliance inquiry against NORI and TOML opens a procedural window for reform. The 37-country moratorium coalition has sufficient blocking power to prevent a weak-standards code from passing by consensus; the mining coalition can prevent a full moratorium. Neither side can prevail unilaterally. The deadlock is the leverage point.
+
+The tools are, in order: a partial code adoption instrument, drafted by France and Chile and circulated before the next ISA Council session in early 2027, adopting liability and benefit-sharing provisions with binding environmental principles only; the IESP charter, drawing on ISA Scientific Advisory Board nominees and including at minimum two Pacific Island civil society scientists; and a joint fact-finding protocol specifying minimum independent survey requirements for PRZ certification. Each tool changes something. The partial adoption changes interaction by giving commercial operators a concrete next step and giving conservationists a real gating condition — replacing the current mutual vetoes with a shared sequence. The IESP changes learning by converting contractor self-reporting into independent scientific certification as the standard for environmental review. The fact-finding protocol changes coordination by making the scientific question (are these zones representative?) formally independent of the commercial question (when can we mine?).
+
+The metrics are not ecological in themselves — they are governance outcomes linked to ecological safeguards. Whether the IESP is constituted within six months of code adoption. Whether PRZ adequacy standards are finalized by the IESP within twenty-four months, with peer review. Whether any exploitation application advances past Stage 2 environmental review before IESP certification occurs. These are measurable, attributable to specific decisions, and linked directly to whether the 18th camel is holding.
+
+The 90-day commitment runs from now. France and Chile co-draft and circulate a formal partial-adoption proposal to ISA member states before November 2026. The ISA Secretariat commissions a legal opinion on whether partial adoption satisfies the two-year rule clause under the 1994 Implementing Agreement — this legal question must be answered before the proposal can move to vote. The ISA Scientific Advisory Board convenes an emergency workshop to define minimum IESP terms of reference and a nominee list, so the panel can be constituted immediately upon code adoption rather than negotiated afterward.
+
+(The flag: "Common heritage of mankind" is a principle about ownership. It is not a principle about representation. The ISA can optimize among 170 represented governments, and the 18th camel improves on the status quo for all of them. What it cannot do — what no governance redesign inside the current treaty can do — is give a seat to the unrepresented: future generations, nodule-obligate species, the carbon-sequestration function of the abyssal plain, the fishing communities whose governments have commercial interests that conflict with theirs. The gap between who owns the commons and who speaks for it is not an engineering problem. It is a structural feature of the treaty that created the ISA, and fixing it would require a treaty amendment that no current member state has proposed.)
+
+---
+
+**Problem** — How should the ISA Council adopt a mining regulatory framework that fulfills its mandate to enable resource extraction from the global commons — without destroying the ecological baseline needed to measure the harm that extraction causes — when its consensus mechanism is deadlocked by states with irreconcilable interpretations of "environmental protection"?
+
+**Stakeholders** — Mining-interested member states and commercial contractors (commercial viability, revenue); conservation coalition states and Pacific Island communities (ecological precaution, fishing, identity); ISA Secretariat (institutional mandate and legal liability); future generations and present non-human marine life (no current representative).
+
+**Binding constraint** — The Council consensus requirement combined with irreconcilable definitions of "environmental protection" — not the scientific uncertainty, which an expert panel can address; not the legal exposure, which the ITLOS ruling has partially clarified; but the governance mechanism that requires consensus among parties who define the problem incompatibly.
+
+**Decision pathway** — Redesign: partial code adoption with binding principles only, plus an Independent Environmental Standards Panel (IESP) with a 24-month mandate to finalize PRZ adequacy standards as a genuine precondition for exploitation approval.
+
+**Tools** — Partial code adoption instrument (changes interaction: gives operators a timeline, conservationists a real gate); IESP charter with independent scientific and civil society representation (changes learning: independent certification replaces contractor self-reporting); joint fact-finding protocol for PRZ adequacy surveys (changes coordination: separates the scientific question from the commercial one).
+
+**Metrics** — IESP constituted within 6 months of code adoption; PRZ adequacy standards finalized within 24 months; zero exploitation applications advance past Stage 2 without IESP certification.
+
+**90-day commitment** — France and Chile co-draft and circulate a partial-adoption proposal to ISA members by November 2026; ISA Secretariat commissions a legal opinion on the two-year rule clause; ISA Scientific Advisory Board convenes emergency workshop to define IESP terms of reference and nominee list.
+
+---
+
+**References**
+
+International Seabed Authority, "About ISA," isa.org.jm/about-isa/.
+
+Berger, T.A. et al., "Abyssal plain faunal carbon flows remain depressed 26 years after a simulated deep-sea mining disturbance," *Biogeosciences* 15 (2018): 4131–4145.
+
+Vanreusel, A. et al., "Threatened by mining, polymetallic nodules are required to preserve abyssal epifauna," *Scientific Reports* 6 (2016): 26808.
+
+ISA Scientific Advisory Board, "Deep-Sea Mining Brief" (2025), isa.org.jm.
+
+Earth Negotiations Bulletin, ISA Council 30th Session Summary (July 2025); ISA Council 31st Session Summary (March 2026), enb.iisd.org.
+
+EJIL: Talk!, "The Two Years Rule and the Common Heritage of Mankind," ejiltalk.org.
