@@ -1,0 +1,315 @@
+case_id: drc-ebola-kivu-trust-deficit
+title: "The Legitimacy Gap: Ebola, Armed Escorts, and the Limits of Proven Tools"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Africa (North Kivu and Ituri, Democratic Republic of the Congo)"
+recency: recent
+year: 2018
+rubric_version: 1
+
+# --- Three perspectives (all three required before prose) ---
+
+scientist: >
+  By 2018 the rVSV-ZEBOV Ebola vaccine had demonstrated over 97% efficacy in ring
+  vaccination trials. The pathogen was well-characterized; the transmission chain
+  was understood; the containment playbook developed after the 2014-2016 West Africa
+  outbreak was documented and available. From a purely scientific vantage, the DRC
+  response had better tools than any previous Ebola outbreak: a proven vaccine, a
+  proven contact-tracing protocol, oral rehydration therapy, and therapeutic agents
+  in trial. What the scientist's model did not include was a column for whether
+  communities would allow the tools to be applied. In North Kivu, vaccine uptake
+  at first offer was substantially lower than acceptance rates in non-conflict
+  settings—because the scientific model had no variable for "what does this
+  community have reason to believe about people arriving with vaccines and military
+  escorts?"
+
+humanist: >
+  North Kivu had been under active armed conflict for more than two decades. Communities
+  in Butembo, Beni, and surrounding areas had learned, through direct experience, that
+  foreign actors—UN peacekeepers, international NGOs, government forces—might be
+  protection or might be threat, and that the difference was not always predictable.
+  When Ebola vaccination teams arrived with Armed Forces of the DRC escorts, the
+  humanitarian logic was self-evident: protect the health workers from attack. The
+  community's logic was equally coherent: these people have brought soldiers. Rumors
+  spread that vaccines caused sterilization, that they were experimental tests, that the
+  outbreak itself had been manufactured for political purposes. The humanist's question
+  is not whether these beliefs were scientifically accurate. It is: given what this
+  community has experienced, why would they have believed otherwise?
+
+engineer: >
+  Between August 2018 and November 2019, 386 attacks on healthcare workers and health
+  infrastructure were recorded in the response area, resulting in 7 deaths and 77 injuries.
+  The operational decision to attach military escorts to vaccination teams was made for
+  a concrete reason: responders were being killed. The engineering tradeoff was genuine:
+  protect health workers and lose community trust, or remove protection and risk losing
+  health workers. The response chose protection—and the engineer's question is whether
+  this was the only available binary. The architecture deployed a proven tool (vaccination)
+  using a delivery mechanism (armed escort) that was structurally incompatible with the
+  trust environment the tool required to be accepted. Two design decisions—which tool,
+  and how to deliver it—were made independently of each other, when they were inseparable.
+
+archetype_dominant: engineer
+crowded_out_mode: feeling
+
+# --- Diagnosis ---
+
+scientific_facts: >
+  The 2018-2020 Ebola outbreak in North Kivu and Ituri was the second-largest in history:
+  3,481 confirmed and probable cases, 2,299 deaths (66% case fatality rate). The rVSV-ZEBOV
+  vaccine had demonstrated >97% efficacy. Between August 2018 and November 2019, 386
+  attacks on health facilities and workers were recorded; 7 responders died. Ring
+  vaccination coverage was substantially lower in active conflict zones than in areas
+  with lower insecurity. Vaccine acceptance at first offer was lower in high-mistrust
+  communities. The outbreak was eventually declared over in June 2020—the longest Ebola
+  response in DRC history and one of the most resource-intensive in the disease's record.
+
+social_facts: >
+  North Kivu had experienced continuous armed conflict since the 1990s. Multiple armed
+  groups, including the Allied Democratic Forces (ADF), operated in the outbreak zone.
+  The ADF had specifically targeted health facilities. Communities in Butembo and
+  surrounding areas had direct experience of violence associated with government and
+  international military forces. Rumors circulating in the community attributed vaccine
+  programs to sterilization campaigns, political agendas, and experimental research—
+  all reflecting a rational inference from the community's history of exploitation. Vaccine
+  hesitancy was not irrational; it was a reasoned response to an information environment
+  shaped by decades of broken trust with external actors.
+
+political_realities: >
+  The DRC government's authority in eastern DRC was contested. Presidential elections
+  in December 2018 added political instability that some armed groups exploited by
+  encouraging communities to resist government health programs. The UN peacekeeping
+  mission (MONUSCO) was present but widely distrusted; its association with the Ebola
+  response—through joint logistics and security coordination—compounded community
+  suspicion. Any decision to pause vaccination to rebuild community trust faced an
+  immediate epidemiological counterargument: pausing vaccination extends the outbreak,
+  kills more people. The political and epidemiological clocks ran in opposite directions.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: in a conflict zone, it was genuinely unclear from day to day which
+  communities would accept vaccination teams, which areas were accessible, and how
+  rapidly the attack pattern would shift. Ambiguity: "protection" meant different
+  things to international responders (soldiers keep health workers safe) and to
+  communities (soldiers arriving with the vaccination team means this is a government
+  operation, and the government has harmed us). The word "protection" ran two separate
+  analyses simultaneously and neither side could hear the other's.
+
+key_tensions:
+  - "Health worker safety vs. community trust: armed escorts protect one at the cost of the other"
+  - "Epidemiological speed vs. community consent: every day of paused vaccination potentially extends the outbreak"
+  - "Scientific confidence in the tool vs. social confidence in the delivery: the tool's efficacy is irrelevant if it is not accepted"
+
+problem_definition: >
+  How should a public health response deploy a proven biomedical tool in a conflict-affected
+  community when the delivery mechanism for that tool signals threat rather than care, and
+  when pausing delivery has epidemiological costs?
+
+# --- Metaphors ---
+
+one_plus_one: >
+  The response architects answered: "How do we protect health workers and vaccinate the
+  ring contact list?" The community answered: "Who are these armed people and why are they
+  here?" These were not the same question, and 1+1 produced two separate ones: a
+  vaccination program that was scientifically sound and socially inaccessible. The
+  response's answer assumed the community had already answered "these people are here to
+  help." The community had not yet answered it.
+
+where_is_x: >
+  The August 2018 response architecture decisions, made in the weeks after the outbreak was
+  declared on August 1, 2018, specifically the decision to deploy vaccination teams with
+  military escorts into communities that had not yet been engaged by community health workers
+  or trusted local leaders. The sequence mattered: if community engagement had come first
+  and vaccination had followed trust, the tool would have arrived in a different atmosphere.
+  The actual sequence—deploy the tool, hope trust follows—was not inevitable; it was a
+  design choice made in August, and it shaped the entire 22-month response.
+
+eighteenth_camel: >
+  The apparent binary: (A) deploy vaccination teams with military protection (safe for
+  workers, mistrusted by community) vs. (B) deploy without protection (unacceptable risk
+  to health workers). The third thing: a community-embedded vaccination architecture in
+  which vaccination teams are identified, trained, and co-led by local community figures
+  (religious leaders, traditional healers, trusted teachers) who belong to the specific
+  neighborhood, operate from existing community spaces rather than arriving from outside,
+  and are introduced to communities by local leaders before any biomedical contact. Security
+  is provided through community social protection—local peaceable networks—rather than
+  armed escorts. This model was eventually piloted in limited form in later phases; the
+  18th camel is deploying it as the primary design from day one, not as a recovery tool
+  after trust has already collapsed.
+
+solomon_check: >
+  The same WHO emergency response directors had published and reviewed after-action
+  reports from the 2014-2016 West Africa Ebola outbreak documenting the central role
+  of community trust and the failure of response architectures that bypassed community
+  leaders. They would have identified the problem instantly if auditing another country's
+  outbreak response design. What they could not do, under the operational pressure of
+  an active outbreak in an active conflict zone, was apply that same analytical distance
+  to their own decisions in August 2018.
+
+urgency_vs_actionability: >
+  The outbreak was expanding; every week without ring vaccination meant more transmission
+  chains. The urgency was real and measurable. The actionability of community-embedded
+  engagement—slower, more relational, dependent on trust-building that takes weeks or
+  months—was structurally at odds with the outbreak clock. The gap between what the
+  situation urgently required (vaccination) and what the community trust environment
+  made actionable (engagement-first) was the space in which 2,299 people died.
+
+# --- Conditions, capacity, constraints ---
+
+enabling_conditions: >
+  The rVSV-ZEBOV vaccine's proven efficacy meant that if delivered acceptably, the tool
+  was sufficient. Community health worker networks existed in DRC, though depleted in
+  conflict zones. Several local faith leaders and civil society organizations had existing
+  relationships with affected communities. UNICEF and some INGOs had social mobilization
+  capacity. These were not absent; they were subordinated to the epidemiological timeline
+  rather than driving the response design.
+
+capacities: >
+  WHO had technical coordination authority and operational capacity. The DRC Ministry of
+  Health retained nominal authority and some local staff relationships. UNICEF had social
+  mobilization teams. MSF had field presence. Local civil society organizations had
+  community trust that international actors did not. The binding capacity gap was not
+  technical but relational: the people with the tool and the people with the trust were
+  not the same people and were not organized to work together from the start.
+
+constraints: >
+  Binding constraint: the combination of active armed conflict making community engagement
+  genuinely risky and the epidemiological urgency making delay feel unacceptable created
+  a double bind. Any architecture that would have worked required more time than the
+  outbreak clock appeared to allow—and the outbreak clock itself was partly a product
+  of the failed architecture. The constraint was partly self-generated.
+
+# --- Decision pathway ---
+
+decision_pathway: Redesign
+
+tools:
+  - >
+    Community-embedded vaccination teams → recruit, train, and equip local community members
+    (not external health workers) as primary vaccinators in their own neighborhoods →
+    changes interaction: vaccination arrives through a trusted neighbor, not an outsider
+    with a uniform and an armed escort
+  - >
+    Pre-deployment community dialogue (minimum: two weeks before vaccination begins) →
+    conducted by local religious and civic leaders, with outbreak information delivered
+    through trusted local information channels → changes learning: communities understand
+    what the vaccine is, who made it, and why, before they are asked to receive it
+  - >
+    Community trust monitoring dashboard → tracks vaccination refusal rates, rumor prevalence,
+    and community leader sentiment in real-time → changes learning: the response architecture
+    can detect trust deterioration and adjust before it becomes a security incident
+  - >
+    Social protection networks → identify and resource existing community peaceable networks
+    (youth groups, women's associations, church networks) to provide non-military security
+    escort for vaccination teams → changes coordination: security comes from community
+    social fabric rather than from armed forces, removing the visual association of
+    vaccination with state violence
+
+metrics:
+  - >
+    Vaccination acceptance rate at first offer → measured per community per vaccination
+    round → tracked through vaccination team field records; target: ≥80% acceptance in
+    community-embedded model vs. <60% in standard model
+  - >
+    Time from community dialogue initiation to first vaccination round → measured in days →
+    tracked through program management logs; target: minimum 14-day dialogue period
+    before any biomedical contact
+  - >
+    Attack incidents per 100 vaccination team contact-days → measured monthly → tracked
+    through incident reporting system; leading indicator of trust deterioration
+  - >
+    Ring contact vaccination coverage within 21 days of case identification → measured
+    per transmission chain → tracked through contact tracing database; proxy for overall
+    response effectiveness
+
+ninety_day_commitment: >
+  Counterfactual pathway, available in August 2018: (1) WHO and DRC Ministry of Health
+  convene a community mapping exercise in North Kivu within the first 7 days, identifying
+  existing trusted local networks—religious leaders, community health workers, women's
+  groups—in each affected commune. (2) A 2-week community dialogue phase is designed and
+  resourced, during which local leaders lead information sessions on the outbreak and the
+  vaccine, with no biomedical activity. (3) Community-identified local members are
+  recruited and trained as vaccination team co-leaders, with a 2-week training period.
+  (4) Armed escort is withdrawn as primary security mechanism and replaced by community
+  social protection networks in areas where those networks can be activated. First ring
+  vaccination under the new architecture begins day 30, not day 1.
+
+# --- Stress test ---
+
+stress_test:
+  political_derailment: >
+    The December 2018 DRC elections were actively exploited by some armed groups to
+    discourage vaccine acceptance, framing vaccination as a government tool for political
+    control. A community-embedded architecture is more resistant to this—trusted local
+    leaders can counter the rumor in the same social networks it spreads—but is not immune,
+    especially where local leaders are themselves politically compromised.
+  institutional_block: >
+    WHO's operational planning culture prioritizes speed and biomedical metrics. A 30-day
+    delay before first vaccination would be politically untenable for WHO leadership,
+    regardless of its epidemiological logic. Any redesign requires buy-in at the WHO
+    Director-General level to override standard response timelines.
+  wrong_assumption: >
+    The redesign assumes that sufficient trusted local leadership exists and can be rapidly
+    identified. In communities with very high violence rates or where local leaders have
+    been specifically targeted by armed groups, this assumption may not hold. Some
+    communities in the DRC conflict zone had no intact local leadership structure.
+  missing_resource: >
+    Community-embedded vaccination architecture requires significantly more time and social
+    mobilization capacity than the standard model. MSF and UNICEF social mobilization
+    staff were already stretched across multiple crises in DRC. Resourcing the community
+    engagement phase adequately would have required emergency allocation of social
+    mobilization funds that were not in the initial response budget.
+  twelve_month_failure: >
+    The ADF continued deliberate attacks on health facilities throughout the response.
+    Even a perfectly designed community-embedded architecture cannot protect against
+    an armed group that targets health workers as a deliberate military strategy rather
+    than as a byproduct of community mistrust. If ADF attacks continued, the community
+    embedding model would face the same safety dilemma as the original design.
+
+revised_problem_definition: >
+  The decision problem is not "how do we protect health workers" or "how do we vaccinate
+  the contact ring." It is "how do we build a delivery architecture that communities
+  with legitimate reasons for deep distrust will accept, before the outbreak clock
+  makes any architecture too slow"—and this requires understanding that the response
+  architecture and the community trust environment are not independent variables.
+  The tool's efficacy is conditional on its social acceptability, and social acceptability
+  cannot be engineered in—it must be co-designed with the community it depends on.
+
+# --- Honesty ---
+
+flag: >
+  When a state has lost all meaningful legitimacy with a community—through decades of
+  conflict, exploitation, and broken promises—public health interventions that would
+  be accepted in any other setting require a legitimacy reconstruction that is simply
+  slower than most outbreaks allow. The 18th camel (community-embedded vaccination)
+  reduces the gap between the tool's efficacy and its social accessibility, but it
+  does not close it entirely, and it cannot be built in the weeks after an outbreak
+  starts. It requires investment in community trust during the years between outbreaks.
+  Principled pragmatism gives the right design principle; it cannot manufacture the
+  decade of relationship-building that makes the design work when it is needed.
+
+sources:
+  - >
+    WHO. Ebola virus disease: Democratic Republic of the Congo, External Situation Report 99
+    (June 2020). Verified: case counts, death toll, and outbreak duration confirmed by
+    official WHO reporting.
+  - >
+    Plos ONE: Perceptions of factors influencing Ebola vaccine acceptance among community
+    members, healthcare workers, and response personnel in Eastern DRC (2023). Verified:
+    peer-reviewed analysis of vaccine hesitancy drivers including government mistrust,
+    foreign-actor suspicion, and rumor content.
+  - >
+    BMC Public Health: Burial workers' perceptions of community resistance and support
+    systems during the DRC Ebola outbreak (2023). Verified: qualitative analysis of
+    community resistance dynamics and attack patterns.
+  - >
+    Frontiers in Public Health: Ebola vaccine uptake and attitudes among healthcare workers
+    in North Kivu, 2021. Verified: lower acceptance at first offer documented; drivers
+    include mistrust of vaccine source.
+  - >
+    CARE International: Rejection and fatigue—Healthcare workers report from the Ebola
+    frontlines (2019). Verified: first-person accounts of attack experiences and their
+    effect on response operations.
+  - >
+    Lancet: Kivu Ebola outbreak in context—epidemiology and response commentary
+    (multiple authors, 2019). Verified: independent epidemiological assessment confirming
+    the conflict-specific trust deficit as the response's central challenge.
