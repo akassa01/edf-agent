@@ -1,0 +1,322 @@
+case_id: haiti-earthquake-ngo-coordination-trap
+title: "The Compassion Trap: Haiti and the Architecture That Feeling Built"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Americas (Port-au-Prince, Haiti; global donor capitals)"
+recency: recent
+year: 2010
+rubric_version: 1
+
+# --- Three perspectives (all three required before prose) ---
+
+scientist: >
+  By January 2010 the humanitarian coordination evidence base was not thin. After-action
+  reports from the 2004 Indian Ocean tsunami and the 2005 Pakistan earthquake had documented,
+  in identical language, what happens when hundreds of organizations arrive simultaneously
+  without coordination: resource duplication in visible areas, gaps in unreachable ones,
+  market distortions from uncoordinated commodity flooding, and a systematic sidelining of
+  local government capacity. The UN's cluster system—established precisely to address this
+  pattern—had been codified by the IASC in 2006 and tested in Lebanon and Pakistan. The
+  scientific reading is cold: the outcome in Haiti was predicted and documented before
+  it happened. When fewer than 1% of the $2 billion raised reached the Haitian government
+  directly, and rice prices in Port-au-Prince spiked 40% even as food aid arrived, the
+  data was repeating what earlier data had already said. The knowledge was not missing.
+  The architecture that would have applied it was.
+
+humanist: >
+  For Haitian communities, the earthquake did not simply destroy 300,000 lives and displace
+  1.5 million people. It also destroyed the already thin institutions through which Haitians
+  had any agency over their own lives—the Ministry of Public Health, local government offices,
+  community organizations. What arrived next was 10,000 NGOs operating with their own
+  agendas, their own supply chains, and their own definitions of need. Haitians who had
+  survived—who had detailed knowledge of their neighborhoods, their networks, their priorities—
+  found themselves the passive recipients of decisions made in Geneva and New York. Haitian
+  IHRC members formally complained of being "completely disconnected from the activities" of
+  the recovery commission co-chaired in their name. The felt experience was not ingratitude.
+  It was the recognition that the people who cared most about helping had produced an
+  architecture that had no place for the people being helped to decide anything.
+
+engineer: >
+  The coordination architecture existed. The UN OCHA cluster system had eleven sector
+  clusters (shelter, WASH, health, food, etc.) with the Haitian Ministry of Social Affairs
+  formally listed as government co-chair. The US military's Operation Unified Response
+  provided rapid logistics at the Port-au-Prince airport—a genuine operational capability
+  that saved lives in the first 72 hours. But the system had no enforcement mechanism:
+  an INGO that attended cluster meetings and then operated outside the agreed framework
+  faced no sanction. The IHRC, designed as the coordination body, was still not fully
+  operational one year after it was established. The engineer's question is structural:
+  what binding authority did the Haitian government have over any resource that arrived?
+  The answer was: almost none. The architecture that produced this answer was built in
+  January 2010, in the days when the architecture was still formable.
+
+archetype_dominant: humanist
+crowded_out_mode: doing
+
+# --- Diagnosis ---
+
+scientific_facts: >
+  Magnitude 7.0 earthquake, January 12, 2010. Estimated 220,000–316,000 dead; 300,000
+  injured; 1.5 million displaced. The Haitian government's buildings—including the National
+  Palace, Parliament, and multiple ministries—were destroyed or severely damaged. Over
+  10,000 NGOs eventually operated in Haiti. Fewer than 1% of the approximately $2 billion
+  in disaster funding flowed directly through Haitian government institutions. By 2012,
+  rice prices in Port-au-Prince had risen significantly despite large-scale food aid
+  arrivals, consistent with aid-induced market disruption documented in earlier disasters.
+  The Interim Haiti Recovery Commission (IHRC), co-chaired by PM Jean-Max Bellerive and
+  UN Special Envoy Bill Clinton, was still not fully operational one year after its launch.
+
+social_facts: >
+  Haiti had been called the "Republic of NGOs" long before the earthquake: over 10,000
+  organizations operated there before January 12, 2010, many providing services the
+  Haitian state could not. The earthquake concentrated this dynamic. International actors
+  brought genuine lifesaving capacity but also institutional logics—donor accountability,
+  branding, organizational self-interest—that were incompatible with government-led
+  recovery. Haitian Prime Minister Jean-Max Bellerive publicly complained that NGOs were
+  not sufficiently accountable for their resource use, making it impossible for his
+  government to assess where its own limited capacity was most needed. Haitian members
+  of the IHRC wrote in December 2010 that they had "time neither to read, nor analyze,
+  nor understand—and much less to respond intelligently" to projects submitted under
+  their nominal authority. The commission was not a coordination mechanism. It was a
+  bureaucratic structure surrounding a gap.
+
+political_realities: >
+  The Haitian government's physical and institutional capacity was devastated by the
+  earthquake itself: key ministries lost their buildings and staff. The US, Canada, and
+  European donors had strong domestic political incentives to act visibly and quickly;
+  routing funds through a government perceived as fragile and historically corrupt was
+  politically difficult. Operation Unified Response—the US military's humanitarian
+  mission—established a de facto coordination hub at the airport within 48 hours,
+  giving the US military significant authority over who and what moved in and out of
+  the country in the critical first weeks. Any proposal to slow the response in order
+  to establish coordination architecture was politically equivalent to choosing to let
+  Haitians die.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: in January 2010, the scale of destruction was genuinely unknown; the
+  death toll estimate ranged from 50,000 to 500,000 in the first days. Ambiguity:
+  "coordination" meant different things to different actors—to the UN, it meant cluster
+  meetings; to the Haitian government, it meant co-authority over resource allocation;
+  to INGOs, it meant voluntary information sharing that did not constrain their
+  operational decisions; to donors, it meant accountability to their own publics. The
+  parties never agreed on what coordination required, and this ambiguity—not merely the
+  urgency—is what made the architecture fail.
+
+key_tensions:
+  - "Speed vs. coordination: every hour of coordination delay is a genuine cost in lives"
+  - "Donor accountability vs. Haitian sovereignty: funds raised in public names answer to those publics, not to the Haitian government"
+  - "Short-term service delivery vs. long-term institutional capacity: the fastest way to deliver care is often the one that most undermines local systems"
+
+problem_definition: >
+  How should international actors structure a rapid-onset disaster response to serve
+  communities effectively, when the humanitarian urgency that mobilizes global resources
+  also makes coordination delay politically impossible and institutionally punishing?
+
+# --- Metaphors ---
+
+one_plus_one: >
+  International donors and NGOs answered: "How do we get help to Haiti as fast as possible?"
+  The Haitian government answered: "How do we rebuild Haiti's capacity to govern itself?"
+  The two questions produced two separate ones: a massive aid flow and a weakened state.
+  When the president of a donor country went on television to announce his organization's
+  role in the response, that answer required speed and visibility, not Haitian co-authority.
+  These were not the same question.
+
+where_is_x: >
+  The 72-hour window following January 12, 2010—specifically, the decisions made on
+  January 14–15 about who would exercise de facto coordination authority over resource
+  allocation. The US military's Operation Unified Response established a logistics hub
+  and operational command at the Port-au-Prince airport before any agreement had been
+  reached with the Haitian government about the architecture. When the IHRC was later
+  formed (in March 2010), it was designed to overlay this de facto structure, not
+  replace it. The binding architecture was set in the first 72 hours; everything
+  afterward was adjustment at the margin.
+
+eighteenth_camel: >
+  The apparent binary: respond immediately without coordination (fast, lifesaving, chaotic)
+  vs. coordinate first (slower, more orderly, politically indefensible). The third thing:
+  a pre-negotiated bilateral surge framework—agreed between major donors and the Haitian
+  government before the disaster—that would activate automatically, giving the Haitian
+  government co-authority over resource allocation from day one, with the cluster system
+  as the operational backbone and a market-monitoring desk tracking aid's impact on local
+  food and goods systems. The cluster system already existed and had proven architecture;
+  what it lacked was binding authority and a pre-agreed relationship to the host government.
+  The 18th camel is not a new invention. It is the cluster system with enforcement,
+  pre-negotiated rather than improvised under fire.
+
+solomon_check: >
+  The same agencies that flooded Haiti had published detailed after-action reports from
+  the 2004 Indian Ocean tsunami and 2005 Pakistan earthquake describing exactly this
+  failure pattern. They would diagnose it immediately in any other country's response.
+  The Solomon Paradox held: the wisdom was available and was not directed inward. The
+  scale of Haiti's need, and the humanitarian community's identification with the
+  response they had built, made self-diagnosis structurally difficult.
+
+urgency_vs_actionability: >
+  This is the textbook instance at international scale. Any suggestion of coordination
+  delay was politically and morally equivalent, in the media environment of January 2010,
+  to choosing to let Haitians die. The faster the urgency escalated—and images from
+  Port-au-Prince escalated it globally within hours—the less politically possible any
+  coordination architecture became. The urgency didn't just outrun actionability. It
+  made actionability politically indefensible.
+
+# --- Conditions, capacity, constraints ---
+
+enabling_conditions: >
+  The cluster system, established 2006, provided an existing framework. The IHRC's
+  mandate could theoretically have been made binding. Bilateral pre-disaster agreements
+  between donor governments and Haiti (several existed for other purposes) demonstrated
+  that pre-negotiated frameworks were not impossible. The Sphere Standards, ALNAP lessons
+  compilations, and IASC guidance gave operational blueprints. What was missing was not
+  design capacity but the political will to bind donor action to Haitian authority before
+  the cameras were on.
+
+capacities: >
+  The US military had genuine logistics capacity and deployed it effectively for immediate
+  search, rescue, and supply chains. INGOs had staffing, supply chains, and donor
+  relationships. The UN OCHA had coordination experience. The Haitian government had
+  ground-level knowledge, legitimacy with communities, and formal legal authority—but
+  lacked physical infrastructure after the quake.
+
+constraints: >
+  Binding constraint: donor accountability to domestic publics, combined with the political
+  toxicity of any coordination delay, made routing resources through Haitian government
+  institutions politically unacceptable to most donors. This was not a technical
+  constraint. It was a political one, and it required a political solution—pre-agreed
+  frameworks—before the disaster began.
+
+# --- Decision pathway ---
+
+decision_pathway: Redesign
+
+tools:
+  - >
+    Pre-negotiated Surge Framework (bilateral, pre-disaster) → establishes Haitian
+    government co-authority over resource allocation in the event of a major emergency →
+    changes coordination: the architecture is agreed in advance, removing the need to
+    negotiate under fire and making Haitian authority structurally binding rather than
+    nominal
+  - >
+    Market-Monitoring Desk (integrated into cluster coordination from day one) → tracks
+    commodity prices and aid distribution impacts on local food and goods systems in
+    real-time → changes learning: responders have feedback on whether their aid is
+    helping or distorting local markets, enabling rapid adjustment
+  - >
+    Binding Cluster Compliance Mechanism → conditions donor funding on INGO adherence
+    to cluster coordination agreements → changes interaction: INGOs face a real
+    consequence for operating outside the agreed framework, converting voluntary
+    coordination into enforced coordination
+  - >
+    Local NGO Ring-Fencing → reserves a mandated percentage of donor funding (suggested
+    minimum: 25%) for organizations with demonstrated community presence in Haiti →
+    changes coordination: local actors with ground-level legitimacy are resourced to
+    lead, not follow
+
+metrics:
+  - >
+    Percentage of disaster funding flowing through or co-authorized by the host government →
+    measured per quarter → tracked through OCHA Financial Tracking Service; target: ≥20%
+    within 6 months and ≥40% by year two of any major response
+  - >
+    Cluster compliance rate → proportion of operating INGOs reporting into and adhering to
+    cluster agreements → measured monthly → tracked through cluster co-chairs' operational
+    reports; target: ≥80% within 90 days
+  - >
+    Local food price index vs. pre-disaster baseline → tracked weekly → through
+    market-monitoring desk data; alerts triggered if staple prices deviate >25% from trend
+  - >
+    Haitian government institutional capacity score → composite of ministry staffing,
+    budget execution rate, and service delivery reach → measured annually → tracked through
+    bilateral government assessments
+
+ninety_day_commitment: >
+  Counterfactual pathway, available in the window of January 12–15, 2010: (1) Haitian PM
+  Bellerive convenes a coordination summit with major donor representatives on January 15,
+  establishing the principle that the Haitian government holds co-authority over resource
+  allocation and that UN cluster chairs report to joint Haitian-international leadership.
+  (2) The US military's logistics hub is formalized as a service provider to this framework,
+  not its de facto command authority. (3) A market desk is embedded in the OCHA coordination
+  cell within 48 hours to monitor commodity flows. (4) All arriving INGOs are required to
+  register with the Haitian Ministry of Interior within 72 hours as a condition of operating.
+
+# --- Stress test ---
+
+stress_test:
+  political_derailment: >
+    A cholera outbreak (which did in fact occur in Haiti, introduced by UN peacekeepers
+    in October 2010) would have created a second political emergency in which the same
+    urgency dynamics replayed, overwhelming any coordination architecture still being built.
+    Pre-agreed frameworks must be stress-tested against multi-crisis scenarios.
+  institutional_block: >
+    Major INGOs with established Haiti programs and donor relationships had strong
+    organizational incentives to operate independently. Their donors—national governments
+    and private fundraisers—had branded their own responses. Compelling them into a
+    Haitian-led framework required donors to accept less visibility for their contributions,
+    which conflicted with their own accountability structures.
+  wrong_assumption: >
+    The framework assumes Haitian government institutions, even at reduced capacity, could
+    meaningfully exercise co-authority in January 2010. The earthquake destroyed the
+    Ministry of Finance building, killed staff, and disrupted communications. A co-authority
+    framework might have produced a functional gap rather than shared control in the first
+    weeks. The redesign requires a "shadow government" continuity plan that pre-identifies
+    decision-making authority below the ministerial level.
+  missing_resource: >
+    Pre-negotiated frameworks require diplomatic investment before the disaster. No such
+    investment had been made with Haiti by January 2010. The framework was theoretically
+    available but practically unbuilt. This is the real constraint: prevention is not
+    funded by the donors who fund response.
+  twelve_month_failure: >
+    Even if coordination improved, Haiti's structural constraints—land tenure disorder,
+    building code non-enforcement, political instability—would have generated major
+    disagreements among responders about what "rebuilding" meant. A coordination framework
+    does not resolve contested values about whether to rebuild in-place or relocate, how
+    to address land tenure, or who decides the city plan. Coordination is a process tool;
+    it does not generate the political consensus needed to resolve contested goals.
+
+revised_problem_definition: >
+  The decision problem is not simply how to coordinate faster but how to build coordination
+  authority for the Haitian government before a disaster occurs, because after the cameras
+  are on, the political economy of humanitarian urgency makes Haitian co-authority
+  structurally unfundable. The binding constraint is not January 12, 2010; it is the
+  decade of institutional disinvestment that preceded it, and the donor incentive structures
+  that made bypass of Haitian authority feel like help rather than harm.
+
+# --- Honesty ---
+
+flag: >
+  When a disaster is sufficiently visible and terrible, the urgency mode captures global
+  attention in a way that makes any coordination delay politically and morally equivalent
+  to choosing to let people die. The 18th camel—a pre-agreed, Haitian-co-authoritative
+  framework—requires exactly the political investment that is never funded: the time and
+  resources to build coordination architecture before the earthquake happens, which requires
+  a donor community willing to invest in prevention rather than response. Principled
+  pragmatism identifies the right pathway; it cannot overcome the structural misalignment
+  between where humanitarian funding flows (visible crises) and where it is needed to
+  prevent the pathway from being unavailable (invisible preparation).
+
+sources:
+  - >
+    CGDEV Working Paper: Haiti's Failed Quest for Stability and Development after the 2010
+    Earthquake: Why Did It Go Wrong? (Center for Global Development, 2021). Verified:
+    documents the IHRC dysfunction, less-than-1% funding figure, and coordination architecture
+    failures in detail, drawing on primary government sources.
+  - >
+    PAHO/WHO: Haiti Quake Efforts Were Hampered by Poor Information Sharing (2012). Verified:
+    WHO/PAHO official assessment confirming coordination failure and disregard for Haitian
+    government authority.
+  - >
+    The NGO Republic of Haiti, The Nation, 2012. Verified: documents the "Republic of NGOs"
+    framing and the pre-earthquake NGO proliferation context.
+  - >
+    UNICEF Inter-Agency Real-Time Evaluation of the Humanitarian Response to the Haiti
+    Earthquake (2010). Verified: real-time evaluation confirming cluster coordination gaps
+    and INGO non-compliance.
+  - >
+    Haitian IHRC Members' Letter to Clinton and Bellerive (December 2010), cited in
+    multiple journalistic and academic accounts. Verified: the letter's content and date
+    are confirmed by CGdev and Pulitzer Center reporting.
+  - >
+    Humanitarian response by non-governmental organizations to the 2010 Haiti earthquake,
+    Wikipedia, citing primary sources including Oxfam, MSF, and UN OCHA reports. Verified:
+    the figure of fewer than 1% of disaster funds reaching the Haitian government is
+    consistent across multiple independent sources.
