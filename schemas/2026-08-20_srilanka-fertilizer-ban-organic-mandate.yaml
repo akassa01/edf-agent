@@ -1,0 +1,386 @@
+case_id: srilanka-fertilizer-ban-organic-mandate
+title: "The Overnight Transition: Sri Lanka's Fertilizer Ban and the Idealism That Ate the Harvest"
+case_type: documented
+mode: retrospective
+scale: international
+region: Asia (Colombo, Sri Lanka; North Central Province; New Delhi; Rome — UN Food Systems Summit)
+recency: recent
+year: 2021
+
+# ── THREE PERSPECTIVES ──────────────────────────────────────────────────────
+
+scientist: >
+  What the Scientist sees: a policy justified by contested epidemiology and a
+  transition timeline unsupported by any agronomic modeling. The stated public-health
+  basis was chronic kidney disease of unknown etiology (CKDu) in Sri Lanka's North
+  Central dry-zone farming districts. Studies (Jayasumana et al. 2015; Chandrajith
+  et al.) had shown that phosphate fertilizers — especially triple super phosphate,
+  with mean arsenic content ~31 mg/kg — carried heavy metal loads with nephrotoxic
+  potential. But the epidemiological link between fertilizer use and CKDu was
+  contested: the WHO 2013 assessment did not establish direct causation, and the
+  cross-country comparison was against the ban's logic — Sri Lanka's fertilizer
+  intensity (~138 kg/ha) was well below countries with no reported CKDu epidemic
+  (India 175 kg/ha, UK 245 kg/ha, China 393 kg/ha). No published agronomic model
+  supported a nationwide shift to organic inputs on a six-month horizon. Domestic
+  organic fertilizer capacity was a small fraction of the 700,000+ tonnes/year of
+  chemical fertilizer being replaced. The scientific facts most relevant to the
+  decision — CKDu causation, organic yield gaps, transition timeline feasibility —
+  were all sidelined in favor of a moral-technical claim about "toxin-free agriculture."
+
+humanist: >
+  What the Humanist sees: two million farmers and their families told that their
+  primary input was banned effective immediately, and a public-health narrative
+  invoked on their behalf without their consent. The CKDu-affected communities of
+  the North Central Province had real grievance, and their suffering was real. But
+  the announcement did not consult farmer organizations, did not build on the
+  Sirisena-era 2014 gradual-transition proposal (which had promised organic
+  subsidies parallel to chemical ones), and did not include compensation or
+  bridging support. When the paddy harvest collapsed 20% in the first six months,
+  the rural poor bore the cost through food price inflation of ~50% on rice —
+  the staple of the national diet. In eastern Sri Lanka a long-time rice grower
+  told Reuters: "The ban came without consultation or time for us to prepare.
+  Farmers couldn't get a proper harvest using only organic inputs, and many became
+  desperate." The moral vocabulary of the ban — Sinhala Buddhist nationalist,
+  invoking traditional agriculture, addressing farmers' kidneys — was used to
+  justify a policy whose costs fell on the same farmers.
+
+engineer: >
+  What the Engineer sees: no implementation apparatus for the transition the ban
+  required. Sri Lanka in April 2021 had no domestic organic-fertilizer supply chain
+  capable of substituting for banned imports at scale; no extension service trained
+  to convert 2 million farms to organic practice; no soil-testing infrastructure
+  to certify readiness; no compensation mechanism for yield losses; and no phased
+  regional pilot to identify transition failure modes before scaling nationwide.
+  The decision was announced April 22, 2021; the Cabinet formalized it April 27;
+  it came into effect May 6, 2021 — a two-week window between announcement and
+  legal enforcement, with the maha (main paddy) season already sown. When the
+  government tried to import organic fertilizer from China in the autumn, the
+  shipment was rejected as microbially contaminated. The engineering diplomacy
+  question — who can act, in what sequence, with what coordination — was not
+  asked in any documented planning process. The transition was declared before the
+  system that would execute it existed.
+
+archetype_dominant: humanist
+crowded_out_mode: thinking
+
+# ── DIAGNOSIS ───────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  Rice yield in Sri Lanka's 2021 yala season (May-Aug) fell approximately 20%
+  compared with the prior year, forcing the country from rice self-sufficiency into
+  emergency imports of $450 million. The country imported 783,420 tonnes of rice
+  in 2022, its first large-scale rice imports in decades. Tea production (the
+  primary foreign-exchange earner) declined sharply, with the ban carved out for
+  tea in July 2021. Organic fertilizer supply was documented to be inadequate:
+  official capacity estimates were roughly an order of magnitude below the
+  substitution requirement. The CKDu-fertilizer causal link the ban invoked was
+  and remains contested; the WHO 2013 study and cross-country fertilizer-use
+  comparisons did not support a monocausal chemical-fertilizer explanation.
+
+social_facts: >
+  Farmer organizations were not consulted in the decision. The transition placed
+  disproportionate immediate cost on small-holder paddy farmers, particularly in
+  the dry zone. Food price inflation in 2021 disproportionately affected the
+  urban poor and rural landless. The nationalist framing of the policy — that a
+  fully organic Sri Lanka would be a moral achievement and a health victory —
+  did not survive contact with the empty rice stores. By November 2021 the ban
+  was formally reversed, but fertilizer scarcity and roughly 3× price increases
+  persisted for years afterward.
+
+political_realities: >
+  Rajapaksa's 2019 election platform had included a 10-year organic transition
+  as a plank; the April 2021 decision was a sudden acceleration of that plank.
+  Foreign exchange pressure was intense: Sri Lanka had lost tourism revenue to
+  COVID travel restrictions, and fertilizer imports were a foreign-exchange
+  expenditure the state could barely afford. Political influencers close to the
+  presidency had promoted organic agriculture as an ideological project. A phased
+  transition would have surfaced trade-offs — subsidy costs, yield gap accounting,
+  farmer income supports — that the sudden ban did not have to negotiate. The ban
+  was politically legible as decisive action; a phased plan would have been
+  politically legible as delay.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: whether organic inputs could match chemical fertilizer yields on
+  Sri Lankan soils over the medium term (5-10 years) was empirically underdetermined
+  and remains so; some evidence suggests possible yield parity for certain crops
+  with appropriate soil management, but the timescale is decades, not months.
+  Ambiguity: "organic" as invoked by proponents meant a moral-ecological project
+  (traditional, natural, healing); "organic" as understood by agronomists meant
+  a specific input regime with certified compost, biological pest control, and
+  gradual soil rehabilitation. These are structurally different concepts using
+  the same word. No translation was attempted.
+
+key_tensions:
+  - "Ideal vs. transition: an organic agricultural system may be desirable at
+    long horizons; overnight ban is a different policy entirely, whose costs
+    are not the same as the destination's benefits"
+  - "Foreign-exchange discipline vs. farmer income: the ban simultaneously
+    reduced fertilizer imports and reduced agricultural output, forcing
+    emergency food imports that consumed more foreign exchange than the
+    fertilizer would have"
+  - "Public-health narrative vs. epidemiological evidence: CKDu is real and
+    demands action; that action was not clearly the one prescribed by the ban"
+
+problem_definition: >
+  When a government facing a foreign-exchange crisis wants to reduce a costly
+  agricultural import and can frame the reduction as public-health protection,
+  how should it distinguish between a policy that pursues a defensible long-term
+  transition and a policy that uses a defensible long-term goal as cover for a
+  short-term budget move — when the second policy will predictably immiserate
+  the population whose health the first was invoked to protect?
+
+# ── METAPHORS ───────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  The government was answering "how do we conserve foreign exchange while
+  advancing an ideological commitment we ran on?" Farmers were answering "how
+  do I grow rice this season?" Agronomists were answering "over what timescale
+  can Sri Lankan soils support this transition?" The word "agriculture" was
+  used in all three. When 1+1 was computed, the government got a policy win
+  (a decisive announcement, a completed campaign promise), farmers got no
+  fertilizer for a sown crop, and agronomists got no reply to the question they
+  raised. The parties never agreed on which question they were jointly solving,
+  so the same policy meant a triumph, a catastrophe, and a category error
+  simultaneously.
+
+where_is_x: >
+  The two-week window between the April 22 announcement and the May 6 effective
+  date is the fulcrum. Not the underlying decision (which was politically
+  reversible), and not the reversal in November (which was too late). Between
+  April 22 and May 6, the government could have converted a ban into a
+  five-year phased transition with pilot regions, subsidized organic input
+  supply build-out, and a defined yield-gap compensation mechanism. All
+  subsequent damage — the yala harvest collapse, the emergency rice imports,
+  the food inflation, the erosion of legitimacy that fed into the 2022 protests
+  — sits downstream of those 14 days. That is the intervention point.
+
+eighteenth_camel: >
+  The stated binary was: implement the ban now (the campaign promise) or
+  postpone it indefinitely (a policy defeat). The 18th camel: a five-year
+  phased transition beginning with three pilot districts (representing
+  wet-zone, intermediate-zone, and dry-zone soils), each with matched
+  chemical/organic parallel plots, farmer training programs, guaranteed
+  minimum-yield price supports, and public monthly reporting of results —
+  paired with immediate research funding for CKDu causation and immediate
+  investment in domestic organic fertilizer capacity. This is not "delay the
+  ban" and not "implement the ban." It is a structurally different program
+  that would satisfy the moral commitment (transition is real and public),
+  provide the political cover (the transition has begun), address the
+  public-health concern (CKDu research is funded), and preserve rice
+  production (parallel systems until the transition is proven). No one
+  proposed it publicly because it would have surrendered the political
+  legibility of the sudden announcement.
+
+solomon_check: >
+  Strongly applicable. Sri Lankan agronomists asked to advise a neighboring
+  country contemplating an overnight ban on chemical fertilizers would almost
+  certainly have counseled a phased transition with pilots, subsidies, and
+  parallel systems. Applied to their own government's decision, several of
+  those same agronomists initially remained publicly silent or ambivalent —
+  partly out of political prudence, partly because the moral framing of the
+  policy ("we are healing Sri Lanka's soils and farmers' kidneys") narrowed
+  the space for technical objection. The pragmatism they would have offered
+  a foreign counterpart was not directed inward until the harvest had already
+  failed.
+
+urgency_vs_actionability: >
+  Reversed from most cases. The government treated the transition as urgent
+  because urgency created political theater; the actual urgency (the
+  foreign-exchange crisis) was structural and would have been better served
+  by a slower, more targeted response. Meanwhile the actionability was low:
+  the operational apparatus (organic supply chain, extension service,
+  compensation mechanism) did not exist. Manufactured urgency plus low
+  actionability produced the worst possible combination — a policy that
+  had to be executed before the tools for executing it were built.
+
+# ── CONDITIONS, CAPACITY, CONSTRAINTS ───────────────────────────────────────
+
+enabling_conditions: >
+  Emerging: 2014 Sirisena manifesto had established a rhetorical baseline for
+  gradual organic transition with parallel subsidy schemes. Missing: any
+  documented cross-ministry planning for the transition, farmer organization
+  buy-in, organic supply chain, extension service capacity, or pilot data.
+  Weakening: foreign exchange reserves were collapsing under COVID tourism
+  losses; the political room for costly transitions was closing rather
+  than opening.
+
+capacities: >
+  The Ministry of Agriculture had regulatory authority to phase implementation
+  by district and crop, could have carved out exemptions for staple grains,
+  and could have delayed the effective date to the following planting season
+  to protect the sown maha crop. Farmer organizations, agricultural
+  universities, and the Sri Lanka Tea Research Institute had technical
+  capacity to design pilot programs. None of these capacities were engaged
+  before the announcement.
+
+constraints: >
+  Binding: the political imperative to demonstrate a decisive fulfillment
+  of the campaign promise, combined with the foreign-exchange crisis'
+  demand for immediate import reduction. Secondary: absence of domestic
+  organic supply chain and extension service. Tertiary: the ideological
+  framing that treated technical objections as insufficient patriotism
+  or insufficient environmental commitment.
+
+# ── DECISION PATHWAY ────────────────────────────────────────────────────────
+
+decision_pathway: Redesign
+
+tools:
+  - "Phased district-pilot transition → purpose: begin the transition in
+    three representative districts (wet, intermediate, dry zone) with parallel
+    chemical/organic plots and monthly public reporting → how it changes
+    learning: converts the transition from an ideological claim into an
+    empirical program that can be adjusted on evidence"
+  - "Minimum-yield price support for transitioning farmers → purpose:
+    guarantee farmers in pilot districts a price floor equivalent to
+    prior-year yields at market prices, for the duration of the transition
+    → how it changes interaction: removes the individual farmer's downside
+    risk from the transition, converting it from a state-imposed loss into
+    a state-underwritten experiment"
+  - "Domestic organic fertilizer capacity investment → purpose: build
+    domestic composting, biological pest control, and organic amendment
+    production to substitute-scale before the ban → how it changes
+    coordination: ensures that the ban lands into a supply system, not
+    a supply vacuum"
+  - "Independent CKDu research fund → purpose: commission independent
+    epidemiological research on CKDu-agrochemical causation with defined
+    reporting milestones → how it changes learning: separates the
+    public-health claim from the ideological claim and creates evidence
+    that would either justify or moderate the transition on its own terms"
+
+metrics:
+  - "Rice yield per hectare in pilot districts, chemical vs. organic
+    parallel plots → measure: kg/ha per season → method: agricultural
+    extension survey with monthly public reporting → linked to: phased
+    transition"
+  - "Farmer income parity in pilot districts → measure: mean farm-gate
+    income relative to prior-year baseline for participating households
+    → method: household survey → linked to: minimum-yield price support"
+  - "Domestic organic fertilizer output → measure: metric tonnes per
+    year of certified organic amendment production, by district
+    → method: production reporting to the Ministry of Agriculture
+    → linked to: capacity investment tool"
+  - "CKDu incidence in North Central Province → measure: age-standardized
+    incidence per 100,000, tracked over 5 years → method: national kidney
+    registry → linked to: independent research fund and eventual policy
+    calibration"
+
+ninety_day_commitment: >
+  Counterfactual. Within 90 days of April 22, 2021:
+  (1) The government publicly reframes the announcement as a five-year phased
+  transition to be launched in three pilot districts, with a defined evaluation
+  schedule and reversibility criteria.
+  (2) The Ministry of Agriculture, in consultation with farmer federations, the
+  Sri Lanka Tea Research Institute, and the University of Peradeniya's agriculture
+  faculty, designs the pilot program with parallel chemical/organic plots and
+  monthly public reporting.
+  (3) A minimum-yield price support scheme is announced for pilot districts,
+  funded from the reallocation of a small fraction of the foreign-exchange
+  savings the ban was meant to generate.
+  (4) An independent CKDu research fund is established with international
+  partnership (WHO, ICMR) and defined reporting milestones at 12, 24, and 36 months.
+  (5) The 2021 maha crop is planted using existing chemical inputs to preserve
+  food security; the transition begins with the 2022 yala season in pilot
+  districts only.
+
+# ── STRESS TEST ─────────────────────────────────────────────────────────────
+
+stress_test:
+  political: >
+    The immediate political cost of reframing a signature announcement as a
+    five-year phased plan would be attacks from ideological allies who framed
+    the sudden ban as a nationalist and ecological achievement. The president's
+    close advisors who had pushed for the sudden ban would lose face. A
+    phased transition would have been characterized in nationalist media as
+    capitulation to foreign fertilizer companies. This political cost is real
+    and was, in fact, the reason the sudden ban was chosen.
+  institutional: >
+    The Ministry of Agriculture had limited technical capacity to design a
+    phased transition on 90-day timelines, having been staffed under the
+    assumption of the sudden-ban policy. The Sri Lanka Tea Research Institute
+    had capacity but was already fighting to preserve tea from the ban.
+    Farmer federations were fragmented across political lines. A coordinated
+    counter-plan would have required cross-ministry authority that only the
+    Presidential Secretariat could provide — the same office that had
+    initiated the sudden ban.
+  assumption: >
+    The assumption that a phased pilot program would preserve political cover
+    for the president may be wrong. The political theater of the sudden ban
+    was much of its perceived value; a technocratic phased program produces
+    less nationalist symbolic capital. The alternative pathway might have been
+    politically unattractive on its own terms, not just less-decisive-looking.
+  resource: >
+    A minimum-yield price support scheme requires fiscal capacity that Sri
+    Lanka in 2021, in the depths of the foreign-exchange crisis, may not have
+    had. The counterfactual pathway would have needed IMF or ADB bridging
+    finance, which itself would have carried political costs (conditionality,
+    perceived sovereignty loss) that were part of why the sudden ban was
+    chosen instead.
+  twelve_months: >
+    Twelve months out, the pathway would have been vulnerable to political
+    reversal by the same forces that produced the original sudden ban. If the
+    pilot districts' first-year data were mixed (which they likely would be —
+    organic transitions often show short-term yield dips before recovery),
+    ideological opponents would have declared the pilots a failure and
+    demanded either sudden implementation or full reversal. The pathway needs
+    a pre-committed evaluation protocol that binds the government to a
+    multi-year window regardless of first-year noise.
+
+revised_problem_definition: >
+  The problem is not, primarily, "should Sri Lanka transition to organic
+  agriculture." The problem is that a government facing a foreign-exchange
+  crisis has a structural incentive to accelerate any policy that reduces
+  imports, and to package that acceleration in whatever moral framing is
+  politically available. When "healing the soil" and "protecting farmers'
+  kidneys" become the vocabulary for a budget move, the technical objections
+  are heard as insufficient patriotism, and the farmers whose livelihoods
+  are the collateral become rhetorical assets rather than consulted
+  stakeholders. A principled pragmatist must build the institutional
+  pathway — cross-ministry planning, farmer consultation, pilot districts,
+  independent public-health research — before the political pressure to
+  compress everything into a single announcement becomes overwhelming.
+  Once the pressure arrives, the counterfactual is no longer available.
+
+# ── HONESTY ─────────────────────────────────────────────────────────────────
+
+flag: >
+  When an ideologically committed leader invokes a genuine public-health
+  concern to justify a policy that also serves an urgent budget imperative,
+  the technical objections are heard through three filters at once —
+  insufficient patriotism, insufficient environmental commitment, and
+  insufficient loyalty to a suffering constituency. Principled pragmatism
+  can specify the phased pathway that would achieve the same eventual goal
+  without the collateral catastrophe, but it does not tell you how to make
+  that specification audible to a political system that reads decisive
+  announcements as strength and phased plans as delay. The failure was not
+  that the alternative was unavailable; the failure was that the political
+  economy could not process it. The framework identifies the 18th camel
+  and remains silent on how to change the acoustics of the room in which
+  it is proposed.
+
+sources:
+  - "Semasinghe C, Marambe B, Weerahewa J, et al. 'On the feasibility of an
+    agricultural revolution: Sri Lanka's ban of chemical fertilizers in 2021.'
+    Food Security. 2025. DOI: 10.1007/s12571-025-01528-6. Verified: peer-reviewed
+    retrospective on the policy, timeline, and outcomes."
+  - "Meemken E-M, Wollni M, et al. 'The transition that wasn't: why Sri Lanka's
+    organic farming approach failed.' Sustainability: Science, Practice and
+    Policy. 2026. DOI: 10.1080/15487733.2026.2629055. Verified: analysis of
+    the ideological, foreign-exchange, and implementation drivers."
+  - "USDA Foreign Agricultural Service. 'Sri Lanka Restricts and Bans the
+    Import of Fertilizers and Agrochemicals.' GAIN Report, New Delhi,
+    May 14, 2021. apps.fas.usda.gov. Verified: primary documentation of
+    the April 27 Cabinet decision and effective date."
+  - "Sethi A. 'Sri Lanka's Organic Farming Experiment Went Catastrophically
+    Wrong.' Foreign Policy, March 5, 2022. foreignpolicy.com. Verified:
+    contemporary reporting including farmer voices and yield-collapse
+    quantification."
+  - "Jayasumana C, Gunatilake S, Senanayake P. 'Phosphate fertilizer is a main
+    source of arsenic in areas affected with chronic kidney disease of unknown
+    etiology in Sri Lanka.' International Journal of Environmental Research and
+    Public Health. 2015;12(2):2074-95. PMCID: PMC4348354. Verified: the
+    peer-reviewed CKDu-fertilizer causal-link study invoked by proponents."
+  - "International Water Management Institute (IWMI). 'What Sri Lanka's ban
+    of chemical fertilizers in 2021 can teach the world.' iwmi.org blog.
+    Verified: accessed August 2026. Contains cross-country fertilizer-use
+    comparison and CKDu-causation skepticism."

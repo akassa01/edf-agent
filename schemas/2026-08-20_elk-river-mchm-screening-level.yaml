@@ -1,0 +1,349 @@
+case_id: elk-river-mchm-screening-level
+title: "The Number That Ended the Do-Not-Use: CDC's 1 ppm and the Speech-Act of a Safe Level"
+case_type: documented
+mode: retrospective
+scale: community
+region: Americas (Charleston, Kanawha Valley, West Virginia, USA)
+recency: recent
+year: 2014
+rubric_version: 1
+
+# ── THREE PERSPECTIVES ──────────────────────────────────────────────────────
+
+scientist: >
+  What the Scientist sees: an emergency reference dose derived from the only rat study
+  available. On the night of January 9, 2014, ~10,000 gallons of crude 4-methylcyclohexanemethanol
+  (MCHM) leaked from a corroded 76-year-old Freedom Industries storage tank 1.5 miles
+  upriver of West Virginia American Water's Kanawha Valley intake. Within hours, CDC
+  toxicologists led by Dr. Vikas Kapil had to give the West Virginia Bureau for Public
+  Health a number. They started with a rat NOAEL of 100 mg/kg/day from an Eastman
+  Chemical 28-day repeated-dose oral study (pure MCHM, not the crude mixture actually
+  spilled), applied a ~1,000-fold uncertainty factor (10× interspecies, 10× intraspecies,
+  10× subchronic-to-chronic and database), yielding a reference dose of ~0.1 mg/kg/day.
+  Modeled on a 10-kg child drinking 1 L/day, this back-calculates to a drinking-water
+  screening level of 1 mg/L — 1 part per million. Every step is defensible in isolation.
+  What the number cannot express is what "screening level" actually means: a threshold
+  below which nothing is known, not one below which nothing happens. The subsequent
+  independent WVTAP study (Whelton et al.) set the screening level at 120 μg/L — more
+  than eight times more conservative — using the same NOAEL but different exposure and
+  uncertainty assumptions. Both are "science." Only one was declared by the agency
+  during an active exposure event.
+
+humanist: >
+  What the Humanist sees: 300,000 people across nine counties told first that their
+  water was unsafe for any use except flushing, then eight days later that it was safe
+  again — and yet the licorice-anise odor of MCHM still came out of their taps, and
+  rashes still appeared on their children. The lived experience contradicted the
+  number. "Safe" is a public speech act, not just a scientific quantity, and when
+  people who trusted the announcement kept getting sick, they were left to choose
+  between the odor coming out of their faucet and the reassurance coming out of a
+  press conference. The community's confidence in every future advisory drained in
+  those eight days — and the counties where that drain was deepest were the ones with
+  the fewest resources to buy bottled water indefinitely. Environmental-justice
+  scholars would later observe that the do-not-use order landed hardest on
+  Appalachian communities long accustomed to being told their water was fine.
+
+engineer: >
+  What the Engineer sees: no infrastructure to answer the question the community
+  actually had. West Virginia American Water could measure MCHM concentration at the
+  treatment plant outflow, but there was no capacity to test water inside homes — where
+  MCHM absorbed into pipe biofilm and off-gassed from hot showers. There was no
+  protocol for a tiered advisory (drinking vs. bathing vs. cleaning) even though those
+  exposure routes have different toxicological profiles. There was no pre-established
+  procedure for what odor detection meant when the odor threshold (~2 μg/L for pure
+  MCHM) was orders of magnitude below the screening level. There was no cleanup guidance
+  for pipe interiors, water heaters, or appliance filters. The "safe number" landed
+  into an operational vacuum. The Chemical Safety Board's 2017 report identified the
+  storage-tank corrosion and the absence of secondary containment as the physical
+  causes; the harder engineering finding was that the regulatory response system was
+  built around a single threshold, not around the multiple things a household actually
+  does with water.
+
+archetype_dominant: scientist
+crowded_out_mode: doing
+
+# ── DIAGNOSIS ───────────────────────────────────────────────────────────────
+
+scientific_facts: >
+  Crude MCHM leaked into the Elk River on January 9, 2014. The predominant component
+  (4-MCHM) had a rat NOAEL of 100 mg/kg/day from a proprietary Eastman 28-day oral
+  study on pure MCHM. CDC applied ~1,000-fold uncertainty and standard child exposure
+  assumptions to derive 1 ppm as a short-term drinking-water screening level. Odor
+  threshold for 4-MCHM is roughly 2 μg/L — approximately 500× lower than the screening
+  level, meaning residents could smell the chemical at concentrations declared "safe."
+  Subsequent NTP studies (concluded 2016) supported the adequacy of the 1 ppm level
+  for known acute effects. An independent screening protocol (WVTAP, Whelton et al.,
+  2015) using the same underlying data but different assumptions arrived at 120 μg/L.
+
+social_facts: >
+  Residents' health complaints — rashes, headaches, respiratory irritation — continued
+  after the lift on January 17. West Virginia Poison Control received hundreds of
+  exposure calls in the weeks following. The lived experience of the community was
+  that "safe" did not match what they were smelling and feeling. Trust in West Virginia
+  American Water, the state Bureau for Public Health, and the CDC declined sharply in
+  post-crisis surveys. The community that most needed a defensible number was the
+  community whose experience most directly contradicted it.
+
+political_realities: >
+  Freedom Industries filed for bankruptcy eight days after the spill, cutting off the
+  most obvious accountability pathway. West Virginia's political economy — a state
+  where coal and specialty chemicals employ meaningful fractions of the workforce —
+  had structurally resisted tighter above-ground storage tank regulation. The CDC and
+  ATSDR did not want to keep 300,000 people on bottled water indefinitely; the West
+  Virginia American Water Company did not want its system out of service; the state
+  did not want an open-ended economic disruption to Charleston. All incentives
+  pointed toward a defensible number that could reopen the water supply.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: the long-term human health effects of MCHM exposure — particularly at
+  or slightly above the screening level, and particularly for dermal and inhalation
+  exposure from bathing — were genuinely unknown in January 2014 and remain
+  incompletely characterized. Ambiguity: "safe" meant, to CDC toxicology, the absence
+  of known acute health effects below the screening threshold; to residents, it meant
+  the absence of any reason to be concerned about their water. These are structurally
+  different claims. No translation layer existed between them.
+
+key_tensions:
+  - "Precaution vs. actionability: keeping 300,000 people on bottled water indefinitely
+    was not sustainable, but declaring the water safe without in-home testing was
+    scientifically premature"
+  - "Numbers vs. narratives: a defensible reference dose vs. the community's continuing
+    lived experience of odor and symptoms"
+  - "Speed vs. recovery: the pressure to lift the do-not-use order fast vs. the
+    trust decay that a premature 'safe' would cause in every future advisory"
+
+problem_definition: >
+  When toxicological data are sparse, the exposure event is ongoing, and the community's
+  lived experience contradicts the calculated safety threshold, how should a public
+  health agency communicate a screening level so that it does not become a speech act
+  that overwrites the community's own evidence of continuing exposure?
+
+# ── METAPHORS ───────────────────────────────────────────────────────────────
+
+one_plus_one: >
+  CDC was answering "at what concentration are known acute health effects unlikely?"
+  Residents were answering "is it safe for my child to bathe in this water?" The
+  first question is bounded by the toxicological literature. The second is bounded
+  by the household — its odor, its rashes, its hot showers off-gassing something the
+  child can smell. Both questions used the word "safe." When CDC computed 1 and
+  residents added their own 1, they got two different numbers: to the agency the
+  water was under threshold; to the household it still smelled wrong. The parties
+  never agreed on which question they were jointly answering.
+
+where_is_x: >
+  The specific communication decision on January 13, 2014 — when the CDC's 1 ppm level
+  was adopted by the WVBPH and West Virginia American Water began flushing zones in
+  sequence — is the fulcrum. Not the derivation of the number (that was a defensible
+  toxicological exercise on the data available), and not the spill itself. The
+  intervention point is the framing of the number when it was released: was it a
+  "safe level" (declarative) or a "screening threshold below which we know very little"
+  (conditional)? The choice between those two framings is where trust was won or lost.
+  Everything downstream — the odor complaints, the continuing rash reports, the sharp
+  decline in advisory compliance for years afterward — sits on top of that single
+  framing decision.
+
+eighteenth_camel: >
+  The stated binary was: declare a safe number and let people use their water again,
+  or keep the do-not-use order until definitive long-term data arrive (a wait that
+  would have taken years). The 18th camel: a tiered, use-specific advisory
+  ("safe for flushing and hand-washing at any detectable level; safe for showering
+  when odor is not detected at the tap; safe for drinking only when concentration is
+  below 120 μg/L, the independent WVTAP threshold") paired with a public commitment
+  that the community's own odor detection is a legitimate reason to defer use, and
+  paired with rapid deployment of in-home sampling. This is not a compromise between
+  "safe" and "not safe" — it separates the exposure routes that behave differently,
+  gives residents a role in the assessment, and treats odor as data rather than as
+  a nuisance to be discounted.
+
+solomon_check: >
+  Strongly applicable. CDC toxicologists advising a foreign public health agency
+  facing an identical crisis — sparse data, ongoing exposure, community reporting
+  continuing symptoms — would very likely have recommended a more conservative
+  threshold with explicit conditional language and a tiered advisory. Applied to
+  their own operational pressure to end an eight-day water shutdown in a major
+  American city, the same reasoning could not be reached. Institutional proximity
+  narrowed the frame.
+
+urgency_vs_actionability: >
+  Textbook. The urgency was enormous — 300,000 people, eight days into a shutdown,
+  hospitals unable to run properly, restaurants closed, schools disrupted. The
+  actionability was structurally constrained: nobody had actually developed the
+  in-home sampling capacity, tiered advisory protocols, or biofilm cleanup guidance
+  that a slower, less urgent response would have required. So the response
+  substituted a defensible number for the missing operational apparatus. Urgency
+  did not produce clarity; it produced a single-threshold reassurance that the
+  operational apparatus could not have made honest even if the toxicology had been
+  perfect.
+
+# ── CONDITIONS, CAPACITY, CONSTRAINTS ───────────────────────────────────────
+
+enabling_conditions: >
+  Emerging: the NTP had capacity to conduct follow-on toxicological studies on MCHM
+  (which it did, with results supporting the CDC screening level but arriving in
+  2016). Missing: in-home water testing infrastructure, tiered advisory templates,
+  cleanup guidance for pipe biofilm, and any pre-existing protocol for using
+  community odor detection as an information source. Weakening: Freedom Industries'
+  solvency and therefore its ability to fund cleanup and long-term monitoring.
+
+capacities: >
+  CDC and ATSDR could produce a defensible short-term screening level within hours.
+  West Virginia American Water could flush and sample the distribution system.
+  Neither had the capacity, in January 2014, to test water inside homes at scale
+  or to run a tiered use-specific advisory. Local hospitals could receive exposure
+  patients but could not attribute individual symptoms to specific exposure levels.
+
+constraints: >
+  Binding: the operational imperative to end the do-not-use order collided with the
+  absence of in-home testing infrastructure. Every day of shutdown had visible
+  economic and social cost; every additional day of caution had no visible offsetting
+  benefit until years later when a durable trust in advisory systems would have been
+  the payoff. Secondary: proprietary toxicological data from Eastman, which delayed
+  external scientific verification of the underlying study for critical days.
+
+# ── DECISION PATHWAY ────────────────────────────────────────────────────────
+
+decision_pathway: Reframe
+
+tools:
+  - "Tiered use-specific advisory template → purpose: replace single-threshold 'safe' /
+    'not safe' with route-specific guidance (drinking / bathing / cleaning) → how it
+    changes interaction: gives residents a defensible framework for partial use and
+    keeps their household observations inside the model rather than outside it"
+  - "In-home sampling deployment protocol → purpose: pre-stage capacity to test water
+    inside houses (not just at the treatment plant) within 48 hours of a
+    contamination event → how it changes learning: brings the exposure surface the
+    community actually experiences into the evidence base, closing the gap between
+    plant-outflow data and household reality"
+  - "Odor-detection escalation clause → purpose: treat community reports of the
+    characteristic odor at any concentration as automatic triggers for return sampling
+    → how it changes coordination: converts residents' lived experience from
+    'complaints' into a formal input to the advisory update process"
+  - "Conditional communication protocol → purpose: replace declarative 'safe' language
+    with structured language ('below the screening level, known acute effects are
+    unlikely; long-term effects are not characterized; if you detect odor, defer use')
+    → how it changes interaction: preserves scientific honesty and prevents the
+    speech-act inflation that erodes future advisories"
+
+metrics:
+  - "In-home concentration distribution → measure: MCHM concentration in a random
+    sample of 200 homes across the nine affected counties, updated weekly → method:
+    door-to-door sampling with kit deployment → linked to: tiered advisory zone
+    changes"
+  - "Advisory trust index → measure: percentage of residents who report they would
+    comply with a hypothetical future do-not-use order → method: telephone survey
+    at 30, 90, and 365 days post-lift → linked to: the trust-recovery consequence
+    of the framing decision"
+  - "Odor-triggered resampling frequency → measure: number of household odor reports
+    per 1,000 residents per week, and time-to-resample → method: 24-hour reporting
+    line + sample dispatch log → linked to: escalation clause"
+  - "Symptom-report incidence → measure: rash, headache, and respiratory-irritation
+    reports through Poison Control and emergency departments → method: routine
+    surveillance with pre/post-lift comparison → linked to: continued exposure
+    assessment"
+
+ninety_day_commitment: >
+  Counterfactual. Within 90 days of January 9, 2014:
+  (1) The CDC and WVBPH jointly publish a tiered use-specific advisory replacing the
+  single "below 1 ppm is safe" framing, with route-specific thresholds (drinking:
+  120 μg/L; showering: odor-absent; other uses: below 1 ppm), and explicit language
+  about what is and is not known at each level.
+  (2) An in-home sampling program deploys door-to-door across the nine affected
+  counties, with results published on a public dashboard and used to update advisory
+  zone changes.
+  (3) A community liaison panel — including North Charleston and Boone County
+  residents disproportionately affected — is standing before the advisory changes,
+  not consulted after.
+  (4) The 1 ppm screening level is retained as a conservative floor for return to
+  service but is not declared "safe" in isolation; the WVTAP-style independent
+  reanalysis (which historically appeared as an academic paper) is commissioned
+  from the outset as a mandatory second opinion.
+
+# ── STRESS TEST ─────────────────────────────────────────────────────────────
+
+stress_test:
+  political: >
+    West Virginia's political economy would push hard against any advisory framework
+    that appeared to extend the shutdown or add regulatory burden on chemical
+    storage. State legislators facing constituents whose restaurants and small
+    businesses were closed would frame any tiered advisory as bureaucratic delay
+    imposed by out-of-state agencies. The February 2014 legislative response
+    (SB 373, the Above-ground Storage Tank Act) was itself substantially weakened
+    within two years under industry pressure. A tiered advisory protocol would face
+    the same erosion.
+  institutional: >
+    CDC does not, as a matter of standing practice, issue conditional advisories
+    during active exposure events — the pressure from state and utility partners is
+    always toward a declarative threshold. The tiered advisory template would require
+    ATSDR or CDC to change how it packages emergency reference doses, which cuts
+    against decades of communication practice built for a general public assumed to
+    require binary guidance. This is precisely the change that would matter most and
+    the change that is hardest to institutionalize.
+  assumption: >
+    The assumption that in-home sampling capacity can be deployed within 48 hours
+    is probably wrong at current staffing levels for state health departments and
+    utilities. Building that capacity requires either federal pre-positioning of
+    sampling teams (unfunded) or utility-side investment (unfunded). Without funding,
+    the tool exists on paper only.
+  resource: >
+    Certified laboratory capacity to process MCHM samples at scale within 24 hours
+    was a bottleneck in 2014; hundreds of samples per day would have overwhelmed
+    the available analytical infrastructure. A tiered protocol depending on high
+    sampling throughput requires laboratory capacity that no state currently maintains
+    for arbitrary novel chemicals.
+  twelve_months: >
+    Twelve months out, the counterfactual pathway would be judged not by whether it
+    kept people healthy (both approaches would look similar on hard health outcomes,
+    since acute effects were rare at post-lift concentrations) but by whether it
+    preserved advisory trust for the next event. The failure mode is that a slower,
+    more conditional response is politically punished in the moment and reaps its
+    reward only years later when a different agency issues a different advisory in
+    a different city and residents actually comply.
+
+revised_problem_definition: >
+  The problem is not, primarily, "what is the screening level for MCHM." The problem
+  is that public health advisories issued during ongoing exposure events function as
+  speech acts, whose effect on future compliance is often greater than their effect
+  on present exposure. When the number is declarative and the community's lived
+  experience contradicts it, the number wins the immediate crisis and loses the next
+  ten. A principled pragmatist must design the advisory language — and the tiered,
+  household-anchored assessment behind it — before the emergency, because during
+  the emergency the pressure to compress everything into a single number is
+  operationally overwhelming.
+
+# ── HONESTY ─────────────────────────────────────────────────────────────────
+
+flag: >
+  A screening threshold is a scientific object and a public speech act at the same
+  time. Toxicology gives the number, but the announcement is a promise, and the
+  promise persists in the community's memory long after the number's confidence
+  interval has ceased to be a live consideration. Principled pragmatism can specify
+  the advisory language and the tiered structure that would reduce the gap between
+  number and promise, but it does not tell you how to prevent the operational
+  pressure of an ongoing crisis from collapsing that structure back into a single
+  declaratory sentence. Every emergency reference dose is, in this sense, a
+  political artifact wearing scientific clothes — and there is no framework for
+  keeping the two costumes separate under time pressure.
+
+sources:
+  - "U.S. Chemical Safety and Hazard Investigation Board. 'Investigation Report:
+    Freedom Industries Chemical Release.' Report No. 2014-01-I-WV. Released May 11, 2017.
+    csb.gov. Verified: accessed August 2026. Documents tank corrosion, absence of
+    secondary containment, and regulatory context."
+  - "Whelton AJ, McMillan L, Connell M, et al. 'Residential tap water contamination
+    following the Freedom Industries chemical spill: perceptions, water quality, and
+    health impacts.' Environmental Science & Technology. 2015;49(2):813-823. DOI:
+    10.1021/es5040969. Verified: peer-reviewed household study documenting continued
+    odor and symptoms after lift; source of the 120 μg/L WVTAP threshold."
+  - "National Toxicology Program (NIEHS). 'West Virginia Chemical Spill' research
+    portal, including 2016 final update. ntp.niehs.nih.gov/research/topics/wvspill.
+    Verified: accessed August 2026. Documents subchronic and developmental toxicity
+    findings supporting adequacy of the CDC screening level for known acute effects."
+  - "West Virginia Public Broadcasting. 'So, How Did The CDC Come Up With MCHM Being
+    Safe Under 1 PPM, Anyway?' wvpublic.org. Verified: accessed August 2026.
+    Documents Vikas Kapil's derivation and the public communication timeline."
+  - "Environmental Defense Fund Health Blog. 'CDC finally describes its derivation of
+    safe level in WV spill — but erroneously claims it to be highly conservative.'
+    blogs.edf.org/health, January 16, 2014. Verified: accessed August 2026. Contemporary
+    scientific critique of the derivation and the 'highly conservative' claim."
+  - "Wikipedia. '2014 Elk River chemical spill.' en.wikipedia.org. Verified: accessed
+    August 2026. Cross-referenced timeline, affected population, and county list."
