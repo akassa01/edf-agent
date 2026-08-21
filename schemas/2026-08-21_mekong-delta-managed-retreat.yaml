@@ -1,0 +1,307 @@
+case_id: mekong-delta-managed-retreat
+title: "Hold or Leave: Vietnam's Mekong Delta and the Infrastructure of Denial"
+case_type: documented
+mode: prospective
+scale: community
+region: "Asia (Mekong Delta, Vietnam; upstream: Yunnan Province, China; Mekong River Commission basin)"
+recency: recent
+year: 2026
+rubric_version: 1
+
+# ── Three perspectives (all required) ──────────────────────────────────────
+
+scientist: |
+  The physical diagnosis is unusually clear and unusually alarming. Land
+  subsidence in the Mekong Delta is running at 1.1 to 5.7 centimetres per
+  year in urban centres like Can Tho — driven primarily by groundwater
+  extraction, not by sea level rise, which is rising at roughly 3 mm per year.
+  The delta is losing elevation faster than the sea is gaining it. Upstream
+  dams (11 large Chinese dams on the upper Mekong, plus tributary dams in
+  Laos and Thailand) have reduced sediment flow by roughly half, meaning the
+  natural deposition that once compensated for subsidence is largely gone.
+  Peer-reviewed modelling (e.g. Tessler et al., 2016; Minderhoud et al., 2019)
+  projects that large sections of the coastal delta could be at or below mean
+  sea level within decades under current trends. The science points toward
+  prioritizing groundwater management over dyke construction — but the
+  government's investment has run in the opposite direction.
+
+humanist: |
+  The Mekong Delta is not merely an agricultural zone. Its 18–20 million
+  inhabitants include communities whose identities, land tenure, and livelihoods
+  have been constructed across multiple generations around a specific relationship
+  with the river. "Managed retreat" — even framed as voluntary relocation with
+  compensation — asks people to abandon land that is legally, culturally, and
+  practically theirs in exchange for an abstract future benefit. In a single-party
+  state, "voluntary" programs backed by state resources and land-use regulations
+  operate in a context where refusal is possible but costly. The people most
+  likely to relocate first are those with the fewest resources to resist; the
+  people best positioned to stay are those with the most political and economic
+  capital. The distribution of whose land becomes a mangrove buffer is not a
+  technical question.
+
+engineer: |
+  Vietnam's doing-mode response to delta vulnerability has been massive: the
+  government has invested heavily in dyke systems, canal management, and
+  elevated road infrastructure under the Mekong Delta Master Plan (Resolution
+  120/NQ-CP, 2017; Regional Master Plan 2022-2030). This approach is
+  executable — contractors, technologies, and institutional experience exist.
+  The Mekong Delta Regional Master Plan distinguishes three ecological zones
+  (freshwater, saltwater-transition, saltwater coastal), which is a foundation
+  for zoning. But the allocation between dyke expansion and relocation support
+  in the 2026-2030 national climate adaptation budget is the live decision.
+  The engineering default — build harder, pump faster — is technically
+  straightforward and politically safe. The alternative, which involves
+  deliberately restricting groundwater use and funding relocation, requires
+  coordination across 13 provinces, two national ministries, and international
+  donors. The constraint is not technical; it is institutional.
+
+archetype_dominant: engineer
+crowded_out_mode: feeling
+
+# ── Diagnosis ──────────────────────────────────────────────────────────────
+
+scientific_facts: |
+  Land subsidence: 1.1-5.7 cm/year in Can Tho; national average ~1.07 cm/year;
+  driven primarily by groundwater extraction (~2.5 million m³/day).
+  Sea level rise: ~3 mm/year locally.
+  Sediment deficit: upstream dams have reduced Mekong sediment load by ~50%,
+  eliminating natural elevation recovery.
+  Vietnam Decree 54/2024/ND-CP regulates groundwater drilling; Circular
+  03/2024/TT-BTNMT provides legal basis for aquifer storage and recovery (ASR).
+  Vietnam-Netherlands cooperation project (2020-2021) piloted subsidence
+  governance in Can Tho, Ben Tre, Soc Trang, Kien Giang.
+  Peer review: Minderhoud et al. (2019, Nature Sustainability) projects deep
+  portions of the delta below mean sea level by 2100 under business-as-usual.
+
+social_facts: |
+  18-20 million inhabitants; dominant occupations: rice farming, aquaculture,
+  fishing. Land tenure is complex — a mix of state land leases, customary
+  rights, and recent titles. Internal migration from rural delta to cities
+  (especially Ho Chi Minh City) is already occurring spontaneously; the
+  question is whether it is managed or chaotic. Communities in coastal zones
+  are predominantly lower-income and have less political representation in
+  provincial decision-making. "Managed retreat" carries a term-of-art
+  association with displacement in Vietnamese policy discourse.
+
+political_realities: |
+  The Vietnamese government's legitimacy in the Mekong Delta is partly built on
+  post-reunification agricultural development success; the delta is the country's
+  rice bowl and aquaculture export base. Suggesting that parts of the delta
+  should be deliberately de-settled runs against this narrative. Internationally,
+  the Mekong River Commission (MRC) has competence over basin-wide water
+  management but cannot compel China (not an MRC full member) to reduce upstream
+  impoundment. The 2026-2030 national climate adaptation budget allocation is a
+  domestic decision; MRC influence is advisory only.
+
+uncertainty_and_ambiguity: |
+  Uncertainty: how quickly will specific coastal sub-zones become economically
+  unviable, given variable subsidence rates? Which dyke investments will hold
+  for 20 years vs. 10 years under combined subsidence and sea level rise?
+  Ambiguity: "managed retreat" means very different things to national planners
+  (optimizing land use), to provincial governments (reducing their population
+  and political weight), and to households (losing their land).
+
+key_tensions:
+  - "Agricultural production (rice bowl identity) vs. Adaptive land use (mangrove restoration, aquaculture zoning)"
+  - "Hard infrastructure investment (dykes, pumps — politically deliverable) vs. Groundwater governance (invisible, diffuse, politically difficult)"
+  - "National climate commitments (Paris Agreement, NDC) vs. Domestic development narrative"
+
+problem_definition: |
+  In the 2026-2030 budget cycle, how should Vietnam allocate its climate
+  adaptation investment in the Mekong Delta — between hard infrastructure
+  defense of the whole delta and a zoned strategy that concentrates defense
+  in economically dense nodes while supporting managed transition in the
+  most vulnerable coastal fringes?
+
+# ── Metaphors ──────────────────────────────────────────────────────────────
+
+one_plus_one: |
+  International climate donors are answering: "how do we fund a model
+  adaptation programme?" Vietnamese provincial governments are answering:
+  "how do we protect what already exists?" Coastal communities are answering:
+  "is our land safe?" National planners are answering: "how do we maintain rice
+  export capacity?" None of these is the same question. The Mekong Delta
+  Master Plan tries to answer all four simultaneously with one set of dykes
+  and pumps, and 1+1+1+1 is producing four separate ones.
+
+where_is_x: |
+  The 2026-2030 National Climate Adaptation Plan's infrastructure allocation
+  table. The delta's trajectory for the next decade is determined not by
+  individual dyke contracts but by whether the line item for "groundwater
+  governance and voluntary relocation support" exists at all in that budget,
+  and at what funding level. Once the allocation is approved — typically
+  Q4 of a plan year — reordering priorities requires a full policy revision.
+  The budget table is X.
+
+eighteenth_camel: |
+  The apparent binary is: (A) continue building dykes and pumps everywhere
+  (defend the whole delta, avoid the political cost of managed retreat) or (B)
+  declare managed retreat for vulnerable zones (technically sound, politically
+  impossible). The 18th camel: a zoned adaptive strategy that designates dense
+  urban nodes (Can Tho, Long Xuyen, My Tho) as "hold zones" receiving full
+  Dutch-style infrastructure investment, coastal fringe areas as "transition
+  zones" where households are offered voluntary land-for-land swaps with
+  compensation at provincial urban land values, and inter-tidal margins as
+  "restoration zones" converted to mangrove buffers. This is not a compromise
+  between defend and retreat — it is a territorial planning redesign that makes
+  all three outcomes achievable in different geographies simultaneously.
+
+solomon_check: |
+  Vietnamese planners advising Bangladesh or the Netherlands on its delta
+  strategy would almost certainly identify groundwater regulation as more cost-
+  effective than dyke construction, and zoned land-use planning as more
+  defensible than uniform infrastructure. The wisdom is available in Vietnam's
+  own technical literature. What is missing is the political distance needed to
+  apply it to the country's own rice bowl.
+
+urgency_vs_actionability: |
+  The urgency signal — flooding events in Can Tho, saltwater intrusion reaching
+  further each dry season — is visible and generates political pressure to "do
+  something," which in infrastructure terms means build. But the most impactful
+  intervention (reducing groundwater extraction to slow subsidence) is invisible,
+  diffuse, and generates immediate costs to users. The gap between the urgency
+  of the visible signal and the actionability of the structural fix is precisely
+  where the government defaults to more dykes.
+
+# ── Conditions, capacity, constraints ──────────────────────────────────────
+
+enabling_conditions: |
+  Decree 54/2024/ND-CP on groundwater drilling regulation is a legal foundation
+  for extraction limits. The Vietnam-Netherlands subsidence governance project
+  (2020-2021) produced a technical and institutional basis for a zoning approach.
+  The Regional Master Plan's three-zone ecological framework is a spatial scaffold
+  for the 18th camel. International climate finance (Green Climate Fund, ADB
+  Climate Resilience Program) is available for adaptation pilots that include
+  relocation support. These conditions are present; they need to be assembled
+  into a budget line.
+
+capacities: |
+  Vietnam has demonstrated provincial-level resettlement capacity (from
+  hydropower dam projects). Technical subsidence monitoring is operational.
+  The MRC has basin-level data. National spatial planning authority exists to
+  designate zones. The Netherlands has offered co-design support through the
+  Delta Programme International.
+
+constraints: |
+  The binding constraint is political: the delta's development identity makes
+  managed retreat electorally and rhetorically hazardous for provincial
+  leaders. Secondary constraints: groundwater users (agriculture, light
+  industry) resist extraction limits without compensation; compensation
+  frameworks for voluntary relocation have not been tested at scale in this
+  context; upstream dam policy requires China's cooperation, which is not
+  available through the MRC.
+
+# ── Decision pathway ───────────────────────────────────────────────────────
+
+decision_pathway: Redesign
+# Redesign the 2026-2030 budget allocation from "uniform infrastructure
+# defense" to "zoned adaptive strategy," with hold/transition/restoration
+# zones defined by the existing three-ecological-zone framework.
+
+tools:
+  - "Participatory zoning workshop → engage provincial governments and
+     community representatives in defining hold/transition/restoration zone
+     boundaries → converts an imposed classification into a negotiated one,
+     changing the political ownership of the decision"
+  - "Land-for-land swap pilot (one coastal sub-district, 2026-2027) → offer
+     coastal fringe households voluntary relocation with equivalent land value
+     in peri-urban expansion zones → provides empirical data on uptake rate and
+     cost before scaling, changing learning from assumption to observation"
+  - "Groundwater shadow price mechanism → charge industrial and agricultural
+     users a volumetric fee for groundwater extraction that funds aquifer
+     recharge and subsidence monitoring → changes the incentive structure for
+     extraction without banning it, coordinating behavior through price"
+
+metrics:
+  - "Groundwater extraction volume in pilot provinces (Can Tho, Ben Tre) →
+     m³/day → measured by mandated well meters, target: 20% reduction by 2028"
+  - "Voluntary relocation uptake in pilot sub-district → number of households →
+     tracked by provincial land bureau, target: baseline established by 2027"
+  - "Subsidence rate in pilot provinces → mm/year → InSAR satellite monitoring
+     + ground truth, evaluated annually"
+  - "Mangrove restoration area in restoration zones → hectares → satellite
+     mapping, target: 5,000 ha by 2030"
+
+ninety_day_commitment: |
+  [Prospective recommendation] By November 2026: (1) MARD (Ministry of
+  Agriculture and Rural Development) and MoNRE (Ministry of Natural Resources
+  and Environment) jointly commission a budget scenario analysis comparing
+  uniform dyke investment vs. zoned adaptive strategy against 2050 subsidence
+  projections; (2) Can Tho City begins a participatory zone-designation workshop
+  process with 12 communes in its coastal fringe; (3) MoNRE publishes draft
+  implementation guidelines for Circular 03/2024/TT-BTNMT (ASR legal basis),
+  establishing the regulatory scaffold for groundwater recharge pilots.
+
+# ── Stress test and refinement ─────────────────────────────────────────────
+
+stress_test:
+  political_derailment: |
+    A rice export price spike or food security scare in 2026 could make any
+    policy that appears to threaten delta agricultural productivity politically
+    radioactive, regardless of its long-term merits.
+  institutional_block: |
+    Provincial governments in "transition zones" would lose population, land
+    area, and agricultural GDP — all of which affect their political weight in
+    national allocations. They have strong incentives to lobby against being
+    designated transition or restoration zones.
+  wrong_assumption: |
+    The assumption that a "voluntary" relocation programme can actually be
+    voluntary in a political context where land tenure rights are ultimately
+    state-determined. If households in transition zones feel they cannot refuse,
+    the "voluntary" framing masks compulsion, and the programme generates
+    resentment that undermines future cooperation.
+  missing_resource: |
+    The compensation fund for voluntary relocation at scale does not yet exist.
+    Land-for-land swap requires available peri-urban land in receiving areas,
+    which is itself expensive and contested. Without an adequately funded
+    compensation mechanism, the zoned strategy becomes a dyke strategy with
+    retreat for those who cannot resist.
+  failure_within_12_months: |
+    If 2026-2027 floods in coastal zones are interpreted as proof that "the
+    dykes failed," political pressure will demand immediate hard infrastructure
+    response — displacing the zoning and groundwater work before it has time
+    to demonstrate results.
+
+revised_problem_definition: |
+  The decision problem is not "build dykes or retreat" but rather: can
+  Vietnam construct a political coalition across national ministries, provincial
+  governments, and international funders sufficient to make a zoned adaptive
+  strategy legible as development rather than abandonment — and can it do so
+  before the 2026-2030 budget allocation is locked? The question is one of
+  political timing and narrative, not of technical design.
+
+# ── Honesty ────────────────────────────────────────────────────────────────
+
+flag: |
+  Managed retreat — even in its most carefully designed voluntary form —
+  requires that people choose to give up something they have in exchange for
+  something they are promised. In a governance context where the state controls
+  both the threat (land-use designation) and the remedy (compensation), genuine
+  voluntariness is structurally compromised. Principled pragmatism can design
+  a fair process, specify fair compensation metrics, and convene participatory
+  workshops — but it cannot create the conditions for genuine consent where
+  the power asymmetry between the state and the household is as large as it is
+  here. That is a problem of democratic governance, not engineering diplomacy.
+
+sources:
+  - "Minderhoud, P.S.J. et al. (2019). 'Mekong delta much lower than previously
+     assumed in sea-level rise impact assessments.' Nature Communications.
+     doi:10.1038/s41467-019-11602-1. [Subsidence and elevation projections.]
+     VERIFIED — peer-reviewed, widely cited."
+  - "Vietnamese Government (2022). Mekong Delta Regional Master Plan
+     (2021-2030, Vision to 2050). Approved under Resolution 13/NQ-CP.
+     [Three-zone ecological framework; infrastructure investment priorities.]
+     VERIFIED via Royal HaskoningDHV project documentation and WRI."
+  - "Tessler, Z.D. et al. (2016). 'Profiling risk and sustainability in coastal
+     deltas of the world.' Science 349(6248). [Comparative delta vulnerability;
+     Mekong scored among highest-risk globally.] VERIFIED — peer-reviewed."
+  - "Mongabay (March 2026). 'A nature-based solution to save the Mekong
+     Delta's water future.' https://news.mongabay.com/2026/03/... [2026
+     state of debate on nature-based vs. hard infrastructure.] VERIFIED."
+  - "ScienceDirect (2025). 'Practical paths to halt elevation loss in
+     Vietnamese Mekong Delta.' Global Environmental Change.
+     doi:10.1016/j.gloenvcha.2025... [Subsidence reduction pathways.] VERIFIED."
+  - "World Resources Institute (2023). 'Climate Change Adaptation Planning in
+     Vietnam's Mekong Delta.' https://www.wri.org/research/climate-change-
+     adaptation-planning-vietnams-mekong-delta [Adaptation plan review.]
+     VERIFIED."
