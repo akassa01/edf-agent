@@ -1,0 +1,262 @@
+case_id: aral-sea-ifas-enforcement-gap
+title: "The Sea That Diplomats Could Not Save"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Central Asia (Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan, Kyrgyzstan; Aral Sea basin)"
+recency: historical
+year: 1992
+rubric_version: 1
+
+# --- THREE PERSPECTIVES (all required before prose) ---
+
+scientist: >
+  By 1989, the Aral Sea had lost more than half its surface area and two-thirds of its
+  volume since 1960. Soviet cotton irrigation had diverted 90 percent of the annual flow
+  of the Amu Darya and Syr Darya rivers before they reached the sea. Salinity had risen
+  from 10 g/L to 45 g/L—above the survival threshold for most of the endemic fish species.
+  Soviet and post-Soviet hydrologists modeled the minimum inflow needed to stabilize the
+  sea at 35–40 km³/year; actual inflow by the early 1990s was below 10 km³/year. The
+  science was not contested. What was contested was who would bear the cost of restoring
+  it. The scientists had the diagnosis; the diplomats had the decision.
+
+humanist: >
+  The Karakalpak people in the autonomous republic within Uzbekistan, and the fishing
+  communities around Aralsk and Moynaq in Kazakhstan, had lost livelihoods, health, and
+  cultural identity in a single generation. The exposed sea bed—a salt and pesticide
+  crust accumulated over decades of pesticide-laden irrigation drainage—generated dust
+  storms that raised infant mortality rates, respiratory disease, and cancer incidence
+  far above Soviet averages. Moynaq, once a fishing port with a canning factory, sat
+  100 km from the water. Rusting fishing trawlers beached in the desert became the
+  iconic image of environmental catastrophe. For the communities who remained, "saving
+  the Aral" was not an environmental project. It was an existential one. Their voices
+  had no seat in the IFAS negotiations.
+
+engineer: >
+  The five post-Soviet states each controlled different portions of the river basin,
+  but the critical infrastructure—the Karakum Canal and Uzbekistan's vast primary
+  irrigation network—was in Uzbekistan, which consumed the most water and produced
+  the most cotton. Any quota reduction required Uzbekistan's voluntary compliance;
+  there was no enforcement mechanism with any coercive power. Kazakhstan could act
+  within its own borders: the Syr Darya feeds the North Aral exclusively from
+  Kazakhstan's side. What the engineers knew—and the diplomats never incorporated—
+  was that a partial unilateral solution (a dam within Kazakhstan's territory) was
+  physically feasible and did not require Uzbekistan's cooperation. The IFAS structure,
+  with its rotating five-state presidency and no enforcement standing, was designed
+  for coordination among equals in a single state; it was not designed for
+  enforcement among five sovereign states with competing interests.
+
+archetype_dominant: humanist
+crowded_out_mode: doing
+
+# --- DIAGNOSIS ---
+
+scientific_facts: >
+  Aral Sea surface area: ~68,000 km² in 1960; ~28,000 km² by 1989; split into North
+  and South Aral by 1989. Annual inflow needed to stabilize: ~35 km³ (scientific consensus);
+  actual inflow by early 1990s: <10 km³. Salinity: 10 g/L (1960) → 45 g/L (1989).
+  Canal conveyance losses in Uzbekistan: ~40% of diverted water lost to seepage and
+  evaporation before reaching fields. Philip Micklin (USGS), the foremost Western analyst,
+  published the landmark assessment in Science in 1988. The Soviet Academy of Sciences had
+  modeled the crisis since the early 1970s; the data was available to all five post-Soviet
+  governments at independence.
+
+social_facts: >
+  Uzbekistan's cotton monoculture was the Soviet-era mechanism of rural labor control and
+  the primary source of hard currency after independence. Islam Karimov's government
+  depended on cotton revenues for regime stability. The Karakalpak Autonomous Republic,
+  which bore the worst health impacts, had no independent political standing in IFAS.
+  Kazakhstan's Aralsk fishing communities lost ~60,000 jobs. Dust storms from the exposed
+  seabed (carrying salt and DDT residues) affected an estimated 5 million people annually.
+  NGO access and international press coverage were limited in Uzbekistan.
+
+political_realities: >
+  The IFAS five-state rotating presidency gave Uzbekistan veto power during its chair terms.
+  Russia, as energy supplier, had leverage over all five states but chose not to link energy
+  policy to water governance. The World Bank and UNDP provided technical assistance but
+  imposed no conditionality on project lending. No international court or arbitration body
+  had jurisdiction over a water-use dispute among five sovereign post-Soviet states.
+  The Inter-State Commission for Water Coordination (ICWC), created by the February 1992
+  Almaty Agreement, had monitoring authority but no enforcement power.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: What minimum inflow (km³/year) would produce partial recovery, and over
+  what time horizon? (Models varied; the North Aral turned out to be recoverable at far
+  lower cost than the full sea.)
+  Ambiguity: "Saving the Aral Sea" meant fundamentally different things. To Kazakhstan:
+  restoring the North Aral (achievable unilaterally). To the Karakalpaks: restoring Moynaq's
+  fishing economy (required full sea recovery). To Uzbekistan: maintaining cotton revenues
+  while being seen to cooperate. The five states ratified the same words while answering
+  different questions.
+
+key_tensions:
+  - "Cotton economy vs. sea recovery: a direct trade-off with no win-win at Uzbekistan's current agricultural structure"
+  - "Sovereignty (Uzbekistan's right to use water within its territory) vs. transboundary environmental harm (shared sea dying downstream)"
+  - "Diplomatic consensus (all five states agree to 'save the Aral') vs. enforcement reality (no state will reduce cotton)"
+
+problem_definition: >
+  How do five sovereign states, each inheriting a Soviet monoculture economy dependent
+  on the same shared water resource, agree to collectively reduce withdrawals when any
+  reduction falls asymmetrically and no binding enforcement mechanism exists?
+
+# --- METAPHORS ---
+
+one_plus_one: >
+  The five states unanimously agreed to "save the Aral Sea." But Kazakhstan was answering
+  "how do we restore the North Aral within our territory?" Uzbekistan was answering "how
+  do we maintain cotton revenues while satisfying international pressure?" The Karakalpaks
+  were answering "how do we get Moynaq's fishermen back?" IFAS ratified a shared formula
+  whose words concealed five incompatible questions. 1+1 produced five separate ones.
+
+where_is_x: >
+  The February 18, 1992 Almaty Agreement text—specifically Article 4, which established
+  water quotas at 1988 Soviet-era levels but contained no enforcement clause, no penalty
+  for non-compliance, and no dispute-resolution mechanism. Kazakhstan had proposed
+  including enforcement language; Uzbekistan had opposed it; the compromise was silence.
+  That silence—a single omitted clause in an eight-article agreement—is where X is.
+  Everything downstream (the continued desiccation, the failed IFAS presidencies, the
+  25 years of unfulfilled commitments) can be traced to the moment enforcement was
+  negotiated out of the founding text.
+
+eighteenth_camel: >
+  The Kok-Aral (Kokaral) Dam, completed in 2005 by Kazakhstan with an $86 million
+  World Bank loan ($64.5 million from the Bank, the remainder from Kazakhstan). A 13-km
+  dike built entirely within Kazakhstan's territory, requiring no Uzbekistan consent.
+  By 2006, the North Aral Sea had risen 3 metres; by 2008, its volume had increased
+  68 percent; salinity dropped below survival thresholds; fish populations recovered;
+  Aralsk's fishing industry began to revive. The 18th camel was not a five-party
+  agreement to save the whole sea—it was enabling the one actor with unilateral
+  capacity and an unsatisfied interest to act within its own borders. The lesson: when
+  the multilateral coalition cannot enforce, identify the partial solution one actor
+  can execute alone, and fund it.
+
+solomon_check: >
+  Yes. Any of the five states' leaders, asked to evaluate a similar quota agreement in
+  a different basin, would have immediately identified that a treaty with no enforcement
+  clause is a press release. They could not apply that diagnosis to their own agreement
+  because the enforcement question was what Uzbekistan was there to prevent. The Solomon
+  Paradox: everyone in the room could have told you the agreement was unenforceable;
+  no one could say it aloud and still get a signature.
+
+urgency_vs_actionability: >
+  The scientific and humanitarian urgency was extreme and universally acknowledged. The
+  IFAS founding documents are full of urgent language: "crisis," "catastrophe," "emergency."
+  But the actionable steps—enforcement clauses, donor conditionality, canal efficiency
+  financing, enabling Kazakhstan's unilateral dam—were absent. The gap between the
+  urgency of the rhetoric and the absence of the mechanism is precisely where the sea
+  continued to shrink for another decade.
+
+# --- CONDITIONS, CAPACITY, CONSTRAINTS ---
+
+enabling_conditions: >
+  Kazakhstan had the technical and financial capacity (with World Bank assistance) to build
+  within its own territory. Canal efficiency data from the Soviet era was available and
+  showed 40% conveyance losses—a target that could reduce demand without cutting cotton
+  output. The World Bank was already engaged in Central Asia and had project lending
+  relationships with all five states.
+
+capacities: >
+  IFAS could facilitate information exchange and technical meetings. Kazakhstan could
+  build water infrastructure within its borders. Uzbekistan could reduce canal leakage
+  (which wasted ~40% of diverted water before reaching fields) without reducing cotton
+  output, if financed. UNDP and USAID had technical assistance capacity in the region.
+
+constraints: >
+  Uzbekistan's cotton economy was the binding political constraint: cotton revenues
+  were the regime's primary income source and the basis of rural labor control. No
+  external actor had conditionality leverage sufficient to overcome this. The World
+  Bank's 1992 operational policies did not permit conditioning loans on a third
+  country's water governance choices.
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Redesign
+decision_pathway_note: >
+  The principled pragmatist's move at Almaty in February 1992: redesign the agreement
+  to separate what can be agreed with enforcement from what requires further negotiation.
+  Specifically: (1) include a canal efficiency protocol with World Bank financing—this
+  reduces waste without cutting cotton, giving Uzbekistan a bankable benefit; (2) enable
+  Kazakhstan to proceed immediately with a North Aral recovery project as a unilateral
+  confidence-building measure; (3) write a minimum baseline-flow clause (10 km³/year
+  from Amu Darya to the sea) into IFAS operating rules, with World Bank project lending
+  conditioned on reporting compliance. Full quota enforcement can remain aspirational;
+  the first 90 days establish the one piece of infrastructure and one piece of
+  conditionality that do not require Uzbekistan to choose between the agreement and
+  its survival.
+
+tools:
+  - "Canal efficiency financing → purpose: reduce conveyance losses (~40%) in Uzbekistan's primary irrigation systems → changes coordination by giving Uzbekistan an economic benefit (more reliable delivery per km³ diverted) while reducing total demand on the river system"
+  - "North Aral unilateral project (World Bank-funded Kazakhstan dam) → purpose: demonstrate that partial recovery is physically achievable within one state's budget → changes learning by replacing the abstract 'save the Aral' with a concrete, funded, measurable restoration target"
+  - "Donor conditionality clause → purpose: link World Bank and Asian Development Bank project lending in the basin to minimum-flow reporting → changes interaction by giving the international finance community formal standing in IFAS technical meetings they were otherwise excluded from"
+
+metrics:
+  - "Annual inflow to the Aral from Amu Darya and Syr Darya → measure: km³/year → method: river gauge network maintained by ICWC (already instrumented)"
+  - "Canal conveyance efficiency in Uzbekistan's major systems → measure: % of diverted water delivered to fields → method: IFAS hydrological monitoring, supplemented by remote sensing"
+  - "North Aral sea level → measure: metres above sea level → method: satellite altimetry (available from 1993 onward)"
+
+ninety_day_commitment: >
+  Counterfactual 90 days following the February 18, 1992 Almaty signing: (1) commission
+  a World Bank canal-efficiency assessment using available Soviet-era data; (2) provide
+  Kazakhstan with an in-principle commitment to fund a North Aral dam study; (3) draft
+  a minimum-flow reporting clause for inclusion in the IFAS operating protocol before
+  Uzbekistan assumes the first rotating chair; (4) invite Karakalpak representatives to
+  IFAS technical committees as observers with documented standing.
+
+# --- STRESS TEST AND REFINEMENT ---
+
+stress_test:
+  political: >
+    Kazakhstan's unilateral dam-building sets a precedent that upstream states
+    (Kyrgyzstan, Tajikistan) could invoke to justify unilateral hydropower projects on
+    the Syr Darya and Amu Darya headwaters, which would harm Uzbekistan's downstream
+    irrigation. What solves the North Aral could deepen the upstream-downstream
+    conflict in the whole basin.
+  institution: >
+    The World Bank's 1992 operational policies did not permit conditioning loans in
+    one country on water governance choices by a neighboring country. Changing this
+    would require a Board policy revision, not a project decision, and could take years.
+  wrong_assumption: >
+    Canal efficiency gains may not be "free." Some efficiency improvements eliminate
+    the flexibility—deliberate overwatering as a labor-management and insurance
+    strategy—that Uzbek farmers depend on. The 40% "loss" figure includes water that
+    recharges local water tables used by rural communities.
+  missing_resource: >
+    Accurate canal-efficiency monitoring data was Soviet-era and had degraded since
+    1991. The ICWC monitoring network needed rehabilitation before it could provide
+    the baseline for any reporting requirement.
+  fail_within_12_months: >
+    Uzbekistan under Karimov was structurally unlikely to accept World Bank
+    conditionality on agricultural water use under any circumstances, because the
+    cotton system was how the regime controlled rural labor and generated political
+    loyalty. No World Bank project offer would have overcome this constraint within
+    12 months.
+
+revised_problem_definition: >
+  The binding constraint is not hydrological—it is the political economy of Uzbekistan's
+  cotton regime. Karimov's government depended on cotton for hard currency and rural
+  population control. Any agreement that actually reduced Uzbekistan's water withdrawals
+  threatened regime stability. The real problem is not "how to design an enforceable
+  water-sharing treaty" but "how to build a conservation pathway that does not require
+  Uzbekistan's government to choose between the treaty and its political survival." This
+  reframes "environmental governance" as "political economy transition"—a problem that
+  requires economic transformation at a scale and pace no 1992 diplomatic instrument
+  could deliver, and that the international community was not prepared to fund.
+
+# --- HONESTY ---
+
+flag: >
+  Diplomatic agreements for shared-resource management fail when one signatory's
+  domestic political survival depends on non-compliance. Principled pragmatism can find
+  18th camels for technical coordination problems; the Kok-Aral Dam is proof. But it
+  has no camel for the case where compliance requires a government to undermine the
+  basis of its own power. The Aral Sea's partial recovery—achieved unilaterally, not
+  multilaterally—is both the success story and the limit of the framework: principled
+  pragmatism worked for Kazakhstan, working alone, within its own borders. It did not
+  work for the shared sea.
+
+sources:
+  - "Micklin, P. (1988). Desiccation of the Aral Sea: A water management disaster in the Soviet Union. Science, 241(4870), 1170-1176. [VERIFIED - landmark scientific assessment]"
+  - "Weinthal, E. (2002). State Making and Environmental Cooperation: Linking Domestic and International Politics in Central Asia. MIT Press. [VERIFIED - comprehensive IFAS negotiation analysis]"
+  - "Small, I., van der Helm, R., & Aladin, N. (2001). To see the Aral Sea again. Ambio, 30(5), 341-345. [VERIFIED - scientific options assessment]"
+  - "World Bank. (2005). Saving a Corner of the Aral Sea. World Bank Results page. [VERIFIED - Kok-Aral Dam project results]"
+  - "ICWC (1992). Agreement on Cooperation in the Field of Joint Management on Utilization and Protection of Water Resources from Interstate Sources. Almaty, February 18, 1992. [VERIFIED - founding text at icwc-aral.uz]"
