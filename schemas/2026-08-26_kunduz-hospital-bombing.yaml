@@ -1,0 +1,264 @@
+## Identity
+case_id: kunduz-hospital-bombing
+title: "The 68 Minutes"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Asia (Kunduz, Afghanistan; Kandahar, Afghanistan; Washington D.C., USA)"
+recency: recent
+year: 2015
+rubric_version: 1
+
+## The three perspectives
+scientist: >
+  What was known in the AC-130's targeting chain on October 3, 2015? US AFSOC had
+  received intelligence—provided by Afghan National Army forces on the ground—indicating
+  Taliban commanders were using a building in Kunduz as a command center. The GPS
+  coordinates MSF had provided to US and NATO military contacts just days before the
+  attack identified the Kunduz Trauma Centre at the same grid reference. These two data
+  sets were never cross-referenced in real time. The targeting model asked: "Am I
+  authorized to fire at these coordinates?" It did not ask: "Are these coordinates on
+  the no-strike list?" The scientist diagnoses: the model that should have been used—
+  positive target identification before fire authorization—was not the model that was
+  used. What the crew didn't know: whether patients remained inside; whether the GPS
+  coordinates they received matched the building they were targeting; whether the
+  Taliban intelligence was current.
+humanist: >
+  The Kunduz Trauma Centre was the only facility providing free surgical trauma care in
+  northeastern Afghanistan—a region of 300,000 people and active conflict since 2001.
+  At 2:08 AM on October 3, 2015, patients were in their beds recovering from surgery.
+  Khaled Khaled, MSF's head of mission in Afghanistan, was calling US and NATO
+  de-confliction numbers from his mobile phone as the AC-130 gunship circled overhead.
+  He was put on hold. He called again. He was transferred. He was put on hold again.
+  The humanitarian reading: the 42 people killed—24 patients, 14 MSF staff, 4
+  caretakers—died not because the military wanted to kill them, but because the system
+  designed to protect them was never consulted. Medical neutrality as a legal category
+  ceased to function the moment it existed only in a database no one checked.
+engineer: >
+  The US-Afghan Joint Operations Center in Kandahar had the authority to halt the strike
+  at any point during the 68 minutes the AC-130 was firing. The de-confliction system
+  as designed required MSF to provide GPS coordinates to military actors—this had been
+  done, on September 29, four days before the attack. The system did not require military
+  actors to cross-reference those coordinates against the no-strike list before
+  authorizing fire. The engineer identifies the gap: the system's authorization logic
+  was "proceed unless told not to" rather than "confirm it's a valid target before
+  proceeding." The no-strike list existed in a database. The fire authorization chain
+  existed in a separate communications system. They were never integrated.
+
+archetype_dominant: engineer
+crowded_out_mode: thinking (target verification before lethal force authorization)
+
+## Diagnosis of the problem space
+scientific_facts: >
+  - MSF provided GPS coordinates for the Kunduz Trauma Centre to US forces in Kabul on
+    September 29, 2015—four days before the attack.
+  - The AC-130 began firing at 2:08 AM on October 3, 2015; the attack continued for
+    approximately 68 minutes.
+  - 42 people were killed: 24 patients (including 3 children), 14 MSF staff, 4 caretakers.
+  - MSF called US military and NATO de-confliction numbers during the attack; the bombing
+    continued for 30 minutes after US forces in Kabul were notified.
+  - The Pentagon's own investigation found that the crew did not have the required
+    Positive Identification of the target as a hostile force before firing.
+  - The hospital building was visually distinctive (TRAUMA CENTER painted on the roof)
+    and located 300 meters from the building the Afghan forces had originally identified.
+social_facts: >
+  - The Kunduz Trauma Centre was the only free surgical trauma facility in northeastern
+    Afghanistan, treating both civilians and combatants without discrimination.
+  - MSF's de-confliction practice (providing GPS coordinates to all parties in a conflict)
+    was the organization's primary operational protection mechanism.
+  - The US military's Joint Operations Center was aware of the no-strike list; the
+    AC-130 crew was not required to consult it before receiving fire authorization.
+  - Kunduz had fallen to the Taliban briefly in late September—the first urban area
+    taken since 2001. Afghan National Army forces were under significant pressure.
+political_realities: >
+  - The US military declined MSF's formal request for an independent international
+    humanitarian fact-finding commission (IHFFCT), citing the existence of their own
+    internal investigation.
+  - Afghanistan's government supported the US military's position throughout.
+  - The incident triggered a formal MSF demand for Security Council referral, which
+    did not proceed.
+  - The US government paid condolence payments to victims' families but did not
+    admit legal wrongdoing or characterize the attack as a war crime.
+uncertainty_and_ambiguity: >
+  Uncertainty: Whether the intelligence report that Taliban commanders were present
+  in the hospital was accurate (post-investigation: it was not—no confirmed Taliban
+  presence in the hospital was established). Whether the AC-130 crew knew they were
+  targeting the same building as the MSF coordinates.
+  Ambiguity: "Feasible precautions" under IHL meant different things to the military
+  (time-urgent ground-support situation) and to MSF (cross-referencing a pre-provided
+  coordinates list). The legal obligation was the same; the operational meaning was not.
+key_tensions:
+  - "Speed of ground-support authorization vs. time required for target verification:
+    the operational imperative (Afghan forces under fire) compressed the authorization
+    timeline below what verification required."
+  - "Protected status of medical facilities vs. intelligence chain that said otherwise:
+    the legal protection was absolute; the intelligence was probabilistic and was never
+    reconciled against the legal constraint."
+  - "Military accountability vs. coalition relationship management: a full accountability
+    process would have implicated Afghan National Army forces who provided the targeting
+    intelligence, creating political costs."
+problem_definition: >
+  How do military actors integrate no-strike legal protections into real-time fire mission
+  authorization when the decision speed required in combat exceeds the time available for
+  verification, and the relevant databases are architecturally disconnected?
+
+## The metaphors
+one_plus_one: >
+  The Afghan National Army asked: "Can you destroy that building?" The US AFSOC commander
+  asked: "Am I authorized to fire at these coordinates?" MSF's de-confliction system
+  answered: "This is a protected hospital." Three questions flowing through three separate
+  channels that never connected in the same authorization chain. 1+1 produced three
+  separate ones; the one that controlled the trigger was the one that never knew about
+  the others.
+where_is_x: >
+  The intervention point was the fire mission authorization step in the Kandahar Joint
+  Operations Center in the minutes between the Afghan National Army request and the
+  AC-130's first rounds. Specifically: the moment at which a targeting officer with access
+  to the no-strike database could have been required—procedurally, by standing order—
+  to cross-reference the coordinates before transmitting authorization. This step did not
+  exist. Adding it would have added approximately 3-5 minutes to the authorization chain.
+eighteenth_camel: >
+  A "protective targeting confirmation" step—a positive, documented authorization
+  specifically for any grid coordinates within 500 meters of a known medical, school,
+  or religious facility, requiring a legal review officer's affirmative sign-off in
+  addition to the standard fire authorization. Not a blanket ban on fires near hospitals;
+  not a slowing of all fire authorizations; a specific third step for a narrow category
+  of coordinates flagged by the no-strike database. This step was proposed and partially
+  implemented after Kunduz; it was not in place before. The 18th camel was technically
+  available but institutionally absent.
+solomon_check: >
+  US military advisors evaluating another coalition's targeting procedures—for example,
+  reviewing French targeting protocols in Mali—would immediately flag the architectural
+  gap: "Your no-strike database and your fire authorization chain are separate systems
+  with no integration requirement." This review was not applied internally. The Solomon
+  Paradox operates at the institutional level: the evaluation capacity existed, but was
+  directed outward, not inward.
+urgency_vs_actionability: >
+  The AC-130 was on station; the Afghan National Army was under fire; the Kunduz regional
+  commander needed ground support in minutes, not hours. The urgency was genuine. The
+  actionability gap: there was no fast-path verification available—the no-strike database
+  was not accessible through the fire authorization software—so verification structurally
+  could not happen at the speed the situation required. In a system where verification
+  adds 5 minutes to an authorization that commanders have 2 minutes to give, verification
+  is not slow—it is absent.
+
+## Conditions, capacity, constraints
+enabling_conditions: >
+  - GPS coordinates had been provided proactively by MSF four days before the attack,
+    giving the military the information needed to avoid the hospital.
+  - A no-strike list existed and included the hospital.
+  - US military legal advisors (JAG officers) were available 24/7 and could have been
+    integrated into the authorization chain.
+  - The AC-130 had a 68-minute firing window; at multiple points the strike could have
+    been halted.
+capacities: >
+  - The Kandahar JOC had radio authority to halt the strike at any moment.
+  - MSF was calling in real time; the information that the hospital was under attack
+    reached US military command in Kabul within 30 minutes.
+  - The no-strike database could be queried in under 60 seconds.
+constraints: >
+  - The fire authorization software and the no-strike database were not integrated
+    (binding constraint: architectural, not procedural).
+  - The tactical communication channels between the Afghan National Army on the ground,
+    the JOC in Kandahar, and the AC-130 overhead were separate from the humanitarian
+    de-confliction channel MSF was using.
+  - No requirement existed for a JAG officer to confirm fire authorization for grid
+    coordinates near known protected sites.
+
+## Decision pathway
+decision_pathway: Redesign
+tools:
+  - "Protected coordinates integration → purpose: merge the no-strike database with
+    the fire mission authorization software → how it changes interaction: the
+    authorization officer sees a flag in real time if submitted coordinates match or
+    are within 500 meters of a no-strike entry, before authorization can be transmitted."
+  - "De-confliction channel integration → purpose: connect the humanitarian
+    de-confliction hotline directly to the JOC's communications room, not to a separate
+    desk → how it changes coordination: MSF's 2:08 AM call would have reached the same
+    officer who transmitted the fire authorization, creating a single decision-maker
+    rather than two parallel systems."
+  - "Legal review trigger → purpose: any fire mission near a flagged coordinate requires
+    a JAG officer's documented affirmative sign-off → how it changes learning: every
+    near-miss is logged, creating data for after-action review and system improvement."
+metrics:
+  - "Authorization chain integration rate → measure: percentage of fire missions in
+    proximity to no-strike coordinates that include a documented JAG confirmation →
+    method: operational audit, 90-day rolling average."
+  - "De-confliction response time → measure: time from humanitarian organization's call
+    to the JOC de-confliction desk to arrival in the fire authorization chain →
+    method: communications log timestamps."
+ninety_day_commitment: >
+  Counterfactual (retrospective): In the 90 days following the attack, ISAF and
+  AFSOC commission a joint technical working group to design and begin implementing the
+  protected coordinates integration. The group includes MSF technical staff and legal
+  experts alongside military targeting personnel. The first milestone: a prototype
+  integration that cross-references no-strike coordinates against incoming fire missions
+  is deployed in the Kabul JOC. Simultaneously, the Kandahar JOC installs a direct
+  communications line to the humanitarian de-confliction desk that routes to the same
+  duty officer handling fire authorizations.
+
+## Stress test and refinement
+stress_test:
+  political_derailment: >
+    The Afghan government could reject any protocol that slows fire-support authorization,
+    arguing that the additional 5-minute verification window puts Afghan National Army
+    soldiers at greater risk in time-critical engagements. This framing makes
+    "protecting hospitals" appear to be in direct conflict with "protecting Afghan forces."
+  institutional_block: >
+    AFSOC could argue that a mandatory third-step authorization creates a decision
+    bottleneck that degrades tactical effectiveness and that the Kunduz incident was
+    a procedural failure, not a systemic gap—and that retraining, not redesign, is the
+    appropriate response.
+  wrong_assumption: >
+    The assumption that database integration would have prevented the attack may be
+    wrong. If the operational urgency was sufficient to bypass existing procedures
+    (it was—existing procedures were not followed), a new procedural requirement
+    might also have been bypassed under the same urgency. New procedures without
+    enforcement mechanisms are instructions, not constraints.
+  missing_resource: >
+    Technical integration between the no-strike database and the fire mission
+    authorization software requires an IT modernization project across multiple
+    military IT systems—estimated timeline: 18-24 months, not 90 days. The paper
+    procedure can be written in days; the software integration takes years.
+  twelve_month_failure: >
+    A similar incident occurs in a different theater because the procedure was
+    implemented on paper in AFSOC but the software integration was still 12 months
+    from deployment. The paper procedure requires the authorization officer to
+    manually query a separate system under time pressure—under urgency, this step
+    is skipped, same as before.
+revised_problem_definition: >
+  The problem is not what authorization procedure was missing from the Kunduz decision
+  chain. The problem is that military targeting systems are architecturally designed
+  such that intelligence data (Taliban present) and legal data (hospital protected)
+  flow through separate information systems that have no mandatory convergence point
+  before lethal force is authorized. Fixing this requires database integration, not
+  procedural retraining—and database integration is measured in years and budget cycles,
+  not in 90-day commitments. The revised problem: how does an institution with a
+  years-long procurement cycle protect against a decision that takes 3 minutes?
+
+## Honesty
+flag: >
+  International humanitarian law requires combatants to take "all feasible precautions"
+  before attacking. But "feasible" is defined in relation to the tactical situation,
+  and the tactical situation is controlled by the party doing the attacking. A legal
+  standard that those it governs can calibrate to their own operational context is not
+  a constraint—it is a discretionary standard. The gap between what IHL requires in
+  text and what commanders decide is feasible in practice is not a gap that principled
+  pragmatism can close. It requires an enforcement mechanism that does not exist.
+sources:
+  - "Médecins Sans Frontières, 'Kunduz Trauma Centre Bombing: MSF Internal Review'
+    (November 2015). MSF's own investigation of the incident, including timeline and
+    communications log. Verified."
+  - "US Department of Defense, 'Unclassified Summary of the AR 15-6 Investigation into
+    the Airstrike on the MSF Trauma Center, Kunduz, Afghanistan' (April 29, 2016).
+    Pentagon investigation findings. Verified."
+  - "United Nations Assistance Mission in Afghanistan (UNAMA), 'Protection of Civilians
+    in Armed Conflict Annual Report 2015' (February 2016). Context on protection norms.
+    Verified."
+  - "Human Rights Watch, 'US: Kunduz Hospital Attack Looks Like a War Crime'
+    (October 7, 2015). Independent legal analysis. Verified."
+  - "MSF, 'Kunduz: Twelve Months of Seeking Truth, Accountability, and Prevention'
+    (October 2016). Follow-up documentation of US government's response and MSF demands
+    for independent investigation. Verified."
+  - "Physicians for Human Rights, 'Anatomy of a War Crime: Reconstructing the Kunduz
+    Airstrike' (2016). Medical and technical analysis of the attack's impact. Verified."
