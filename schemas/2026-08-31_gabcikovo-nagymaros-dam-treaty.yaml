@@ -1,0 +1,275 @@
+case_id: gabcikovo-nagymaros-dam-treaty
+title: "The River That Both Sides Won"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Europe (Danube River; Budapest, Hungary; Bratislava, Slovakia; The Hague, Netherlands — ICJ)"
+recency: historical
+year: 1992
+rubric_version: 1
+
+# Three perspectives — all three required before prose
+scientist: >
+  The Danube at the bifurcation point below Gabcikovo carries roughly 200 billion cubic
+  meters of water annually. Slovak and Hungarian hydrological models agreed on the basic
+  hydrology but differed sharply on impact: Slovak engineering assessments projected that
+  Variant C (the unilateral diversion works) would return adequate flow to the old Danube
+  channel; Hungarian models estimated the old channel would receive only 10-20% of natural
+  flow, causing groundwater levels in the Szigetköz alluvial plain — which supplies drinking
+  water to hundreds of thousands of people in western Hungary — to drop by 1-3 meters (Slovak
+  estimate) or 3-5 meters (Hungarian estimate). The scientific dispute was real: both sides
+  had credentialed hydrologists and different modeling assumptions. The ICJ 1997 judgment
+  confirmed that the operation of Variant C led Czechoslovakia to appropriate between 80 and
+  90 per cent of the Danube's waters before returning them to the main bed, reducing flows
+  in the Hungarian reach substantially. Neither side's model was falsified before the
+  diversion was already a fait accompli.
+
+humanist: >
+  The 1977 Treaty was signed between Communist Hungary and Communist Czechoslovakia without
+  democratic consent from either population. By 1989 both regimes had been peacefully
+  overthrown. For Hungarian citizens who had just voted out the government that signed the
+  treaty, the Gabcikovo-Nagymaros project was not merely an engineering question — it was a
+  Communist-era symbol of gigantism and disregard for ecological and human costs, the same
+  ideology they had rejected. Opposition to the dam had been one of Hungary's first organized
+  legal protest movements: the Duna Kör (Danube Circle) had collected 100,000 signatures
+  against the project in 1984 under Communist rule. For Slovaks, approaching independence
+  from the Czech Republic (achieved January 1993), the Gabcikovo dam was an assertion of
+  national identity and economic sovereignty. Abandoning it felt like confirming that Slovakia
+  could not govern itself. These were competing stories about democratic legitimacy, not
+  competing engineering preferences — a distinction neither side's formal legal position
+  acknowledged.
+
+engineer: >
+  The 1977 Treaty created a joint investment of billions of dollars committed to a specific
+  technical specification: a paired lock-and-reservoir system, one structure on each
+  country's territory. Slovak engineers faced a real hydraulic problem when Hungary withdrew:
+  the upstream reservoir at Gabcikovo had no downstream regulation without Nagymaros, making
+  the Gabcikovo turbines operationally marginal and the impounded water-level uncontrolled.
+  Variant C was a competent engineering solution to a real problem — redirect the Danube
+  through the Slovak works, generate the designed power output, and proceed without Hungary.
+  The engineering was sound. The problem was that Variant C required diverting the Danube
+  at a point that constituted an international boundary, without the other riparian state's
+  consent, and without any mechanism to govern the downstream consequences for Hungarian
+  territory. The doing mode produced an operational solution that had no legal or diplomatic
+  standing.
+
+archetype_dominant: engineer
+crowded_out_mode: >
+  thinking (what does contemporary environmental science say about long-term Danube
+  modification and the alluvial aquifer? An independent review was proposed and rejected
+  in December 1991.) and feeling (what do the newly-democratic citizens of Hungary
+  legitimately want from a Communist-era treaty they never ratified?)
+
+# Diagnosis
+scientific_facts: >
+  The Gabcikovo hydropower plant was designed to generate 720 MW (Slovak side). Variant C
+  appropriated 80-90% of Danube flow through Slovak diversion works and returned it to the
+  main bed downstream, reducing the flow in the old Hungarian-Slovak boundary channel to
+  10-20% of natural flow. The Szigetköz alluvial plain — a 375 km² natural groundwater
+  reservoir supplying a significant portion of western Hungary's drinking water — depends
+  on this flow for recharge. The degree of impact was scientifically disputed between
+  Slovak and Hungarian hydrologists; both models were credentialed and neither had been
+  validated against observed data before Variant C became operational.
+
+social_facts: >
+  The 1977 Treaty had been signed by Communist governments. Post-1989 Hungarian governments
+  argued they were not democratically bound by a regime they had replaced. The Duna Kör had
+  documented ecological concerns as far back as 1984. By 1992, Hungary's parliament had
+  voted to terminate the treaty. Slovak public opinion, approaching independence, viewed the
+  dam as integral to Slovak economic and national identity. The ICJ was asked to adjudicate
+  between two societies undergoing simultaneous democratic transitions, neither of which had
+  chosen the 1977 commitments that now bound them.
+
+political_realities: >
+  Hungary's government was navigating EU accession; halting the dam aligned with EU
+  environmental standards. Slovakia also sought EU accession; completing the dam asserted
+  treaty reliability as an international actor. Both states went to the ICJ in April 1993.
+  The diversion (October 1992) was a fait accompli before the ICJ could act. Any
+  negotiated solution required both governments to accept coordination costs that neither
+  domestic political constituency rewarded. The EU offered no direct mechanism to compel
+  a joint management regime.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: the precise hydrological impact of Variant C on the Szigetköz aquifer
+  — both models were plausible; the true impact required post-implementation monitoring
+  that neither side had agreed to conduct jointly. Ambiguity: what "substantial equivalent
+  performance" of the original treaty meant — Slovakia argued Variant C delivered
+  equivalent power generation; Hungary argued equivalence required the original shared
+  project. The 1977 treaty used the word "environment" but neither party had agreed on
+  what it required.
+
+key_tensions:
+  - "Treaty sanctity vs. environmental sovereignty: Slovakia's right to demand treaty fulfillment vs. Hungary's right to exit a treaty based on new environmental evidence"
+  - "National identity vs. shared river governance: each country's post-communist democratic legitimacy required asserting control, not sharing it"
+  - "Engineering commitment vs. adaptive management: a treaty written as a technical specification vs. a living agreement that could respond to new information"
+
+problem_definition: >
+  After Hungary suspended its obligations under a 1977 Communist-era treaty for a shared
+  Danube dam, and Slovakia responded with a unilateral diversion appropriating 80-90% of
+  the river's flow, how should two newly-democratic states govern a shared river under
+  genuine scientific uncertainty, competing national narratives, and the absence of any
+  institutional mechanism to make environmental evidence binding on treaty performance?
+
+# Metaphors
+one_plus_one: >
+  Hungary was answering "how do we protect the Szigetköz aquifer and honor our democratic
+  mandate to revisit Communist-era commitments?" Slovakia was answering "how do we recover
+  our investment, establish treaty reliability, and complete a project integral to our
+  national identity as a new state?" Both called their answer "Danube management." When
+  they negotiated, 1+1 = two mutually exclusive national legitimacy claims, not a joint
+  river agreement.
+
+where_is_x: >
+  The December 1991 negotiating session in Budapest, where Hungary proposed a joint
+  independent environmental impact assessment as a condition for resuming construction.
+  Slovakia rejected this as inadmissible renegotiation of treaty terms — any environmental
+  review would have to take place within the original treaty framework, not as a condition
+  for fulfilling it. That rejection is the X: the specific refusal to treat independent
+  environmental assessment as a legitimate treaty modification mechanism. Had Slovakia
+  accepted in December 1991, Variant C would not have been necessary: a joint review could
+  have modified construction specifications, established minimum flow guarantees, and given
+  both parties a face-saving basis to adapt the treaty to post-Communist political realities.
+
+eighteenth_camel: >
+  A Joint Environmental Assessment Commission, convened December 1991, with authority to:
+  (1) pause Gabcikovo construction pending review; (2) recommend legally binding
+  modifications to treaty specifications based on findings; (3) issue minimum flow
+  guarantees for the Hungarian reach as a treaty-embedded obligation. Not a compromise
+  between "build as 1977 specified" and "cancel everything" — a third institution that
+  makes independent environmental evidence the arbiter and gives both states a path that
+  preserves treaty integrity while adapting its terms. The ICJ subsequently named exactly
+  this mechanism in paragraph 141 of its 1997 ruling, instructing both parties to
+  "negotiate in good faith" a joint management regime. That instruction was never implemented.
+
+solomon_check: >
+  Both Hungary and Slovakia would have advised a third pair of states in the same position
+  — sharing a transboundary river with a disputed Communist-era treaty — to establish a
+  joint environmental review mechanism rather than proceed with unilateral engineering.
+  They could not apply this wisdom to themselves because each state's domestic political
+  legitimacy required demonstrating sovereignty over the river, and any joint mechanism
+  required surrendering some of that sovereignty.
+
+urgency_vs_actionability: >
+  Slovakia's Variant C diversion proceeded at an engineering pace: from the July 1991
+  decision to actual damming on October 23, 1992 was 15 months. A joint environmental
+  assessment commission, even given compressed timelines, would have required 18-24 months
+  to produce credible findings. The engineering pace was faster than the diplomatic pace;
+  by the time a review could have concluded, the fait accompli would already have been
+  achieved. This temporal gap — engineering urgency outrunning diplomatic actionability —
+  is exactly the structure of the harm.
+
+# Conditions
+enabling_conditions: >
+  Post-Communist transition weakened the legitimacy of Communist-era treaties for both
+  parties. EU accession processes created incentives for both sides to resolve bilateral
+  disputes — but also incentives to demonstrate treaty reliability. The ICJ mechanism was
+  available and ultimately used. An ICPR-style model for transboundary river governance
+  existed in Western Europe and could have been adapted. The enabling condition that was
+  weakening: the December 1991 negotiating channel, where direct talks were still possible
+  before unilateral action became the default.
+
+capacities: >
+  Both states had capable engineering and legal teams. The ICJ was an available forum.
+  International environmental law had evolved enough by 1991 to support an "environmental
+  necessity" argument (which Hungary used, partially successfully, before the ICJ). The
+  ICPR had established a working model for joint transboundary water governance on the
+  Rhine. The political capacity to accept a joint commission existed in principle; it was
+  not utilized.
+
+constraints: >
+  Binding constraint: the 1977 Treaty as a technical specification that left no formal
+  mechanism for adaptive modification based on post-signature environmental assessment.
+  A treaty written as a construction contract rather than a governance framework. The
+  secondary constraint: post-Communist national identity politics made any concession
+  to the other party's position feel like a domestic political defeat.
+
+# Decision pathway
+decision_pathway: Redesign
+decision_pathway_detail: >
+  Counterfactual pathway (available at December 1991): redesign the treaty instrument
+  from a construction contract into an adaptive governance framework. Both parties agree
+  to a six-month environmental assessment pause; an independent ICPR-led commission
+  reviews the hydrological models and establishes binding minimum flow thresholds for the
+  Hungarian reach as a treaty condition; Gabcikovo construction continues on a modified
+  specification that incorporates the flow guarantees; Nagymaros is suspended pending
+  findings. Neither country abandons its core position; both accept an independent arbiter
+  of the environmental facts.
+
+tools:
+  - "Joint Environmental Assessment Commission → purpose: provides independent scientific basis for treaty modification → changes coordination: neither party can veto findings unilaterally; evidence becomes the arbiter rather than negotiating position"
+  - "Minimum flow guarantee clause → purpose: specifies legally binding minimum flow in old Danube channel as treaty obligation → changes interaction: Slovakia retains power generation rights; Hungary retains aquifer protection guarantee; a threshold violation triggers automatic ICJ arbitration"
+  - "Staged construction protocol → purpose: allows Gabcikovo to proceed in phases contingent on monitoring results from each completed stage → changes learning: real-world data replaces modeled projections as the basis for specifications at each gate"
+
+metrics:
+  - "Flow in old Danube channel → m³/s, proportion of natural flow → continuous gauging at two stations, quarterly report to joint commission"
+  - "Groundwater depth in Szigetköz alluvial plain → meters below surface at ten monitoring wells → quarterly automatic measurement, compared against pre-diversion baseline"
+  - "Power generation per unit of minimum flow guarantee maintained → MW output per compliance unit → annual basin-wide assessment by joint commission"
+
+ninety_day_commitment: >
+  (Counterfactual, December 1991) By March 1992: Hungary and Slovakia jointly commission
+  an independent hydrological review by ICPR or a similar body with established
+  transboundary credentials. Slovakia accepts a voluntary six-month pause on Variant C
+  preparation pending findings. Both delegations bring draft treaty amendment language
+  specifying minimum flow obligations to the review's first session. The Hungarian
+  parliament ratifies a provisional continuation of the treaty pending environmental
+  review, avoiding the legal rupture that made Variant C legally necessary from Slovakia's
+  perspective.
+
+# Stress test
+stress_test:
+  political: >
+    Slovak independence (January 1, 1993) changed the treaty parties mid-dispute: the 1977
+    Treaty was with Czechoslovakia, not Slovakia. The legal continuity question gave Slovakia
+    additional grounds to argue the treaty as originally signed was no longer enforceable
+    and that it was proceeding under its own sovereign right.
+  institutional: >
+    The EU could encourage but not compel a joint management arrangement; neither country
+    was yet a member. The ICJ could rule but not enforce. The ICPR's authority was limited
+    to its own Rhine basin mandate and could not be extended by fiat.
+  wrong_assumption: >
+    The assumption that both parties shared a baseline interest in the Danube ecosystem
+    proved incorrect. Slovakia's primary interest was power generation and national
+    sovereignty; ecological outcomes were secondary. A joint review that found "no
+    significant harm" would have forced Hungary to continue the project it had already
+    terminally opposed for democratic legitimacy reasons.
+  missing_resource: >
+    An independent hydrological body with established transboundary credibility and the
+    procedural speed to produce binding findings within 6 months. In 1991, no such body
+    existed for the Danube basin; the ICPR covered only the Rhine.
+  failure_within_12_months: >
+    A joint commission that takes 18 months to produce findings becomes a fait accompli
+    enabler: Slovakia would argue that any delay is effectively Hungarian sabotage, and
+    the commission's findings would arrive after the engineering window had closed.
+
+revised_problem_definition: >
+  After one party (Hungary) withdrew from a Communist-era engineering treaty for democratic
+  and environmental reasons and the other (Slovakia/Czechoslovakia) responded with a
+  unilateral diversion appropriating 80-90% of a shared international river, how do two
+  newly-democratic states arrive at a governance framework when (a) the treaty instrument
+  was written as a construction contract with no adaptive mechanism; (b) the engineering
+  pace has outrun the diplomatic pace; (c) domestic political legitimacy for each government
+  requires asserting rather than sharing sovereignty over the river; and (d) the only
+  independent institution with authority to rule (the ICJ) can name the 18th camel but
+  cannot make either party mount it?
+
+# Honesty
+flag: >
+  The ICJ issued exactly the right ruling on September 25, 1997: both sides breached the
+  treaty; neither gets a clean win; the path forward is a jointly negotiated adaptive
+  management regime (the court named it). More than 27 years later, the joint management
+  regime does not exist. Gabcikovo operates as a Slovak facility; Nagymaros was never
+  built; the old Danube channel is partially restored through negotiated minimum flows but
+  without the institutional framework the ICJ called for. Both governments accepted the
+  ruling and declined to implement its core instruction. The flag: principled pragmatism
+  cannot account for the situation where the 18th camel is explicitly named and formally
+  endorsed by the authoritative international institution available, and still fails to
+  land because the political cost of shared governance exceeds, for both parties, the
+  political cost of frozen non-compliance. The framework has no theory of what to do when
+  the camel is visible, named, and unwanted.
+
+sources:
+  - "International Court of Justice. Case Concerning the Gabcikovo-Nagymaros Project (Hungary/Slovakia). Judgment of 25 September 1997, ICJ Reports 1997, p. 7. Verified: full text publicly available at icj-cij.org/case/92."
+  - "Fitzmaurice, Malgosia. 'The Gabcikovo-Nagymaros Case: The Law of Treaties.' Leiden Journal of International Law 11(2), 1998: 321-344. Verified: peer-reviewed law journal, available via JSTOR."
+  - "Boyle, Alan. 'The Gabcikovo-Nagymaros Case: New Law in Old Bottles.' Yearbook of International Environmental Law 8(1), 1997: 13-20. Verified: Oxford Journals, available via JSTOR."
+  - "Wilson Center. 'Solving the Gabcikovo-Nagymaros Dam Conflict.' Working Paper 171, Woodrow Wilson International Center for Scholars. Verified: publicly available at wilsoncenter.org."
+  - "Mucha, Igor. 'Groundwater in the Danube Lowland: The Gabcikovo-Nagymaros Hydroelectric Project.' Water International 18(3), 1993: 138-145. Verified: Taylor & Francis, cited in ICJ proceedings as expert evidence."
