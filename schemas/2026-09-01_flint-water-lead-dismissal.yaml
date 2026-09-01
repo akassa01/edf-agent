@@ -1,0 +1,275 @@
+case_id: flint-water-lead-dismissal
+title: "The Hundred-Dollar-a-Day Decision"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Americas (Flint, Michigan, USA)"
+recency: recent
+year: 2014
+rubric_version: 1
+
+# Three perspectives — all three required before prose
+
+scientist: >
+  By March 2014, Michigan DEQ engineers had data showing the Flint River's high chloride
+  concentration made it significantly more corrosive than the Lake Huron water Flint had
+  previously purchased from Detroit. The Lead and Copper Rule (LCR), 40 CFR Part 141,
+  requires that community water systems supplying more than 50,000 people implement optimized
+  corrosion control treatment (OCCT), typically orthophosphate, which coats the interior
+  surfaces of lead service lines and brass fixtures, preventing leaching. The MDEQ classified
+  Flint as exempt during a "transitional period," an interpretation with no basis in the LCR
+  text. When Virginia Tech civil engineer Marc Edwards led a crowdfunded household testing
+  campaign in August–September 2015, 40% of tested homes exceeded the federal action level
+  of 15 μg/L lead. Dr. Mona Hanna-Attisha's retrospective blood lead data, published in the
+  American Journal of Public Health in 2016, showed blood lead levels in Flint children had
+  doubled or tripled in some ZIP codes. The scientific facts were not genuinely contested
+  once independent data existed. What was contested earlier was whose data counted as
+  legitimate evidence.
+
+humanist: >
+  Flint's population is approximately 57% Black and has a median household income roughly
+  half the national average. When residents began calling the city in May 2014 reporting
+  brown water, foul odors, and children with rashes, their complaints entered what MDEQ
+  internal communications described as a "public relations problem." The GM engine plant
+  switched back to Detroit water in October 2014 after reporting that Flint River water was
+  corroding engine parts — a fact residents raised immediately and were told was irrelevant
+  to drinking water safety. The community's felt experience was one of coordinated dismissal:
+  each individual complaint was handled as an outlier. The community did not know it was not
+  alone because nobody in authority aggregated the complaints. By the time independent
+  scientific data validated the community, 6,000–12,000 children had been exposed to elevated
+  lead levels, with irreversible neurological consequences. The feeling dimension — community
+  testimony as evidence — was the mode that was explicitly filtered out at every stage.
+
+engineer: >
+  Orthophosphate corrosion inhibitor was a proven, standard treatment for corrosive source
+  water. Marc Edwards testified to Congress in March 2016 that treatment would have cost
+  approximately $100 per day for a system of Flint's size — roughly $36,500 per year.
+  Flint had been under state emergency management since 2011; the emergency manager held
+  executive authority. The MDEQ had regulatory authority. The EPA Region 5 had oversight
+  authority but deferred to Michigan's interpretation. No single engineering obstacle
+  prevented adding corrosion inhibitor. The binding constraint was not technical or financial:
+  it was institutional. The emergency management apparatus had classified any expenditure
+  as potentially irresponsible, creating a political economy in which a trivially cheap
+  safety measure had to survive the same scrutiny as a capital project. Nobody owned the
+  decision not to add corrosion inhibitor, because nobody thought they were making a
+  consequential choice.
+
+archetype_dominant: humanist
+crowded_out_mode: "feeling (resident complaints, community testimony as evidence)"
+
+# Diagnosis
+
+scientific_facts: >
+  Flint River water's chloride concentration was markedly higher than Lake Huron water,
+  making it corrosive to lead and iron pipes. The Lead and Copper Rule required optimized
+  corrosion control treatment for systems over 50,000. MDEQ incorrectly classified Flint
+  as exempt. Orthophosphate treatment prevents lead leaching by forming a protective
+  carbonate or phosphate layer on lead pipe interiors. Independent testing (Virginia Tech,
+  2015) found 40% of homes exceeding EPA action levels. Pediatric blood lead surveillance
+  (Hanna-Attisha, 2016) confirmed doubled or tripled blood lead levels in affected ZIP codes.
+  These facts were measurable at any point after April 2014; they were not measured
+  independently until August 2015.
+
+social_facts: >
+  Flint is a majority-Black, low-income city under state-imposed emergency management —
+  meaning its elected officials had reduced authority. Resident complaints began within weeks
+  of the switch. The community's testimony was systematically classified as a public
+  relations problem, not a technical signal. GM's October 2014 switch back to Detroit water
+  was publicly noted by residents and dismissed as irrelevant to human health by MDEQ.
+  Each resident complaint was processed as an individual outlier. No mechanism existed for
+  resident testimony to become evidentiary. The social fact of race and poverty structured
+  whose knowledge the regulatory system treated as credible.
+
+political_realities: >
+  The switch was the Emergency Manager's decision, framed as a fiscal necessity.
+  Challenging it required admitting a fiscal decision was technically flawed, which no
+  official under emergency management had political incentive to do. Michigan's Governor
+  had political investment in validating the switch. The EPA Region 5 deferred to state
+  authority. MDEQ junior official Miguel Del Toral sent an internal memo in June 2015
+  warning of the lead problem; EPA management suppressed its circulation. The governor
+  declared a state of emergency only in January 2016, after political pressure had become
+  overwhelming.
+
+uncertainty_and_ambiguity: >
+  Genuine uncertainty: what were the actual lead levels in Flint homes? This was unknown
+  until independent testing. Genuine ambiguity: what does "safe water" mean? MDEQ conflated
+  "below EPA action level" with "safe." The EPA action level (15 μg/L) is not a safe level;
+  the CDC says there is no safe level of lead in children's blood. The ambiguity between
+  "technically compliant" and "safe" was exploited — possibly without awareness — throughout
+  the crisis. These are different categories. Collapsing them is a values choice, not a
+  scientific judgment.
+
+key_tensions:
+  - "Public fiscal discipline vs. public health precaution"
+  - "Regulatory compliance vs. community testimony as evidence"
+  - "State authority vs. federal oversight under the Lead and Copper Rule"
+
+problem_definition: >
+  Whether to add corrosion control treatment to Flint River water, given cost pressure from
+  emergency management, when community members began reporting health concerns within weeks
+  of the water source switch in April 2014.
+
+# Metaphors
+
+one_plus_one: >
+  MDEQ was answering: "Is this water within regulatory parameters as we interpret them?"
+  (1+1=compliant). Residents were answering: "Is this water safe for my children?"
+  (1+1=no). Virginia Tech was answering: "Is MDEQ's LCR interpretation correct?"
+  (1+1=no, it isn't). Three parties, three different questions, all labeled "Flint water
+  quality." MDEQ's answer was accurate to its question and catastrophically wrong to the
+  residents'.
+
+where_is_x: >
+  The April 2014 permitting decisions at which MDEQ engineers determined that corrosion
+  control was not required during Flint's "transitional period." Notes from MDEQ and city
+  communications from this period show the option of adding orthophosphate was raised and
+  dismissed without analysis. This is the precise fulcrum: a $100/day decision that would
+  have coated the lead pipes and prevented the crisis was made invisibly, by engineers
+  who believed they were making a routine classification, not a consequential choice.
+
+eighteenth_camel: >
+  The binary framing was: switch back to Detroit water (expensive, politically costly)
+  vs. continue Flint River water (cheap, unsafe). The 18th camel: add orthophosphate
+  corrosion inhibitor to Flint River water at ~$100/day, making the river water safe by
+  coating lead pipe interiors. This was neither "cancel the switch" (unavailable by April)
+  nor "accept harm." It was a third thing — a treatment that existed, was applied routinely
+  in other Michigan systems, and had been omitted on the basis of a regulatory
+  misinterpretation. The 18th camel was literally on the table at the April 2014 decision
+  point and was declined.
+
+solomon_check: >
+  Michigan DEQ engineers were capable of applying the Lead and Copper Rule correctly; they
+  had done so in other municipalities. Applied to Flint under political and financial
+  pressure, they found an interpretation that conveniently absolved them of a $100/day
+  expenditure. This is the Solomon Paradox institutionalized: the expertise required to
+  protect Flint's residents was available, and was applied elsewhere, and was
+  systematically not applied here.
+
+urgency_vs_actionability: >
+  The urgency was fiscal — Flint had a budget crisis and the Emergency Manager had a mandate
+  to cut costs. This urgency outran the actionability of the health concern: by the time
+  resident complaints were sufficiently numerous to become politically visible, the machinery
+  for dismissing them was already operating. The gap between "urgency to cut costs" and
+  "actionability of treating the water" was where 19 months of exposure happened.
+
+# Conditions, capacity, constraints
+
+enabling_conditions: >
+  Virginia Tech's crowdfunded independent testing capacity. Dr. Hanna-Attisha's access to
+  pediatric blood lead surveillance data. The community's sustained organization
+  (FlintWaterStudy.org became a clearinghouse for resident data). EPA whistleblower
+  Miguel Del Toral's internal documentation. All of these converted community testimony
+  into evidentiary form that the regulatory system could not ignore.
+
+capacities: >
+  MDEQ had full authority to require corrosion control at any point. The Emergency Manager
+  had authority to approve any expenditure, including a trivially small one. The EPA had
+  authority to enforce the LCR. City engineers had the technical knowledge to add treatment.
+  All required capacities were present; none were activated in the first 19 months.
+
+constraints: >
+  Financial emergency management framework (any expenditure requires extraordinary
+  justification). MDEQ's incorrect LCR interpretation (treated as authoritative within
+  the institution). Political investment in validating the source switch. Absence of any
+  independent testing mechanism accessible to residents. Binding constraint: the political
+  economy of emergency management, which systematically discounted non-fiscal concerns.
+
+# Decision pathway
+
+decision_pathway: >
+  Redesign. The emergency manager, upon receiving the first resident complaints in May–June
+  2014, should have commissioned an independent corrosivity assessment (~$5,000, 30 days)
+  and implemented orthophosphate treatment immediately pending results ($100/day). The
+  financial logic of the source switch did not require accepting uncontrolled lead leaching;
+  it required redesigning the transition plan to include the treatment. Who acts: the
+  Emergency Manager, on recommendation of an independent water chemist independent of MDEQ.
+  For whom: Flint's 100,000 residents, especially the 9,000 children under six. Through
+  what process: executive decision under emergency management authority, not requiring
+  council approval.
+
+tools:
+  - "Independent corrosivity assessment before source activation → establishes measurable
+    baseline before community exposure → changes the evidentiary process: corrosion risk
+    becomes a pre-condition to approval, not an afterthought"
+  - "Community health surveillance protocol (pediatric blood lead levels in ZIP codes with
+    pre-1940 pipe infrastructure) → converts invisible risk into visible signal before
+    crisis peaks → changes the unit of analysis from 'water quality' to 'child health
+    outcome,' making harm directly observable"
+  - "Joint fact-finding panel including resident representatives, MDEQ engineers, and
+    independent water chemist → gives community testimony formal evidentiary standing →
+    changes the interaction: resident knowledge enters the technical record rather than
+    the public relations queue"
+
+metrics:
+  - "Blood lead < 5 μg/dL in >95% of Flint children under 6, measured biannually through
+    pediatric surveillance at Hurley Medical Center"
+  - "Corrosion inhibitor (orthophosphate) concentration in distribution system at target
+    level, verified monthly by independent laboratory sampling at 12 locations"
+  - "Lead service line replacement: ≥10% of ~18,000 estimated lines per year, tracked
+    through city engineering records and published quarterly"
+
+ninety_day_commitment: >
+  Counterfactual: by July 2014 (90 days after the April switch), orthophosphate treatment
+  is operational; baseline blood lead surveillance is complete in the highest-risk ZIP codes;
+  a resident advisory panel is meeting monthly with MDEQ to review raw water quality data.
+  Disputes adjudicated by the independent water chemist, not by the same engineers who
+  approved the transition. Results published publicly.
+
+# Stress test and refinement
+
+stress_test:
+  political: >
+    State elections in November 2014. No administration wants to validate the source switch
+    as technically flawed months before the election. The path of least resistance is to
+    dispute resident data, and that is exactly what MDEQ did.
+  institutional: >
+    MDEQ could block any independent review by classifying it as unnecessary under their
+    LCR interpretation. Without a mechanism to challenge that interpretation — e.g.,
+    a federal EPA audit trigger — the state's reading was authoritative internally.
+  wrong_assumption: >
+    That $100/day is so cheap it faces no political barrier. In an emergency management
+    context, any expenditure — however trivially cheap — is vulnerable to being framed
+    as the thin end of a wedge that undermines the emergency manager's mandate.
+  missing_resource: >
+    An independent testing mechanism accessible to residents at the time of the switch.
+    Residents had no way to obtain lead measurements except through the utility claiming
+    the water was safe. Virginia Tech's program was the first time independent data existed.
+  twelve_month_failure: >
+    If corrosion inhibitor were added but lead service lines were never replaced,
+    children in the highest-risk homes would still face elevated exposure through lead
+    plumbing fixtures and connectors. The inhibitor is necessary but not sufficient for
+    full de-leading; it is the urgent first move, not the complete solution.
+
+revised_problem_definition: >
+  Whether to add a $100/day safety treatment to Flint River water — a measure that was
+  technically routine and financially trivial — given that the political economy of
+  emergency management made any expenditure vulnerable to being classified as fiscal
+  irresponsibility, that resident testimony of health harm had been classified as a
+  public relations problem rather than an evidentiary signal, and that the institution
+  with authority to act was also the institution that had made the original decision.
+  The binding constraint was not money. It was the accountability structure that made
+  admitting a mistake feel more costly than continuing it.
+
+# Honesty
+
+flag: >
+  Even when the science became unambiguous, the legal mechanisms for accountability —
+  criminal prosecution, civil compensation, medical monitoring — were re-bureaucratized
+  in ways that delayed and often denied remedy to the most affected residents. The
+  Michigan AG's prosecution of state officials collapsed in 2021; the civil settlement
+  required residents to waive future claims. Science can win the epistemological battle
+  and lose the political one. The tools of principled pragmatism do not include a
+  mechanism for compulsory accountability after the fact.
+
+sources:
+  - "Hanna-Attisha, M., LaChance, J., Sadler, R.C., Schnepp, A.C. (2016). Elevated Blood
+    Lead Levels in Children Associated With the Flint Drinking Water Crisis. American
+    Journal of Public Health, 106(2), 283-290. verified."
+  - "Edwards, M. et al. (2015). Flint Water Study 2015. Virginia Tech,
+    FlintWaterStudy.org. verified."
+  - "US House Committee on Oversight and Government Reform (2016). The Flint Water Crisis:
+    Systemic Failures in Government to Protect Public Health. verified."
+  - "Michigan Civil Rights Commission (2017). The Flint Water Crisis: Systemic Racism
+    Through the Lens of Flint. verified."
+  - "Pieper, K.J., Tang, M., Edwards, M.A. (2017). Flint Water Crisis Caused by
+    Interrupted Corrosion Control. Environmental Science and Technology, 51(4). verified."

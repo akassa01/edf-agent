@@ -1,0 +1,296 @@
+case_id: postoffice-horizon-infallibility
+title: "The Infallible Machine"
+case_type: documented
+mode: retrospective
+scale: individual
+region: "Europe (United Kingdom — England and Wales)"
+recency: recent
+year: 2013
+rubric_version: 1
+
+# Three perspectives — all three required before prose
+
+scientist: >
+  The Horizon IT system, developed by Fujitsu ICL, was introduced across approximately
+  11,500 Post Office branches beginning in 1999. It replaced paper-based accounting with
+  electronic terminal records. From its earliest months, Fujitsu filed internal error
+  reports — called "Peaks" — documenting software faults. Thousands of Peaks were filed
+  over the system's life. Several categories of bugs were known to cause spurious shortfalls:
+  transactions that did not complete but were charged; errors in the remote data injection
+  process; bugs in the overnight balancing routine. Second Sight, an independent forensic
+  accounting firm commissioned by the Post Office in July 2012, submitted an interim report
+  on July 8, 2013 that identified specific Horizon bugs capable of generating unexplained
+  shortfalls without any action by the subpostmaster. The Post Office's own internal
+  documents, later produced in the public inquiry, show executives and lawyers were aware
+  of Horizon's unreliability while simultaneously asserting its infallibility in criminal
+  proceedings. The scientific category at stake is not "was there a bug?" but "what makes
+  technical evidence reliable?" The Post Office collapsed reliability into infallibility —
+  two different epistemic claims.
+
+humanist: >
+  Subpostmasters — small business operators running village post offices under a franchise
+  contract — were the system's victims in two distinct senses. First, they suffered
+  financially: they were contractually liable for any shortfall their terminal reported,
+  whether or not they had caused it. Many used personal savings, family loans, and reduced
+  wages to cover phantom debts. Second, and perhaps more consequentially, they suffered
+  epistemically: the Post Office told each one they were the only person experiencing
+  the problem. This atomization was deliberate. It prevented collective action, maintained
+  the appearance of isolated individual failure, and made each subpostmaster doubt their
+  own memory and judgment. The testimony of decades-long professionals — people who could
+  account for every transaction in their branch except the ones the machine invented — was
+  treated as less credible than a computer printout. This is epistemic injustice in its
+  formal sense: the systematic refusal to recognize someone as a knower because the
+  institutional costs of doing so are too high.
+
+engineer: >
+  The Post Office holds a unique statutory power in England and Wales: it can prosecute
+  its own contractors privately, without going through the Crown Prosecution Service. This
+  power is exceptional; few organizations outside the Crown have it. It created a structure
+  in which the Post Office was simultaneously the alleged victim, the investigator, the
+  prosecutor, and the sole custodian of the technical evidence on which prosecution rested.
+  No external oversight body was positioned to observe this conflict of interest unless
+  Parliament pressed specifically. The Post Office's legal department processed shortfall
+  cases as a routine enforcement function; there was no feedback mechanism that would
+  flag when the population of cases exceeded what human error alone could explain. The
+  doing mode — prosecute, recover the debt, maintain the franchise's integrity — had
+  no institutional check from thinking (verify the technology) or feeling (what is
+  happening to these people?).
+
+archetype_dominant: scientist
+crowded_out_mode: "feeling (subpostmaster testimony, character, and lived experience as evidence)"
+
+# Diagnosis
+
+scientific_facts: >
+  Horizon generated electronic shortfall records. These records were treated in
+  prosecution as prima facie evidence of theft or false accounting. Fujitsu's Peak logs
+  documented thousands of software faults, including faults capable of generating spurious
+  shortfalls, from the system's deployment in 1999 through at least 2015. Second Sight's
+  interim report (July 8, 2013) identified specific bug categories. The Post Office had
+  access to these logs throughout and did not disclose them to defendants, violating its
+  duties under the Criminal Procedure and Investigations Act 1996. The Court of Appeal
+  ruled in April 2021 that prosecutions had been an "affront to the public conscience."
+  Known: Horizon had documented bugs capable of creating false shortfalls. How well known:
+  internally, throughout; disclosed to courts and defendants, systematically not.
+
+social_facts: >
+  Subpostmasters held franchise contracts that made them personally financially liable for
+  branch shortfalls. Many had operated branches for years or decades with no prior
+  irregularities. They were embedded in village and small-town communities where criminal
+  conviction meant social destruction. The Post Office told each separately that they
+  were uniquely at fault — a deliberate atomization that prevented collective recognition
+  of a systemic pattern. Public trust in the Post Office as a national institution was high;
+  this asymmetry made individual subpostmasters easy to disbelieve. Prosecuted individuals
+  lost homes, marriages, health, and in some cases took their own lives.
+
+political_realities: >
+  The Post Office is a government-owned corporation, answerable to a shareholder minister.
+  Between 2012 and 2019, the Post Office was being prepared for potential privatization or
+  restructuring — admitting that Horizon had generated wrongful convictions would have
+  destroyed the sale value and triggered significant government liability. Backbench MP
+  James Arbuthnot campaigned on behalf of constituents from 2009, eventually forcing the
+  Post Office to commission Second Sight in 2012. The Post Office then restricted Second
+  Sight's scope after the interim report raised concerns. The public inquiry, chaired by
+  Sir Wyn Williams, began in 2021. Fujitsu executives gave evidence acknowledging the bugs.
+  Post Office executives gave evidence under oath that contradicted internal documents.
+
+uncertainty_and_ambiguity: >
+  Genuine uncertainty: in any given branch shortfall case, did the shortfall result from
+  a Horizon bug or from actual theft or accounting error? This was uncertain in individual
+  cases and required case-by-case audit. Genuine ambiguity: what does "system reliability"
+  mean? The Post Office used it to mean "infallible"; the standard applied to evidence in
+  criminal proceedings is "beyond reasonable doubt," which is probabilistic. These are
+  different standards. The conflation of "reliable system" with "evidence beyond reasonable
+  doubt" was the operational error — it converted a probabilistic claim into a certainty
+  claim, eliminating reasonable doubt for every defendant.
+
+key_tensions:
+  - "Institutional reputation vs. individual justice"
+  - "Prosecutorial efficiency vs. evidence disclosure obligations"
+  - "Private prosecution power vs. external oversight accountability"
+
+problem_definition: >
+  Whether to expand the independent audit of Horizon's reliability upon receiving evidence
+  of bugs in July 2013, knowing that doing so would implicate hundreds of past criminal
+  convictions brought by the Post Office itself.
+
+# Metaphors
+
+one_plus_one: >
+  The Post Office asked: "Does this branch have a shortfall?" (Horizon says yes → 1+1=guilt).
+  Subpostmasters asked: "Did I take this money?" (They knew they hadn't → 1+1=system error).
+  The Court asked: "Is the evidence reliable?" (Post Office said yes, without disclosing
+  Peak logs → 1+1=conviction). Three parties, three questions. The Post Office had exclusive
+  access to the full dataset and used that asymmetry to ensure the court was answering its
+  question rather than the defendant's.
+
+where_is_x: >
+  The weeks following July 8, 2013, when the Post Office board received Second Sight's
+  interim report identifying Horizon bugs. Within weeks, the Post Office began restricting
+  Second Sight's scope, refusing access to Fujitsu's Peak database, and limiting the
+  audit's mandate. Prosecutions continued. That response — narrow the audit rather than
+  expand it, continue prosecuting rather than suspend — is the fulcrum. The information
+  that bugs existed was in the board's hands. The decision about what to do with it was
+  made in those weeks. A decision to expand the audit and suspend prosecutions would have
+  changed the outcome for every case brought after July 2013.
+
+eighteenth_camel: >
+  The binary: continue prosecuting based on Horizon data / stop all prosecutions entirely.
+  The 18th camel: a mandatory Technical Evidence Review Committee — an independent panel
+  staffed by a Fujitsu engineer with Peak database access, an external forensic accountant,
+  and a subpostmaster representative — empowered to classify any disputed Horizon shortfall
+  as "technically contested" and to refer it to the Crown Prosecution Service for
+  independent review rather than Post Office private prosecution. The Post Office would not
+  need to admit Horizon was broken. It would need only to admit that whether Horizon was
+  broken in a specific case was a question answerable by independent evidence — and that
+  the answer should precede conviction, not follow it.
+
+solomon_check: >
+  Post Office executives who had oversight of the Horizon contracts were sophisticated
+  organizational managers. If a competitor's IT system had generated hundreds of shortfall
+  cases they believed resulted from software bugs, they would immediately have recommended
+  suspending prosecutions and auditing the system. Applied to their own system, under
+  reputational pressure and with twenty years of prosecutorial practice at stake, they
+  could not hold the same logic. Classic Solomon Paradox at institutional scale.
+
+urgency_vs_actionability: >
+  The urgency was bureaucratic momentum: cases in the pipeline, contracts to enforce,
+  quarterly recoveries to report. This low-level administrative urgency outran the
+  actionability of the ethical problem — stopping prosecutions is a high-profile executive
+  decision that requires acknowledging past error. The gap between "process the franchise
+  shortfall" and "halt the entire prosecution pipeline" was where twenty years of wrongful
+  convictions accumulated.
+
+# Conditions, capacity, constraints
+
+enabling_conditions: >
+  Second Sight's interim report provided the first independent documentation of bugs.
+  The parliamentary campaign by Arbuthnot and colleagues gave subpostmasters a political
+  channel. The collective case — built by journalist Nick Wallis and the Justice for
+  Subpostmasters Alliance — converted atomized individual claims into a documented systemic
+  pattern. Fujitsu engineers ultimately gave evidence at the public inquiry about bugs
+  known internally for decades.
+
+capacities: >
+  The Post Office board had executive authority to suspend private prosecutions at any time.
+  Post Office legal counsel had authority to expand Second Sight's mandate. Fujitsu had
+  the Peak logs. The Post Office's head of security had operational control over the
+  investigation function. All required capacities were present; none were activated in
+  the direction of accountability between 2013 and 2019.
+
+constraints: >
+  The Post Office's private prosecution power removed external oversight. Its exclusive
+  access to Fujitsu's Peak logs made it the sole arbiter of technical evidence. Its
+  financial exposure from acknowledging wrongful convictions was potentially enormous.
+  Its reputational investment in Horizon's infallibility was two decades old. Binding
+  constraint: the structural conflict of interest — the Post Office was simultaneously
+  victim, investigator, prosecutor, and evidence custodian — which created institutional
+  incentives pointing in exactly the wrong direction at every stage.
+
+# Decision pathway
+
+decision_pathway: >
+  Reframe. The problem cannot be solved inside the frame of "Post Office vs. subpostmaster."
+  The reframe is "public vs. technical evidence." The decisive move, available in July 2013,
+  was to transfer the evidentiary certification function to an independent Technical Review
+  Committee with compulsory access to Fujitsu's Peak logs and the power to classify disputed
+  shortfalls as "technically contested," triggering CPS review rather than Post Office
+  private prosecution. Who acts: the Post Office board, on legal advice acknowledging CPIA
+  1996 disclosure obligations. For whom: the defendants in live proceedings and the public
+  interest in reliable criminal prosecution. Through what process: board resolution to
+  suspend new private prosecutions pending a 90-day Technical Review mandate expansion.
+
+tools:
+  - "Independent Technical Review Committee with mandatory Peak database access →
+    converts proprietary technical opacity into cross-examined evidence → changes the
+    certifying authority: technical evidence must be adversarially reviewed before it
+    enters criminal proceedings"
+  - "Population-level shortfall pattern dashboard across all branches → makes systemic
+    bugs visible as statistical anomalies that no human-error model can explain → changes
+    the unit of analysis from 'did this subpostmaster steal?' to 'is this cluster of
+    shortfalls consistent with known Horizon fault categories?'"
+  - "Centralized case registry with automatic referral threshold (any region where >5%
+    of branches report unexplained shortfalls in the same calendar quarter triggers
+    external audit) → changes the coordination structure: removes the Post Office's
+    discretion to manage its own exposure by treating each case as isolated"
+
+metrics:
+  - "Median time from disputed shortfall report to independent technical review decision:
+    target <60 days, tracked by case registry"
+  - "Fraction of shortfall cases where Horizon data is the sole evidence: tracked quarterly,
+    disclosed to oversight minister annually"
+  - "Number of Peak bug categories known internally vs. disclosed in live proceedings:
+    gap tracked against Fujitsu logs, reported to parliamentary oversight body"
+
+ninety_day_commitment: >
+  Counterfactual: by October 2013 (90 days after receiving the Second Sight interim report),
+  the Post Office board has: (a) suspended all new private prosecutions where Horizon data
+  is the primary evidence; (b) granted Second Sight full access to Fujitsu's Peak database;
+  (c) issued a public statement inviting subpostmasters with disputed shortfalls to register
+  with a casework panel. The registration drive alone would have surfaced the systemic
+  pattern within weeks, making the scale of the problem visible before dozens more
+  prosecutions were pursued.
+
+# Stress test and refinement
+
+stress_test:
+  political: >
+    The Post Office's potential privatization (under active preparation 2013–2014).
+    Acknowledging Horizon had generated wrongful convictions would have destroyed the
+    sale value and triggered government liability. The privatization timetable was a
+    structural incentive to delay any acknowledgment until after the deal was complete.
+  institutional: >
+    The Post Office board could restrict Second Sight's scope at any time — which it did.
+    Without an external body with standing to enforce the audit's access rights, the
+    audit was only as broad as the Post Office permitted.
+  wrong_assumption: >
+    That the Crown Prosecution Service, if cases had been referred to it, would have
+    applied independent scrutiny. In fact, the CPS relied on Post Office certification
+    of Horizon's reliability in some cases it did handle. The failure of disclosure may
+    have contaminated CPS cases as well.
+  missing_resource: >
+    An independent body with standing to receive and act on whistleblower complaints
+    from Fujitsu engineers who knew about the bugs. Several Fujitsu staff gave evidence
+    to the public inquiry that they had known about relevant faults for years.
+  twelve_month_failure: >
+    If the Post Office expanded Second Sight's access but Fujitsu refused to provide
+    Peak logs on commercial confidentiality grounds, the audit would be stalled. The
+    key evidence — the logs themselves — was in Fujitsu's possession, not the Post
+    Office's. A mechanism to compel Fujitsu's cooperation was essential.
+
+revised_problem_definition: >
+  Whether to expand a forensic audit of Horizon's reliability or restrict it — knowing
+  that expansion would implicate decades of prosecutorial practice, potentially cost the
+  Post Office hundreds of millions in liability, destroy its privatization prospects, and
+  require executives to acknowledge that they had operated the system as infallible while
+  knowing it was not. The binding constraint was not technical or legal. It was that
+  acknowledging fallibility required acknowledging responsibility, and the institution's
+  entire prosecution function was structured around its immunity from that acknowledgment.
+
+# Honesty
+
+flag: >
+  When an institution is simultaneously victim, investigator, prosecutor, and sole
+  custodian of the technical evidence it uses to convict its own contractors, there is
+  no internal mechanism by which an individual complaint can become legible as systemic
+  evidence. Principled pragmatism can name this structural conflict and propose an
+  independent audit — but it cannot compel the institution to accept its own fallibility.
+  The prerequisite for any diplomatic solution is that both parties acknowledge they
+  might be wrong. An institution with twenty years of prosecutorial practice invested in
+  the reliability of its own technology is structurally unable to hold that position
+  voluntarily. The limitation here is constitutional, not ethical: it requires a
+  structural remedy (a standing external oversight body, or abolition of private
+  prosecution power) rather than a better conversation.
+
+sources:
+  - "Court of Appeal (2021). Hamilton & Ors v Post Office Ltd [2021] EWCA Crim 577.
+    April 23, 2021. Publicly available at judiciary.gov.uk. verified."
+  - "Second Sight Services Ltd (2013). Interim Report into the Horizon System and
+    Related Matters. Submitted to Post Office Ltd, July 8, 2013. Available in Post
+    Office Horizon IT Inquiry evidence bundle. verified."
+  - "Post Office Horizon IT Inquiry (2022–2024). Witness statements and interim reports.
+    inquiry.postofficehorizon.org.uk. verified."
+  - "Wallis, N. (2021). The Great Post Office Scandal. Bath Publishing. Companion site:
+    postofficetrial.com (primary documents archived). verified."
+  - "House of Commons Business, Energy and Industrial Strategy Select Committee (2020).
+    Post Office Inquiry: Session with Post Office CEO and Chair. HC 1290. verified."
