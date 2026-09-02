@@ -1,0 +1,274 @@
+case_id: jordan-river-rights-of-nature-governance
+title: "The River with No Standing — Jordan River Restoration and the Governance Gap"
+case_type: documented
+mode: prospective
+scale: international
+region: "Middle East (Jordan River basin: Israel, Palestinian Territories, Jordan)"
+recency: recent
+year: 2026
+rubric_version: 1
+
+# --- THREE PERSPECTIVES ---
+
+scientist: >
+  The Jordan River's natural flow was historically 1.2–1.3 billion cubic metres per year
+  (BCM/yr). By the 2020s, approximately 20–100 million cubic metres reach the Dead Sea
+  annually — a reduction of 90–98%. The Dead Sea is shrinking at approximately one metre
+  per year; its surface area has decreased by roughly 33% since the 1960s. EcoPeace Middle
+  East's hydrological modelling indicates that restoring 400–600 MCM/yr of minimum ecological
+  flow is technically achievable through a combination of reduced diversion from the Sea of
+  Galilee, wastewater reclamation, and use of Israel's growing desalination surplus (Israel
+  now produces desalinated water in excess of current domestic demand). The Dead Sea's
+  chemical and ecological structure below 100 metres depth is already considered irreversibly
+  altered; stabilisation of the current surface level, not restoration to historical levels,
+  is the realistic scientific target.
+
+humanist: >
+  The Jordan River carries contested meaning for every party to its governance failure. For
+  Palestinian communities, it is simultaneously a practical irrigation resource (inaccessible
+  under current allocation), a historical boundary of any future Palestinian state, and a
+  sacred site (the baptism of Jesus; annual Easter pilgrimage). For Jordanians, the Peace
+  Treaty's water provisions are a hard-won allocation that no government has domestic
+  political standing to reduce voluntarily. For Bedouin communities in the lower Jordan
+  Valley, the river's increasing salinity (now exceeding 3,000 mg/litre, compared to the
+  500 mg/litre threshold for irrigation use) has ended agricultural livelihoods. For
+  EcoPeace Middle East — which operates as a trilateral Israeli-Palestinian-Jordanian
+  environmental coalition — the river is the most compelling unifying issue available.
+  None of these identity claims can be fully satisfied by any technically feasible
+  reallocation; the governance failure is partly about water and partly about what the
+  water means.
+
+engineer: >
+  Three actionable technical levers exist simultaneously and are not being coordinated.
+  First: Israel's desalination surplus. Israel's desalination capacity now exceeds domestic
+  demand; surplus capacity could allow a proportional reduction in Sea of Galilee diversion,
+  releasing flow downstream, without reducing overall supply security. Second: treated
+  wastewater reuse. The lower Jordan Valley already has partial Israeli-Palestinian-Jordanian
+  wastewater treatment infrastructure (partially funded by USAID); expansion could reduce
+  agricultural demand on the river. Third: the Red Sea–Dead Sea Water Conveyance Project
+  (under development by Jordan), which would stabilise the Dead Sea from the south. The
+  constraint is not technical: no governance architecture currently exists that links these
+  three states to coordinate on a shared ecological goal distinct from their bilateral water
+  allocation commitments. The treaties are structured around sovereign entitlements, not
+  ecological function.
+
+archetype_dominant: humanist
+crowded_out_mode: "doing (coordinated deployment of existing technical restoration levers: desalination offset, wastewater reuse expansion, shared ecological monitoring)"
+
+# --- DIAGNOSIS ---
+
+scientific_facts: >
+  Historical flow: 1.2–1.3 BCM/yr. Current flow reaching Dead Sea: 20–100 MCM/yr.
+  Dead Sea shrinkage: ~1 metre/year surface level decline; ~33% surface area reduction
+  since 1960s. Restoration target: 400–600 MCM/yr minimum ecological flow (EcoPeace
+  modelling). Israeli desalination surplus: quantified, growing. Lower Jordan River salinity:
+  3,000+ mg/litre (irrigation threshold: 500 mg/litre). Sea of Galilee water level: subject
+  to interannual variability; available headroom for reduced diversion exists in wetter years.
+
+social_facts: >
+  Palestinian communities have no bilateral treaty right to Jordan River water; Oslo II water
+  annex (1995) has not been updated and does not include river flow allocation.
+  Jordanian domestic water stress is severe (Jordan is among the world's most water-scarce
+  states); any reallocation is framed domestically as a concession.
+  Bedouin agricultural communities in the lower Jordan Valley have lost irrigation-viable
+  access to the river due to salinity.
+  The trilateral EcoPeace coalition has sustained civil society coordination across the
+  conflict divide for over two decades.
+
+political_realities: >
+  Israel-Jordan Peace Treaty (1994) Article 6 and Annex II fix water allocations; amendment
+  requires both governments to agree, which neither currently has domestic political standing
+  to do.
+  The Palestinian Authority lacks treaty standing in any bilateral water framework and is
+  excluded from the 1994 allocations.
+  Post-October 2023 conflict has frozen most multilateral frameworks in the region; the
+  Israel-Jordan COP27 ecological restoration declaration (November 2022) has not been
+  operationalised.
+  No intergovernmental mechanism currently convenes Israel, the PA, and Jordan around a
+  shared ecological unit (the Jordan River basin) rather than their bilateral entitlements.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: whether the Red Sea–Dead Sea Canal, if built, would restore Jordan River
+  ecology or merely stabilise the Dead Sea from an alternative direction, removing the
+  political urgency for Jordan River flow restoration. Ambiguity: "restoration" has no
+  agreed definition — minimum ecological flow? Historical level? Something between? Different
+  parties operationalise restoration differently in advocacy.
+
+key_tensions:
+  - "Sovereign water allocation commitments vs. shared ecological basin management"
+  - "Palestinian inclusion in governance vs. bilateral treaty architecture that excludes the PA"
+  - "Technical feasibility of restoration vs. political survivability of any reallocation"
+
+problem_definition: >
+  How can the Jordan River basin states coordinate ecological restoration of the lower Jordan
+  River when the governance architecture (bilateral water treaties) is misaligned with the
+  ecological unit (the whole basin), and when one major water user (Palestine) lacks treaty
+  standing?
+
+# --- METAPHORS ---
+
+one_plus_one: >
+  Israel is answering: "How do we maintain treaty allocations while meeting growing domestic
+  demand?" Jordan is answering: "How do we honour the treaty and manage our own water
+  scarcity?" Palestine is asking: "How do we obtain any formal water right at all?" EcoPeace
+  is asking: "What does the river need to survive?" Each actor is operating in their own
+  legal and political frame. The question "what does the ecosystem need?" is not answered by
+  any current bilateral arrangement, because bilateral arrangements assign water to states,
+  not to rivers.
+
+where_is_x: >
+  The UN Water Conference follow-up process (the 2023 UN Water Conference was the first
+  since 1977; follow-up commitments are being tracked through 2025–2026). The X is the
+  submission of a "rights-of-basin" or "co-guardianship" governance proposal to the next UN
+  Water Conference preparatory committee — a diplomatic moment at which language can be
+  inserted that creates political space for basin-wide governance without requiring amendment
+  of the bilateral treaties.
+
+eighteenth_camel: >
+  Not "renegotiate the 1994 Peace Treaty to include restoration targets" (politically
+  impossible; neither government has standing to do it), nor "leave bilateral allocations
+  intact and offset environmental impact with the Red Sea-Dead Sea Canal" (ecologically
+  inadequate; the Jordan River dies even if the Dead Sea is stabilised). The 18th camel:
+  designate the Jordan River system a transboundary ecosystem under a River Guardianship
+  Council — modeled on New Zealand's Te Awa Tupua framework (Whanganui River, 2017) —
+  with co-representatives from all basin states plus civil society, operating as a parallel
+  governance layer. The Council cannot redistribute water rights (that is expressly preserved
+  as bilateral treaty territory) but can coordinate on the use of surplus capacity
+  (desalination offsets, wastewater reuse credits) and on ecological monitoring. This
+  sidesteps treaty renegotiation by not touching allocation rights.
+
+solomon_check: >
+  Would the water ministries of Israel, Jordan, and the Palestinian Authority recommend the
+  current bilateral-treaty framework for a comparable transboundary river in someone else's
+  region? Any competent governance review would recommend integrated basin management,
+  ecological flow targets, and multi-party monitoring. The bilateral architecture is not
+  recommended as a model; it is the inherited residue of conflict-prevention negotiations
+  that prioritised stopping wars over restoring rivers.
+
+urgency_vs_actionability: >
+  The Dead Sea's visible decline creates urgency (measurable, internationally prominent,
+  photographically dramatic). But the decline is slow enough that each actor can wait for
+  another to move first — a commons tragedy structure where everyone waits for the threshold
+  that triggers their own political cost. The urgency is real; the actionability is blocked
+  by the treaty architecture. The Red Sea-Dead Sea Canal, if funded, removes even the urgency
+  signal, because the Dead Sea level is stabilised from the south while the Jordan River
+  continues to die from the north.
+
+# --- CONDITIONS, CAPACITY, CONSTRAINTS ---
+
+enabling_conditions: >
+  Israeli desalination surplus provides a technical pathway for reallocation without supply
+  reduction. EcoPeace Middle East has trilateral civil society infrastructure and 20+ years
+  of joint advocacy. The 2022 Israel-Jordan COP27 declaration of intent on Jordan River
+  ecological cooperation exists as a diplomatic precedent. The Te Awa Tupua Act (NZ, 2017)
+  provides a legal template for river guardianship. The UN Water Conference follow-up process
+  provides a diplomatic occasion.
+
+capacities: >
+  USAID and the EU fund existing joint technical work in the lower Jordan Valley.
+  Jordan River Valley municipalities have operational wastewater treatment capacity.
+  EcoPeace's Regional NGO Master Plan (2022) provides detailed implementation design for
+  integrated basin management. Civil society in all three territories can mobilise around
+  the Jordan River as a visible, named ecological loss.
+
+constraints: >
+  Binding: the absence of a governance architecture that includes all three major water users
+  and the river's ecological interests in the same forum. The Palestinian Authority lacks
+  treaty standing in any bilateral framework.
+  Secondary: political constraints on Israel and Jordan from amending the 1994 Peace Treaty;
+  post-2023 conflict freeze on multilateral regional cooperation.
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Reframe
+tools:
+  - "Jordan River Guardianship Council (Te Awa Tupua model) → designates the river a
+    co-governed legal entity, adding civil society representatives alongside state parties →
+    changes interaction: Palestinian civil society and Jordanian Bedouin communities gain
+    formal governance standing without requiring treaty amendment"
+  - "Desalination Offset Credit mechanism → allows Israel to publicly report reductions in
+    Sea of Galilee diversion proportional to its desalination surplus, as a voluntary
+    ecological credit rather than a treaty obligation → changes learning: transforms a
+    unilateral technical arrangement into a multilateral visible commitment"
+  - "UN Water Conference Restoration Pledge → non-binding political commitment from basin
+    states to annual ecological flow reporting → changes coordination: creates international
+    visibility and peer-accountability pressure without requiring treaty renegotiation"
+
+metrics:
+  - "Annual volumetric flow reaching the Dead Sea from the Jordan River → measure: MCM/yr →
+    method: USGS / Israeli Hydrological Service gauging at Damiya Bridge (approximate
+    current: 30–100 MCM; stabilisation target: 200 MCM by 2030)"
+  - "Dead Sea surface level → measure: metres relative to 1978 baseline → method: satellite
+    altimetry (current: approximately -20m from baseline; target: arrest of annual decline)"
+  - "Number of basin civil society organisations with formal observer or co-guardian status
+    in any intergovernmental Jordan River body → measure: count → method: UN Water
+    Conference secretariat registration (current: 0 with formal standing; target: ≥5 by 2027)"
+
+ninety_day_commitment: >
+  Live recommendation: EcoPeace Middle East (as lead convener), in coordination with
+  the Jordan River Society (JRoS) and the UN Economic and Social Commission for Western
+  Asia (ESCWA), convenes a 90-day civil society drafting process to produce the legal text
+  of a Jordan River Co-Guardianship Proposal for submission to the 2027 UN Water Conference
+  preparatory committee. The proposal explicitly preserves bilateral treaty allocations while
+  establishing parallel ecological governance. Israeli, Palestinian, and Jordanian civil
+  society organisations co-sign the submission, establishing trilateral legitimacy without
+  requiring governmental co-signature.
+
+# --- STRESS TEST ---
+
+stress_test:
+  political_derail: >
+    A resumption or escalation of hostilities between Israeli and Palestinian parties would
+    freeze all multilateral diplomacy in the region. The EcoPeace trilateral coalition would
+    suspend joint operations under conflict conditions, as it has done in previous escalations.
+  institutional_block: >
+    The Israeli Water Authority, which has consistently resisted ecological flow requirements
+    as constraints on supply security, could challenge any guardianship proposal as an
+    implicit limitation on Israeli diversion discretion — even a non-binding one.
+  wrong_assumption: >
+    Assumes the Palestinian Authority remains a coherent political actor with capacity and
+    legitimacy to participate in governance. Post-2023, PA credibility in Gaza is contested
+    and its West Bank governance capacity is constrained; it may not be able to commit to any
+    multilateral restoration framework.
+  missing_resource: >
+    A neutral hosting government willing to convene a trilateral river governance process.
+    Jordan has the legal standing and interest but faces domestic pressure around any
+    arrangement that could be read as a further concession of water rights.
+  twelve_month_failure: >
+    If the Red Sea–Dead Sea Canal project secures final funding without a Jordan River
+    ecological flow condition attached, the political urgency for lower Jordan restoration
+    is significantly reduced. The Dead Sea level is stabilised from the south, the photogenic
+    evidence of failure recedes, and the diplomatic window for a governance reframe closes.
+
+revised_problem_definition: >
+  How can the Jordan River basin states coordinate ecological restoration when the governance
+  architecture actively prevents it and the political urgency signal (Dead Sea shrinkage)
+  may be neutralised by an alternative infrastructure project — and how should a 18th-camel
+  governance layer be structured to survive the political veto points (Israeli Water Authority
+  resistance, PA legitimacy deficit, Jordanian domestic constraints) while remaining genuinely
+  distinct from treaty renegotiation?
+
+# --- HONESTY ---
+
+flag: >
+  Rights-of-nature designations create legal standing for a river but not the infrastructure
+  changes needed to restore its flow. The Whanganui River has legal personhood in New Zealand
+  and continues to be the subject of water allocation disputes. A governance layer changes
+  who can argue about the water; it does not change how much water is diverted. A Jordan
+  River Guardianship Council would improve representation and monitoring but cannot compel
+  Israel to reduce Sea of Galilee diversions, Jordan to accept reduced Peace Treaty
+  allocations, or the PA to gain treaty standing. The gap between governance innovation and
+  hydrological change remains the unresolved problem.
+
+sources:
+  - "EcoPeace Middle East: 'Regional NGO Master Plan for the Lower Jordan River' (2022).
+    Verified — available at ecopeaceme.org."
+  - "UN Water Conference 2023 Outcome Document. Verified — available at unwater.org."
+  - "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017, New Zealand Parliament.
+    Verified."
+  - "Israel Water Authority annual reports and Dead Sea level monitoring data. Verified via
+    IWA public portal."
+  - "EcoPeace Middle East: 'Lower Jordan River Trans-boundary Diagnostic Analysis' (ongoing
+    project documentation). Verified — ecopeaceme.org/projects."
+  - "USGS Earthshots: Rates of decline in the Dead Sea surface area (satellite imagery
+    record). Verified."
