@@ -1,0 +1,238 @@
+case_id: brumadinho-tailings-tuvsud-certification
+title: "The Certifier's Dilemma — Brumadinho and the Fee-for-Safety Trap"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Americas (Brumadinho, Minas Gerais, Brazil)"
+recency: recent
+year: 2019
+rubric_version: 1
+
+# --- THREE PERSPECTIVES ---
+
+scientist: >
+  The dam (Dam I, Córrego do Feijão mine) was built using the upstream construction method
+  (UCM), a technique that produces cheaper dams but is statistically more prone to liquefaction
+  failure under saturation. TÜV SÜD's June 2018 periodic review recorded a factor of safety
+  of approximately 1.09 — below the ICOLD guideline of 1.30 for non-operating dams (dams not
+  actively receiving tailings). TÜV SÜD nonetheless issued a stability certificate in September
+  2018, four months before the January 25, 2019 collapse. Post-failure analysis confirmed
+  pore-water pressure saturation as the triggering mechanism. The scientific question "is this
+  dam stable under saturation?" was answered with a model and methodology that underestimated
+  pore-water accumulation. Samarco Dam (also UCM, also in Minas Gerais) had collapsed just
+  three years earlier in November 2015, 109 km away.
+
+humanist: >
+  The Córrego do Feijão community downstream had no access to the stability certificate. The
+  "certified stable" designation — a formal, audited document — gave municipal authorities,
+  Vale workers, and local residents no basis to question the official finding. Of the 272 who
+  died, most were Vale employees eating lunch in the refectory immediately below the dam when
+  it gave way; others were community members in the Córrego do Feijão stream channel. The
+  downstream community was not represented in the certification process; they were not parties
+  to the audit, were not informed of the factor-of-safety margin, and had no legal mechanism
+  to request a second opinion. The dam served Vale's operational revenue; the risk was borne
+  by people who had no standing in the decision that accepted it.
+
+engineer: >
+  The practical constraint was the fee-for-service certification model. Vale paid TÜV SÜD to
+  conduct the periodic safety review. TÜV SÜD had commercial incentive to maintain the
+  contract relationship. Upstream construction method was cheaper to operate but required more
+  interventive remediation (drainage improvement, piezometer maintenance) to sustain the
+  minimum factor of safety. The engineering choice was binary: decommission (expensive,
+  requiring closure costs Vale had not provisioned) or certify (profitable, allowing continued
+  operation). The doing mode — find a way to keep the mine operational and certified — was the
+  organizing principle of the audit. Independent structural modeling using non-contractual
+  methodology would have required acting against the client's interests, something no
+  fee-for-service relationship is structurally designed to support.
+
+archetype_dominant: engineer
+crowded_out_mode: "thinking (independent structural modeling using methodology not subject to client-fee dependency)"
+
+# --- DIAGNOSIS ---
+
+scientific_facts: >
+  UCM dams have statistically higher liquefaction failure rates than centerline or downstream
+  construction; this was known at ICOLD before 2019. TÜV SÜD's June 2018 review recorded
+  factor of safety at 1.09, below ICOLD's 1.30 minimum for non-operating dams. TÜV SÜD's
+  own report noted deficiencies in drainage infrastructure (eroded channels, clogged tubes).
+  Pore-water pressure saturation was the failure mechanism. The Fundão dam (Samarco, UCM,
+  Minas Gerais) had failed in 2015 via the same mechanism.
+
+social_facts: >
+  The 272 victims had no access to the safety certification data. Municipal emergency planners
+  in Brumadinho relied on the certification as the authoritative finding. Vale workers in the
+  refectory directly below the dam were not informed of the below-standard factor-of-safety
+  reading. The certification process was a bilateral relationship between Vale and TÜV SÜD,
+  with no community or labor representative in the loop. Brazilian law required the
+  certification but did not specify an independent audit model.
+
+political_realities: >
+  Vale is Brazil's largest mining company, with revenues critical to Minas Gerais state
+  budgets and federal GDP figures. Federal environmental agency IBAMA had inspection authority
+  but was not legally empowered to second-guess a certified stability document. Dam safety
+  jurisdiction sat with state authorities (Secretaria de Estado de Meio Ambiente e
+  Desenvolvimento Sustentável, SEMAD), which lacked independent structural engineering
+  capacity. The 2010 Brazilian Dam Safety Law required mandatory certification but left the
+  certification market entirely to commercial auditors.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: the actual pore-water pressure at the failure plane was not definitively
+  measured before collapse; TÜV SÜD's model assumed a lower saturation level than obtained.
+  Ambiguity: whether Dam I was "operating" or "non-operating" determined whether the
+  applicable minimum factor of safety was 1.00 (operating) or 1.30 (non-operating). Vale
+  classified it as non-operating; TÜV SÜD applied the 1.00 standard and found 1.09, then
+  issued the certificate. Post-failure investigators found the 1.30 standard was applicable.
+
+key_tensions:
+  - "Operational economics vs. safety investment: decommissioning vs. certifying"
+  - "Regulatory jurisdiction vs. commercial self-certification: who audits the auditor?"
+  - "Community risk-bearing vs. corporate decision-making authority: who gets to see the margin?"
+
+problem_definition: >
+  Who should pay for, commission, and disclose the structural safety certification of
+  high-consequence tailings dams, when the fee-for-service market creates a structural
+  incentive for auditors to certify rather than disqualify?
+
+# --- METAPHORS ---
+
+one_plus_one: >
+  TÜV SÜD was answering: "Is this dam certifiable under the methodology our contract
+  specifies?" Vale was asking: "Can we keep operating this mine?" The downstream community
+  was asking: "Will this dam kill us?" These were three different questions. The certificate
+  answered only the first, and used the wrong standard to do so.
+
+where_is_x: >
+  TÜV SÜD's September 2018 certification sign-off. At that moment, an auditor recorded a
+  factor of safety below the standard applicable to the dam's non-operating classification,
+  noted drainage deficiencies, and issued a stability certificate rather than a disqualifying
+  finding. If the gap between 1.09 and 1.30 had been treated as a disqualifier rather than
+  a variance, the dam would have required remediation or decommissioning before recertification.
+
+eighteenth_camel: >
+  Not "certify and continue" (what happened), nor "immediate decommissioning" (prohibitively
+  expensive and legally contestable in the short term). The 18th camel: an industry-funded
+  dam safety pool, financed by a per-tonne-of-ore levy pooled across all Brazilian mining
+  operators, that commissions structural safety audits through randomly assigned independent
+  firms with no prior commercial relationship with the audited operator. This model exists in
+  aviation (accident investigation funded through regulatory levies, not by aircraft
+  manufacturers). It breaks the fee-for-service link without requiring the auditor to act
+  against a client — the auditor has no client in the conventional sense.
+
+solomon_check: >
+  Would TÜV SÜD's engineers have signed off on a competitor's dam with a factor of safety
+  of 1.09, drainage deficiencies, and a recent precedent (Samarco, 2015, same method, same
+  state)? The self-distancing thought experiment suggests not — the peer-exposure anxiety
+  that drives conservative decisions in someone else's system would have created the necessary
+  distance. The contract relationship foreclosed that distance.
+
+urgency_vs_actionability: >
+  No acute urgency drove the September 2018 certification. But Vale's business planning
+  cycle — quarterly reporting, mine closure provisioning schedules — created a soft deadline
+  for the certification renewal that compressed the review window and created pressure to
+  complete, not to pause for remediation.
+
+# --- CONDITIONS, CAPACITY, CONSTRAINTS ---
+
+enabling_conditions: >
+  Brazil's 2010 National Dam Safety Policy (Law No. 12.334) required mandatory periodic
+  stability certification. Post-Samarco (2015) political pressure had produced new regulatory
+  attention; the National Dam Safety Information System (SNISB) had begun cataloguing
+  high-risk dams. The political infrastructure for reform was visible.
+
+capacities: >
+  TÜV SÜD had the technical expertise to flag the factor-of-safety gap and treat it as a
+  disqualifying finding. Vale's own engineers had internal drainage data. IBAMA had legal
+  inspection authority. Brazilian prosecutors had criminal charging authority (used
+  post-collapse).
+
+constraints: >
+  Binding: the fee-for-service certification market. No mechanism existed for an auditor to
+  issue a disqualifying finding without losing the client relationship. Secondary: the
+  ambiguity in the operating/non-operating classification, which TÜV SÜD resolved in Vale's
+  favour without regulatory challenge.
+
+# --- DECISION PATHWAY ---
+
+decision_pathway: Redesign
+tools:
+  - "Industry-funded dam safety pool → removes the fee-for-service link between auditor and
+    operator → changes coordination: auditor is commissioned by a neutral body, not the
+    operator, making a disqualifying finding professionally safe"
+  - "Mandatory public factor-of-safety disclosure → allows municipal emergency planners and
+    affected communities to see the margin and request explanation when it is thin → changes
+    learning: downstream stakeholders can initiate a second review"
+  - "Below-standard trigger audit → when FoS is within 20% of the applicable minimum, a
+    second firm must independently validate before a certificate is issued → changes
+    interaction: creates adversarial audit dynamic inside the certification architecture"
+
+metrics:
+  - "Proportion of high-consequence dam audits conducted by firms with no prior commercial
+    relationship with the operator → measure: % → method: national dam safety registry"
+  - "Time between remediation recommendation and completion of remediation → measure: months
+    → method: SNISB mandatory reporting"
+  - "Number of dam safety certificates with public FoS disclosure → measure: count per year
+    → method: transparency reporting under the National Dam Safety Policy"
+
+ninety_day_commitment: >
+  Counterfactual, from October 2018: Brazil's National Dam Safety Policy agency (SNISB)
+  orders a 90-day audit review of all UCM tailings dams in Minas Gerais certified since 2015
+  using the upstream-method-specific FoS standard. Any dam with recorded FoS below 1.20
+  receives an emergency independent review by a second firm not previously under contract to
+  the operator, with results disclosed to municipal emergency management authorities within
+  the same 90-day window.
+
+# --- STRESS TEST ---
+
+stress_test:
+  political_derail: >
+    A federal government hostile to mining regulation (as in fact occurred with the Bolsonaro
+    administration from January 2019) could defund IBAMA and SNISB, eliminating enforcement
+    capacity for any redesigned system before it takes effect.
+  institutional_block: >
+    Vale could challenge any retroactive certification requirement as an expropriation of its
+    operational property rights under Brazilian constitutional law, delaying implementation
+    while litigation proceeds.
+  wrong_assumption: >
+    Assumes an industry-funded pool is insulated from industry pressure. If the mining
+    industry governs the pool's board and nominates its methodology committees, the pool
+    replicates fee-for-service capture at one remove.
+  missing_resource: >
+    The market of qualified independent dam safety engineers in Brazil who have no current
+    commercial relationships with Vale or its major contractors is thin. An independent pool
+    could face the same small-market capture problem within a decade.
+  twelve_month_failure: >
+    If the levy structure and pool governance are drafted by representatives of the mining
+    industry, the pool defaults to industry-preferred methodology and the certification
+    conflict of interest re-emerges under a different legal architecture.
+
+revised_problem_definition: >
+  Who should pay for, commission, conduct, and publicly disclose the structural safety
+  certification of high-consequence tailings dams — and how should the certification system
+  be governed to prevent industry capture when the available pool of qualified auditors is
+  small, commercially interdependent with the mining sector, and operating in a regulatory
+  environment where enforcement capacity is itself subject to political attrition?
+
+# --- HONESTY ---
+
+flag: >
+  Third-party certification markets are structurally vulnerable to client capture regardless
+  of the auditor's good faith. An industry-funded pool reduces the direct commercial tie but
+  does not eliminate it: industry governs the pool, industry lobbies the methodology, and
+  industry trains the auditors. No certification architecture at scale resolves this when
+  the inspected sector and the auditing sector are the same talent market.
+
+sources:
+  - "European Center for Constitutional and Human Rights (ECCHR) and MISEREOR: 'The Safety
+    Business: TÜV SÜD's Role in the Brumadinho Dam Failure in Brazil' (Case Report,
+    October 2019). Verified."
+  - "ETH Zurich, Department of Civil Engineering: 'Brumadinho dam collapse: The danger
+    emerged after the decommissioning' (January 2024). Verified."
+  - "Human Rights Watch: 'They Killed Us from the Inside — An Investigation into
+    Accountability for the Brumadinho Dam Collapse' (November 2021). Verified."
+  - "International Commission on Large Dams (ICOLD): 'Bulletin on Tailings Dams and Mine
+    Waste Storage in Case of Earthquake' — ICOLD guidelines on factor-of-safety minimums.
+    Verified."
+  - "Brazilian Senate Parliamentary Commission of Inquiry (CPI) Final Report on
+    Brumadinho, December 2019. Verified via Brazilian Senate official records."
+  - "Business and Human Rights Resource Centre: TÜV SÜD / Vale criminal lawsuit tracking
+    (ongoing). Verified."
