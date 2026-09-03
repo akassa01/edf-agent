@@ -1,0 +1,312 @@
+## Identity
+case_id: cerf-tcp-ip-security-architecture
+title: "The Network That Trusted Everyone"
+case_type: documented
+mode: retrospective
+scale: individual
+region: "Americas (Stanford University, Palo Alto, California; DARPA, Arlington, Virginia; with international research community nodes)"
+recency: historical
+year: 1973
+rubric_version: 1
+
+## The three perspectives
+scientist: >
+  The scientific facts of the 1973-74 TCP/IP design are well-documented by the designers
+  themselves. Vint Cerf and Bob Kahn's foundational 1974 IEEE paper presents a protocol
+  architecture optimized for reliability and interoperability across heterogeneous packet
+  networks. David Clark's 1988 retrospective on the DARPA Internet design philosophy
+  explicitly lists seven design goals in priority order; security does not appear among
+  them. This is not an omission in the retrospective — it reflects the actual design
+  reasoning: the ARPANET in 1973 connected approximately 40 nodes, all at US government
+  research labs and universities. The user community was socially vetted; security was
+  maintained by institutional access control, not protocol-level authentication.
+  Public-key cryptography (RSA) was not published until 1977. The scientist's reading:
+  the original design was rational for its context. What the scientist cannot provide
+  is a mechanism internal to the protocol for detecting when the context has expired.
+
+humanist: >
+  The ARPANET was designed by a small community of research engineers for themselves and
+  their peers. Its trust model — all participants are legitimate; all source addresses are
+  valid; routing information is accurate — encoded the social structure of a 1970s
+  research network. The communities that would eventually depend most critically on secure
+  Internet infrastructure — journalists in authoritarian states, activists, ordinary
+  people conducting financial transactions, children — were not in the room and could not
+  have been anticipated specifically. The humanist reading: the protocol encodes a social
+  contract for one community and deploys it universally, without a mechanism for asking
+  whether the contract still holds when the community changes. The people who bore the
+  security costs — identity theft victims, state-surveilled dissidents, spam recipients —
+  never had standing in the design process.
+
+engineer: >
+  The practical pathway not taken: the Internet Activities Board (IAB) was founded in 1979
+  as the network began extending beyond DARPA contractors. Its charter governed technical
+  standards and protocol development. A governance trigger — requiring a Security
+  Architecture Review before any defined expansion of the network's user population beyond
+  the original research community — was governmentally achievable at founding and would
+  not have required modifying the base protocol. The NSF later imposed acceptable-use
+  policies (restricting commercial traffic) that functioned as governance substitutes for
+  protocol-level security; when NSF lifted those policies in 1992, the protocol had no
+  internal controls to replace them. The engineer's reading: the correct solution was
+  procedural, not technical, and was available in the governance infrastructure.
+
+archetype_dominant: engineer
+crowded_out_mode: "thinking (long-term security implications of a trust-free protocol
+  as the network's user population expanded beyond the research community for which
+  it was designed; the design prioritized present-community optimization over
+  future-community governance)"
+
+## Diagnosis of the problem space
+scientific_facts: >
+  - TCP/IP designed 1973-74; foundational paper published May 1974 in IEEE Transactions
+    on Communications by Vint Cerf and Bob Kahn.
+  - IP is "stateless": no authentication of source addresses, no verification of routing
+    information accuracy, no built-in encryption.
+  - Clark's 1988 retrospective lists seven design goals in priority order; security is
+    absent from all seven. Goal 1: survivability; Goal 7: accountability (resource
+    usage accounting, not security). The omission was not accidental.
+  - Alternative protocol architectures existed: X.25 packet-switching (European public
+    data networks) included error-checking and connection state; ARPANET's classified
+    counterpart (ARPANET's parallel MILNET was split off in 1983) used stricter access
+    controls.
+  - RSA public-key cryptography published 1977 (four years after the core design);
+    Diffie-Hellman key exchange published 1976. Symmetric key distribution at network
+    scale was unsolved in 1973.
+  - By the 1990s: source address spoofing enabled denial-of-service attacks at scale;
+    absence of source authentication enabled spam, phishing, and malware distribution.
+    Retrofitting security required SSL/TLS (1994), DNSSEC (standardized 1999), RPKI
+    (2011), and continues to this day.
+
+social_facts: >
+  - ARPANET in 1973: approximately 40 nodes, all US universities and government labs
+    connected by DARPA contracts. User community was institutionally vetted.
+  - The transition from research tool to public infrastructure occurred gradually through
+    the 1980s: NSF connected universities (1981-1985), NSFNet became the backbone (1985),
+    commercial restrictions lifted (1992), World Wide Web publicly available (1991,
+    popular adoption 1993 onward).
+  - Cerf and other original designers have publicly acknowledged the security omission in
+    retrospective accounts: the design was rational for the community it served.
+  - The IETF (formalized 1986) and its predecessor the IAB (1979) governed the Internet's
+    technical evolution. Both were dominated by the research community whose trust model
+    the protocol embodied.
+
+political_realities: >
+  - DARPA controlled ARPANET and funded the TCP/IP design; their priority was a reliable,
+    survivable research network. Commercial considerations were explicitly excluded.
+  - NSF's acceptable-use policies (1985-1992) restricted commercial use of NSFNet,
+    substituting governance controls for protocol-level controls. When commercial use was
+    permitted (1992 Scientific and Advanced Technology Act), the protocol had no internal
+    mechanism for the controls the policies had been providing.
+  - The commercial actors who would later profit from Internet infrastructure (ISPs,
+    e-commerce companies, social media platforms) had no standing in the design process
+    and no incentive to fund security retrofitting once they entered the market.
+
+uncertainty_and_ambiguity: >
+  Genuine uncertainty: Whether building authentication into the IP layer in 1973 was
+  technically feasible at the required scale. RSA wasn't published until 1977; symmetric
+  key distribution at 40-node scale was achievable but at 40,000-node scale was not.
+  This is a real technical constraint, not a rationalization.
+  Ambiguity: "Security" means different things in different contexts — source address
+  verification, content encryption, identity authentication, and traffic analysis
+  resistance are all "security" but require different protocol features. Different
+  stakeholders across 1973-2000 were answering different versions of the security
+  question, preventing any coherent design response.
+
+key_tensions:
+  - "Scale and openness vs. authentication: adding verification to IP adds overhead,
+    slows routing, and creates infrastructure dependencies that reduce connectivity to
+    heterogeneous networks — the core design goal."
+  - "Present-community optimization vs. future-community governance: designing for known
+    trusted users required a completely different process from designing for an unknown
+    future population."
+  - "Technical architecture vs. governance architecture: the protocol could not anticipate
+    all future users, but a governance process could have been designed to review the
+    protocol's assumptions as the user population changed."
+
+problem_definition: >
+  When the designers of TCP/IP built a trust-free protocol architecture optimized for a
+  known, vetted research community, did they also have a responsibility to design a
+  governance trigger that would mandate security review before the protocol was extended
+  to substantially different user populations?
+
+## The metaphors
+one_plus_one: >
+  Cerf and Kahn asked: "How do we make packet-switching reliable across incompatible
+  networks?" The future administrators of financial clearing systems asked: "How do we
+  authenticate counterparties in a system that defaults to trusting everyone?" The
+  journalists in authoritarian countries asked: "How do we communicate without our
+  messages being traceable to us?" Three communities, one protocol, no shared
+  understanding of what the protocol needed to do. 1+1 produced three separate ones —
+  and the protocol had no mechanism for discovering that the questions had diverged.
+
+where_is_x: >
+  Not 1973, when the protocol was being designed and the cryptographic tools for
+  authentication were not yet published. The intervention point is 1979, when the
+  Internet Activities Board was founded and the governance architecture for the network's
+  future was being established. The IAB's founding charter could have included a
+  User Population Expansion Review mandate — requiring security architecture review
+  before any defined expansion of the network's user class beyond DARPA research
+  institutions. This was governmentally feasible: the IAB was given authority over
+  protocol standards; extending that authority to include population-trigger reviews
+  required only a charter provision. The X is a clause in a founding document, not a
+  line in a protocol.
+
+eighteenth_camel: >
+  Not "build authentication into the base IP protocol" (technically difficult in 1973-79;
+  would have slowed adoption and broken interoperability with diverse networks) and not
+  "ship without security architecture review and retrofit it later" (what happened;
+  "later" never arrived as a coherent project, only as thirty years of incremental
+  patches). The third option: at the IAB's founding in 1979, establish a Population
+  Milestone Review Protocol — a standing panel of three ARPA researchers and three
+  external cryptographers, convened automatically whenever the network crossed specified
+  user-population thresholds (100 institutions; 1,000 institutions; 10,000 individual
+  users). The panel does not necessarily modify the base protocol; it issues a public
+  threat model for the new population and recommends whether the existing architecture
+  is sufficient. This is procedural, not technical, and was entirely within the IAB's
+  institutional capacity.
+
+solomon_check: >
+  Cerf, advising a different team designing a protocol for a future global public network
+  in 1979, would almost certainly have recommended building a governance expansion-review
+  trigger. His own retrospective accounts acknowledge that security was underprioritized.
+  The Solomon Paradox is structural here: the design team was optimizing for the
+  community they were part of, and the wisdom required to design for communities they
+  were not part of was not redirected inward.
+
+urgency_vs_actionability: >
+  In 1973, genuine urgency existed: DARPA needed a working protocol. The actionability
+  of comprehensive security architecture was limited. By 1979, when the IAB was founded,
+  the urgency had passed — the protocol worked. But the governance design did not include
+  an expansion review mechanism. The window (1979-1985, between IAB founding and NSF
+  backbone takeover) was not urgency-limited; it was attention-limited. No crisis had
+  yet made the security gap visible.
+
+## Conditions, capacity, constraints
+enabling_conditions: >
+  - The RFC (Request for Comments) process had established a working model for distributed
+    technical governance; a security-review mandate could have used the same machinery.
+  - NSF's acceptable-use policies demonstrated that governance bodies could impose
+    conditions on network use.
+  - RSA public-key cryptography was available from 1977; cryptographic expertise was
+    accessible within the academic community that governed the network.
+
+capacities: >
+  - The IAB had institutional authority to establish protocol standards and review criteria.
+  - DARPA retained funding oversight and could have made security review a condition of
+    continued government support.
+  - A small number of cryptographers (Diffie, Hellman, Rivest, Shamir, Adleman) were
+    available and engaged with the research community.
+
+constraints: >
+  - The end-to-end principle — adding functionality only at the endpoints, not the
+    network core — was embedded in the design philosophy and created cultural resistance
+    to any network-layer security feature.
+  - No commercial or political constituency demanded security in 1979; the security costs
+    of an open network were not yet visible.
+  - Binding constraint: the governance culture of the early Internet community treated
+    technical elegance (a clean, simple, fast protocol) as a terminal value. Any
+    governance mechanism that added procedural overhead faced resistance from the same
+    culture that resisted technical overhead.
+
+## Decision pathway
+decision_pathway: Expand
+tools:
+  - "Population milestone review protocol → purpose: require security architecture review
+    before defined user-population expansions → how it changes coordination: creates a
+    formal checkpoint that brings security expertise into governance decisions before the
+    architecture hardens around each population's trust model."
+  - "Threat model registry → purpose: document the assumed threat environment for each
+    expansion decision → how it changes learning: creates institutional memory of what
+    security problems were anticipated versus what materialized, enabling post-hoc analysis
+    and progressive refinement."
+  - "Security overlay funding track → purpose: fund parallel development of authentication
+    and encryption overlays with defined interoperability requirements → how it changes
+    interaction: keeps security work inside the technical governance community rather than
+    leaving it to commercial actors with incentives to underinvest in shared security."
+
+metrics:
+  - "Expansion milestone review completion rate → measure: proportion of defined
+    user-population milestones that received security architecture review before
+    implementation → method: IAB charter compliance records."
+  - "Threat model accuracy → measure: proportion of anticipated threat categories from
+    each review that materialized within five years of each expansion milestone →
+    method: retrospective comparison of IAB threat model registries with documented
+    incident categories."
+
+ninety_day_commitment: >
+  Counterfactual (retrospective, 1979 scenario): Within 90 days of the IAB's founding,
+  the Board adopts a charter provision establishing a Population Milestone Review Protocol,
+  with the first review triggered when the network reaches 100 connected institutions.
+  The founding IAB designates a five-person standing security review panel and commissions
+  the first threat model document for the current population (40 ARPA research labs),
+  establishing the baseline against which future population expansions will be evaluated.
+
+## Stress test and refinement
+stress_test:
+  political_derailment: >
+    DARPA ends ARPANET funding before any governance review mechanism is established.
+    This nearly occurred in 1975; different political conditions could have eliminated
+    the governance substrate entirely. The review mechanism is only as durable as the
+    institutions funding it.
+  institutional_block: >
+    The end-to-end principle becomes so culturally embedded that any proposal to
+    formalize security review is rejected as bureaucratic overhead. The IETF's actual
+    culture did develop precisely this resistance; IPSEC (the network-layer security
+    protocol standardized in 1995) faced a decade of adoption resistance. A governance
+    process that the technical community actively subverts produces no security.
+  wrong_assumption: >
+    The assumption that a population expansion review in 1979-1985 would have produced
+    deployable security architecture. RSA existed but key distribution at scale was
+    unsolved. A review might have identified the problem without producing a solution,
+    deferring the security gap rather than closing it.
+  missing_resource: >
+    Political will to slow network expansion for governance review. The research and
+    military communities driving ARPANET growth had no incentive to delay; speed of
+    expansion was evidence of the protocol's success. A governance body that slows
+    adoption is a governance body that loses its funding base.
+  twelve_month_failure: >
+    The security review process becomes a bottleneck that causes the US research network
+    to fall behind European X.25 networks. DARPA eliminates the review requirement within
+    12 months. Security governance returns to "someone else's problem." The constraint
+    binds even faster than anticipated.
+
+revised_problem_definition: >
+  The problem is not whether Cerf and Kahn's 1973 design was correct for its context —
+  it was. The problem is that the governance infrastructure for TCP/IP was built with
+  the same assumptions as the protocol itself: stable community, trusted participants,
+  no need for explicit expansion review. When the social assumptions expired, neither
+  the protocol nor the governance process had a mechanism for detecting that they had
+  expired. The revised and more honest problem: given that technical infrastructure
+  embeds social assumptions that the designers cannot fully anticipate, what governance
+  process should accompany any public-infrastructure deployment to force periodic review
+  of those assumptions — and who has standing and incentive to build that process before
+  the infrastructure reaches critical mass?
+
+## Honesty
+flag: >
+  Technical infrastructure embeds social assumptions that harden with every additional
+  installation. When a protocol reaches critical mass, the installed base becomes a
+  political constituency against change — not from malice, but from the coordination cost
+  of upgrading a billion devices simultaneously. Principled pragmatism can identify the
+  governance mechanism that should have been built. It cannot retrofit that mechanism
+  once the installed base is the entire world's communication infrastructure. Engineering
+  pragmatism creates path dependencies that engineering diplomacy can name and trace to
+  their source but cannot dissolve.
+
+sources:
+  - "Cerf, V. and Kahn, R.E. (1974). 'A Protocol for Packet Network Intercommunication.'
+    IEEE Transactions on Communications, 22(5), pp. 637-648. The foundational protocol
+    paper. Available at Princeton CS archive. Verified."
+  - "Clark, D.D. (1988). 'The Design Philosophy of the DARPA Internet Protocols.'
+    Proceedings of ACM SIGCOMM '88, published in Computer Communication Review 18(4),
+    pp. 106-114. Documents the seven design goals in priority order; security is absent.
+    Available at MIT CSAIL (web.mit.edu). Verified."
+  - "Abbate, J. (1999). Inventing the Internet. MIT Press. Chapters 3-5 document the NSF
+    transition, acceptable-use policies, and the governance gap between research and
+    commercial communities. Verified."
+  - "Hafner, K. and Lyon, M. (1996). Where Wizards Stay Up Late: The Origins of the
+    Internet. Simon & Schuster. Primary interviews with Cerf, Kahn, and other ARPANET
+    designers on design priorities and retrospective reflections. Verified."
+  - "Russell, A.L. (2014). Open Standards and the Digital Age: History, Ideology, and
+    Networks. Cambridge University Press. Documents the political economy of the
+    end-to-end principle and the cultural resistance to network-layer security mechanisms
+    within the IETF community. Verified."
