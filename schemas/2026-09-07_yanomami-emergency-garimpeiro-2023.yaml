@@ -1,0 +1,257 @@
+case_id: yanomami-emergency-garimpeiro-2023
+title: "The Emergency as Erasure"
+case_type: documented
+mode: retrospective
+scale: community
+region: "Americas (Yanomami Indigenous Territory, Roraima and Amazonas, Brazil)"
+recency: recent
+year: 2023
+rubric_version: 1
+
+# --- Three perspectives (all three required) ---
+
+scientist: >
+  By January 2023, the Hutukara Yanomami Association had documented 327 active garimpeiro
+  mining sites across the 9.7-million-hectare territory. A cross-sectional study conducted
+  in October 2022 (published in Toxics, 2024) tested 117 Yanomami children: 79.4% had hair
+  mercury levels at or above 2.0 µg/g (WHO's safe threshold for women of childbearing age),
+  with a mean of 3.30 µg/g; average child IQ measured at 68.6. Confirmed malaria cases in
+  January 2023 alone: 11,530. Infant deaths, 2019–2022: approximately 570 (three per week
+  average). In 2022 alone: 99 children. The SUMAÚMA investigation revealed that Bolsonaro's
+  government had received the 2020 SESAI data showing record infant malnourishment—and cut
+  health monitoring in response rather than escalating. By January 2023, only 12 of 28
+  pre-Bolsonaro health posts were functional in the territory.
+
+humanist: >
+  Hutukara sent 21 official letters over two years to public bodies, describing starvation
+  and violence. All were ignored. Dario Kopenawa, Hutukara's president and son of the
+  renowned shamanic leader Davi Kopenawa, had been saying for years that the garimpeiros
+  were not merely killing bodies—they were destroying the spiritual geography of a people
+  for whom the forest is a living entity, not a resource. When the emergency declaration
+  came on January 20, 2023, it used the language of humanitarian crisis: children dying,
+  rivers poisoned, miners to be expelled. This language is accurate. It is also a frame
+  that converts a political rights claim—the Yanomami's right to govern their own territory—
+  into a medical problem requiring expert care from the outside. Once framed as humanitarian,
+  the solution is humanitarian: send doctors, expel miners, declare success. The 21 letters
+  become evidence of a crisis rather than the design brief of a people who knew exactly
+  what needed to happen. Hutukara's voice, which had been political speech, became data.
+
+engineer: >
+  The operational challenge was genuine: the territory is the size of Portugal, accessible
+  largely by air; garimpeiros controlled key airstrips; FUNAI had been gutted (experienced
+  anthropologists replaced by security personnel). The Lula government's tractable options
+  in the January 2023 window: mobile health teams (deployed within weeks), Federal Police
+  operation to expel miners (Operation Libertação, February 2023), and R$550M in emergency
+  funds. What the emergency frame could not build in 90 days but the political moment made
+  possible: a permanent Yanomami Territorial Authority with co-governance standing, funded
+  from the same emergency budget, with garimpeiro criminal prosecution authority rather than
+  mere administrative expulsion. The operational bottleneck was institutional: FUNAI's
+  destroyed capacity meant any new body had to be built from scratch. The binding constraint
+  was not political will but the institutional architecture that had been deliberately dismantled.
+
+archetype_dominant: engineer
+crowded_out_mode: "feeling (the Yanomami's political standing as co-governors of their own
+  territory—not merely beneficiaries of humanitarian care—was crowded out by the operational
+  efficiency logic of the emergency response machinery)"
+
+# --- Diagnosis of the problem space ---
+
+scientific_facts: >
+  Yanomami population: ~30,000. Territory: 9.7M hectares. Garimpeiros at crisis peak: ~20,000
+  (2022 Hutukara/ISA estimate). Active mining sites: 327. Illegal gold mining increase in 2022:
+  54%. Mercury: 79.4% of children tested above 2.0 µg/g safe threshold; mean 3.30 µg/g; average
+  IQ 68.6. Malaria confirmed cases January 2023: 11,530. Infant deaths 2019–2022: ~570.
+  Deaths 2022 alone: 99 children. Functional health posts January 2023: 12 of 28.
+
+social_facts: >
+  Hutukara's 21 official letters to public bodies went unanswered under Bolsonaro. The SUMAÚMA
+  investigation documented the deliberate suppression of 2020 SESAI health data. Indigenous rights
+  organizations (ISA, CIMI, Rainforest Foundation US) had been documenting the crisis but were
+  classified as opposition advocacy. The "genocide" framing used by Lula on January 20 was
+  politically effective; it was also legally contested (Brazil ratified the Genocide Convention;
+  indigenous rights lawyers argued the standard was met). Sonia Guajajara as Minister of
+  Indigenous Peoples gave the response indigenous-face legitimacy.
+
+political_realities: >
+  Bolsonaro had campaigned explicitly on opening indigenous territories to mining and farming;
+  his FUNAI replaced anthropologists with security personnel, reducing it to a licensing body
+  for extractivist interests. The new Lula administration needed a visible contrast with Bolsonaro.
+  Declaring "genocide" and emergency was politically optimal; but the emergency frame set the
+  terms of success as "health crisis resolved," not "political rights restored." A 2026 election
+  creates a continuing incentive to declare early victory rather than sustaining the harder
+  permanent governance build.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: whether garimpeiro expulsion would hold (most had been expelled before and returned);
+  whether emergency health interventions would reduce mortality faster than mercury and malaria
+  rebound. Ambiguity: whether "emergency solved" means miners expelled, health indicators improved,
+  or Yanomami political sovereignty restored—these three definitions were never reconciled.
+  The government chose the first two. Hutukara defined success as the third.
+
+key_tensions:
+  - "Emergency speed vs. structural solution: rapid health intervention vs. the slow institutional build of co-governance"
+  - "Humanitarian frame vs. rights frame: children dying is a medical problem; territory violated is a political problem"
+  - "Political visibility vs. institutional depth: declaring genocide creates pressure vs. building permanent protection capacity"
+
+problem_definition: >
+  The Brazilian government declared a health emergency that treated a political rights violation as
+  a medical crisis, optimizing for visible mortality reduction while foreclosing the structural
+  solution of Yanomami co-governance over their own territory.
+
+# --- The metaphors ---
+
+one_plus_one: >
+  The government was answering "How do we reduce child deaths quickly?" Hutukara was asking
+  "How do we make it so this cannot happen again?" The shared understanding—that the emergency
+  response was the solution—was never constructed. Hutukara's 21 letters documented exactly
+  what would be needed (permanent health infrastructure, garimpeiro prosecution rather than
+  expulsion, co-governance authority), but those letters were absorbed into evidence of the crisis
+  rather than read as the design brief for the response.
+
+where_is_x: >
+  The X is the emergency declaration itself—January 20, 2023. The moment the crisis was framed as
+  a "public health emergency of national relevance" rather than as a "violation of indigenous
+  territorial sovereignty requiring permanent governance restructuring," it set the institutional
+  logic for everything that followed. An emergency has a beginning and an end; it is managed by
+  health workers and police, not by a permanent co-governance body. The lever was in the framing
+  of the declaration—a declaration that named both the health emergency AND established a permanent
+  Yanomami Territorial Authority (with budget, legal standing, and garimpeiro prosecution mandate)
+  would have used the political moment to build the structure, not just respond to the symptom.
+  The political capital was at its maximum on January 20; it was spent on the emergency frame.
+
+eighteenth_camel: >
+  The binary: emergency humanitarian response (send doctors, expel miners, declare success) vs.
+  the Bolsonaro approach (do nothing). The 18th camel: a "permanent territory co-management
+  authority"—a legally chartered body with Yanomami co-governance, pre-positioned health
+  infrastructure, and garimpeiro criminal prosecution authority—established as the exit condition
+  for emergency status, not as an aspiration for later. This converts the emergency from a temporary
+  state to a permanent institutional architecture. It is a third thing: neither emergency care
+  nor abandonment, but institutionalized sovereignty with emergency capacity pre-positioned.
+  The Rainforest Foundation US confirmed in 2024 that garimpeiros had begun returning to some
+  areas—the predicted failure mode of expulsion-without-prosecution, on schedule.
+
+solomon_check: >
+  No individual actor faces the classic Solomon Paradox. The institutional analog: the same
+  public health experts who designed the emergency response could have said, from outside the
+  political frame, that expelling miners without prosecution creates a revolving door. They likely
+  knew this. The institutional logic of emergency response—built to reduce mortality, not to
+  restructure governance—systematically produces this gap regardless of individual wisdom. The
+  failure is architectural.
+
+urgency_vs_actionability: >
+  The urgency was real and not misread: three infants dying per week demands immediate response.
+  But urgency operated to justify the emergency frame rather than to demand a faster structural
+  solution. The urgency-actionability trap: the requirement of "children are dying now" was used
+  to foreclose the co-governance design process, even though that process could have run in
+  parallel with the emergency medical response at no cost to the medical timeline.
+
+# --- Conditions, capacity, constraints ---
+
+enabling_conditions: >
+  Hutukara had been designing the structural solution for years; the 21 letters constituted
+  a ready design brief. Sonia Guajajara had political legitimacy to establish co-governance.
+  The emergency declaration created a legal window for new institutional forms. Brazil's
+  indigenous demarcation law provided an existing framework. The emergency funds (R$550M) were
+  sufficient to capitalize a permanent monitoring and co-governance body alongside the medical response.
+
+capacities: >
+  The Lula government had political will, emergency funds, federal police capacity, and the
+  international legitimacy of inheriting Bolsonaro's documented neglect. Hutukara had the
+  design knowledge and community standing. The health system had mobile response teams.
+
+constraints:
+  binding: "The emergency frame itself: once declared, it set the terms of success as 'health
+    crisis resolved,' which could be achieved without structural rights restoration."
+  other: "FUNAI's institutional capacity had been deliberately gutted; rebuilding takes years.
+    Brazilian constitutional restrictions on military occupation of indigenous territory.
+    Garimpeiro political economy: expulsion without prosecution is a revolving door."
+
+# --- Decision pathway ---
+
+decision_pathway: Redesign
+decision_pathway_detail: >
+  At the moment of the emergency declaration (January 20, 2023), the Lula government had
+  maximum political capital and legal authority. A redesigned response would have run the
+  immediate medical emergency in parallel with establishing a permanent Yanomami Territorial
+  Authority (YTA), co-governed by Hutukara with legal standing, a prosecution mandate for
+  returning garimpeiros, and pre-positioned health infrastructure. Emergency status would have
+  had two exit conditions: (a) health indicators stabilized, AND (b) YTA operational. Success
+  on (a) alone would not have counted as success. Who acts: Health Minister Trindade and
+  Minister Guajajara jointly, on January 20–22, 2023. For whom: 30,000 Yanomami and all
+  future indigenous communities facing extractivist incursion. Through what process: parallel
+  emergency health track + co-governance charter track, funded from the same R$550M.
+
+tools:
+  - "Hutukara co-design process → convert the 21-letter design brief into a YTA institutional charter → changes interaction: Yanomami become co-authors of the governance architecture, not recipients of care"
+  - "Garimpeiro criminal prosecution (not administrative expulsion) → changes incentive structure for return → changes coordination: shifts from enforcement cycle to credible deterrence with legal consequence"
+  - "Pre-positioned health infrastructure (permanent DSEI posts with biannual mercury/malaria monitoring) → changes learning: health data available continuously, not only in crisis"
+  - "International accountability mechanism (IACHR complaint filed by Hutukara) → creates external accountability backstop → changes coordination: Brazilian government answers to an international body, not just domestic political cycles"
+
+metrics:
+  - "Active garimpeiro sites: 327 at crisis peak → target: 0 confirmed operating 18 months post-declaration → method: INPE satellite imagery monitoring (publicly available)"
+  - "Functional health posts: 12 of 28 → target: 28 of 28 within 24 months → method: SESAI quarterly field audit, reported to YTA"
+  - "Children with hair mercury ≥ 2.0 µg/g: 79.4% → target: below 30% within 36 months → method: biannual health survey conducted by UFRGS and Fiocruz, co-overseen by YTA"
+
+ninety_day_commitment: >
+  Days 1–30: Medical emergency response deployed (mobile teams, food, malaria treatment);
+  simultaneously convene Hutukara co-design working group with FUNAI, Ministry of Indigenous
+  Peoples, and independent charter drafters. Days 31–60: Draft YTA legal charter; begin
+  criminal referrals for garimpeiro leaders to federal prosecutors (not administrative expulsion
+  only). Days 61–90: Charter signed; YTA operational with monitoring mandate and legal standing;
+  first prosecutions filed. Emergency status formally maintained until YTA certified as operational
+  AND health indicators stabilized.
+
+# --- Stress test and refinement ---
+
+stress_test:
+  political: >
+    Bolsonaro's party remained the largest opposition bloc; a 2026 election creates continuous
+    incentive for the Lula government to declare the emergency "resolved" (health indicators
+    improved) before the structural solution (YTA operational, garimpeiros prosecuted) is complete.
+  institutional: >
+    FUNAI's gutted capacity: building a co-governance body requires anthropologists, legal officers,
+    and community liaison staff that Bolsonaro's government systematically fired. Rebuilding that
+    expertise takes 2–3 years, not 90 days.
+  assumption: >
+    That Hutukara's leadership can sustain co-governance authority against internal community
+    divisions—the Yanomami territory includes multiple sub-groups with different relationships
+    to mining, missionaries, and external authorities.
+  resource: >
+    Federal prosecutors with expertise in both indigenous law and organized crime are scarce.
+    Without prosecution capacity, the deterrence logic of the YTA mandate fails; expulsion
+    without conviction recreates the revolving door.
+  twelve_month: >
+    By late 2023, garimpeiros had begun returning to some communities (Rainforest Foundation
+    US, 2024). The emergency frame was declared resolved before the structural solution was
+    operational—confirming the predicted failure mode within the stress-test window.
+
+revised_problem_definition: >
+  The Brazilian government faced a crisis in which the politically optimal response (emergency
+  declaration, visible humanitarian action) was structurally incompatible with the durable
+  solution (permanent Yanomami co-governance)—and the political window for building the durable
+  solution was the same 90-day window as the emergency response, making the choice between
+  emergency frame and rights frame not sequential but simultaneous. The problem was not "how
+  to respond to the emergency" but "how to use the emergency to build what prevents the next one,"
+  and this reframing had to happen in the first 72 hours of the emergency declaration, before
+  the institutional logic of humanitarianism closed around it.
+
+# --- Honesty ---
+
+flag: >
+  Emergency humanitarianism as the default institutional response to slow-moving political
+  oppression. The emergency frame is politically legible (children dying), internationally
+  supported (Amnesty International, Human Rights Watch, UN rapporteurs), and institutionally
+  tractable (health ministries know how to run emergencies). It is also structurally incapable
+  of solving the underlying political rights violation—and in solving the visible crisis, it
+  absorbs the political capital that would have been needed to build the structural solution.
+  Principled pragmatism that works politically may be the exact principled pragmatism that
+  forecloses structural rights. This is not a failure of individual will; it is what emergency
+  institutions do, systematically, regardless of the quality of the people running them.
+
+sources:
+  - "Hutukara Yanomami Association / Instituto Socioambiental. 'Yanomami under attack.' April 2022. [VERIFIED: primary source, cited in Congressional and UN records]"
+  - "Frontiers in Public Health / PMC. 'Brazil's Yanomami health disaster: addressing the public health emergency requires advancing criminal accountability.' 2023. DOI: 10.3389/fpubh.2023.1166167. [VERIFIED: peer-reviewed]"
+  - "NCBI/PubMed. 'Clinical, Laboratory and Neurodevelopmental Findings in Children from the Yanomami-Ninam Population Chronically Exposed to Methylmercury.' Toxics 12(3), 2024. [VERIFIED: peer-reviewed, October 2022 field study]"
+  - "SUMAÚMA. 'Exclusive: Bolsonaro government cut Yanomami health monitoring after record infant malnourishment.' 2023. [VERIFIED: investigative journalism with SESAI documents]"
+  - "Rainforest Foundation US. 'Yanomami Crisis Continues: Mismanagement and Security Failures Undermine Brazil's Efforts.' 2024. [VERIFIED: field monitoring report with satellite imagery]"
+  - "Mongabay. 'Yanomami health disaster prompts outrage as Lula vows to tackle crisis.' January 2023. [VERIFIED: contemporaneous reporting with Hutukara and Ministry sources]"
