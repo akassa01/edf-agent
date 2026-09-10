@@ -1,0 +1,300 @@
+case_id: tmi-eccs-operator-decision-1979
+title: "The Procedure in the Room: Three Mile Island and the Problem of Protocol Authority"
+case_type: documented
+mode: retrospective
+scale: individual
+region: "Americas (Middletown, Pennsylvania, USA)"
+recency: historical
+year: 1979
+rubric_version: 1
+
+# THREE PERSPECTIVES — ALL THREE REQUIRED
+
+scientist: >
+  What do we know? The Unit 2 reactor at Three Mile Island suffered a loss-of-coolant
+  accident on March 28, 1979. A pilot-operated relief valve (PORV) opened at 4:01 AM
+  to relieve a pressure transient, then stuck open due to a mechanical bellows failure.
+  A light on the control panel indicated the PORV had received a "close" command — it
+  did not indicate whether the valve had physically closed. Operators saw pressure dropping,
+  temperatures rising, and coolant level indicators giving contradictory readings. They
+  were not flying blind: they had instruments. But those instruments told the story of a
+  high-pressure transient, and the operators read them through that frame. The Emergency
+  Core Cooling System automatically activated within minutes; operators reduced its flow
+  at approximately 4:38–4:42 AM because pressure gauges suggested overinjection — exactly
+  what a high-pressure transient procedure would recommend. In reality the primary system
+  was losing water through the open PORV; reducing the ECCS was exactly the wrong action.
+  The core was partially uncovered for approximately two hours; roughly half the fuel
+  assemblies suffered some degree of damage. No significant radiation exposure to the public.
+  The science of what happened was reconstructed accurately after the fact. It could not
+  be read in real time through the instruments and procedures available.
+
+humanist: >
+  Who is affected, and what is contested? The million residents of the Harrisburg,
+  Lancaster, and York areas received contradictory guidance from NRC Commissioner Hendrie
+  ("I would get out of there") and Governor Thornburgh ("only pregnant women and children
+  within 5 miles need consider leaving"). Five days of escalating uncertainty, during which
+  official statements oscillated between "no danger" and "consider evacuating," produced
+  a population that trusted neither instruction. The operators themselves — trained
+  professionals who followed their training precisely and did the wrong thing — have lived
+  with that for decades. The reactor design team at Babcock & Wilcox had sent an internal
+  memo in 1977/78 specifically warning about the class of control room confusion that led
+  to the ECCS termination; the memo was not acted on. The global nuclear industry's
+  expansion essentially stopped after TMI. The felt experience of five days of not knowing
+  whether to run or stay — with official sources contradicting each other in public —
+  damaged public trust in technical risk communication in ways that outlasted the accident
+  by a generation.
+
+engineer: >
+  What is buildable, and who can act? The Emergency Operating Procedures used at TMI were
+  event-based: diagnose the type of accident, follow the corresponding procedure. After TMI,
+  the NRC mandated a shift to symptom-based procedures: respond to what the instruments
+  actually show — loss of subcooling margin, rising core temperature — regardless of which
+  accident category you believe you are in. This change was technically straightforward. It
+  was not implemented before TMI because B&W and the NRC's existing licensing regime had
+  accepted event-based procedures as technically correct; revising them required admitting
+  a deficiency with liability implications for every currently-operating B&W reactor. The
+  engineering solution existed in conceptual form before the accident. The institutional
+  architecture for implementing it — mandatory incident learning to procedure change — did
+  not. The doing mode had created a procedure that precluded the thinking that would have
+  superseded it.
+
+archetype_dominant: engineer
+crowded_out_mode: "thinking (reasoning from physical first principles about what the observed instrument readings must mean about the actual state of the reactor)"
+
+# DIAGNOSIS OF THE PROBLEM SPACE
+
+scientific_facts: >
+  The stuck PORV expelled coolant at approximately 220 gallons per minute. ECCS activated
+  automatically within minutes of the reactor trip. The PORV indicator on the control
+  panel indicated whether a close command had been sent, not whether the valve had
+  physically closed — the design limitation was known but not flagged as operationally
+  significant. There was no direct indication of reactor vessel water level on the TMI-2
+  control panel; operators inferred it from pressurizer level, which gave misleading
+  readings because steam voids formed as the uncovered fuel began to heat, displacing
+  water into the pressurizer and making it appear overfull. Retrospective timeline:
+  approximately 4:38–4:42 AM, operators reduce ECCS flow; the core begins to uncover
+  at approximately 5:20 AM; peak fuel temperatures reached approximately 4,300°F.
+  The Kemeny Commission concluded that approximately 50% of the fuel assemblies were
+  damaged; there was no loss of reactor containment integrity.
+
+social_facts: >
+  The nuclear industry's safety culture was built around the concept of "defense in depth":
+  multiple independent safety systems making accidents practically impossible. TMI revealed
+  that multiple safety systems could interact with human operators in ways that produced an
+  accident no system had been designed to address. A Babcock & Wilcox internal memo from
+  1977/78 (referenced in the Kemeny Report) specifically warned that operators in previous
+  incidents had reduced ECCS flow prematurely under similar pressure-transient conditions.
+  The memo was distributed to some B&W personnel and at least one utility; it did not
+  result in an EOP amendment. The nuclear industry had a strong institutional interest in
+  maintaining that its procedures were correct; the memo's finding was known and not acted on.
+
+political_realities: >
+  The Carter administration needed to manage both the technical crisis and the public
+  communication crisis simultaneously. President Carter visited the plant on April 1 to
+  signal confidence. Pennsylvania Governor Thornburgh was receiving different guidance from
+  the NRC at different hours on March 30. The NRC's public communication during the accident
+  was chaotic and contradictory. The nuclear industry's political future depended on whether
+  the accident was categorised as a manageable incident (procedural improvements needed) or
+  a near-catastrophe (fundamental reform required); the Kemeny Commission's "serious warning"
+  framing was a negotiated characterisation, not a purely technical finding.
+
+uncertainty_and_ambiguity:
+  uncertainty: >
+    During the accident, operators genuinely could not determine from available instruments
+    whether the PORV was physically open or closed. The "hydrogen bubble" reported by some
+    media as potentially explosive was not a real physical risk in the form described — it
+    was an artifact of imprecise communication about reactor chemistry — but the NRC could
+    not say this with certainty in real time.
+  ambiguity: >
+    What a "near-miss" means institutionally was deeply contested between the nuclear industry,
+    the NRC, environmental organisations, and the public. The same physical event was
+    simultaneously "a serious malfunction that remained within design parameters" (industry)
+    and "the closest the US ever came to a core meltdown" (advocacy). Neither is false;
+    they answer different questions, and the choice between them is a political and values
+    judgment, not a purely technical one.
+
+key_tensions:
+  - "Following the procedure vs. questioning the procedure: operators trained to follow EOPs had no authorised pathway for 'question whether this EOP applies to this situation'"
+  - "Speed vs. accuracy: EOPs were designed for fast reliable action; the needed response required slow first-principles reasoning — the two are incompatible under crisis conditions"
+  - "Institutional confidence vs. precautionary culture: the nuclear industry's identity required confidence in its safety systems; systematic doubt about procedures was institutionally incompatible before TMI forced it"
+
+problem_definition: >
+  The Unit 2 operators must diagnose and respond to a loss-of-coolant accident in real time
+  using instruments and procedures designed for a different type of transient, without an
+  authorised framework for questioning whether their event-category diagnosis is correct,
+  and without direct instrumentation for the physical variable — primary coolant inventory —
+  that would have allowed them to recognise the error.
+
+# THE METAPHORS
+
+one_plus_one: >
+  The operators were answering: "What does the high-pressure EOP say to do about these
+  readings?" The reactor was answering: "What is the current state of my coolant inventory?"
+  These were different questions. The procedure manual addressed only the first. 1+1 produced
+  two separate ones: a procedural response to an assumed high-pressure transient, and an
+  actual loss-of-coolant accident, proceeding simultaneously and divergently.
+
+where_is_x: >
+  The 4:38–4:42 AM window in the Unit 2 control room, when the senior operator authorised
+  reducing ECCS flow. At this moment the operators had the available information — pressure
+  dropping despite PORV indicator showing "closed," rising temperatures, contradictory
+  pressurizer readings — to recognise that the symptom profile was inconsistent with a
+  high-pressure transient. A symptom-based layer in the EOP — "before any ECCS throttling,
+  verify that core subcooling margin is positive" — would have stopped the action. This was
+  technically known and institutionally unimplemented. The X is 4:38 AM on March 28, 1979,
+  in a control room where the right procedure was not available.
+
+eighteenth_camel: >
+  The binary was: follow the high-pressure EOP (what the operators did) or deviate from
+  the EOP without authorisation (unthinkable in 1979 training culture — deviation would
+  have been grounds for discipline). The 18th camel: a symptom-based diagnostic layer
+  embedded in the EOP itself — a mandatory check before any major ECCS action requiring
+  operators to verify that current symptoms are consistent with the assumed event category,
+  specifically confirming that core subcooling margin is positive. This is not a compromise
+  between "follow the EOP" and "don't follow the EOP"; it is a structural change in how
+  EOPs work, changing the question from "what does this accident require?" to "what does
+  the reactor actually need right now?" The NRC mandated exactly this change — symptom-
+  based Emergency Operating Procedures — within two years of the accident, confirming
+  both that the solution was available and that it required the accident to be implemented.
+
+solomon_check: >
+  Clean and striking. NRC engineers and reactor designers examining the TMI-2 symptoms from
+  outside the control room identified the PORV as the probable source of coolant loss within
+  hours. The operators, inside the room with the same data, took 16 hours. The difference
+  was not competence — the operators were following their training precisely. It was
+  proximity. They could not apply to their own situation the reasoning they would have
+  applied to a case study in the classroom. This is the Solomon Paradox in its most
+  technically precise form: the wisdom required was available to these exact individuals —
+  just not directed inward, at the problem they were currently inside.
+
+urgency_vs_actionability: >
+  The urgency of the accident — core damage beginning within minutes of coolant loss —
+  outpaced the capacity for first-principles reasoning. The faster the urgency, the deeper
+  into the procedure the operators went; the EOP was designed for urgency-driven response,
+  which is precisely what made reflective questioning of the EOP inaccessible under the
+  conditions it would have been most valuable. The procedure solved the urgency-actionability
+  trap by eliminating the gap — but at the cost of eliminating the reflective step that
+  would have saved the reactor.
+
+# CONDITIONS, CAPACITY, CONSTRAINTS
+
+enabling_conditions: >
+  The 1977/78 B&W internal memo demonstrates that the class of error was known before
+  the accident. The post-TMI symptom-based EOP reform demonstrates that the conceptual
+  solution existed. The NRC's existing authority over EOP requirements meant no new
+  legislation was required — only a mandatory directive. The simulator training programs
+  in place could have incorporated symptom-based scenarios before the accident.
+
+capacities: >
+  B&W as reactor designer had full authority to issue EOP amendments. The NRC had authority
+  to require EOP changes as a licensing condition. The utilities operating B&W reactors
+  could have been notified of the 1977/78 memo finding and required to incorporate a
+  diagnostic step. The institutional capacity to act was present; the institutional will to
+  acknowledge a procedural deficiency was not.
+
+constraints: >
+  The binding constraint was institutional: the EOPs represented the accumulated and
+  licensed expertise of B&W, the NRC, and the utility training programs. Changing them
+  required acknowledging a deficiency, which carried liability implications for every
+  currently-operating B&W reactor. A secondary constraint was simulator fidelity — training
+  operators to use symptom-based reasoning requires realistic simulators that could present
+  the mixed symptom profiles characteristic of ambiguous accidents, and the 1979 simulator
+  program was primarily designed around expected event categories.
+
+# DECISION PATHWAY
+
+decision_pathway: >
+  Redesign. The operators at the decisive moment could not redesign their own procedure in
+  real time. The counterfactual pathway is institutional: B&W and the NRC should have
+  incorporated the symptom-based diagnostic layer into the EOPs after the 1977/78 internal
+  memo identified the vulnerability. The redesign required acknowledging that the existing
+  EOPs had a failure mode — which required the institutional courage the accident eventually
+  forced.
+
+tools:
+  - "Symptom-based EOP diagnostic layer → before any ECCS throttling action, operators verify that core subcooling margin is positive and that current symptoms are consistent with the assumed event category → changes the decision from 'what does the EOP say?' to 'what does the reactor physically need?' — restructuring the operator's interaction with the procedure from execution to verification"
+  - "Mandatory B&W operational anomaly review protocol → any operational report identifying anomalous ECCS or PORV behaviour triggers an automatic EOP review by B&W engineering → after the 1977/78 memo, this would have required a PORV-indicator diagnostic step to be added before the accident → changes coordination between field experience and procedure development from optional to mandatory"
+  - "Independent diagnostic card at each operator station → a laminated one-page card listing five physical symptoms that indicate loss-of-coolant regardless of the event diagnosis (falling pressure, rising temperature, contradictory pressurizer level, high PORV discharge temperature) → provides a second-order check outside the EOP framework → changes the cognitive architecture by giving operators a second, physically-grounded decision layer"
+
+metrics:
+  - "Time from abnormal symptom onset to PORV-as-source diagnosis in subsequent B&W reactor incidents → measure: comparison of operational log timestamps to diagnostic milestones → method: post-incident review by NRC special inquiry → baseline 16 hours at TMI; post-reform target under 30 minutes"
+  - "Percentage of B&W operational anomaly reports resulting in EOP review within 30 days → measure: formal EOP review initiations per operational anomaly report → method: NRC mandatory reporting system → tests whether the communication path from operators to designers was institutionalised"
+  - "Simulator training accuracy for mixed-symptom scenarios → measure: percentage of operator crews correctly identifying loss-of-coolant in PORV-class scenarios in simulator evaluation → method: NRC regional simulator evaluation programme → tests whether redesigned procedures change actual operator behaviour under realistic conditions"
+
+ninety_day_commitment: >
+  Week 1: B&W issues emergency operational bulletin to all TMI-class reactors requiring
+  operators to verify PORV physical status by monitoring PORV discharge line temperature
+  during any pressure transient — a diagnostic that did not require new instrumentation
+  and would have identified the stuck PORV within 30 minutes at TMI. Week 4: joint
+  NRC-B&W-utility working group convened to develop symptom-based EOP supplement, drawing
+  on the 1977/78 memo finding and any similar operational reports across all reactors.
+  Day 90: draft symptom-based EOP supplement complete and in NRC technical review; simulator
+  testing of the new procedures begun at the B&W training facility.
+
+# STRESS TEST AND REFINEMENT
+
+stress_test:
+  political_derailment: >
+    The nuclear industry's response to the 1977/78 memo was not to publicise it — acknowledging
+    that existing EOPs had a failure mode would have constituted an admission with legal
+    liability implications for all currently-operating B&W reactors and their owners. Any
+    pre-accident EOP revision based on the memo would have created the same liability exposure
+    and been resisted by the same interests.
+  institutional_block: >
+    B&W's legal team and the utilities' insurance carriers would have opposed any EOP amendment
+    that framed the change as correcting a prior deficiency. The NRC licensing process for
+    EOPs did not have a fast-track amendment procedure; standard EOP changes could take years
+    through the formal licensing review.
+  wrong_assumption: >
+    The assumption that symptom-based EOPs are uniformly superior is disputed by some nuclear
+    safety researchers who argue that event-based procedures are faster and more reliable for
+    well-characterised accidents, and that symptom-based reasoning introduces its own
+    decision failure modes in scenarios that clearly match a known event category. The reform
+    is correct for the TMI class of accident; it is not trivially correct for all accidents.
+  missing_resource: >
+    Developing a comprehensive symptom-based EOP requires mapping every physical symptom
+    profile to every possible reactor state — a technically demanding, years-long engineering
+    project. The interim fix (PORV discharge line temperature verification) could be
+    implemented immediately; the full symptom-based EOP took years to develop correctly
+    even after TMI.
+  twelve_month_failure: >
+    If operators are trained on symptom-based procedures through classroom instruction alone —
+    without realistic simulator scenarios presenting the mixed symptom profiles that
+    characterise ambiguous accidents — they will default to familiar event-based reasoning
+    under real-time stress. The new procedure will be in their pocket while the old mental
+    model drives the decision. Simulator fidelity is the constraint on whether the redesign
+    actually changes operator behaviour.
+
+revised_problem_definition: >
+  The problem is not that the operators made the wrong decision — they made the best decision
+  their training authorised within the framework they had, and that framework had been
+  validated by the NRC and B&W as correct. The problem is that the institutional architecture
+  governing how operational experience feeds back into procedure development had no mechanism
+  for turning the 1977/78 memo's finding into a mandatory EOP revision before an accident
+  made it necessary. The binding constraint is not the operators' competence or courage
+  but the absence of a mandatory incident-learning-to-procedure-change pathway with defined
+  trigger thresholds and implementation timelines. The X is not 4:38 AM in the control room;
+  it is the 18 months between the memo and the accident, during which the institutional
+  architecture failed to act on what it knew.
+
+# HONESTY
+
+flag: >
+  Expert training in high-stakes technical systems creates a form of procedural authority
+  that, at its extreme, becomes cognitively inaccessible to the person it governs. The
+  operator at the decisive moment cannot simply decide to set aside the procedure and reason
+  from first principles — the procedure IS the reasoning, the way expertise has been
+  encoded and internalised. Principled pragmatism can prescribe framework-questioning and
+  self-distancing; it cannot make that prescription available to the person whose expertise
+  consists precisely in having internalised the framework so deeply that questioning it no
+  longer presents itself as an option. The redesign that helps is institutional — mandatory
+  symptom-based layers, incident-to-procedure pathways — not individual. But even the best
+  institutional redesign cannot fully anticipate the moment when a well-trained person,
+  doing exactly what they were trained to do, is doing exactly the wrong thing.
+
+sources:
+  - "President's Commission on the Accident at Three Mile Island (1979). The Report of the President's Commission on the Accident at Three Mile Island (Kemeny Report). Washington, D.C.: U.S. Government Printing Office. VERIFIED (public domain document)."
+  - "Nuclear Regulatory Commission (1980). Three Mile Island: A Report to the Commissioners and to the Public (Rogovin Report). Washington, D.C.: NRC. VERIFIED (public NRC document)."
+  - "Walker, J. Samuel (2004). Three Mile Island: A Nuclear Crisis in Historical Perspective. Berkeley: University of California Press. VERIFIED (published monograph by NRC historian)."
+  - "Perrow, Charles (1984). Normal Accidents: Living with High-Risk Technologies. New York: Basic Books. VERIFIED (widely cited systems safety monograph; TMI is a key case study)."
+  - "Mahaffey, James (2014). Atomic Accidents: A History of Nuclear Meltdowns and Disasters. New York: Pegasus Books. VERIFIED (published narrative history)."
