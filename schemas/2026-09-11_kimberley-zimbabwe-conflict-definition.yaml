@@ -1,0 +1,288 @@
+case_id: kimberley-zimbabwe-conflict-definition
+title: "The Blood Diamond That Wasn't"
+case_type: documented
+mode: retrospective
+scale: international
+region: "Africa / Global (Marange diamond fields, Zimbabwe; Kinshasa, DRC — KP Plenary; global diamond trade)"
+recency: recent
+year: 2008–2012
+rubric_version: 1
+
+# --- Three perspectives ---
+scientist: >
+  The empirical record was not in dispute. Human Rights Watch documented
+  more than 200 civilian deaths in the October–November 2008 military
+  crackdown on artisanal miners in Marange. Global Witness produced
+  satellite imagery, forensic testimony, and eyewitness accounts
+  consistent with mass graves. The KP's own joint monitoring missions
+  confirmed violence but characterized it as "irregular" and "transitional."
+  The question was never whether the evidence of harm was sufficient; it
+  was whether that harm fit a legal category written six years earlier
+  to address a different problem. Science produced a clear factual record.
+  The certification mechanism had a definition that the facts could not enter.
+
+humanist: >
+  For survivors of the Marange crackdown, a diamond excavated from the
+  site of a massacre was a blood diamond by any meaningful understanding
+  of the phrase. The Kimberley Process had been built on exactly that
+  moral intuition — that diamonds funding mass killing should not move
+  freely in world trade. The civil society organizations (Global Witness,
+  Partnership Africa Canada) that co-founded the KP had provided its
+  moral legitimacy precisely because they carried that claim on behalf
+  of the people who bore the harm. The contested question was epistemic:
+  who has standing to define what "conflict diamond" means — the victim
+  communities whose testimony constituted the claim, or the drafters of
+  a 2002 document who were writing about rebel financing in Sierra Leone?
+  When the Global Witness walkout came in December 2011, it was not merely
+  a protest. It was the withdrawal of the moral legitimacy that had made
+  the KP more than a trade certification scheme.
+
+engineer: >
+  The KP is an engineering solution to a supply-chain problem: certificate
+  of origin from source country, chain of custody to point of sale, peer
+  review for compliance. Its architecture was built for a specific
+  adversary — rebel movements — and its governance structure required
+  unanimous consensus among 74 members. The binding engineering constraint
+  was not verification capacity but governance design: any change to the
+  definition of "conflict diamond" required every member to agree, including
+  those with commercial interests in keeping the definition narrow. The
+  feasible modification path was not a wholesale redefinition but a
+  parallel-track mechanism — a second tier, operating at a two-thirds
+  threshold, for "adverse human rights impact" suspensions that left the
+  rebel-financing definition intact.
+
+archetype_dominant: humanist
+crowded_out_mode: >
+  feeling — the lived testimony of massacre survivors and the experiential
+  definition of harm were structurally excluded from the certification
+  mechanism's operative concept of "conflict," crowded out by the doing
+  mode: the compliance architecture of the KP as designed.
+
+# --- Diagnosis ---
+scientific_facts: >
+  The Zimbabwe military carried out a violent crackdown in the Marange
+  diamond fields between October and November 2008, killing more than 200
+  people (HRW estimate; other accounts run higher). Forced labor and torture
+  were documented independently by multiple NGOs. Satellite imagery showed
+  earth disturbance consistent with mass graves. The KP's 2010 Joint Work
+  Plan with Zimbabwe confirmed violence but characterized it as manageable
+  under a rehabilitation framework.
+
+social_facts: >
+  The KP was founded on the moral weight of the Sierra Leone and Angola
+  diamond wars — diamonds funding the mutilation of civilians. Civil society
+  had been co-architects of the process precisely because they embedded
+  the "feeling" dimension in a trade framework. The narrow rebel-financing
+  definition was a product of 2002 negotiations in which state violence was
+  not considered a threat, because the immediate problem was rebel movements.
+  By 2009, Zimbabwe's situation was categorically different: a recognized
+  government using its own military against its own civilians. The definition
+  had no space for this. The KP's African and diamond-producing bloc members
+  had strong incentives — commercial and political — to resist any precedent
+  that state violence could disqualify a member.
+
+political_realities: >
+  Zimbabwe in 2009–2012 was under Western sanctions but governed through
+  a ZANU-PF/MDC power-sharing agreement that gave it diplomatic cover as
+  a "transitional" state. China, a major diamond importer and trade partner,
+  had commercial interests in the Marange fields and strong incentives
+  to keep the definition narrow. The African bloc within the KP was unified
+  against any precedent that would expose them to human rights disqualification.
+  The KP Chair could propose but not require definitional amendments; consensus
+  gave Zimbabwe an effective veto over its own disqualification.
+
+uncertainty_and_ambiguity: >
+  Uncertainty: the exact death toll and full extent of forced labor (estimates
+  range from 200 to well above 1,000 across NGO reports). Ambiguity: what
+  does "conflict" mean? For the 2002 drafters, it meant rebel financing of war
+  against a recognized government. For civil society, it meant any diamond whose
+  extraction caused systematic violence to communities. These are genuinely
+  different definitions, not disagreements about facts. The ambiguity was never
+  named as such at any KP Plenary — it was treated as a compliance question
+  rather than a definitional one.
+
+key_tensions:
+  - "Founding moral purpose vs. institutional self-preservation"
+  - "Human rights standing vs. sovereign immunity"
+  - "Unanimous governance vs. majority-driven reform"
+
+problem_definition: >
+  The Kimberley Process Certification Scheme must decide whether to certify
+  as "conflict-free" diamonds excavated from fields where the government's
+  own military killed hundreds of people — a decision that tests whether its
+  founding moral purpose has been preserved or hollowed out by the consensus
+  governance structure it relies on.
+
+# --- Metaphors ---
+one_plus_one: >
+  The KP said: conflict diamond + Zimbabwe's situation = not a conflict diamond
+  (the legal test fails). Civil society said: systematic violence + diamond
+  excavation = blood diamond (the moral test holds). They were answering
+  different questions and never agreed which question was the right one.
+
+where_is_x: >
+  The 2002 Kimberley Process founding document — specifically the clause
+  defining "conflict diamonds" as limited to rebel financing of war against
+  recognized governments. That clause was the fulcrum. Amending it, or
+  establishing a parallel adverse-human-rights-impact tier with a two-thirds
+  voting threshold, was the precise intervention. X was in a text, not in
+  the Marange fields.
+
+eighteenth_camel: >
+  Neither "certify Zimbabwe's diamonds as fully compliant" (option A, which
+  the KP ultimately chose) nor "expel Zimbabwe from the KP" (option B, which
+  Zimbabwe would have ignored). The 18th camel: a formal Human Rights Concern
+  Designation — a parallel suspension mechanism, not the same category as
+  "conflict diamond" — triggerable by a two-thirds majority when independent
+  monitors document systematic state violence in extraction, with a defined
+  rehabilitation pathway and sunset clause. This preserves the rebel-financing
+  definition for its intended purpose while creating a second track for state
+  violence. Neither full ban nor clean certification.
+
+solomon_check: >
+  The KP members blocking definition expansion were largely diamond-producing
+  nations. Would those same governments accept the narrow definition if the
+  violence were happening in a rival nation's territory rather than a
+  politically aligned one? The double standard was structural, not accidental.
+
+urgency_vs_actionability: >
+  The Global Witness and HRW reports came out in 2009. The KP certified
+  Zimbabwe's Marange diamonds in 2011. The two-year gap was not spent
+  gathering evidence — the evidence was there from the beginning. It was
+  spent in political maneuvering that transformed documented moral urgency
+  into procedural stalemate.
+
+# --- Conditions, capacity, constraints ---
+enabling_conditions: >
+  Growing civil society documentation; a Joint Work Plan precedent that
+  established Zimbabwe was engaging with KP monitoring; Western governments
+  with existing sanctions on Zimbabwe who could have applied parallel
+  pressure; Global Witness and Partnership Africa Canada still inside the
+  KP with formal observer standing.
+
+capacities: >
+  NGOs could document and publicize; Western-bloc KP chairs (EU, US, Canada)
+  could jointly propose governance reforms; corporate buyers (De Beers,
+  Rio Tinto) had CSR commitments that created some leverage on the diamond
+  trade; KP Chair could call emergency plenary sessions.
+
+constraints: >
+  The binding constraint was the unanimity requirement. No definition
+  amendment, no matter how well-evidenced, could pass without every
+  member's agreement — including those who produced the diamonds in question
+  and those who bought them. The governance architecture made the KP
+  structurally incapable of self-correction at the pace human rights crises
+  require.
+
+# --- Decision pathway ---
+decision_pathway: Redesign
+decision_pathway_rationale: >
+  The pathway was not to implement existing rules (they failed Zimbabwe's
+  victims), not simply to expand the KP's remit (tried and blocked), but
+  to redesign the governance structure: specifically, create a two-track
+  certification mechanism where the rebel-financing definition remained
+  unanimous-vote but a new adverse-human-rights-impact tier operated at
+  two-thirds majority.
+
+tools:
+  - >
+    Joint fact-finding panel with civil society co-equal standing →
+    purpose: establish a shared empirical baseline that all members are
+    obligated to accept rather than contest → changes learning: creates
+    a category of facts that cannot be deflected as "NGO advocacy"
+  - >
+    Two-tier designation system (conflict diamond / adverse human rights impact) →
+    purpose: decouple the rebel-financing question from the state-violence
+    question → changes coordination: allows majority decisions on human
+    rights designations without reopening the original definition
+  - >
+    Independent civil society evidence standard with formal evidentiary
+    weight → purpose: treat NGO documentation on equal epistemic standing
+    with government reports → changes interaction: gives civil society
+    formal standing rather than advisory status that the Plenary can ignore
+
+metrics:
+  - >
+    Volume of diamonds with adverse human rights designation / total certified
+    volume → measure: annual KP certification database → method: secretariat
+    reporting with independent audit
+  - >
+    Time from civil society complaint to formal KP review — measure: calendar
+    days → method: KP process audit
+  - >
+    Civil society engagement rate — measure: count of NGOs with formal KP
+    observer standing still participating → method: annual KP member list
+    (Global Witness's 2011 exit is the baseline against which improvement
+    would be measured)
+
+ninety_day_commitment: >
+  Counterfactual (the move available at the decisive moment, i.e., before the
+  2010 Plenary): (1) Weeks 1–4: the three Western-bloc KP chairs (EU, US,
+  Canada) jointly propose a Human Rights Concern Designation amendment with
+  explicit two-thirds voting threshold for suspension, not for definition change.
+  (2) Weeks 5–12: coordinate with the African bloc to offer a face-saving
+  "transitional zone" parallel track with rehabilitation benchmarks and a
+  two-year sunset; frame it as protecting all members from being held to an
+  impossible standard, not as singling out Zimbabwe. (3) Weeks 13–90: negotiate
+  a phased rehabilitation pathway for Zimbabwe with documented, measurable
+  milestones, creating the possibility of re-certification rather than permanent
+  exclusion.
+
+# --- Stress test ---
+stress_test:
+  political_derail: >
+    Zimbabwe's power-sharing government (ZANU-PF/MDC, 2009–2013) created
+    the appearance of democratic progress, allowing KP members to claim
+    the situation was "improving" and buy time. Any governance reform
+    proposed during this period was met with "give the process time to work."
+  institutional_block: >
+    The consensus requirement itself. Even a governance reform — creating
+    the two-tier system — requires consensus to adopt, which means the
+    states most threatened by a human rights tier have a veto over creating
+    the tier.
+  wrong_assumption: >
+    The assumption that Western-bloc KP members (EU, US) genuinely wanted
+    a human rights tier may be wrong. Diamond-industry interests and the
+    desire to avoid setting precedents for trade tools also constrained
+    Western members. The walkout option Civil Society chose may have been
+    the only real lever available.
+  missing_resource: >
+    An independent KP enforcement mechanism with no national-member veto.
+    The KP has no standing enforcement capacity; compliance depends entirely
+    on member cooperation. A human rights tier without enforcement is a
+    designation, not a consequence.
+  twelve_month_failure: >
+    If African-bloc countries concluded that any human rights tier would
+    set a precedent for their own extractive industries, they would block
+    even the governance reform at the proposal stage. A proposal that
+    depends on persuading the people it threatens most is fragile.
+
+revised_problem_definition: >
+  The problem is not Zimbabwe — it is the unanimity requirement that made the
+  KP structurally incapable of self-correction. The real decision problem is
+  how a consensus-governed certification mechanism with no enforcement power
+  can reform its own definition of harm when the reform itself requires the
+  consent of states that benefit from the current definition. The founding
+  organizations ultimately concluded it cannot — which is why they left.
+
+# --- Honesty ---
+flag: >
+  Consensus governance protects smaller members from great-power domination
+  — the same structural feature that made the KP safe for small diamond
+  producers made it incapable of excluding a government that used army
+  violence to control its fields. The founding organizations left because
+  the tool they built to fight blood diamonds had been captured by the logic
+  of trade compliance, and no amendment procedure existed that could work
+  faster than the political economy of acquiescence. The lesson is not that
+  the KP should have been designed differently in 2002; it is that consensus
+  bodies without sunset clauses or amendment-by-majority options ossify
+  around the interests of their most powerful members, regardless of their
+  founding purpose.
+
+sources:
+  - "Global Witness, 'Return of the Blood Diamond: The Deadly Race to Control Zimbabwe's New-Found Diamond Wealth' (December 2009) — VERIFIED"
+  - "Human Rights Watch, 'Diamonds in the Rough: Human Rights Abuses in the Marange Diamond Fields of Zimbabwe' (June 2009) — VERIFIED"
+  - "Global Witness press release: 'Global Witness Leaves Kimberley Process, Calls for Diamond Trade to be Held Responsible' (December 5, 2011) — VERIFIED"
+  - "Kimberley Process Certification Scheme (KPCS) core document (Interlaken Declaration, November 2002) — definition of 'conflict diamonds' — VERIFIED"
+  - "Partnership Africa Canada, 'Reap What You Sow: Greed and Corruption in Zimbabwe's Marange Diamond Fields' (2012) — VERIFIED"
+  - "Ian Smillie, 'Diamonds' (Polity Press, 2014) — authored by a founding KP civil society architect — VERIFIED"
